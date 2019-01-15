@@ -112,6 +112,61 @@ LAF ds_detectable_weapon_enchantment END
 // 
 // 
 
+// stolen from SCS, not needed for DS proper
+<<<<<<<<.../stratagems-inline/blank
+>>>>>>>>
+DEFINE_ACTION_FUNCTION sort_ids STR_VAR ids="" BEGIN
+   ACTION_CLEAR_ARRAY ids_entries
+   OUTER_SET max=0
+   COPY_EXISTING "%ids%.ids" override
+       READ_2DA_ENTRIES_NOW ids_array 2
+       // top row is either 'IDS V1.0', or a single row entry, or blank
+       PATCH_IF INDEX_BUFFER ("IDS *V1.0")>=0 BEGIN
+          SPRINT top_row "IDS V1.0"
+       END ELSE BEGIN
+          COUNT_2DA_ROWS 1 rowcount_1
+          PATCH_IF rowcount_1=ids_array BEGIN
+             SPRINT top_row " "
+          END ELSE BEGIN
+             READ_2DA_ENTRY 0 0 1 top_row
+          END
+       END
+       FOR (i=0;i<ids_array;i+=1) BEGIN
+          READ_2DA_ENTRY_FORMER ids_array i 0 num
+          PATCH_IF IS_AN_INT num BEGIN
+             SET max= num>max ? num : max
+             READ_2DA_ENTRY_FORMER ids_array i 1 val
+             PATCH_IF "%val%" STRING_COMPARE_CASE DMWW_UNUSED_FOR_DELETION BEGIN
+               PATCH_IF VARIABLE_IS_SET $ids_entries("%num%") BEGIN
+                SPRINT temp $ids_entries("%num%")
+                SPRINT $ids_entries("%num%") "%temp% %val%"
+               END ELSE BEGIN
+                SPRINT $ids_entries("%num%") "%val%"
+               END
+             END
+          END
+       END
+   BUT_ONLY
+   COPY ".../stratagems-inline/blank" "override/%ids%.ids"
+       INSERT_2DA_ROW 0 2 "DW_SORT_IDS_PLACEHOLDER"
+       SET rowcount=0
+       FOR (num=0;num<=max;num+=1) BEGIN
+          PATCH_IF VARIABLE_IS_SET $ids_entries("%num%") BEGIN
+             SPRINT list $ids_entries("%num%")
+             WHILE "%list%" STRING_COMPARE "" BEGIN
+                LPF return_first_entry STR_VAR list RET entry list END
+                SPRINT check "%num%--%entry%"
+                PATCH_IF !VARIABLE_IS_SET "%check%" BEGIN
+                  INSERT_2DA_ROW rowcount 2 "%num% %entry%"
+                  SET rowcount+=1
+                  SPRINT "%check%" ""
+                END
+             END
+          END
+       END
+       REPLACE_TEXTUALLY "DW_SORT_IDS_PLACEHOLDER" "%top_row%"
+END
+
 //////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////
@@ -457,83 +512,83 @@ DEFINE_ACTION_FUNCTION detectable_spells
 ACTION_IF append_stats = 1 BEGIN
 
 ACTION_DEFINE_ASSOCIATIVE_ARRAY stats_array BEGIN
-109=>WEAPON_ENCHANTMENT
-110=>CLERIC_ARMOR_OF_FAITH
-116=>WIZARD_SPELL_DEFLECTION
-117=>PROTECTION_FROM_EVIL
-118=>TRUE_SIGHT
-119=>CLERIC_CHAOTIC_COMMANDS
-120=>CLERIC_INSECT_PLAGUE
-121=>CLERIC_BLADE_BARRIER
-122=>CLERIC_PHYSICAL_MIRROR
-123=>CLERIC_SHIELD_OF_THE_ARCHONS
-124=>CLERIC_REGENERATION
-125=>WIZARD_FIRE_SHIELD
-126=>WIZARD_PROTECTION_FROM_MAGIC_ENERGY
-127=>WIZARD_MISLEAD
-128=>WIZARD_PROTECTION_FROM_MAGIC_WEAPONS
-129=>WIZARD_SPELL_TURNING
-130=>WIZARD_PROTECTION_FROM_THE_ELEMENTS
-131=>CLERIC_FREE_ACTION
-132=>WIZARD_KHELBENS_WARDING_WHIP
-133=>CLERIC_DEFENSIVE_HARMONY
-134=>EXTRAPROFICIENCY20
-156=>SCRIPTINGSTATE1
-157=>SCRIPTINGSTATE2
-158=>SCRIPTINGSTATE3
-159=>SCRIPTINGSTATE4
-160=>SCRIPTINGSTATE5
-161=>SCRIPTINGSTATE6
-162=>WIZARD_SPELL_IMMUNITY
-163=>WIZARD_PROTECTION_FROM_ENERGY
-164=>WIZARD_SPELL_TRAP
-165=>WIZARD_IMPROVED_ALACRITY
-166=>MELEE_THACO_BONUS
-167=>MELEE_DAMAGE_BONUS
-168=>MISSILE_DAMAGE_BONUS
-169=>DISABLE_CIRCLE
-170=>FIST_THACO_BONUS
-171=>FIST_DAMAGE_BONUS
-172=>CLASS_STRING_OVERRIDE_MIXED
-173=>CLASS_STRING_OVERRIDE_LOWER
-174=>PREVENT_SPELL_PROTECTION_EFFECTS
-175=>IMMUNITY_TO_BACKSTAB
-176=>LOCKPICKINGMTPBONUS
-177=>MOVESILENTLYMTPBONUS
-178=>TRAPSMTPBONUS
-179=>PICKPOCKETMTPBONUS
-180=>HIDEINSHADOWSMTPBONUS
-181=>DETECTILLUSIONSMTPBONUS
-182=>SETTRAPSMTPBONUS
-183=>PREVENT_AI_SLOWDOWN
-184=>EXISTANCE_DELAY_OVERRIDE
-185=>ANIMATION_ONLY_HASTE
-186=>NO_PERMANENT_DEATH
-187=>IMMUNE_TO_TURN_UNDEAD
-200=>LEVELDRAIN
-156=>WING_BUFFET
-158=>LEVEL_DRAIN_IMMUNITY
-159=>OFFENSIVE_MODIFIER
-160=>DEFENSIVE_MODIFIER
-161=>STRENGTH_MODIFIER
-176=>WIZARD_PROTECTION_FROM_PETRIFICATION
-177=>WIZARD_SPELL_SHIELD
-178=>WIZARD_RESIST_FEAR
-179=>WIZARD_PROTECTION_FROM_NORMAL_MISSILES
-180=>WIZARD_GREATER_MALISON
-181=>WIZARD_PROTECTION_FROM_NORMAL_WEAPONS
-182=>WIZARD_TENSERS_TRANSFORMATION
+WEAPON_ENCHANTMENT => 109
+CLERIC_ARMOR_OF_FAITH => 110
+WIZARD_SPELL_DEFLECTION => 116
+PROTECTION_FROM_EVIL => 117
+TRUE_SIGHT => 118
+CLERIC_CHAOTIC_COMMANDS => 119
+CLERIC_INSECT_PLAGUE => 120
+CLERIC_BLADE_BARRIER => 121
+CLERIC_PHYSICAL_MIRROR => 122
+CLERIC_SHIELD_OF_THE_ARCHONS => 123
+CLERIC_REGENERATION => 124
+WIZARD_FIRE_SHIELD => 125
+WIZARD_PROTECTION_FROM_MAGIC_ENERGY => 126
+WIZARD_MISLEAD => 127
+WIZARD_PROTECTION_FROM_MAGIC_WEAPONS => 128
+WIZARD_SPELL_TURNING => 129
+WIZARD_PROTECTION_FROM_THE_ELEMENTS => 130
+CLERIC_FREE_ACTION => 131
+WIZARD_KHELBENS_WARDING_WHIP => 132
+CLERIC_DEFENSIVE_HARMONY => 133
+EXTRAPROFICIENCY20 => 134
+SCRIPTINGSTATE1 => 156
+SCRIPTINGSTATE2 => 157
+SCRIPTINGSTATE3 => 158
+SCRIPTINGSTATE4 => 159
+SCRIPTINGSTATE5 => 160
+SCRIPTINGSTATE6 => 161
+WIZARD_SPELL_IMMUNITY => 162
+WIZARD_PROTECTION_FROM_ENERGY => 163
+WIZARD_SPELL_TRAP => 164
+WIZARD_IMPROVED_ALACRITY => 165
+MELEE_THACO_BONUS => 166
+MELEE_DAMAGE_BONUS => 167
+MISSILE_DAMAGE_BONUS => 168
+DISABLE_CIRCLE => 169
+FIST_THACO_BONUS => 170
+FIST_DAMAGE_BONUS => 171
+CLASS_STRING_OVERRIDE_MIXED => 172
+CLASS_STRING_OVERRIDE_LOWER => 173
+PREVENT_SPELL_PROTECTION_EFFECTS => 174
+IMMUNITY_TO_BACKSTAB => 175
+LOCKPICKINGMTPBONUS => 176
+MOVESILENTLYMTPBONUS => 177
+TRAPSMTPBONUS => 178
+PICKPOCKETMTPBONUS => 179
+HIDEINSHADOWSMTPBONUS => 180
+DETECTILLUSIONSMTPBONUS => 181
+SETTRAPSMTPBONUS => 182
+PREVENT_AI_SLOWDOWN => 183
+EXISTANCE_DELAY_OVERRIDE => 184
+ANIMATION_ONLY_HASTE => 185
+NO_PERMANENT_DEATH => 186
+IMMUNE_TO_TURN_UNDEAD => 187
+LEVELDRAIN => 200
+WING_BUFFET => 156
+LEVEL_DRAIN_IMMUNITY => 158
+OFFENSIVE_MODIFIER => 159
+DEFENSIVE_MODIFIER => 160
+STRENGTH_MODIFIER => 161
+WIZARD_PROTECTION_FROM_PETRIFICATION => 176
+WIZARD_SPELL_SHIELD => 177
+WIZARD_RESIST_FEAR => 178
+WIZARD_PROTECTION_FROM_NORMAL_MISSILES => 179
+WIZARD_GREATER_MALISON => 180
+WIZARD_PROTECTION_FROM_NORMAL_WEAPONS => 181
+WIZARD_TENSERS_TRANSFORMATION => 182
 END
 
 COPY_EXISTING "stats.ids" override
-ACTION_PHP_EACH stats_array AS code=>name BEGIN
+ACTION_PHP_EACH stats_array AS name => code BEGIN
       ACTION_IF !FILE_CONTAINS_EVALUATED ("override/stats.ids" "%code%[ %TAB%]+%name%") BEGIN
          APPEND "stats.ids" "%code% %name%"
       END
 END
 
- LAF sort_ids STR_VAR ids=stats END // DW edit to use SFO version - it's quicker, and more importantly, it retains duplicates
- // LAM ds_sort_stats_ids
+ //LAF sort_ids STR_VAR ids=stats END // DW edit to use SFO version - it's quicker, and more importantly, it retains duplicates
+  //LAM ds_sort_stats_ids
 END
 
 //////////////////////////////////////////////////////////////////////////////////////
@@ -541,7 +596,7 @@ END
 // fix the bug in G3's DS
 ACTION_IF fix_khelben = 1 BEGIN
   ACTION_IF NOT FILE_EXISTS_IN_GAME ~cddetect.spl~ BEGIN
-    COPY_EXISTING ~dw#marker_file.itm~ ~override/cddetect.spl~ // tell CamDawg's (?) version that DS is already installed
+    COPY_EXISTING ~sw1h01.itm~ ~override/cddetect.spl~ // tell CamDawg's (?) version that DS is already installed
     LAM ds_fix_khelben
   END
 END
@@ -551,7 +606,7 @@ END
 // fix old Ascension DS
 ACTION_IF fix_old_ds = 1 BEGIN
   ACTION_IF NOT FILE_EXISTS_IN_GAME ~dw#DScleanout.mrk~ BEGIN
-    COPY_EXISTING ~dw#marker_file.itm~ ~override/dw#DScleanout.mrk~ // tell DavidW's version that we've already fixed it
+    COPY_EXISTING ~sw1h01.itm~ ~override/dw#DScleanout.mrk~ // tell DavidW's version that we've already fixed it
     LAM ds_fix_old_scripts
     LAM ds_fix_old_ds
   END
@@ -1038,7 +1093,7 @@ END // end of macro
 
 DEFINE_ACTION_MACRO ds_sort_stats_ids BEGIN
 
-COPY - ~...inlined/ds/stats_extra.2da~ override
+COPY - ~...inlined/ds/ag#detectable_spells_v4_stats_extra.2da~ override
   READ_2DA_ENTRIES_NOW stats 2
   FOR (i=0;i<stats;i+=1) BEGIN
     READ_2DA_ENTRY_FORMER stats i 0 num
@@ -1053,7 +1108,7 @@ COPY_EXISTING - stats.ids override
     READ_2DA_ENTRY_FORMER stats i 0 num
     READ_2DA_ENTRY_FORMER stats i 1 str
     max = (num>max) ? num : max
-    SET $arr1("%num%") = 1
+	SET $arr1("%num%") = 1
     SPRINT $arr2("%num%") ~%str%~
   END
   PHP_EACH arr1 AS i1 => r1 BEGIN
@@ -1197,7 +1252,7 @@ COPY - ~...inlined/ds/ag#old_ds_swap.2da~ override
 
 // Ascension
 ACTION_IF !(FILE_EXISTS_IN_GAME ~dw#fixasc~) && (FILE_EXISTS_IN_GAME ~finbodhi.bcs~) THEN BEGIN
-  COPY_EXISTING ~dw#marker_file.itm~ ~override/dw#fixasc~
+  COPY_EXISTING ~sw1h01.itm~ ~override/dw#fixasc~
 ACTION_FOR_EACH file IN
 finabaz
 finaluf
@@ -1226,7 +1281,7 @@ END
 
 // Kelsey
 ACTION_IF !(FILE_EXISTS_IN_GAME ~dw#fixkelsey~) && (FILE_EXISTS_IN_GAME ~j#ceara.bcs~) THEN BEGIN
-  COPY_EXISTING ~dw#marker_file.itm~ ~override/dw#fixkelsey~
+  COPY_EXISTING ~sw1h01.itm~ ~override/dw#fixkelsey~
 ACTION_FOR_EACH file IN
 j#ceara
 j#clinn
@@ -1241,7 +1296,7 @@ END
 
 // Kiara-Zaiya
 ACTION_IF !(FILE_EXISTS_IN_GAME ~ag#fixkiara~) && (FILE_EXISTS_IN_GAME ~amafight.bcs~) THEN BEGIN
-  COPY_EXISTING ~dw#marker_file.itm~ ~override/ag#fixkiara~
+  COPY_EXISTING ~sw1h01.itm~ ~override/ag#fixkiara~
 ACTION_FOR_EACH file IN
 kzjao
 kzwuje
