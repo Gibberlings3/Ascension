@@ -220,11 +220,12 @@ BEGIN @3010 DESIGNATED 101
 	REQUIRE_PREDICATE GAME_INCLUDES ~tob~ @1001 // ToB is required
 	REQUIRE_FILE ~override/asc_main.flag~ @1002
 
-	COPY ~ascension/ascports/altbodhi~ ~override~
+	INCLUDE ~ascension/lib/cd_portrait_copy.tph~
+	LAF cd_portrait_npc STR_VAR source = abodhi source_path = ~ascension/ascports/altbodhi~ END
 
 	COPY_EXISTING ~FINBODH.CRE~ ~override~
-		WRITE_ASCII 0x34 ~ABODHIS~ //Portrait Swap
-		WRITE_ASCII 0x3c ~ABODHIL~ //Portrait Swap
+		WRITE_ASCII 0x34 ~ABODHIM~ #8 //Portrait Swap
+		WRITE_ASCII 0x3c ~ABODHIL~ #8 //Portrait Swap
 	BUT_ONLY
 
 	COPY_EXISTING ~sw1h01.itm~ ~override/asc_altbodhi.flag~ //Creates install "flag"
@@ -237,11 +238,12 @@ BEGIN @3020 DESIGNATED 102
 	REQUIRE_PREDICATE GAME_INCLUDES ~tob~ @1001 // ToB is required
 	REQUIRE_FILE ~override/asc_main.flag~ @1002
 
-	COPY ~ascension/ascports/cuvbalth~ ~override~
+	INCLUDE ~ascension/lib/cd_portrait_copy.tph~
+	LAF cd_portrait_npc STR_VAR source = CBALTHA source_path = ~ascension/ascports/cuvbalth~ END
 
 	COPY_EXISTING ~balth.cre~ ~override~   ~balth2.cre~ ~override~   ~finbalth.cre~ ~override~
-		WRITE_ASCII 0x34 ~CBALTHAS~ //Portrait Swap
-		WRITE_ASCII 0x3c ~CBALTHAL~ //Portrait Swap
+		WRITE_ASCII 0x34 ~CBALTHAM~ #8 //Portrait Swap
+		WRITE_ASCII 0x3c ~CBALTHAL~ #8 //Portrait Swap
 	BUT_ONLY
 
 	COPY_EXISTING ~sw1h01.itm~ ~override/asc_altbalth.flag~ //Creates install "flag"

@@ -2,7 +2,7 @@ ADD_STATE_TRIGGER PLAYER1 0 ~!Global("FinalFight","AR6200",4) !Global("MelStillI
 
 REPLACE PLAYER1 
 
-IF ~Global("Slayer10","GLOBAL",1) !Global("FinalFight","AR6200",4) !Global("MelStillImmortal","AR6200",2)~ THEN 27
+IF WEIGHT #8 ~Global("Slayer10","GLOBAL",1) !Global("FinalFight","AR6200",4) !Global("MelStillImmortal","AR6200",2)~ THEN 27
   SAY #55324 
   ++ #55326 DO ~SetGlobal("Slayer10","GLOBAL",0)~ EXIT
   + ~XPLT(Player1,2000001)~ + #61320 DO ~IncrementGlobal("SlayerDeath","GLOBAL",1) SetGlobal("Slayer10","GLOBAL",2) SetGlobalTimer("TheSlayerTimer","GLOBAL",60) ReputationInc(-1) ApplySpell(Player1,SLAYER_CHANGE_TWO)~ EXIT
