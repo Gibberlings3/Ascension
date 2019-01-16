@@ -20,8 +20,6 @@ ACTION_IF !FILE_EXISTS ~ascension/charsets.mrk~ BEGIN
 			iconv_path = ~ascension/tra/iconv~
 	END
 
-	LOAD_TRA ~ascension/tra/autotra/%LANGUAGE%/ascension.tra~
-
 	COPY_EXISTING ~sw1h01.itm~ ~ascension/charsets.mrk~
 
 END

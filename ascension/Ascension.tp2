@@ -7,7 +7,7 @@ BACKUP ~ascension/backup~
 SUPPORT "https://forums.beamdog.com/discussion/66702/ascension-for-bg2-ee"
 
 // use Semantic Versioning - http://semver.org
-VERSION ~1.7.0~
+VERSION ~1.7.1~
 
 AUTO_TRA ~ascension/tra/autotra/%s~
 
@@ -86,8 +86,9 @@ BEGIN @4000 DESIGNATED 103
 	REQUIRE_PREDICATE GAME_INCLUDES ~tob~ @1001 // ToB is required
 	COPY_EXISTING ~sw1h01.itm~ ~override/asc_rest_powers.flag~ //Creates install "flag"
 
-	LOAD_TRA ~ascension/tra/%LANGUAGE%/ascension.tra~
 	INCLUDE ~ascension/lib/bhaalspawnpower.tpa~
+	
+	ADD_JOURNAL @2000 @2001 @2002 @2003 @2004 @2005 @2006 @2007
 
 	
 ///////////////////////////////////////////////////////////////////////
@@ -98,7 +99,6 @@ BEGIN @2100 DESIGNATED 1
 	REQUIRE_PREDICATE GAME_INCLUDES ~tob~ @1001 // ToB is required
 	REQUIRE_PREDICATE GAME_IS ~bg2ee eet~ OR MOD_IS_INSTALLED ~setup-bg2fixpack.tp2~ ~0~ @1003
 	
-	LOAD_TRA ~ascension/tra/%LANGUAGE%/ascension.tra~
 	INCLUDE ~ascension/lib/tougherabazigal.tpa~
 
 	COPY_EXISTING ~sw1h01.itm~ ~override/asc_abazigal.flag~ //Creates install "flag"
@@ -152,7 +152,6 @@ BEGIN @2500 DESIGNATED 5
 	REQUIRE_PREDICATE GAME_INCLUDES ~tob~ @1001 // ToB is required
 	REQUIRE_PREDICATE GAME_IS ~bg2ee eet~ OR MOD_IS_INSTALLED ~setup-bg2fixpack.tp2~ ~0~ @1003
 
-	LOAD_TRA ~ascension/tra/%LANGUAGE%/ascension.tra~
 	INCLUDE ~ascension/lib/tougheryaga.tpa~
 
 	//Compile common scripts, if Tougher Gromnir hasn't been installed already
@@ -172,7 +171,7 @@ BEGIN @5100 DESIGNATED 104
 
 	INCLUDE ~ascension/lib/epilogue_update.tph~
 
-	LOAD_TRA ~ascension/tra/english/shawnesepilogues.tra~
+	LOAD_TRA ~ascension/tra/autotra/%LANGUAGE%/shawnesepilogues.tra~
 
 	LAF update_epilogues STR_VAR filepath = ~ascension/lib/shawnesepilogues.tbl~ END
 
@@ -194,7 +193,7 @@ BEGIN @5200 DESIGNATED 105
 
 	COPY ~ascension/shawnesEE/2da~ ~override~
 
-	LOAD_TRA ~ascension/tra/english/shawnesepilogues_eenpc.tra~
+	LOAD_TRA ~ascension/tra/autotra/%LANGUAGE%/shawnesepilogues_eenpc.tra~
 
 	LAF update_epilogues STR_VAR filepath = ~ascension/lib/shawnesepiloguesEE.tbl~ END
 
