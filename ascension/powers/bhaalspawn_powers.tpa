@@ -179,7 +179,9 @@ ACTION_FOR_EACH lc_align IN LAWFUL NEUTRAL CHAOTIC BEGIN
 
       <<<<<<<< .../stratagems-inline/extend.baf
       IF
-        GlobalGT("Chapter","GLOBAL",%bg2_chapter_7%)
+        OR (2)
+		  Global("DMWWWKEarly","GLOBAL",1)
+		  GlobalGT("Chapter","GLOBAL",%bg2_chapter_7%)
         !Global("fin_bg1_powers_restored","GLOBAL",1)
         Alignment(Player1,%alignment%)
       THEN

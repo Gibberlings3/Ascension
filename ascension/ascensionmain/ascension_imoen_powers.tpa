@@ -65,7 +65,6 @@ DEFINE_ACTION_FUNCTION ascension_imoen_powers BEGIN
              WRITE_BYTE 0x27 SlayerSectype
         END
         LPF ALTER_SPELL_HEADER INT_VAR projectile=255 END
-   BUT_ONLY
 
    ///////////////////////////////////////////////
    // imoslay2 - use SLAYER_BACK_TO_HUMAN as a baseline
@@ -73,7 +72,6 @@ DEFINE_ACTION_FUNCTION ascension_imoen_powers BEGIN
 
    COPY_EXISTING "%SLAYER_BACK_TO_HUMAN%.spl" "override/imoslay2.spl"
         LPF ALTER_EFFECT INT_VAR silent=1 match_opcode=321 STR_VAR resource=imoslay1 END // on EE, this makes it remove the effect (on non-EE we're covered by the sectype move anyway)
-   BUT_ONLY
 
    ///////////////////////////////////////////////
    // imoslay3 - use SLAYER_CHANGE_TWO as a baseline
@@ -95,13 +93,12 @@ DEFINE_ACTION_FUNCTION ascension_imoen_powers BEGIN
 
    COPY_EXISTING "%SLAYER_CHANGE_TWO%.spl" "override/imoslay3.spl"
        LPF slayer_desc_patch INT_VAR tra_ref=13 END
-       LPF ALTER_SPELL_HEADER STR_VAR icon=spin822b END
+       LPF ALTER_SPELL_HEADER STR_VAR icon=spin822 END
        LPF DELETE_EFFECT STR_VAR match_resource="%SLAYER_START%" END
        LPF ALTER_EFFECT STR_VAR match_resource="%SLAYER_BACK_TO_HUMAN%" resource=imoslay4 END
        LPF ADD_SPELL_EFFECT INT_VAR opcode=309 target=2 timing=1 parameter1=1 STR_VAR resource=IMODUST END
        LPF DELETE_EFFECT INT_VAR match_opcode=146 END
        LPF ADD_SPELL_EFFECT INT_VAR target=2 timing=1 opcode=172 STR_VAR resource=imoeth END
-   BUT_ONLY
 
    ///////////////////////////////////////////////
    // imoslay4 - use SLAYER_BACK_TO_HUMAN as a baseline
@@ -117,8 +114,7 @@ DEFINE_ACTION_FUNCTION ascension_imoen_powers BEGIN
         LPF ADD_SPELL_EFFECT INT_VAR target=2 timing=4 duration=186 opcode=171 STR_VAR resource=imoslay3 END
         LPF ADD_SPELL_EFFECT INT_VAR target=2 timing=1 opcode=171 STR_VAR resource=imoeth END
        LPF ADD_SPELL_EFFECT INT_VAR opcode=309 target=2 timing=1 parameter1=0 STR_VAR resource=IMODUST END
-   BUT_ONLY
-   
+
    ///////////////////////////////////////////////
    // finimohd - built from HELL_HOLD
    ///////////////////////////////////////////////
@@ -126,7 +122,6 @@ DEFINE_ACTION_FUNCTION ascension_imoen_powers BEGIN
    COPY_EXISTING "%HELL_HOLD%.spl" "override/finimohd.spl"
         LPF DELETE_EFFECT INT_VAR match_opcode=206 END
         LPF ALTER_EFFECT INT_VAR opcode=39 parameter1=0 parameter2=0 timing=0 duration=20 END
-   BUT_ONLY
 
    ///////////////////////////////////////////////
    // finimocr - built from finimohd
@@ -135,7 +130,6 @@ DEFINE_ACTION_FUNCTION ascension_imoen_powers BEGIN
    COPY_EXISTING finimohd.spl "override/finimocr.spl"
      //   LPF ALTER_EFFECT INT_VAR match_opcode=39 opcode=2 timing=1 END
       LPF ALTER_EFFECT INT_VAR match_opcode=39 opcode=321 parameter1=1 parameter2=1 timing=0 STR_VAR resource=finimohd END
-   BUT_ONLY
 
    //////////////////////////////////////
    //////////////////////////////////////
@@ -201,7 +195,7 @@ DEFINE_ACTION_FUNCTION ascension_imoen_powers BEGIN
          // remove and regrant ethereality power
          LPF ADD_SPELL_CFEFFECT INT_VAR opcode=172 target=1 STR_VAR resource=imoeth END
          LPF ADD_SPELL_CFEFFECT INT_VAR opcode=171 target=1 timing=4 duration=60 STR_VAR resource=imoeth END
-   BUT_ONLY
+   
 
 
 ///////////////////////////////////////////////////////////////////////////
@@ -219,8 +213,7 @@ DEFINE_ACTION_FUNCTION ascension_imoen_powers BEGIN
           LPF ALTER_EFFECT INT_VAR silent=1 match_opcode=146 opcode=171 parameter2=0 END // revert change in Slayer-powers component, if present
           LPF ALTER_EFFECT INT_VAR match_opcode=171 STR_VAR resource=imoslay3 END
           LPF CLONE_EFFECT INT_VAR match_opcode=171 STR_VAR resource=imoeth END
-    BUT_ONLY
-
+    
 
 
 END
