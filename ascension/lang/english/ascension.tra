@@ -6,26 +6,26 @@
 /////////////////////////////////////////////////////////////////////////
 // Spells
 /////////////////////////////////////////////////////////////////////////
-@1003 = ~Transform Into Bat~ 
-@1006 = ~Shockwave~ 
-@1007 = ~Lightning Aura~ 
-@1009 = ~Telekinesis~ 
+@1003 = ~Transform Into Bat~
+@1006 = ~Shockwave~
+@1007 = ~Lightning Aura~
+@1009 = ~Telekinesis~
 @1012 = ~Flip Resistances~
-@1013 = ~Control Demon~ 
-@1014 = ~Focus~ 
-@1016 = ~Divine Mantle~ 
-@1017 = ~Draw Power~ 
-@1018 = ~Divine Spell Shield~ 
-@1019 = ~Command Demon~ 
-@1020 = ~Banish~ 
-@1022 = ~Unleash~ 
-@1024 = ~Feedback~ 
-@1025 = ~Divine Restoration~ 
-@1026 = ~Divine Cleansing~ 
-@1027 = ~Paralyzation Aura~ 
-@1029 = ~Lava Bomb~ 
-@1031 = ~Symbol, Slow~ 
-@1037 = ~Ravager Change~ 
+@1013 = ~Control Demon~
+@1014 = ~Focus~
+@1016 = ~Divine Mantle~
+@1017 = ~Draw Power~
+@1018 = ~Divine Spell Shield~
+@1019 = ~Command Demon~
+@1020 = ~Banish~
+@1022 = ~Unleash~
+@1024 = ~Feedback~
+@1025 = ~Divine Restoration~
+@1026 = ~Divine Cleansing~
+@1027 = ~Paralyzation Aura~
+@1029 = ~Lava Bomb~
+@1031 = ~Symbol, Slow~
+@1037 = ~Ravager Change~
 @1038 = ~Melissan: Command the Minions of the Abyss~
 @1039 = ~Bhaalspawn Power gained: Immunity to Energy Drain~
 @1040 = ~Bhaalspawn Power gained: 25% physical damage resistance~
@@ -157,7 +157,7 @@ Like the 5th level spell Raise Dead, Resurrection will return a character back t
 // Items
 /////////////////////////////////////////////////////////////////////////
 @3000 = ~Sarevok's Sword of Chaos +4~
-@3001 = ~The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon...and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.
+@3001 = ~The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.
 
 STATISTICS:
 

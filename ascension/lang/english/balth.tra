@@ -2,7 +2,7 @@
 @1060 = ~I wish I could take the credit for this ruse, <CHARNAME>. But it seems I was not the only member of the Five who plotted the downfall of the others.~
 @1072 = ~You won't be the first to try and kill me... and probably not the last!~
 @1074 = ~It is true. You are a good <PRO_MANWOMAN>, <CHARNAME>, and your stance against evil is without question. Your fight against the taint of our evil father is worthy of praise.~
-@1075 = ~I sense no innate goodness within you, <CHARNAME>...though your deeds are hailed far and wide as above reproach. It is... interesting that one like you who must struggle so much with our father's taint inside <PRO_HIMHER> has done so much to fight true evil.~
+@1075 = ~I sense no innate goodness within you, <CHARNAME>... though your deeds are hailed far and wide as above reproach. It is... interesting that one like you who must struggle so much with our father's taint inside <PRO_HIMHER> has done so much to fight true evil.~
 @1076 = ~I see the good that is within you, <CHARNAME>, but your deeds are hardly above reproach. I sense only a soul that struggles with our father's taint, that struggles to find the good path where none exists.~
 @1077 = ~I sense no innate goodness within you, <CHARNAME>. I do not think your deeds above reproach. I sense only a soul struggling against the taint of <PRO_HISHER> father, much like mine own.~
 @1078 = ~Actually, I am the perfect person to judge, <CHARNAME>. I, too, contain the taint of our father within me. I, too, have felt its yearnings for blood, its efforts to exert chaos upon my life. I have mastered it... but only barely. Too well I know what it is capable of.~
@@ -19,7 +19,7 @@
 @1089 = ~I am nothing like you. I exist to fight against the chaos of my taint, to fight against the evil that Bhaal's legacy brings to this world. I have faced the evil within me and I have mastered it.~
 @1090 = ~No. I have brought my share of death and destruction to this land. But I see a larger purpose behind it... I seek to end the possibility of Bhaal's return forever, and to wipe his taint from the land.~
 @1091 = ~I have mastered the power within me and held the evil in check, but I know just as well... if not better... than most of my brethren the threat that it holds for all of Faerun. I will not allow this. I have dedicated my life to preventing it.~
-@1092 = ~If only we had met under other circumstances, <CHARNAME>...I would have liked to sit and compare the paths that have brought us to this point. If we had not been forced by destiny to bear this taint upon our souls, what would have become of us? I regret what I must do, yet I know it must be done.~
+@1092 = ~If only we had met under other circumstances, <CHARNAME>... I would have liked to sit and compare the paths that have brought us to this point. If we had not been forced by destiny to bear this taint upon our souls, what would have become of us? I regret what I must do, yet I know it must be done.~
 @1093 = ~And what becomes of Melissan, then? Is she free to raise Bhaal and complete her plans?~
 @1094 = ~You don't have to do this, Balthazar. We don't have to fight each other.~
 @1095 = ~You don't honestly see yourself as the force of righteousness in all this, do you?~
@@ -44,15 +44,15 @@
 @1114 = ~Very well, then, <CHARNAME>. I will join you. You are a worthy <PRO_MANWOMAN>. Perhaps even worthy of turning Bhaal's dark taint and making something better of it. I do not know. But I will take that chance.~
 @1115 = ~Let Melissan tremble when she sees us together, and we shall strike her down as she deserves. Even if Bhaal himself is resurrected, he will not be able to hold out against us both. I have preparations to make, <CHARNAME>. Go to the Throne of Bhaal. When the time comes, I will be there.~
 @1116 = ~I cannot, <CHARNAME>.~
-@1117 = ~You must take the battle to Melissan. It is your destiny to see that Bhaal's legacy ends here and now. But you must promise me, <CHARNAME>...you must promise me that you will not give into the temptation. Should you defeat Melissan and the power become available to you, you must turn away from it... you have seen your struggle as it is now, with only a sliver of that taint. Do not take it, <CHARNAME>...even a god can be tempted, you must realize that. Promise me you will turn it away.~
+@1117 = ~You must take the battle to Melissan. It is your destiny to see that Bhaal's legacy ends here and now. But you must promise me, <CHARNAME>... you must promise me that you will not give into the temptation. Should you defeat Melissan and the power become available to you, you must turn away from it... you have seen your struggle as it is now, with only a sliver of that taint. Do not take it, <CHARNAME>... even a god can be tempted, you must realize that. Promise me you will turn it away.~
 @1118 = ~If I am given the option, Balthazar... I will refuse the taint. I swear it.~
 @1119 = ~No. I will swear nothing of the kind. Great good could come out of that power, you don't know otherwise any better than I.~
 @1120 = ~Forget it! I'll do no such thing!~
 @1121 = ~Then I am satisfied. The essence of our sire ends with me... and with you. May the gods forgive me. May you... may you forgive me, <PRO_BROTHERSISTER>...~
 @1122 = ~Then we must do battle. I... I am sorry, <PRO_BROTHERSISTER>. I had hoped this would be otherwise.~
-@1123 = ~And I cannot trust that you will turn aside the power when it is offered to you. You have experienced the struggle even a sliver of Bhaal's taint has brought you, yet I cannot believe that you would turn it aside. I... I am sorry, <PRO_BROTHERSISTER>...but I have no choice.~
+@1123 = ~And I cannot trust that you will turn aside the power when it is offered to you. You have experienced the struggle even a sliver of Bhaal's taint has brought you, yet I cannot believe that you would turn it aside. I... I am sorry, <PRO_BROTHERSISTER>... but I have no choice.~
 @1124 = ~So be it. Come, my pupils... may the gods help us all.~
-@1125 = ~No. Further dialogue is pointless. Let us end this now, <CHARNAME>...and may the gods have pity on us all.~
+@1125 = ~No. Further dialogue is pointless. Let us end this now, <CHARNAME>... and may the gods have pity on us all.~
 @1126 = ~Perhaps what you are saying holds merit. But what if I died during the battle? What if I was weakened, in the end... you might find yourself... tempted. How could I trust you?~
 @1128 = ~I don't know how to explain it, exactly, but she must have used you! She used everyone else! I didn't trust her and she even got me to do what she wanted!~
 @1129 = ~Think about it, Balthazar! You honestly think she didn't know what your plans were? Do you think you took her by surprise? Even I saw it coming, and there was nothing I could do to stop it!~
@@ -86,7 +86,7 @@
 @1157 = ~But perhaps I have resigned myself to a path that is not what it seems. You are... hardly what I expected for the last of the Bhaalspawn, <CHARNAME>. Perhaps there is hope... or perhaps I am only deluding myself.~
 @1158 = ~But that is a fool's notion, <CHARNAME>, and I am no fool. There is no such option available to me or any of us, no matter how appealing you may make it seem.~
 @1159 = ~No! You have listened to nothing I have said! It *is* that way because there is no choice for us! You would have me forget all the murders I have committed with my own hands, all the wrongs I have done in the name of the greater good... I cannot forget! I will not forgive myself and I will *not* allow others to be afflicted with the taint I possess!~
-@1160 = ~You have considerable charisma, <CHARNAME>...but it is because we are siblings that we cannot work together. You know as well as I what the essence seeks, and it will not be satisfied until our destiny is culminated.~
+@1160 = ~You have considerable charisma, <CHARNAME>... but it is because we are siblings that we cannot work together. You know as well as I what the essence seeks, and it will not be satisfied until our destiny is culminated.~
 @1161 = ~I make no judgement upon you, <CHARNAME>. You are what you were born to be. I can only trust myself to hold to the path of good that will lead to the destruction of the true evil that threatens Faerun. There is no other path for me.~
 @1162 = ~Look at the suffering you have brought to Amkethran! Your monks terrorize the innocent at your command! You hire soulless mercenaries that cut down the innocent at the slightest provocation! And all for nothing! You call these the actions of a good man?~
 @1163 = ~A truly good man would have stood against Melissan from the beginning. You say you wanted to find out who the Five were... and yet I defeated them without your scheming. It was your choice to join the Five in their reign of destruction, so live up to it!~
@@ -100,7 +100,7 @@
 @1171 = ~I will *not* be mocked so! I have sacrificed my entire life, the people of this village, everything I have in order to see this evil destroyed! Destroyed, all of it! I cry out to Ao the Overfather that such evil must not be allowed to live in the hearts of mortals, and I *will* be heard!~
 @1172 = ~I... know only what the temptations are that the taints puts upon us, <CHARNAME>. I know only that if our power was to grow, if your power was to grow, that so would the temptation.~
 @1173 = ~But... you have been successful in fighting temptation. More successful than I. I have... done much that I regret, in the name of good. My people suffer because I held my ultimate goal above all else... but is it not true that our treatment of the least of our brethren is the true judge of a man's soul? I... I am ashamed.~
-@1174 = ~And despite what you might profess, I think the taint sits closer to your heart then you would have me believe. I must walk my own path, <CHARNAME>...and you must walk yours.~
+@1174 = ~And despite what you might profess, I think the taint sits closer to your heart then you would have me believe. I must walk my own path, <CHARNAME>... and you must walk yours.~
 @1175 = ~Very well. Come, my students... my teachings are ended. We make our last stand now for what is right. May the gods have pity on us all.~
 @1176 = ~Even had destiny not brought us to this point, I doubt things would have been different. Perhaps if you had not borne the taint of our sire, things might have been different with you. I would have liked to meet a <PRO_MANWOMAN> such as yourself without the taint on your soul, I think. But now I have little choice.~
 @1177 = ~Would that your claim of innocence meant anything to the dead of Saradush. Were I to question the recent dead of Athkatla, of Baldur's Gate, of Candlekeep... would I not find some who would claim such innocence for themselves? Who died merely because they were caught in your wake?~

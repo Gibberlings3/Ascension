@@ -3,7 +3,7 @@
 
 Imoen is now able to enter the Ethereal Plane for brief periods of time. The ability is useable once every minute, and its use prevents her from assuming the Slayer form for a minute, as well. Imoen can remain fully ethereal and intangible to forces on this plane for a full round... during which she is invisible and completely immune to harm. During that round, she also cannot cast spells or use abilities.
 
-For another two rounds afterwards, Imoen remains 'half-phased'...she is partially ethereal and partially in this plane. She is still invisible, but takes half damage from all sources. In this state, there is a small chance (10%) that she will miscast a spell. For all three rounds, she is able to see any invisible targets.~
+For another two rounds afterwards, Imoen remains 'half-phased'... she is partially ethereal and partially in this plane. She is still invisible, but takes half damage from all sources. In this state, there is a small chance (10%) that she will miscast a spell. For all three rounds, she is able to see any invisible targets.~
 
 @6 = ~End Slayer Change
 
@@ -33,7 +33,7 @@ Like the 5th level spell Raise Dead, Resurrection will return a character back t
 
 // note to translators: do not translate PLUS_SIGN_PLACEHOLDER in the below
 
-@9=~Slayer Change
+@9= ~Slayer Change
 
 When you use this ability, you take on the form of the brutal essence of Bhaal: a violent, powerful creature made of teeth and claws. Using this ability reduces your reputation by one point, as even those who do not witness the event can sense the corruption caused by giving yourself over to instinct.
 
@@ -50,7 +50,7 @@ The Slayer form grants the following benefits:
 
 The Slayer can be difficult to control: after the first round, you have a 10% cumulative chance per round of losing control of yourself for a round.~
 
-@10=~Slayer Change
+@10= ~Slayer Change
 
 When you use this ability, you take on the form of the brutal essence of Bhaal: a violent, powerful creature made of teeth and claws. Using this ability reduces your reputation by one point, as even those who do not witness the event can sense the corruption caused by giving yourself over to instinct.
 
@@ -69,7 +69,7 @@ The Slayer form has increased in power with your own, and now grants the followi
 - Immunity to imprisonment, level drain, stun, fear, charm, confusion, sleep, and missile attacks
 - Chance of losing control: 10%, plus a cumulative 5% per round
 ~
-@11=~Slayer Change
+@11= ~Slayer Change
 
 When you use this ability, you take on the form of the brutal essence of Bhaal: a violent, powerful creature made of teeth and claws. Using this ability reduces your reputation by two points, as even those who do not witness the event can sense the corruption caused by giving yourself over to instinct.
 
@@ -89,7 +89,7 @@ The Slayer form has increased in power with your own, and now grants the followi
 - Immunity to imprisonment, level drain, stun, fear, charm, confusion, sleep, disease, poison, and missile attacks
 - Free action
 - Chance of losing control: a cumulative 5% per two rounds~
-@12=~Ravager Change
+@12= ~Ravager Change
 
 You now have the ability to take on the form either of the Slayer, or of the Ravager - a terrible manifestation of Bhaal. Using this ability reduces your reputation by two points for the Slayer, or a full three points for the Ravager.
 
@@ -124,7 +124,7 @@ As the Ravager, you get the following additional benefits:
 - Chance of losing control increases to 40% plus a cumulative 10% chance per round~
 
 
-@13=~Slayer Change
+@13= ~Slayer Change
 
 When Imoen uses this ability, she takes on the form of the brutal essence of Bhaal: a violent, powerful creature made of teeth and claws.
 
@@ -141,9 +141,9 @@ The Slayer form grants the following benefits:
 
 Perhaps because Imoen has less of Bhaal's essence than <CHARNAME> - or perhaps because of what she learned after Melissan called forth her essence - she is more able to contain the Slayer's power, and has no chance of losing control while in Slayer form.~
 
-@14=~Bhaalspawn powers granted~
-@15=~Imoen can now change into the Slayer at will, and can enter the Ethereal plane once per minute~
-@16=~Control Demon
+@14= ~Bhaalspawn powers granted~
+@15= ~Imoen can now change into the Slayer at will, and can enter the Ethereal plane once per minute~
+@16= ~Control Demon
 
 Range: sight
 Casting time: 1
@@ -153,7 +153,7 @@ Saving Throw: none
 
 This ability allows the Bhaalspawn to attempt to wrest control of a demon away from Melissan and make them an ally. The Bhaalspawn engages the demon in mental combat for DURATION_PLACEHOLDER seconds, at the end of which the demon has a SUCCESS_CHANCE_PLACEHOLDER% chance of becoming an ally. (There is no further saving throw, nor is magic resistance checked.) The demon is not under the Bhaalspawn's direct control, however. This ability may be used once every 3 rounds.~ // note to translators: do not translate DURATION_PLACEHOLDER or SUCCESS_CHANCE_PLACEHOLDER
 
-@17=~Unleash
+@17= ~Unleash
 
 Range: 5ft
 Casting Time: 1
@@ -163,7 +163,7 @@ Saving Throw: 1/2 plus special
 
 The "Unleash" ability releases your inner power upon a target that is within melee range, hitting them for DICENUMBER_PLACEHOLDERd12 magic damage (half on a successful save vs. Death at -4) and sending them flying back and perhaps unconscious for a short period. This ability may only be used once ever thirty seconds... and after using it the Bhaalspawn will be incredibly fatigued, and have a 25% miscast chance on all spells, for 2 rounds. Due to the amount of divine essence used, the Slayer form will also not be available for thirty seconds.~
 
-@18=~Focus
+@18= ~Focus
 
 Range: 0
 Casting Time: 1
@@ -173,7 +173,7 @@ Saving Throw: None
 
 This ability allows the Bhaalspawn to focus <PRO_HISHER> energy within <PRO_HIMHER> to resist spell effects from without. For a 30-second duration, the Bhaalspawn becomes immune to the spells Flesh to Stone, Disintegration and Time Stop. All minor spells of 1st through 3rd level will also not affect the Bhaalspawn. This ability is useable once per minute.~
 
-@19=~Dimension Door
+@19= ~Dimension Door
 
 Range: Infinite
 Casting Time: 0
@@ -183,11 +183,11 @@ Saving Throw: None
 
 The Bhaalspawn may now move freely through space and the planes. This teleportation power is useable once per round.~
 
-@20=~Shapeshift: Bat
+@20= ~Shapeshift: Bat
 
 This ability allows Bodhi to shapeshift into bat form.~
 
-@21=~Divine Gift
+@21= ~Divine Gift
 (Invocation)
 
 Range: 0
@@ -198,7 +198,7 @@ Saving Throw: None
 
 The Bhaalspawn calls upon the might of <PRO_HISHER> blood to grant <PRO_HIMHER> power for a short period. When <PRO_HESHE> does this, <PRO_HISHER> Strength, Constitution, and Dexterity all are raised to 25.~
 
-@22=~Flip Resistances
+@22= ~Flip Resistances
 
 Range: 0
 Duration: Permanent
@@ -210,7 +210,7 @@ With this ability, Balthazar inverts his innate resistances. His normal 10% resi
 
 Balthazar may flip his resistances at will.~
 
-@23=~Flip Resistances
+@23= ~Flip Resistances
 
 Range: 0
 Duration: Permanent
@@ -222,7 +222,7 @@ With this ability, Balthazar inverts his innate resistances. His normal 10% resi
 
 Balthazar may flip his resistances at will.~
 
-@24=~Solar Stance
+@24= ~Solar Stance
 
 Range: 0
 Duration: 3 hours
@@ -234,7 +234,7 @@ By entering the Solar Stance, Balthazar calls on the power of the sun to enhance
 
 Balthazar can have only one stance active at a time: entering the Solar Stance cancels all other stances. The Solar Stance can be removed by effects such as Breach.~
 
-@25=~Lunar Stance
+@25= ~Lunar Stance
 
 Range: 0
 Duration: 3 hours
@@ -246,7 +246,7 @@ By entering the Lunar Stance, Balthazar calls on the power of the moon to enhanc
 
 Balthazar can have only one stance active at a time: entering the Lunar Stance cancels all other stances. The Lunar Stance can be removed by effects such as Breach.~
 
-@26=~Shadow Stance
+@26= ~Shadow Stance
 
 Range: 0
 Duration: 3 hours
@@ -258,7 +258,7 @@ By entering the Shadow Stance, Balthazar calls on the power of the Plane of Shad
 
 Balthazar can have only one stance active at a time: entering the Shadow Stance cancels all other stances. The Shadow Stance can be removed by effects such as Oracle or True Sight.~
 
-@27=~Faster than the Eye
+@27= ~Faster than the Eye
 
 Range: Sight
 Duration: Instant
@@ -270,7 +270,7 @@ In the blink of an eye, Balthazar transports himself anywhere in sight.
 
 This power can be used once per two rounds.~
 
-@28=~Dragon Fist
+@28= ~Dragon Fist
 
 Range: Touch
 Duration: Special
@@ -282,7 +282,7 @@ By channeling ki energy into a blow, Balthazar rips through his opponent's magic
 
 This power can be used once per three rounds.~
 
-@29=~Tiger Strike
+@29= ~Tiger Strike
 
 Range: 0
 Duration: 2 rounds
@@ -294,7 +294,7 @@ While Tiger Strike is active, Balthazar has a 50% chance per hit of a critical h
 
 This power can be used once per four rounds.~
 
-@30=~Hand of Murder
+@30= ~Hand of Murder
 
 Range: 0
 Duration: 1 round
@@ -306,7 +306,7 @@ Through combining his ki with his Bhaalspawn essence, all of Balthazar's attacks
 
 This power can be used once per three rounds.~
 
-@31=~Shadowless Kick
+@31= ~Shadowless Kick
 
 Range: Touch
 Duration: 4 seconds
@@ -318,7 +318,7 @@ With a powerful kick, Balthazar knocks his opponent away, sending them flying; t
 
 This power can be used once per two rounds.~
 
-@32=~Lunar Malison
+@32= ~Lunar Malison
 
 Range: 30 ft.
 Duration: special
