@@ -1,4 +1,4 @@
-@3001 = ~The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon...and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.
+@3001 = ~The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.
 
 STATISTICS:
 
@@ -26,6 +26,6 @@ STATISTICS:
 
 Weight: 1~
 
-@3004 = "Still, however, it is a formidable weapon...and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all." // TRANSLATORS' NOTE: this needs to be the exact last sentence of the description in string 3001, above
-@3005 = "Still, however, it is a formidable weapon...and one that only a Deathbringer of Sarevok's skill and power can wield."
+@3004 = "Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all." // TRANSLATORS' NOTE: this needs to be the exact last sentence of the description in string 3001, above
+@3005 = "Still, however, it is a formidable weapon... and one that only a Deathbringer of Sarevok's skill and power can wield."
 @3006 = "Only Sarevok can use this weapon."
