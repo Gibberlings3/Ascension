@@ -1,32 +1,138 @@
+/////////////////////////////////////////////////////////////////////////
+// Setup Options
+/////////////////////////////////////////////////////////////////////////
+
 @101000 = ~Ascension~
-@101001 = ~You must have ToB installed or use Enhanced Edition to install the Ascension mod.~
-@101002 = ~Cannot install without Ascension main component.~
-@101003 = ~You must have BG2Fixpack installed or use Enhanced Edition to install this version of the Ascension mod.~
-@101004 = ~Ascension must be installed BEFORE Spell Revisions. Uninstall Spell Revisions, install Ascension, then reinstall Spell Revisions.~
-@101005 = ~Ascension must be installed BEFORE Sword Coast Stratagems. Uninstall Sword Coast Stratagems, install Ascension, then reinstall Sword Coast Stratagems.~
-@101006 = ~Ascension must be installed BEFORE Wheels of Prophecy. Uninstall Wheels of Prophecy, install Ascension, then reinstall Wheels of Prophecy.~
-@101007 = ~Ascension must be installed BEFORE Iylos. Uninstall Iylos, install Ascension, then reinstall Iylos.~
-@101008 = ~Ascension must be installed BEFORE Spell Revisions. Uninstall Spell Revisions, install Ascension, then reinstall Spell Revisions.~
-@102000 = ~Tougher Throne of Bhaal battles~
-@102100 = ~Tougher Abazigal~
-@102200 = ~Tougher Demogorgon~
-@102300 = ~Tougher Gromnir~
-@102400 = ~Tougher Illasera~
-@102500 = ~Tougher Yaga-Shura~
-@102600 = ~Tougher Balthazar~
-@103000 = ~Additional Content (not part of original Ascension mod)~
-@103010 = ~Full-body portrait for Bodhi~
-@103020 = ~Alternate Balthazar portrait, by Cuv~
-@104000 = ~Restored Bhaalspawn Powers~
-@104001 = ~Rewritten Final Chapter of Throne of Bhaal~
-@104002 = ~Improved Sarevok-Player Interactions~
-@104003 = ~Improved Imoen-Player Interactions in Throne of Bhaal~
-@104004 = ~Expanded Epilogues for Bioware NPCs~
-@104005 = ~David Gaider's expanded epilogues for Bioware NPCs~
-@104006 = ~Alternate epilogues by Shawne~
-@104009 = ~Balthazar can be redeemed~
-@104010 = ~Improved Slayer Transformation~
-@105200 = ~Extended Epilogues for additional Beamdog NPCs, by shawne~
-@105210 = ~Sharper portraits of Abazigal and Gromnir for the Enhanced Edition, by DavidW~
-@105220 = ~This component is only for BG2:EE or EET~
-@105230 = ~Slightly improved cutscenes, by DavidW~
+@101001 = ~Vous devez avoir installe ToB ou utiliser l'Enhanced Edition pour installer le mod Ascension.~
+@101002 = ~Impossible d'installer sans le composant principal d'Ascension.~
+@101003 = ~Vous devez avoir installe BG2Fixpack ou utiliser l'Enhanced Edition pour installer cette version du mod Ascension.~
+@101004 = ~Ascension doit etre installe AVANT Spell Revisions. Desinstallez Spell Revisions, installez Ascension, puis reinstallez Spell Revisions.~
+@101005 = ~Ascension doit etre installe AVANT Sword Coast Stratagems. Desinstallez Sword Coast Stratagems, installez Ascension, puis reinstallez Sword Coast Stratagems.~
+@101006 = ~Ascension doit etre installe AVANT Wheels of Prophecy. Desinstallez Wheels of Prophecy, installez Ascension, puis reinstallez Wheels of Prophecy.~
+@101007 = ~Ascension doit etre installe AVANT Iylos. Desinstallez Iylos, installez Ascension, puis reinstallez Iylos.~
+@101008 = ~Ascension doit etre installe AVANT Spell Revisions. Desinstallez Spell Revisions, installez Ascension, puis reinstallez Spell Revisions.~
+
+@102000 = ~Combats de Throne of Bhaal plus difficiles~
+@102100 = ~Combat d'Abazigal plus difficile~
+@102200 = ~Combat de Demogorgon plus difficile~
+@102300 = ~Combat de Gromnir plus difficile~
+@102400 = ~Combat d'Illasera plus difficile~
+@102500 = ~Combat de Yaga-Shura plus difficile~
+@102600 = ~Combat de Balthazar plus difficile~
+
+@103000 = ~Contenu additionnel (ne faisant pas partie du mod original Ascension)~
+@103010 = ~Portrait complet de Bodhi (incluant son corps)~
+@103020 = ~Portrait alternatif de Balthazar, par Cuv~
+
+@104000 = ~Pouvoirs de l'enfant de Bhaal restaures~
+@104001 = ~Reecriture du chapitre final de Throne of Bhaal~
+@104002 = ~Interactions entre Sarevok et le joueur ameliorees~
+@104003 = ~Interactions entre Imoen et le joueur ameliorees dans Throne of Bhaal~
+@104004 = ~Epilogues etendus pour les PNJ de Bioware~
+@104005 = ~Epilogues etendus de David Gaider pour les PNJ de Bioware~
+@104006 = ~Epilogues alternatifs, par Shawne~
+@104009 = ~Balthazar peut etre rachete~
+@104010 = ~Transformation en Ecorcheur amelioree~
+
+@105200 = ~Epilogues etendus pour les PNJ additionnels de Beamdog, par shawne~
+@105210 = ~Portraits plus nets d'Abazigal et de Gromnir pour l'Enhanced Edition, par DavidW~
+@105220 = ~Ce composant est uniquement pour BG2:EE ou EET~
+@105230 = ~Cinematiques legerement ameliorees, par DavidW~
+
+// WeiDU prompts
+@-1000= "Le mod %TP2_FILE_NAME% contient"
+@-1001= "composants optionnels distincts.
+Pour gagner du temps, vous pouvez choisir ce que vous souhaitez faire d'eux
+au niveau general plutot que de repondre aux questions pour chacun.
+"
+@-1002= "Que faut-il faire de tous les composants qui NE sont PAS ENCORE installes ?
+Les [I]nstaller, les [S]auter, dem[A]nder pour chacun ? "
+@-1003= "Que faut-il faire de tous les composants qui sont DEJA installes ?
+Les [R]einstaller, les s[U]pprimer, les [S]auter, dem[A]nder pour chacun ? "
+
+@-1004= "S'IL VOUS PLAIT, envoyez par e-mail le fichier"
+@-1005= "a"
+
+@-1006= "Installer le composant ["
+@-1007= "] ?
+[R]einstaller, co[N]server, s[U]pprimer ou [Q]uitter ? "
+@-1008= "] ?
+[I]nstaller, [N]e pas installer ou [Q]uitter ? "
+
+@-1009= "Entrez une partie du nom du module : "
+
+@-1010= "Reinstallation du composant ["
+@-1011= "] "
+@-1012= "Reinstallation dans la langue"
+
+@-1013= "Suppression de l'ancienne installation de ["
+@-1014= "] au prealable..."
+@-1015= "SUPPRESSION REUSSIE DE L'ANCIEN"
+
+@-1016= "Installation en cours"
+@-1017= "ERREUR pendant l'installation de ["
+@-1018= "], retour a l'etat anterieur"
+@-1019= "INSTALLATION REUSSIE"
+@-1020= "Saute"
+@-1021= "Suppression de ["
+@-1022= "] (composant #"
+@-1023= ")"
+@-1024= "SUPPRESSION REUSSIE DE ["
+
+@-1025= "] ?
+[R]einstaller, co[N]server, s[U]pprimer, [Q]uitter ou choisir un parmi :"
+@-1026= "] ?
+[N]e pas installer, [Q]uitter ou choisir un parmi :"
+@-1027= " (installe actuellement)"
+
+@-1028= "Souhaitez-vous afficher les composants de ["
+@-1029= "] ?
+[Y]Oui, [N]on ? "
+
+@-1030= "] ?
+choisir un parmi :"
+@-1031= "] ?
+[R]einstaller, co[N]server, [Q]uitter ou choisir un parmi :"
+@-1032= "INSTALLATION ECHOUEE A CAUSE D'ERREURS"
+@-1033= "INSTALLATION AVEC DES ALERTES"
+@-1034= "Souhaitez-vous afficher les instructions (ReadMe) ? [Y]Oui [N]on"
+@-1035= "Dans la langue"
+
+@-1036= "Saute le GROUPE ["
+@-1037= "] pour cause d'absence des pre-requis."
+
+@-1038= "dem[A]nder pour chaque composant, tout [S]auter, ou choisir une selection pre-definie :"
+@-1039= "dem[A]nder pour chaque composant, [R]einstaller la configuration courante, tout s[U]pprimer, tout [S]auter, ou choisir une selection pre-definie :"
+
+@-1040= "
+Veuillez choisir la langue dans laquelle vous souhaitez jouer au jeu.
+Si par la suite vous desirez jouer au jeu dans une langue differente, il vous
+faudra editer le fichier weidu.conf et reinstaller vos mods.
+"
+@-1041= "Tcheque"
+@-1042= "Allemand"
+@-1043= "Anglais"
+@-1044= "Espagnol"
+@-1045= "Francais"
+@-1046= "Italien"
+@-1047= "Polonais"
+@-1048= "Portugais"
+@-1049= "Turc"
+@-1050= "Japonais"
+@-1051= "Coreen"
+@-1052= "Chinois simplifie"
+@-1053= "Russe"
+@-1054= "Ukrainien"
+
+@-1060= "
+Ce jeu est disponible en plusieurs langues mais WeiDU ne sait pas laquelle a ete choisie quand ce mod a ete installe.
+
+Veuillez indiquer quelle langue du jeu a ete utilisee quand vous avez installe ce mod. Votre choix servira jusqu'a ce que WeiDU s'arrete mais ne sera pas memorise.
+"
+@-1061= "
+Utilisation de"
+@-1062= " et "
+
+@-1063= "INSTALLATION ABANDONNEE"
+@-1064= "Abandon de l'installation de ["
+@-1065= "], retour a l'etat anterieur"

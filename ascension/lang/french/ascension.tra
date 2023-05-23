@@ -1,170 +1,194 @@
+/////////////////////////////////////////////////////////////////////////
+// Creatures
+/////////////////////////////////////////////////////////////////////////
 @500 = ~Babau~
+
+/////////////////////////////////////////////////////////////////////////
+// Spells
+/////////////////////////////////////////////////////////////////////////
 @1003 = ~Transformation en chauve-souris~
-@1006 = ~Onde de Choc~
+@1006 = ~Onde de choc~
 @1007 = ~Aura électrique~
 @1009 = ~Télékinésie~
 @1012 = ~Inversion des résistances~
-@1013 = ~Contrôle de Démon~
+@1013 = ~Contrôle des démons~
 @1014 = ~Focalisation~
-@1016 = ~Manteau Divin~
+@1016 = ~Manteau divin~
 @1017 = ~Puiser de l'énergie~
 @1018 = ~Bouclier de sort divin~
-@1019 = ~Commandement de Démons~
-@1020 = ~Banissement~
+@1019 = ~Commandement des démons~
+@1020 = ~Bannissement~
 @1022 = ~Décharge~
 @1024 = ~Contrecoup~
-@1025 = ~Restauration Divine~
-@1026 = ~Eclaircissement Divin~
-@1027 = ~Aura de Paralysie~
-@1029 = ~Bombe de Lave~
+@1025 = ~Restauration divine~
+@1026 = ~Éclaircissement divin~
+@1027 = ~Aura de paralysie~
+@1029 = ~Bombe de lave~
 @1031 = ~Symbole : Lenteur~
-@1037 = ~Changement en Ravageur~
-@1038 = ~Mélissane : Commande les Créatures des Abysses~
-@1039 = ~Bhaalspawn Power gained: Immunity to Energy Drain~
-@1040 = ~Bhaalspawn Power gained: 25% physical damage resistance~
-@1041 = ~Transfixed~
-@1042 = ~Weapons weakened by Babau slime~
-@1043 = ~Grabbed~
-@1044 = ~Regains Bhaal powers~
-@1045 = ~You have regained control for now.~
-@1046 = ~Magic Resistance lowered by 5%~
-@1047 = ~Magic Resistance lowered by 5%~
-@1048 = ~Slayer transformation enhanced~
-@1049 = ~The demon bows to your will~
-@1050 = ~The demon defies your will~
-@1051 = ~This power only affects demons~
-@1052 = ~The demon bows to Melissan's will~
-@1053 = ~The demon defies Melissan's will~
-@1054 = ~Bhaalspawn Power gained: Unleash~
-@1055 = ~Bhaalspawn Power gained: immunity to death magic~
-@1056 = ~Bhaalspawn Power gained: immunity to vorpal effects~
-@1057 = ~Bhaalspawn Power gained: Dimension Door~
-@1058 = ~Bhaalspawn Power gained: Control Demons~
-@1059 = ~Bhaalspawn Power gained: immunity to Maze and Imprisonment~
-@1060 = ~Bhaalspawn Power gained: Focus~
-@1061 = ~Bhaalspawn Power gained: immunity to Taint of the Slayer~
-@1062 = ~Manteau Divin~
-@1063 = ~Magic Resistance Restored~
-@1064 = ~Antimagic Protections Removed~
-@1065 = ~Combat Protections Removed~
-@1066 = ~AI deactivated~
-@1067 = ~AI activated~
-@1068 = ~Lunar Malison~
-@2000 = ~Pouvoirs de l'Enfant de Bhaal
+@1037 = ~Transformation en Ravageur~
+@1038 = ~Mélissanne : Commande les créatures des Abysses~
+@1039 = ~Pouvoir de l'enfant de Bhaal acquis : Immunité au drain d'énergie~
+@1040 = ~Pouvoir de l'enfant de Bhaal acquis : 25 % de résistance aux dégâts physiques~
+@1041 = ~Figé(e)~
+@1042 = ~Armes affaiblies par la bave de Babau~
+@1043 = ~Agrippé(e)~
+@1044 = ~Recouvre les pouvoirs de l'enfant de Bhaal~
+@1045 = ~Vous avez repris le contrôle pour le moment.~
+@1046 = ~Résistance magique diminuée de 5 %~
+@1047 = ~Résistance magique diminuée de 5 %~
+@1048 = ~Forme d'Écorcheur améliorée~
+@1049 = ~Le démon se plie à votre volonté~
+@1050 = ~Le démon défie votre volonté~
+@1051 = ~Ce pouvoir n'affecte que les démons~
+@1052 = ~Le démon se plie à la volonté de Mélissanne~
+@1053 = ~Le démon défie la volonté de Mélissanne~
+@1054 = ~Pouvoir de l'enfant de Bhaal acquis : Décharge~
+@1055 = ~Pouvoir de l'enfant de Bhaal acquis : Immunité à la mort magique~
+@1056 = ~Pouvoir de l'enfant de Bhaal acquis : Immunité aux effets vorpalins~
+@1057 = ~Pouvoir de l'enfant de Bhaal acquis : Porte dimensionnelle~
+@1058 = ~Pouvoir de l'enfant de Bhaal acquis : Contrôle des démons~
+@1059 = ~Pouvoir de l'enfant de Bhaal acquis : Immunité au labyrinthe et à l'emprisonnement~
+@1060 = ~Pouvoir de l'enfant de Bhaal acquis : Focalisation~
+@1061 = ~Pouvoir de l'enfant de Bhaal acquis : Immunité au sceau de l'Écorcheur~
+@1062 = ~Don divin~
+@1063 = ~Résistance magique restaurée~
+@1064 = ~Protections contre la magie supprimées~
+@1065 = ~Protections de combat supprimées~
+@1066 = ~IA désactivée~
+@1067 = ~IA activée~
+@1068 = ~Calamité lunaire~
+
+/////////////////////////////////////////////////////////////////////////
+// Scripts
+/////////////////////////////////////////////////////////////////////////
+@2000 = ~Pouvoirs de l'enfant de Bhaal
 
 <CHARNAME> a acquis la capacité, utilisable une fois par jour : 
-Soin de masse (Nécromancie)
+Soin de masse
+(Nécromancie)
 
-Portée : Champ visuel du lanceur
+Portée : champ visuel du lanceur
 Durée : permanente 
 Temps d'incantation : 1
-Zone d'effet : rayon de 6 m
-Jet de Sauvegarde : Aucun 
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : aucun 
 
-Lorsqu'il utilise cette capacité, l'enfant de Bhaal doit se concentrer sur les visages de ses compagnons et sur l'unité du groupe. Une fois l'incantation achevée, tous les membres du groupe dans un rayon de 6 m reçoivent 2d8 points de vie + 2 / niveau. Ce soin concerne également : la fatigue, le poison, la maladie, la cécité et la surdité.~
-@2001 = ~Pouvoirs de l'Enfant de Bhaal
+Lorsqu'il utilise cette capacité, l'enfant de Bhaal doit se concentrer sur les visages de ses compagnons et sur l'unité du groupe. Une fois l'incantation achevée, tous les membres du groupe dans un rayon de 9 mètres récupèrent 2d8 points de vie + 2 par niveau du lanceur. Ce soin guérit également : la fatigue, le poison, la maladie, la cécité et la surdité.~
+@2001 = ~Pouvoirs de l'enfant de Bhaal
 
 <CHARNAME> a acquis la capacité, utilisable une fois par jour : 
-Régénération (Nécromancie)
+Régénération
+(Nécromancie)
 
-Portée : Contact
+Portée : contact
 Durée : 1 round par tranche de 2 niveaux
 Temps d'incantation : 7
-Zone d'effet : Créature ciblée
-Jet de Sauvegarde : Aucun 
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun 
 
-Cette puissante capacité permet à l'Enfant de Bhaal de prodiguer la capacité de régénération à une créature. Toutes ses blessures seront guéries et même les membres sectionnés repousseront grâce à ce sort. Le bénéficiaire récupérera 3 points de vie par seconde. La durée du sort est fixée à un nombre maximum de rounds égal à la moitié du niveau du lanceur. Par exemple, un prêtre de 14ème niveau régénérera ainsi 18 points de vie par round pendant 7 rounds.~
-@2002 = ~Pouvoirs de l'Enfant de Bhaal
+Cette puissante capacité permet à l'enfant de Bhaal de prodiguer à une créature la faculté de régénération. Toutes ses blessures seront guéries et même les membres sectionnés repousseront grâce à ce sort. Le bénéficiaire récupérera 3 points de vie par seconde. Les effets du sort durent un round par tranche de deux niveaux du lanceur ou jusqu'à ce qu'ils soient dissipés par une source extérieure. Par exemple, un personnage de niveau 14 régénérera ainsi 18 points de vie par round pendant 7 rounds.~
+@2002 = ~Pouvoirs de l'enfant de Bhaal
 
 <CHARNAME> a acquis la capacité, utilisable une fois par jour : 
-Puiser dans la puissance divine (Invocation)
+Puiser dans la puissance divine
+(Invocation)
 
 Portée : 0 
 Durée : 1 tour
 Temps d'incantation : 1
-Zone d'effet : lanceur
-Jet de Sauvegarde : Aucun 
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun 
 
-L'enfant de Bhaal sollicite l'essence de son père pour augmenter ses pouvoirs pendant une courte durée. Sa Force, sa Constitution et sa Dextérité gagnent alors 1 point par 3 niveaux du lanceur. Un lanceur du 3ème niveau verra ainsi ses caractéristiques gagner 1 point, alors qu'un lanceur du 12ème niveau les verra augmenter de +4.~
-@2003 = ~Pouvoirs de l'Enfant de Bhaal
+L'enfant de Bhaal puise dans le pouvoir de son essence divine pour augmenter ses caractéristiques pendant une courte durée. Lorsqu'il utilise cette faculté, sa Force, sa Constitution et sa Dextérité gagnent alors 1 point par tranche de 3 niveaux du lanceur. Un lanceur de niveau 3 verra ainsi ses caractéristiques gagner 1 point, alors qu'un lanceur de niveau 12 les verra augmenter de +4.~
+@2003 = ~Pouvoirs de l'enfant de Bhaal
 
 <CHARNAME> a acquis la capacité, utilisable une fois par jour : 
-Souffle de Bhaal (Nécromancie)
+Souffle de Bhaal
+(Nécromancie)
 
-Portée : 7 mètres
+Portée : 6 mètres
 Durée : 1 tour
 Temps d'incantation : 1
 Zone d'effet : 1 créature
-Jet de Sauvegarde : Annule
+Jet de sauvegarde : annule
 
 Cette capacité permet à l'enfant de Bhaal d'envelopper la victime dans le souffle vicié de son père. Cette dernière peut échapper à l'empoisonnement si elle réussit un jet de sauvegarde contre la mort. Les effets dépendent du niveau du lanceur :
 
-Niveaux 7 à 9 : 2D8 +2 / round, lenteur pendant 12 secondes, -2 au jet de sauvegarde
-Niveaux 10 à 12 : 3D8 +3 / round, lenteur pendant 12 secondes, -2 au jet de sauvegarde
-Niveaux 13 à 14 : 4D8 +4 / round, lenteur pendant 12 secondes, -2 au jet de sauvegarde
-Niveaux 15 à 16 : 6D8 +5 / round, lenteur pendant 24 secondes, -2 au jet de sauvegarde
-Niveaux 17 à 21 : 8D8 +6 / round, lenteur pendant 24 secondes, -4 au jet de sauvegarde
-Niveau 25 et plus : 8D8 +6 / round, lenteur pendant 36 secondes, -4 au jet de sauvegarde, un groupe entier de cibles est affecté~
-@2004 = ~Pouvoirs de l'Enfant de Bhaal
+Niveaux 7 à 9 : 2d8 +2 / round, lenteur pendant 12 secondes, -2 au jet de sauvegarde
+Niveaux 10 à 12 : 3d8 +3 / round, lenteur pendant 12 secondes, -2 au jet de sauvegarde
+Niveaux 13 à 14 : 4d8 +4 / round, lenteur pendant 12 secondes, -2 au jet de sauvegarde
+Niveaux 15 à 16 : 6d8 +5 / round, lenteur pendant 24 secondes, -2 au jet de sauvegarde
+Niveaux 17 à 21 : 8d8 +6 / round, lenteur pendant 24 secondes, -4 au jet de sauvegarde
+Niveau 25 et plus : 8d8 +6 / round, lenteur pendant 36 secondes, -4 au jet de sauvegarde, un groupe entier de cibles est affecté~
+@2004 = ~Pouvoirs de l'enfant de Bhaal
 
-<CHARNAME> a gagné la Protection Permanente Contre le Plan Négatif (par exemple, <CHARNAME> ne peut se faire drainer ses niveaux) et 5% de résistance magique.~
-@2005 = ~Pouvoirs de l'Enfant de Bhaal
+<CHARNAME> a acquis une protection permanente contre le plan négatif (par exemple, <CHARNAME> ne peut se faire drainer ses niveaux) et 5 % de résistance magique.~
+@2005 = ~Pouvoirs de l'enfant de Bhaal
 
-<CHARNAME>  a acquis la capacité, utilisable une fois par jour : 
-Main de Bhaal (Nécromancie)
+<CHARNAME> a acquis la capacité, utilisable une fois par jour : 
+Main de Bhaal
+(Nécromancie)
 
-Portée : lanceur
+Portée : le lanceur
 Durée : 1 round par tranche de 5 niveaux
 Temps d'incantation : 1
-Jet de Sauvegarde : Aucun 
+Jet de sauvegarde : aucun 
 
-Cette capacité permet à l'Enfant de Bhaal d'infliger des dégâts supplémentaires en mêlée avec l'arme de son choix (mains nues, épée, etc...) et d'absorber une partie de l'énergie vitale volée à la cible. L'effet varie en fonction du niveau du lanceur :
+Cette capacité permet à l'enfant de Bhaal d'infliger des dégâts supplémentaires en mêlée avec l'arme de son choix (mains nues, épée, etc.) et d'absorber une partie de l'énergie vitale volée à la cible. L'effet varie en fonction du niveau du lanceur :
 Niveau 10 : 2 rounds, 4 points de dégâts supplémentaires, 4 points de vie guéris
 Niveau 15 : 3 rounds, 6 points de dégâts supplémentaires, 6 points de vie guéris
 Niveau 20 : 4 rounds, 8 points de dégâts supplémentaires, 8 points de vie guéris
 Niveau 25 : 5 rounds, 10 points de dégâts supplémentaires, 10 points de vie guéris
 Niveau 30 : 6 rounds, 12 points de dégâts supplémentaires, 12 points de vie guéris~
-@2006 = ~Pouvoirs de l'Enfant de Bhaal
+@2006 = ~Pouvoirs de l'enfant de Bhaal
 
-<CHARNAME>  a acquis la capacité, utilisable une fois par jour : 
-Résurrection (Nécromancie)
+<CHARNAME> a acquis la capacité, utilisable une fois par jour : 
+Résurrection
+(Nécromancie)
 
-Portée : Contact
-Durée : permanent
+Portée : contact
+Durée : permanente
 Temps d'incantation : 1
-Zone d'effet : Créature ciblée
-Jet de Sauvegarde : Aucun
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
 
-Tout comme le sort de 5ème niveau de prêtre Rappel à la vie, Résurrection ramène un personnage à la vie. Il est cependant ressuscité avec le maximum de ses points de vie.~
-@2007 = ~Pouvoirs de l'Enfant de Bhaal
+Tout comme le sort divin de 5ème niveau Rappel à la vie, Résurrection ramène un personnage à la vie. Il est cependant ressuscité avec le maximum de ses points de vie, de manière à ce qu'il soit de nouveau prêt pour la vie d'aventurier.~
+@2007 = ~Pouvoirs de l'enfant de Bhaal
 
-<CHARNAME> a gagné 25% de résistance aux dégâts physiques (par exemple aux dégâts tranchants, perforants, contondants et aux Projectiles).~
-@2008 = ~Slayer Change ability improved~
-@3000 = ~Epée du Chaos +4~
-@3001 = ~Lame du Chaos de Sarevok
-Il s'agit de l'arme de Sarevok, frère de <CHARNAME>, qui fut utilisée dans la bataille de la Porte de Baldur. <CHARNAME> a gagné, ruinant ainsi les plans de Sarevok, et sauvant la Côte des Epées de la guerre. Maintenant, Sarevok s'est joint à la cause de <CHARNAME> et son épée lui a été rendue. Sarevok décrit cette arme comme une Lame Fatale et a restauré une partie des anciens pouvoirs de cet objet. Cependant, sans son essence d'Enfant de Bhaal pour nourrir l'épée, il n'a pu lui rendre la totalité du pouvoir qu'elle possédait autrefois. Quoiqu'il en soit, elle reste une arme formidable... et Sarevok prévient qu'elle deviendrait très difficile à utiliser dans les mains de quelqu'un qui ne fût pas un Porteur de Mort, voire impossible à utiliser.
+<CHARNAME> a acquis 25 % de résistance aux dégâts physiques (par exemple aux dégâts tranchants, perforants, contondants et aux projectiles).~
 
-PARAMETRES :
+@2008 = ~Capacité en forme d'Écorcheur améliorée~
 
-Capacités de combat : chaque coup porté draine de 1 à 5 points de vie de la cible et les transfère au porteur (qui ne peut pas dépasser son maximum).
+/////////////////////////////////////////////////////////////////////////
+// Items
+/////////////////////////////////////////////////////////////////////////
+@3000 = ~Épée du chaos +4~
+@3001 = ~Il s'agit de l'arme de Sarevok, frère de <CHARNAME>, qui fut utilisée dans la bataille de la Porte de Baldur. <CHARNAME> a gagné, ruinant ainsi les plans de Sarevok, et sauvant la Côte des Épées de la guerre. Maintenant, Sarevok s'est joint à la cause de <CHARNAME> et son épée lui a été rendue. Sarevok décrit cette arme comme une lame de semeur de mort et a restauré une partie des anciens pouvoirs de cet objet. Cependant, sans son essence d'enfant de Bhaal pour nourrir l'épée, il n'a pu lui rendre la totalité du pouvoir qu'elle possédait autrefois. Quoi qu'il en soit, elle reste une arme formidable... et Sarevok prévient qu'elle deviendrait très difficile (voire impossible) à utiliser dans les mains de quelqu'un qui ne fût pas un semeur de mort.
 
-La lame procure également +10% de Résistance à la Magie lorsqu'elle est équipée.
+PARAMÈTRES :
 
-Dégâts : 1D10 +4
+Capacités de combat : 
+- Chaque coup porté draine 1 à 5 points de vie de la cible et les transfère au porteur (qui ne peut pas dépasser son maximum).
+
+Capacités d'équipement :
+- Résistance à la magie : +10 %
+
+Dégâts : 1d10 +4
 TAC0 : +4
 Type de dégâts : tranchant
 Poids : 10
-Facteur de Vitesse : 8
-Type de compétence : Epée à 2 mains
-Type :  à 2 mains
-Prérequis : 14 en Force, 18 en Constitution
+Facteur de vitesse : 8
+Type de compétence : épée à deux mains
+Type : armes à 2 mains
+Nécessite : 14 en Force, 18 en Constitution
 Inutilisable par :
-Clerc
-Mage
-Paladin
-Rôdeur
-Druide
-Personnages d'alignement Non Chaotiques~
+ Clerc
+ Mage
+ Paladin
+ Rôdeur
+ Druide
+ Personnages d'alignement non chaotique~
+
 @3002 = ~Potion de Sendai~
 @3003 = ~Potion de Sendai
 Certainement confectionnée par Sendai elle-même, c'est une potion de soin d'une incroyable puissance capable de restaurer complètement les points de vie de celui qui la boit.~

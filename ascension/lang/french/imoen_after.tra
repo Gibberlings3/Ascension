@@ -1,27 +1,29 @@
-@477 = ~C'est... C'est fini... je suis à nouveau humaine. Ohhhh, maintenant je sais ce que tu as traversé, <CHARNAME> ! Je ne crois pas que je veuille à nouveau revivre ça !~
-@478 = ~Et je n'arrive pas à croire ce que tu as dit ! 'Vas-y tues-la' ? Après tout ce que nous avons vécu, c'est tout ce que tu trouves à dire pour ma défense ?!~
-@479 = ~J'étais en train d'essayer de convaincre Mélissane de te laisser tranquille, Imoen !~
-@480 = ~Accommodes-t'en, petite fille. Je ne t'ai jamais demandé de venir, n'est-ce pas ?~
+@477 = ~C'est... c'est fini... je suis à nouveau humaine. Ohhhh, maintenant je sais ce que tu as traversé, <CHARNAME> ! Je ne crois pas que je veuille à nouveau revivre ça !~
+@478 = ~Et je n'arrive pas à croire ce que tu as dit ! « Vas-y, tue-la » ? Après tout ce que nous avons vécu, c'est tout ce que tu trouves à dire pour ma défense ?!~
+@479 = ~J'étais en train d'essayer de convaincre Mélissanne de te laisser tranquille, Imoen !~
+@480 = ~Accommode-t'en, fillette. Je ne t'ai jamais demandé de venir, je me trompe ?~
 @481 = ~Nous n'avons pas le temps de discuter, Imoen ! Nous sommes au beau milieu d'un combat !~
-@482 = ~Bien... je suppose que c'était ton intention... tu m'as plus convaincue qu'elle visiblement. Je... je suis juste heureuse de ne pas avoir causé trop de dégâts en tant qu'Ecorcheuse. Je ne sais pas comment tu t'es débrouillé. Merci de... de ne pas m'avoir tuée.~
-@483 = ~Je... je ne peux rester ici. Je ne comprends rien à tout ça. Je te souhaite de réussir, <CHARNAME>, et j'espère que nous nous reverrons encore. Peut-être à Chateausuif, hein ? En tout cas... bonne chance...~
-@484 = ~Veux-tu que je te rejoigne ? Je pourrais... quitter le Trône, je pense... je pense que j'ai des pouvoirs assez semblables aux tiens maintenant. Je combattrais à nouveau à tes côtés si tu le désires.~
+@482 = ~Eh bien... je suppose que c'était ton intention... Tu m'as plus convaincue qu'elle, de toute évidence. Je... je suis juste heureuse de ne pas avoir causé trop de dégâts en tant qu'Écorcheur. Je ne sais pas comment tu as géré ça. Merci de... de ne pas m'avoir tuée.~
+@483 = ~Je... je ne peux pas rester ici, cependant. C'est bien au-delà de mes compétences. Je te souhaite de réussir, <CHARNAME>, et j'espère que nous nous reverrons encore. Peut-être à Château-Suif, hein ? En tout cas... bonne chance...~
+@484 = ~Veux-tu que je te rejoigne ? Je pourrais... quitter le trône, je... je pense que j'ai des pouvoirs assez semblables aux tiens maintenant. Je combattrai à nouveau à tes côtés si tu le désires.~
 @485 = ~Imoen a survécu
 
-Imoen a réussi à survivre à la tentative de Mélissane de la condamner à la forme d'Ecorcheuse. Il semble que ce faisant, Imoen a vu la maîtrise de son essence progresser de façon considérable. Elle peut désormais non seulement prendre la même forme d'Ecorcheur que celle que j'avais revêtu à Spellhold... mais a aussi acquis la capacité de devenir éthérée pour de brèves périodes.
+Imoen a réussi à survivre à la tentative de Mélissanne de la condamner à la forme d'Écorcheur. Il semble que ce faisant, Imoen a vu la maîtrise de son essence progresser de façon considérable. Elle peut désormais non seulement prendre la même forme d'Écorcheur que celle que j'avais revêtue à Spellhold... mais a aussi acquis la capacité de devenir éthérée pour de brèves périodes.
 
 Ethérée
 -------------
-Imoen peut à présent entrer dans le plan éthéré pour de brèves périodes. Cette capacité est utilisable une fois par minute, et son utilisation l'empêche de prendre la forme d'Ecorcheuse pendant une minute également. Imoen peut rester complètement éthérée et intangible sur ce plan pour un round complet... au cours duquel elle est invisible et complètement immunisée aux dégâts. Pendant ce round, elle est également dans l'impossibilité de jeter des sorts ou d'utiliser d'autres capacités.
-Pour les deux rounds suivants, Imoen peut rester en 'demi-phase'... partiellement éthérée et partiellement dans ce plan. Elle est toujours invisible mais ne reçoit que la moitié des dégâts de n'importe quelle source. Dans cet état, il y a une faible chance (10%) qu'elle puisse rater un sort. Pour la totalité des trois rounds, elle est capable de voir les cibles invisibles.~
+Imoen peut à présent entrer dans le plan éthéré pour de brèves périodes. Cette capacité est utilisable une fois par minute, et son utilisation l'empêche de prendre la forme d'Écorcheur pendant une minute également. Imoen peut rester complètement éthérée et intangible sur ce plan pour un round complet... au cours duquel elle est invisible et complètement immunisée aux dégâts. Pendant ce round, elle est également dans l'impossibilité de jeter des sorts ou d'utiliser d'autres capacités.
+
+Pour les deux rounds suivants, Imoen reste en « demi-phase »... partiellement éthérée et partiellement dans ce plan. Elle est toujours invisible mais ne reçoit que la moitié des dégâts de n'importe quelle source. Dans cet état, il y a une faible chance (10 %) qu'elle puisse rater un sort. Pour la totalité des trois rounds, elle est capable de voir les cibles invisibles.~
 @486 = ~Bien sûr. Reviens avec nous.~
 @487 = ~Non... enfuis-toi d'ici tant que tu le peux, Imoen.~
-@488 = ~Je te souhaite bon courage, <CHARNAME>, et j'espère que nous nous reverrons. Peut-être à Chateausuif, hein ? En tout cas... bonne chance...~
-@489 = ~D'accord. Fais ce que tu as à faire, <CHARNAME>. Moi... je vais partir loin d'ici tant que c'est possible. Au revoir !~
-@490 = ~Non en effet. Merci pour rien, Imoen... je vois. Fais ce que tu as à faire, <CHARNAME>. Moi... je vais partir loin d'ici tant que c'est possible. Au revoir !~
-@491 = ~Je suis... heureuse de n'avoir rien fait de pire pendant que j'étais... quand je... oh, je me demande comment tu as pu résister à ça toi-même à Spellhold. Merci... de ne pas m'avoir tuée...~
-@492 = ~Oh, d'accord ! As-tu besoin de moi dans ton groupe ? Je pourrais... quitter le Trône, je pense... je pense que j'ai des pouvoirs assez semblables aux tiens maintenant. Je combattrais à nouveau à tes côtés si tu le désires.~
-@493 = ~Je vois que nous sommes encore en plein combat. As-tu besoin de moi dans ton groupe ? Je pourrais... quitter le Trône, je pense... je pense que j'ai des pouvoirs assez semblables aux tiens maintenant. Je combattrais à nouveau à tes côtés si tu le désires.~
+@488 = ~Je te souhaite de réussir, <CHARNAME>, et j'espère que nous nous reverrons encore. Peut-être à Château-Suif, hein ? En tout cas... bonne chance...~
+@489 = ~Oui, c'est ça. Tu fais ce que tu as à faire, <CHARNAME>. Moi... je vais partir le plus loin possible d'ici. Au revoir !~
+@490 = ~Non, en effet. Merci pour rien... je suppose. Tu fais ce que tu as à faire, <CHARNAME>. Moi... je vais partir le plus loin possible d'ici. Au revoir !~
+@491 = ~Je suis... heureuse de n'avoir rien fait de pire pendant que j'étais... enfin quand je... oh, je me demande comment tu as pu résister à ça toi-même à Spellhold. Merci... de ne pas m'avoir tuée...~
+@492 = ~Oh, c'est vrai ! As-tu besoin de moi dans ton groupe ? Je pourrais... quitter le trône, je... je pense que j'ai des pouvoirs assez semblables aux tiens maintenant. Je combattrai à nouveau à tes côtés si tu le désires.~
+@493 = ~Je vois que nous sommes encore en plein combat. Hé ! As-tu besoin de moi dans ton groupe ? Je pourrais... quitter le trône, je... je pense que j'ai des pouvoirs assez semblables aux tiens maintenant. Mais j'aimerais aller jusqu'au bout, tout comme toi.~
 @494 = ~Cesse de me distraire en plein milieu du combat je t'ai dit ! Reviens dans le groupe !~
-@495 = ~Oui <PRO_SIRMAAM> ! (clin d'oeil !) Il est temps de botter les fesses de quelqu'un, hein ?~
-@1000 = ~Bhaalspawn powers granted~
+@495 = ~Oui môsieur ! *clin d'œil* Il est temps de botter les fesses d'une certaine personne, hein ?~ ~Oui m'dame ! *clin d'œil* Il est temps de botter les fesses d'une certaine personne, hein ?~
+
+@1000 = ~Pouvoirs de l'enfant de Bhaal octroyés~
