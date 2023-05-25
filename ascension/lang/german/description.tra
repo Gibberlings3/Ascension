@@ -1,11 +1,8 @@
-@1 = ~Imoen hat überlebt
+@1 = ~Ätherisch
 
-Imoen hat es geschafft zu überleben, als Melissan versuchte, sie in die Gestalt des Berserkerschlächters zu zwingen.  Es scheint, als sei Imoen dadurch in ihrem Makel ein großes Stück vorangeschritten.  Sie kann sich nicht nur in dieselbe Schlächtergestalt verwandeln, die bei mir damals in der Zauberfeste erschien... sondern sie erhielt auch die Fähigkeit, für kurze Zeit ätherisch zu werden.
+Imoen ist es nun möglich, für kurze Zeit die Ätherische Ebene zu betreten. Diese Fähigkeit kann einmal pro Minute benutzt werden, und sie wird dadurch ebenfalls für eine Minute daran gehindert, die Gestalt des Schlächters anzunehmen. Imoen kann für eine Runde völlig ätherisch und unerreichbar für Kräfte dieser Ebene werden. In dieser Zeit ist sie unsichtbar und vollständig immun gegenüber schädlichen Einflüssen; sie kann aber auch keine Zauber sprechen oder andere Fähigkeiten einsetzen.
 
-Ätherisch
--------------
-Imoen ist es nun möglich, für kurze Zeit die Ätherische Ebene zu betreten.  Diese Fähigkeit kann einmal pro Minute benutzt werden, und sie wird dadurch ebenfalls für eine Minute daran gehindert, die Gestalt des Schlächters anzunehmen.  Imoen kann für eine Runde völlig ätherisch und unerreichbar für Kräfte dieser Ebene werden.  In dieser Zeit ist sie unsichtbar und vollständig immun gegenüber schädlichen Einflüssen; sie kann aber auch keine Zauber sprechen oder andere Fähigkeiten einsetzen.
-Für zwei weitere Runden danach kann Imoen "halbzerteilt" sein: sie ist teilweise ätherisch und teilweise auf dieser Ebene.  Sie ist immer noch unsichtbar, erleidet aber halben Schaden von allen Angriffen.  In diesem Zustand besteht eine geringe Chance (10%), dass ein von ihr gesprochener Zauber versagt.  In allen drei Runden kann sie alle unsichtbaren Ziele sehen.~
+Für zwei weitere Runden danach kann Imoen "halbzerteilt" sein: sie ist teilweise ätherisch und teilweise auf dieser Ebene. Sie ist immer noch unsichtbar, erleidet aber halben Schaden von allen Angriffen. In diesem Zustand besteht eine geringe Chance (10%), dass ein von ihr gesprochener Zauber versagt. In allen drei Runden kann sie alle unsichtbaren Ziele sehen.~
 @6 = ~Beende Verwandlung zum Schlächter
 
 Diese Fähigkeit ermöglicht es Imoen die Verwandlung abbrechen und in ihre normale Form zurückzukehren.~
