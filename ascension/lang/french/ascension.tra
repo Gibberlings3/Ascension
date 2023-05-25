@@ -52,7 +52,7 @@
 @1068 = ~Calamité lunaire~
 @2000 = ~Pouvoirs de l'enfant de Bhaal
 
-<CHARNAME> a acquis la capacité, utilisable une fois par jour : 
+<CHARNAME> a acquis la capacité, utilisable une fois par jour :
 Soin de masse
 (Nécromancie)
 
@@ -65,7 +65,7 @@ Jet de sauvegarde : aucun
 Lorsqu'il utilise cette capacité, l'enfant de Bhaal doit se concentrer sur les visages de ses compagnons et sur l'unité du groupe. Une fois l'incantation achevée, tous les membres du groupe dans un rayon de 9 mètres récupèrent 2d8 points de vie + 2 par niveau du lanceur. Ce soin guérit également : la fatigue, le poison, la maladie, la cécité et la surdité.~
 @2001 = ~Pouvoirs de l'enfant de Bhaal
 
-<CHARNAME> a acquis la capacité, utilisable une fois par jour : 
+<CHARNAME> a acquis la capacité, utilisable une fois par jour :
 Régénération
 (Nécromancie)
 
@@ -78,7 +78,7 @@ Jet de sauvegarde : aucun
 Cette puissante capacité permet à l'enfant de Bhaal de prodiguer à une créature la faculté de régénération. Toutes ses blessures seront guéries et même les membres sectionnés repousseront grâce à ce sort. Le bénéficiaire récupérera 3 points de vie par seconde. Les effets du sort durent un round par tranche de deux niveaux du lanceur ou jusqu'à ce qu'ils soient dissipés par une source extérieure. Par exemple, un personnage de niveau 14 régénérera ainsi 18 points de vie par round pendant 7 rounds.~
 @2002 = ~Pouvoirs de l'enfant de Bhaal
 
-<CHARNAME> a acquis la capacité, utilisable une fois par jour : 
+<CHARNAME> a acquis la capacité, utilisable une fois par jour :
 Puiser dans la puissance divine
 (Invocation)
 
@@ -91,7 +91,7 @@ Jet de sauvegarde : aucun
 L'enfant de Bhaal puise dans le pouvoir de son essence divine pour augmenter ses caractéristiques pendant une courte durée. Lorsqu'il utilise cette faculté, sa Force, sa Constitution et sa Dextérité gagnent alors 1 point par tranche de 3 niveaux du lanceur. Un lanceur de niveau 3 verra ainsi ses caractéristiques gagner 1 point, alors qu'un lanceur de niveau 12 les verra augmenter de +4.~
 @2003 = ~Pouvoirs de l'enfant de Bhaal
 
-<CHARNAME> a acquis la capacité, utilisable une fois par jour : 
+<CHARNAME> a acquis la capacité, utilisable une fois par jour :
 Souffle de Bhaal
 (Nécromancie)
 
@@ -131,7 +131,7 @@ Niveau 25 : 5 rounds, 10 points de dégâts supplémentaires, 10 points de vie guér
 Niveau 30 : 6 rounds, 12 points de dégâts supplémentaires, 12 points de vie guéris~
 @2006 = ~Pouvoirs de l'enfant de Bhaal
 
-<CHARNAME> a acquis la capacité, utilisable une fois par jour : 
+<CHARNAME> a acquis la capacité, utilisable une fois par jour :
 Résurrection
 (Nécromancie)
 

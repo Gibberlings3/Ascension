@@ -57,7 +57,8 @@ La forme d'Écorcheur a tout comme vous gagné en puissance et vous confère les av
 - PLUS_SIGN_PLACEHOLDER 150 points de vie
 - Régénère 2 points de vie par seconde
 - Immunité à l'emprisonnement, au drain de niveau, à l'étourdissement, à la peur, au charme, à la confusion, au sommeil et aux attaques de projectiles.
-- Risque de perdre le contrôle : 10 %, plus un cumul de 5 % par round.~
+- Risque de perdre le contrôle : 10 %, plus un cumul de 5 % par round.
+~
 @11 = ~Transformation en Écorcheur
 
 Lorsque vous utilisez cette capacité, vous prenez la forme de l'essence brutale de Bhaal : une créature violente et puissante faite de crocs et de griffes. L'utilisation de cette capacité réduit votre réputation de deux points, car même ceux qui ne sont pas témoins de l'événement peuvent ressentir que vous avez succombé à votre instinct, et à la corruption qui en résulte.
@@ -106,11 +107,11 @@ En tant que Ravageur, vous bénéficiez des avantages supplémentaires suivants :
 - Résistance aux dégâts élémentaires fixée à 50 %
 - Résistance aux dégâts magiques fixée à 50 %
 - Attaques par round fixées à 5 (3d8 de dégâts contondants +8 dégâts de froid)
-- Les chances de lancer Dissipation de la magie au toucher passent à 20 %.
+- Les chances de lancer Dissipation de la magie au toucher passent à 20 %
 - TAC0 fixé à -12
 - PLUS_SIGN_PLACEHOLDER 250 points de vie
 - Régénère 5 points de vie par seconde
-- Le risque de perdre le contrôle passe à 40 %, plus un risque cumulatif de 10 % par round.~
+- Le risque de perdre le contrôle passe à 40 %, plus un risque cumulatif de 10 % par round~
 @13 = ~Transformation en Écorcheur
 
 Quand Imoen utilise cette capacité, elle prend la forme de l'essence brutale de Bhaal : une créature violente et puissante faite de crocs et de griffes.
@@ -128,7 +129,7 @@ La forme d'Écorcheur confère les avantages suivants :
 
 Peut-être parce qu'Imoen possède moins d'essence de Bhaal que <CHARNAME>, ou peut-être à cause de ce qu'elle a appris après que Mélissanne ait fait appel à son essence, elle est plus à même de contenir le pouvoir de l'Écorcheur, et n'a aucune chance de perdre le contrôle lorsqu'elle est sous la forme d'Écorcheur.~
 @14 = ~Pouvoirs de l'enfant de Bhaal octroyés~
-@15 = ~Imoen peut maintenant se transformer en Écorcheur à volonté, et peut entrer dans le plan éthéré une fois par minute.~
+@15 = ~Imoen peut maintenant se transformer en Écorcheur à volonté, et peut entrer dans le plan éthéré une fois par minute~
 @16 = ~Contrôle des démons
 
 Portée : champ visuel du lanceur
