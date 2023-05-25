@@ -94,9 +94,9 @@ DESCRIPCIÓN:
 El Engendro de Bhaal llama al poder de su sangre para darle poder durante un corto período. Cuando haga esto, su fuerza, constitución y destreza serán elevadas en 1 punto por cada 3 niveles del lanzador. Un lanzador de tercer nivel elevaría sus características en 1, mientras que un lanzador de nivel 12 elevaría sus características en 4.~
 @2003 = ~Poderes de Engendro de Bhaal
 
-<CHARNAME> ha obtenido la aptitud, utilizable una vez por día: 
+<CHARNAME> ha obtenido la aptitud, utilizable una vez por día:
 
-Mancha oscura (Nigromancia) 
+Mancha oscura (Nigromancia)
 Alcance: 20 pies
 Duración: 1 turno
 Tiempo de lanzamiento: 1
@@ -117,9 +117,9 @@ Nivel 25+: 8d8 + 6/asalto, ralentizado 36 segundos, salvación a -4, afecta a un 
 <CHARNAME> ha obtenido protección permanente contra el plano negativo (p.e., a <CHARNAME> no se le pueden drenar niveles) y un 5% de resistencia mágica.~
 @2005 = ~Poderes de Engendro de Bhaal
 
-<CHARNAME> ha obtenido la aptitud, utilizable una vez por día: 
+<CHARNAME> ha obtenido la aptitud, utilizable una vez por día:
 
-Mano del asesinato (Nigromancia) 
+Mano del asesinato (Nigromancia)
 Alcance: Lanzador
 Duración: 1 asalto/5 niveles
 Tiempo de lanzamiento: 1
@@ -136,7 +136,7 @@ Los efectos varían dependiendo del nivel:
 30º: 6 asaltos, daño extra 12 pg, cura 12 pg~
 @2006 = ~Poderes de Engendro de Bhaal
 
-<CHARNAME> ha obtenido la aptitud, utilizable una vez por día: 
+<CHARNAME> ha obtenido la aptitud, utilizable una vez por día:
 
 Resurrección (Nigromancia)
 Alcance: Toque

@@ -136,7 +136,7 @@ Perhaps because Imoen has less of Bhaal's essence than <CHARNAME> - or perhaps b
 @15 = ~Imoen can now change into the Slayer at will, and can enter the Ethereal plane once per minute~
 @16 = ~Controlar Demonio
 
-Alcance:  visión
+Alcance: visión
 Tiempo de Lanzamiento: 1
 Duración: especial
 Área de Efecto: un demonio
@@ -152,15 +152,15 @@ Duración: Instantáneo
 Tirada de salvación: 1/2 + especial
 
 La habilidad de "Liberar" os permite soltar vuestro poder interior hacia un objetivo que este dentro del rango de contacto, golpeándole con un DICENUMBER_PLACEHOLDERd12 puntos de daño mágico (la mitad si supera una tirada de salvación contra muerte a -4) y le envía volando en dirección contraria a vos, e incluso puede dejarlo inconsciente durante un corto periodo de tiempo. Esta habilidad sólo deberíais usarla una vez cada treinta segundos... y después de usarla los hijos de Bhaal se fatigan enormemente y tienen un 25% de errar conjuro en todos los hechizos durante 2 turnos. Debido a la cantidad de esencia divina usada, la forma del Asesino no estará disponible durante treinta segundos.~
-@18 = ~Focus
+@18 = ~Enfoque
 
-Range: 0
-Casting Time: 1
-Duration: 5 rounds
-Area of Effect: Caster
-Saving Throw: None
+Alcance: 0
+Tiempo de lanzamiento: 1
+Duración: 5 asaltos
+Área de Efecto: El lanzador
+Tirada de Salvación: Ninguna
 
-This ability allows the Bhaalspawn to focus <PRO_HISHER> energy within <PRO_HIMHER> to resist spell effects from without. For a 30-second duration, the Bhaalspawn becomes immune to the spells Flesh to Stone, Disintegration and Time Stop. All minor spells of 1st through 3rd level will also not affect the Bhaalspawn. This ability is useable once per minute.~
+Esta habilidad permite al Bhaalspawn concentrar energía <PRO_HISHER> dentro de <PRO_HIMHER> para resistir los efectos de hechizos del exterior. Durante 30 segundos, el Bhaalspawn se vuelve inmune a los hechizos Carne a Piedra, Desintegración y Detener el Tiempo. Además, los hechizos menores de niveles 1º a 3º tampoco afectarán al Bhaalspawn. Esta habilidad puede utilizarse una vez por minuto.~
 @19 = ~Dimension Door
 
 Range: Infinite
