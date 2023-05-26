@@ -1,7 +1,7 @@
 # Files detected as text
 * text=auto
 
-# Required for hive.bgforge.net
+# Fix Git mess for hive.bgforge.net
 *.po text eol=lf
 *.pot text eol=lf
 
