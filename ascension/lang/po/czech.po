@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2023-05-25 20:51+0000\n"
+"PO-Revision-Date: 2023-05-27 11:04+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: Czech <https://tra.bgforge.net/projects/infinity-engine/"
 "ascension/cs/>\n"
@@ -4228,16 +4228,20 @@ msgid ""
 "would become increasingly difficult to wield in the hands of one who was not"
 " a Deathbringer, if they could use it at all."
 msgstr ""
+"Leč stále je to strašlivá zbraň... a Sarevok varuje, že když se pokusí "
+"použít zbraň někdo, kdo není Smrtonošem, moc zbraně bude omezená."
 
 #: items-ee.tra:3005
 msgid ""
 "Still, however, it is a formidable weapon... and one that only a "
 "Deathbringer of Sarevok's skill and power can wield."
 msgstr ""
+"Přesto je to hrozivá zbraň, kterou může ovládat jen Smrtonoš se Sarevokovými "
+"schopnostmi a mocí."
 
 #: items-ee.tra:3006
 msgid "Only Sarevok can use this weapon."
-msgstr ""
+msgstr "Tuto zbraň může používat pouze Sarevok."
 
 #: mel_balth.tra:591
 msgid ""
