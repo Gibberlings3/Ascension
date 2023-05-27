@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2023-05-27 10:51+0000\n"
+"PO-Revision-Date: 2023-05-27 11:04+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -3369,11 +3369,12 @@ msgstr "沙洛弗克说不是死亡使者的人最好不要碰这把剑。"
 msgid ""
 "Still, however, it is a formidable weapon... and one that only a "
 "Deathbringer of Sarevok's skill and power can wield."
-msgstr ""
+msgstr "然而，它仍然是一件令人生畏的武器……而且只有拥有沙洛佛克技能和力量的死亡使者才"
+"能使用。"
 
 #: items-ee.tra:3006
 msgid "Only Sarevok can use this weapon."
-msgstr ""
+msgstr "只有沙洛佛克可以使用这把武器。"
 
 #: mel_balth.tra:591
 #, fuzzy
