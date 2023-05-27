@@ -4,9 +4,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2023-05-25 17:22+0000\n"
+"PO-Revision-Date: 2023-05-27 10:51+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
-"Language-Team: Chinese (Traditional) <https://tra.bgforge.net/projects/infinity-engine/ascension/tchinese/>\n"
+"Language-Team: Chinese (Traditional) <https://tra.bgforge.net/projects/"
+"infinity-engine/ascension/tchinese/>\n"
 "Language: tchinese\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3161,17 +3162,18 @@ msgid ""
 "Still, however, it is a formidable weapon... and one that Sarevok warns "
 "would become increasingly difficult to wield in the hands of one who was not"
 " a Deathbringer, if they could use it at all."
-msgstr ""
+msgstr "沙洛弗克說不是死亡使者的人最好不要碰這把劍。"
 
 #: items-ee.tra:3005
 msgid ""
 "Still, however, it is a formidable weapon... and one that only a "
 "Deathbringer of Sarevok's skill and power can wield."
-msgstr ""
+msgstr "然而，它仍然是一件令人生畏的武器……而且只有擁有沙洛佛克技能和力量的死亡使者才"
+"能使用。"
 
 #: items-ee.tra:3006
 msgid "Only Sarevok can use this weapon."
-msgstr ""
+msgstr "只有沙洛佛克可以使用這把武器。"
 
 #: mel_balth.tra:591
 #, fuzzy
@@ -3564,14 +3566,15 @@ msgid ""
 msgstr "梅麗珊已經在能量柱內開始活動了﹐一旦這個能量池被吸干﹐最後的決戰就要開始了。"
 
 #: sarevok_sword.tra:275
-#, fuzzy
 msgid ""
 "My blade, is it? I had thought this lost forever. It is good to have it "
 "back. While I no longer have the essence to channel through it, it is still "
 "a Deathbringer's weapon and I can restore much of its power. I would not "
 "suggest you attempt to use it yourself, now."
 msgstr ""
-"我心愛的劍﹐不是麼﹖我以為它永遠離開了我。太好了﹐即使現在我沒有原來的天賦來跟它溝通﹐他仍舊是一把死亡使者的武器﹐我仍舊可以恢復它的大部份力量﹐不過我建議你以後不要試圖使用它。"
+"我心愛的劍﹐不是麼﹖我以為它永遠離開了我。太好了﹐即使現在我沒有原來的天賦來"
+"跟它溝通﹐他仍舊是一把死亡使者的武器﹐我仍舊可以恢復它的大部份力量﹐不過我建"
+"議你以後不要試圖使用它。"
 
 #: sarevok_sword.tra:276
 #, fuzzy
