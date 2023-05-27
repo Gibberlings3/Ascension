@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2023-05-25 21:08+0000\n"
+"PO-Revision-Date: 2023-05-27 10:51+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: Spanish <https://tra.bgforge.net/projects/infinity-engine/"
 "ascension/es/>\n"
@@ -3999,16 +3999,21 @@ msgid ""
 "would become increasingly difficult to wield in the hands of one who was not"
 " a Deathbringer, if they could use it at all."
 msgstr ""
+"Todavía, a pesar de todo, es un arma formidable... y algo que Sarevok "
+"advierte es que sería más difícil de manejar en manos de alguien que no sea "
+"un portador de la muerte, si pudiera usarla claro."
 
 #: items-ee.tra:3005
 msgid ""
 "Still, however, it is a formidable weapon... and one that only a "
 "Deathbringer of Sarevok's skill and power can wield."
 msgstr ""
+"Sin embargo, es un arma formidable... que sólo un Portador de la Muerte con "
+"la habilidad y el poder de Sarevok puede blandir."
 
 #: items-ee.tra:3006
 msgid "Only Sarevok can use this weapon."
-msgstr ""
+msgstr "Sólo Sarevok puede usar esta arma."
 
 #: mel_balth.tra:591
 msgid ""
