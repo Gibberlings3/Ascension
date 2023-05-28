@@ -125,6 +125,7 @@ HARDEST	0	        0
 	
 	SILENT
 	LAF check_ini STR_VAR ini=force_tra_rebuild RET force_tra_rebuild=value END
+        // when using HANDLE_CHARSETS with from_utf8 = 1, first remove all lines from the .gitattributes  that contain 'working-tree-encoding=xxxxx'
         LAF handle_charsets_immutably INT_VAR force_tra_rebuild STR_VAR tra_base=lang RET scs_tra_loc END
 		OUTER_SPRINT ascension_tra_loc "%scs_tra_loc%"
 

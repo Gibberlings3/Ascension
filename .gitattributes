@@ -1,3 +1,19 @@
+#  It makes git diff pretty
+ascension/lang/czech/**.tra                  working-tree-encoding=cp1250
+ascension/lang/french/**.tra                 working-tree-encoding=cp1252
+ascension/lang/german/**.tra                 working-tree-encoding=cp1252
+ascension/lang/hungarian/**.tra              working-tree-encoding=cp1250
+ascension/lang/italian/**.tra                working-tree-encoding=cp1252
+ascension/lang/korean/**.tra                 working-tree-encoding=cp949
+ascension/lang/polish/**.tra                 working-tree-encoding=cp1250
+ascension/lang/portuguese/**.tra             working-tree-encoding=cp1252
+ascension/lang/russian/**.tra                working-tree-encoding=cp1251
+ascension/lang/spanish/**.tra                working-tree-encoding=cp1252
+ascension/lang/swedish/**.tra                working-tree-encoding=cp1252
+ascension/lang/schinese/**.tra               working-tree-encoding=cp936
+ascension/lang/tchinese/**.tra               working-tree-encoding=cp950
+ascension/lang/ukrainian/**.tra              working-tree-encoding=cp1251
+
 # Files detected as text
 * text=auto
 
