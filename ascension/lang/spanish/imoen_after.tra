@@ -1,27 +1,27 @@
-@477 = ~Esto... esto marcha... soy humana otra vez. ¡Ohhhh, ahora se por lo que pasásteis, <CHARNAME>! ¡No se si quisiera pasar de nuevo por esto!~
-@478 = ~¡Y no puedo creer lo que estáis diciendo! ¿'Continuad y matadla'? Después de todo lo que hemos pasado, ¡¿eso es lo que tenéis que decir en mi defensa?!~
-@479 = ~¡Yo estaba intentando convencer a Melissan para que os dejara, Imoen!~
-@480 = ~Superadlo, chiquilla. Nunca os pedí que viniérais, ¿No?~
-@481 = ~¡No tenemos tiempo para esta charla, Imoen! ¡Esto es el centro de una pelea!~
-@482 = ~Bien... lo supongo. Me habéis convencido más que a ella, obviamente. Yo... estoy ahora contenta. No puedo hacer más daño que el Asesino. No se como lo controlas. Gracias por... por no matarme.~
-@483 = ~No... no puedo estar aqui. Éste es un camino de salida de mi alianza. Deseo vuestro bien, <CHARNAME>, y espero volver a veros otra vez. Tal vez vuelva a Candelero, ¿huh? De todas modos... buena suerte...~
-@484 = ~¿Me necesitáis para volver con vos? Yo podría... dejar el Trono, creo... creo que tengo ese poder, ahora, al igual que vos. Pero volveré a pelear junto a vos de nuevo, si vos lo queréis.~
+@477 = ~Esto... esto marcha... soy humana otra vez. Â¡Ohhhh, ahora se por lo que pasÃ¡steis, <CHARNAME>! Â¡No se si quisiera pasar de nuevo por esto!~
+@478 = ~Â¡Y no puedo creer lo que estÃ¡is diciendo! Â¿'Continuad y matadla'? DespuÃ©s de todo lo que hemos pasado, Â¡Â¿eso es lo que tenÃ©is que decir en mi defensa?!~
+@479 = ~Â¡Yo estaba intentando convencer a Melissan para que os dejara, Imoen!~
+@480 = ~Superadlo, chiquilla. Nunca os pedÃ­ que viniÃ©rais, Â¿No?~
+@481 = ~Â¡No tenemos tiempo para esta charla, Imoen! Â¡Esto es el centro de una pelea!~
+@482 = ~Bien... lo supongo. Me habÃ©is convencido mÃ¡s que a ella, obviamente. Yo... estoy ahora contenta. No puedo hacer mÃ¡s daÃ±o que el Asesino. No se como lo controlas. Gracias por... por no matarme.~
+@483 = ~No... no puedo estar aqui. Ã‰ste es un camino de salida de mi alianza. Deseo vuestro bien, <CHARNAME>, y espero volver a veros otra vez. Tal vez vuelva a Candelero, Â¿huh? De todas modos... buena suerte...~
+@484 = ~Â¿Me necesitÃ¡is para volver con vos? Yo podrÃ­a... dejar el Trono, creo... creo que tengo ese poder, ahora, al igual que vos. Pero volverÃ© a pelear junto a vos de nuevo, si vos lo querÃ©is.~
 @485 = ~Imoen ha sobrevivido
 
-Imoen logró sobrevivir a la tentativa de Melissan de convertirla en una forma de frenética Asesina. Parece ser que, Imoen ha tenido sus propios pogresos en un defecto considerablemente deserrollado. Ella ahora no sólo puede convertirse en la misma forma de Asesino que yo comencé a convertirme en la Prisión del Hechicero... si no que también ha adquirido la habilidad de ser Etérea durante cortos periodos de tiempo.
+Imoen logrÃ³ sobrevivir a la tentativa de Melissan de convertirla en una forma de frenÃ©tica Asesina. Parece ser que, Imoen ha tenido sus propios pogresos en un defecto considerablemente deserrollado. Ella ahora no sÃ³lo puede convertirse en la misma forma de Asesino que yo comencÃ© a convertirme en la PrisiÃ³n del Hechicero... si no que tambiÃ©n ha adquirido la habilidad de ser EtÃ©rea durante cortos periodos de tiempo.
 
-Etéreo
+EtÃ©reo
 -------------
-Imoen puede ahora entrar en el Plano Etéreo por cortos periodos de tiempo. La habilidad puede ser usada una vez por minuto, y su uso también la previene de asumir la forma del Asesino durante un minuto. Imoen puede permanecer etérea e intocable a las fuerzas de este plano durante todo un turno... durante el cual es invisible y completamente inmune al daño. Durante ese turno, ella tampoco puede lanzar conjuros o usar habilidades.
-Durante los dos turnos posteriores, Imoen puede permanecer 'en semi-fase'... ella es parcialmente en el plano etéreo y parcialmente en este plano. Es aún invisible, pero recibe la mitad de daño de cualquier origen. En este estado, hay una pequeña probabilidad (10%) de que calcule mal un conjuro. Durante tres turnos, ella puede ver objetivos invisibles.~
+Imoen puede ahora entrar en el Plano EtÃ©reo por cortos periodos de tiempo. La habilidad puede ser usada una vez por minuto, y su uso tambiÃ©n la previene de asumir la forma del Asesino durante un minuto. Imoen puede permanecer etÃ©rea e intocable a las fuerzas de este plano durante todo un turno... durante el cual es invisible y completamente inmune al daÃ±o. Durante ese turno, ella tampoco puede lanzar conjuros o usar habilidades.
+Durante los dos turnos posteriores, Imoen puede permanecer 'en semi-fase'... ella es parcialmente en el plano etÃ©reo y parcialmente en este plano. Es aÃºn invisible, pero recibe la mitad de daÃ±o de cualquier origen. En este estado, hay una pequeÃ±a probabilidad (10%) de que calcule mal un conjuro. Durante tres turnos, ella puede ver objetivos invisibles.~
 @486 = ~Seguro. Dejadla unirse de nuevo.~
-@487 = ~No... salid de aqui mientras podáis, Imoen.~
-@488 = ~Deseo vuestro bien, <CHARNAME>, y espero veros otra vez. Quizás vuelva a Candelero, ¿huh? De cualquier forma... buena suerte...~
-@489 = ~Sí, de acuerdo. Haced lo que sea que tengáis que hacer, <CHARNAME>. Yo... me alejaré de aquí tanto como me sea posible. ¡Adiós!~
-@490 = ~No, vos seguramente no. Gracias por nada, supongo. Haced lo que sea que tengáis que hacer, <CHARNAME>. Yo... me alejaré de aquí tanto como me sea posible. ¡Adios!~
-@491 = ~Estoy... contenta, no hice nada peor mientras estuve... cuando yo... oh, yo no se como lo manejásteis conteniéndolo en la Prisión del Hechicero. Gracias por... no matarme, ¿vale?~
-@492 = ~¡Oh, asi qué es eso! ¿Me necesitáis de vuelta en el grupo? Yo podría... dejar el Trono, pienso... pienso que tengo ese poder, ahora, como vos. Pero lucharé junto a vos de nuevo, si me queréis para ello.~
-@493 = ~Veo que la batalla todavía continúa. ¿Me necesitáis de nuevo en el grupo? Podría... podría dejar el Trono, creo... creo que tengo ese poder, ahora, al igual que vos. Pero me gustaría ver esto hasta el final, como vos.~
-@494 = ~¡Dejad ya de distraerme en medio de la batalla! ¡Volved al grupo!~
-@495 = ~¡Si <PRO_SIRMAAM>! (risa nerviosa) ¿Es tiempo de patear el culo de alguien, cierto?~
+@487 = ~No... salid de aqui mientras podÃ¡is, Imoen.~
+@488 = ~Deseo vuestro bien, <CHARNAME>, y espero veros otra vez. QuizÃ¡s vuelva a Candelero, Â¿huh? De cualquier forma... buena suerte...~
+@489 = ~SÃ­, de acuerdo. Haced lo que sea que tengÃ¡is que hacer, <CHARNAME>. Yo... me alejarÃ© de aquÃ­ tanto como me sea posible. Â¡AdiÃ³s!~
+@490 = ~No, vos seguramente no. Gracias por nada, supongo. Haced lo que sea que tengÃ¡is que hacer, <CHARNAME>. Yo... me alejarÃ© de aquÃ­ tanto como me sea posible. Â¡Adios!~
+@491 = ~Estoy... contenta, no hice nada peor mientras estuve... cuando yo... oh, yo no se como lo manejÃ¡steis conteniÃ©ndolo en la PrisiÃ³n del Hechicero. Gracias por... no matarme, Â¿vale?~
+@492 = ~Â¡Oh, asi quÃ© es eso! Â¿Me necesitÃ¡is de vuelta en el grupo? Yo podrÃ­a... dejar el Trono, pienso... pienso que tengo ese poder, ahora, como vos. Pero lucharÃ© junto a vos de nuevo, si me querÃ©is para ello.~
+@493 = ~Veo que la batalla todavÃ­a continÃºa. Â¿Me necesitÃ¡is de nuevo en el grupo? PodrÃ­a... podrÃ­a dejar el Trono, creo... creo que tengo ese poder, ahora, al igual que vos. Pero me gustarÃ­a ver esto hasta el final, como vos.~
+@494 = ~Â¡Dejad ya de distraerme en medio de la batalla! Â¡Volved al grupo!~
+@495 = ~Â¡Si <PRO_SIRMAAM>! (risa nerviosa) Â¿Es tiempo de patear el culo de alguien, cierto?~
 @1000 = ~Bhaalspawn powers granted~

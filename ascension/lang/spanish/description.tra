@@ -1,33 +1,33 @@
-@1 = ~EtÈreo
+@1 = ~Et√©reo
 
-Imoen puede ahora entrar en el Plano EtÈreo por cortos periodos de tiempo. La habilidad puede ser usada una vez por minuto, y su uso tambiÈn la previene de asumir la forma del Asesino durante un minuto. Imoen puede permanecer etÈrea e intocable a las fuerzas de este plano durante todo un turno... durante el cual es invisible y completamente inmune al daÒo. Durante ese turno, ella tampoco puede lanzar conjuros o usar habilidades.
+Imoen puede ahora entrar en el Plano Et√©reo por cortos periodos de tiempo. La habilidad puede ser usada una vez por minuto, y su uso tambi√©n la previene de asumir la forma del Asesino durante un minuto. Imoen puede permanecer et√©rea e intocable a las fuerzas de este plano durante todo un turno... durante el cual es invisible y completamente inmune al da√±o. Durante ese turno, ella tampoco puede lanzar conjuros o usar habilidades.
 
-Durante los dos turnos posteriores, Imoen puede permanecer 'en semi-fase'... ella es parcialmente en el plano etÈreo y parcialmente en este plano. Es a˙n invisible, pero recibe la mitad de daÒo de cualquier origen. En este estado, hay una pequeÒa probabilidad (10%) de que calcule mal un conjuro. Durante tres turnos, ella puede ver objetivos invisibles.~
+Durante los dos turnos posteriores, Imoen puede permanecer 'en semi-fase'... ella es parcialmente en el plano et√©reo y parcialmente en este plano. Es a√∫n invisible, pero recibe la mitad de da√±o de cualquier origen. En este estado, hay una peque√±a probabilidad (10%) de que calcule mal un conjuro. Durante tres turnos, ella puede ver objetivos invisibles.~
 @6 = ~End Slayer Change
 
 This ability allows Imoen to cancel her transformation and return to her usual form.~
-@7 = ~RegeneraciÛn
+@7 = ~Regeneraci√≥n
 
 Alcance: Toque
-DuraciÛn: 1 asalto/2 niveles
+Duraci√≥n: 1 asalto/2 niveles
 Tiempo de lanzamiento: 7
-¡rea de efecto: Criatura objetivo
-Tirada de salvaciÛn: No
+√Årea de efecto: Criatura objetivo
+Tirada de salvaci√≥n: No
 
-DESCRIPCI”N:
+DESCRIPCI√ìN:
 
-Esta poderosa aptitud permite al Engendro de Bhaal imbuir a una criatura con la habilidad de regenerarse. Esta regeneraciÛn curar· cualquier herida e incluso regenerar· extremidades perdidas. La criatura afectada recuperar· 3 puntos de golpe por segundo. El efecto permanece 1 asalto por cada 2 niveles del lanzador o hasta que sea disipado. Por ejemplo, un personaje de nivel 14 regenerarÌa 18 puntos de golpe por asalto durante 7 asaltos.~
-@8 = ~ResurrecciÛn
+Esta poderosa aptitud permite al Engendro de Bhaal imbuir a una criatura con la habilidad de regenerarse. Esta regeneraci√≥n curar√° cualquier herida e incluso regenerar√° extremidades perdidas. La criatura afectada recuperar√° 3 puntos de golpe por segundo. El efecto permanece 1 asalto por cada 2 niveles del lanzador o hasta que sea disipado. Por ejemplo, un personaje de nivel 14 regenerar√≠a 18 puntos de golpe por asalto durante 7 asaltos.~
+@8 = ~Resurrecci√≥n
 
 Alcance: Toque
-DuraciÛn: Permanente
+Duraci√≥n: Permanente
 Tiempo de lanzamiento: 1
-¡rea de efecto: Criatura tocada
-Tirada de salvaciÛn: No
+√Årea de efecto: Criatura tocada
+Tirada de salvaci√≥n: No
 
-DESCRIPCI”N:
+DESCRIPCI√ìN:
 
-Al igual que el conjuro de 5∫ nivel Revivir a los muertos, ResurrecciÛn devolver· a la vida a un personaje. Sin embargo, ResurrecciÛn tambiÈn curar· por completo al resucitado, permitiÈndole estar listo para vivir nuevas aventuras.~
+Al igual que el conjuro de 5¬∫ nivel Revivir a los muertos, Resurrecci√≥n devolver√° a la vida a un personaje. Sin embargo, Resurrecci√≥n tambi√©n curar√° por completo al resucitado, permiti√©ndole estar listo para vivir nuevas aventuras.~
 @9 = ~Slayer Change
 
 When you use this ability, you take on the form of the brutal essence of Bhaal: a violent, powerful creature made of teeth and claws. Using this ability reduces your reputation by one point, as even those who do not witness the event can sense the corruption caused by giving yourself over to instinct.
@@ -136,31 +136,31 @@ Perhaps because Imoen has less of Bhaal's essence than <CHARNAME> - or perhaps b
 @15 = ~Imoen can now change into the Slayer at will, and can enter the Ethereal plane once per minute~
 @16 = ~Controlar Demonio
 
-Alcance: visiÛn
+Alcance: visi√≥n
 Tiempo de Lanzamiento: 1
-DuraciÛn: especial
-¡rea de Efecto: un demonio
-Tirada de SalvaciÛn: no
+Duraci√≥n: especial
+√Årea de Efecto: un demonio
+Tirada de Salvaci√≥n: no
 
-Esta habilidad permite a los hijos de Bhaal intentar arrebatar el control de un demonio de Melissan, y hacerlo aliado suyo. El hijo de Bhaal se enzarza en un combate mental durante DURATION_PLACEHOLDER segundos, al final de la cual, el demonio tiene SUCCESS_CHANCE_PLACEHOLDER% de la probabilidad de ser su aliado. Sin embargo, el demonio no esta bajo el control directo del hijo de Bhaal. Esta habilidad sÛlo puede ser usada cada 3 turnos.~
+Esta habilidad permite a los hijos de Bhaal intentar arrebatar el control de un demonio de Melissan, y hacerlo aliado suyo. El hijo de Bhaal se enzarza en un combate mental durante DURATION_PLACEHOLDER segundos, al final de la cual, el demonio tiene SUCCESS_CHANCE_PLACEHOLDER% de la probabilidad de ser su aliado. Sin embargo, el demonio no esta bajo el control directo del hijo de Bhaal. Esta habilidad s√≥lo puede ser usada cada 3 turnos.~
 @17 = ~Liberar
 
 Alcance: 5 pies
 Tiempo de lanzamiento: 1
-DuraciÛn: Instant·neo
-¡rea de efecto: Criatura objetivo
-Tirada de salvaciÛn: 1/2 + especial
+Duraci√≥n: Instant√°neo
+√Årea de efecto: Criatura objetivo
+Tirada de salvaci√≥n: 1/2 + especial
 
-La habilidad de "Liberar" os permite soltar vuestro poder interior hacia un objetivo que este dentro del rango de contacto, golpe·ndole con un DICENUMBER_PLACEHOLDERd12 puntos de daÒo m·gico (la mitad si supera una tirada de salvaciÛn contra muerte a -4) y le envÌa volando en direcciÛn contraria a vos, e incluso puede dejarlo inconsciente durante un corto periodo de tiempo. Esta habilidad sÛlo deberÌais usarla una vez cada treinta segundos... y despuÈs de usarla los hijos de Bhaal se fatigan enormemente y tienen un 25% de errar conjuro en todos los hechizos durante 2 turnos. Debido a la cantidad de esencia divina usada, la forma del Asesino no estar· disponible durante treinta segundos.~
+La habilidad de "Liberar" os permite soltar vuestro poder interior hacia un objetivo que este dentro del rango de contacto, golpe√°ndole con un DICENUMBER_PLACEHOLDERd12 puntos de da√±o m√°gico (la mitad si supera una tirada de salvaci√≥n contra muerte a -4) y le env√≠a volando en direcci√≥n contraria a vos, e incluso puede dejarlo inconsciente durante un corto periodo de tiempo. Esta habilidad s√≥lo deber√≠ais usarla una vez cada treinta segundos... y despu√©s de usarla los hijos de Bhaal se fatigan enormemente y tienen un 25% de errar conjuro en todos los hechizos durante 2 turnos. Debido a la cantidad de esencia divina usada, la forma del Asesino no estar√° disponible durante treinta segundos.~
 @18 = ~Enfoque
 
 Alcance: 0
 Tiempo de lanzamiento: 1
-DuraciÛn: 5 asaltos
-¡rea de Efecto: El lanzador
-Tirada de SalvaciÛn: Ninguna
+Duraci√≥n: 5 asaltos
+√Årea de Efecto: El lanzador
+Tirada de Salvaci√≥n: Ninguna
 
-Esta habilidad permite al Bhaalspawn concentrar energÌa <PRO_HISHER> dentro de <PRO_HIMHER> para resistir los efectos de hechizos del exterior. Durante 30 segundos, el Bhaalspawn se vuelve inmune a los hechizos Carne a Piedra, DesintegraciÛn y Detener el Tiempo. Adem·s, los hechizos menores de niveles 1∫ a 3∫ tampoco afectar·n al Bhaalspawn. Esta habilidad puede utilizarse una vez por minuto.~
+Esta habilidad permite al Bhaalspawn concentrar energ√≠a <PRO_HISHER> dentro de <PRO_HIMHER> para resistir los efectos de hechizos del exterior. Durante 30 segundos, el Bhaalspawn se vuelve inmune a los hechizos Carne a Piedra, Desintegraci√≥n y Detener el Tiempo. Adem√°s, los hechizos menores de niveles 1¬∫ a 3¬∫ tampoco afectar√°n al Bhaalspawn. Esta habilidad puede utilizarse una vez por minuto.~
 @19 = ~Dimension Door
 
 Range: Infinite

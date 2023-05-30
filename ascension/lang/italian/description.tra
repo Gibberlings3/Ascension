@@ -1,10 +1,10 @@
 @1 = ~Eterea
 -------------
-Imoen Ë ora in grado di entrare nel Piano Etereo per brevi periodi di tempo. L'abilit‡†Ë utilizzabile una volta ogni minuto e il suo uso evita anche la sua trasformazione nell'Uccisore per un minuto. Imoen puÚ rimanere totalmente eterea e immateriale per le forze su questo piano per un round intero... durante il quale Ë invisibile e completamente immune al danno. Durante il round, non puÚ lanciare incantesimi o usare abilit‡.
-Per i due successivi round, Imoen puÚ rimanere "tra i piani": Ë in parte eterea, in parte su questo piano. » ancora invisibile, ma riceve met‡ dei danni da tutte le fonti. In questo stato, c'Ë una piccola possibilit‡ (10%) che sbagli il lancio di un incantesimo. Per tutti e tre i round, Ë in grado di vedere qualsiasi creatura invisibile.~
+Imoen √® ora in grado di entrare nel Piano Etereo per brevi periodi di tempo. L'abilit√†¬†√® utilizzabile una volta ogni minuto e il suo uso evita anche la sua trasformazione nell'Uccisore per un minuto. Imoen pu√≤ rimanere totalmente eterea e immateriale per le forze su questo piano per un round intero... durante il quale √® invisibile e completamente immune al danno. Durante il round, non pu√≤ lanciare incantesimi o usare abilit√†.
+Per i due successivi round, Imoen pu√≤ rimanere "tra i piani": √® in parte eterea, in parte su questo piano. √à ancora invisibile, ma riceve met√† dei danni da tutte le fonti. In questo stato, c'√® una piccola possibilit√† (10%) che sbagli il lancio di un incantesimo. Per tutti e tre i round, √® in grado di vedere qualsiasi creatura invisibile.~
 @6 = ~Fine Cambiamento in Uccisore
 
-Questa abilit‡ consente a Imoen di annullare la sua trasformazione e tornare alla sua solita forma.~
+Questa abilit√† consente a Imoen di annullare la sua trasformazione e tornare alla sua solita forma.~
 @7 = ~Rigenerazione
 (Necromanzia)
 Raggio d'azione: Tocco
@@ -13,7 +13,7 @@ Tempo di lancio: 7
 Area d'effetto: 1 creatura
 Tiro-salvezza: Nessuno
 
-Questa potente abilit‡ consente alla progenie di Bhaal di conferire ad una creatura l'abilit‡ di rigenerare. Il processo di rigenerazione guarir‡ ogni ferita e far‡ persino ricrescere gli arti perduti. La creatura bersaglio recupera 3 Punti Ferita al secondo. L'effetto dura 1 round ogni 2 livelli del lanciatore o finchÈ non viene dissolto. Ad esempio: un personaggio di 14∞ livello potrebbe rigenerare 18 Punti Ferita a round per 7 round.~
+Questa potente abilit√† consente alla progenie di Bhaal di conferire ad una creatura l'abilit√† di rigenerare. Il processo di rigenerazione guarir√† ogni ferita e far√† persino ricrescere gli arti perduti. La creatura bersaglio recupera 3 Punti Ferita al secondo. L'effetto dura 1 round ogni 2 livelli del lanciatore o finch√© non viene dissolto. Ad esempio: un personaggio di 14¬∞ livello potrebbe rigenerare 18 Punti Ferita a round per 7 round.~
 @8 = ~Resurrezione
 (Necromanzia)
 Raggio d'azione: Tocco
@@ -22,10 +22,10 @@ Tempo di lancio: 1
 Area d'effetto: 1 creatura
 Tiro-salvezza: Nessuno
 
-Come l'incantesimo di 5∞ livello Rianimare Morti, Resurrezione riporta in vita un personaggio. Tuttavia, Resurrezione guarisce anche il personaggio in modo che sia subito pronto per nuove avventure.~
+Come l'incantesimo di 5¬∞ livello Rianimare Morti, Resurrezione riporta in vita un personaggio. Tuttavia, Resurrezione guarisce anche il personaggio in modo che sia subito pronto per nuove avventure.~
 @9 = ~Trasformazione nell'Uccisore
 
-Quanto utilizzi quest'abilit‡, assumi la forma della brutale essenza di Bhaal: una creatura potente e violenta fatta di zanne e artigli. Utilizzare quest'abilit‡ riduce la tua reputazione di un punto e anche coloro che non assistono all'evento in sÈ potranno percepire la corruzione causata dal tuo cedere ai feroci istinti.
+Quanto utilizzi quest'abilit√†, assumi la forma della brutale essenza di Bhaal: una creatura potente e violenta fatta di zanne e artigli. Utilizzare quest'abilit√† riduce la tua reputazione di un punto e anche coloro che non assistono all'evento in s√© potranno percepire la corruzione causata dal tuo cedere ai feroci istinti.
 
 La forma dell'Uccisore conferisce i seguenti benefici:
 
@@ -36,12 +36,12 @@ La forma dell'Uccisore conferisce i seguenti benefici:
 - Attacchi per turno impostati a 4 (1d8 da impatto, 2 da freddo)
 - THAC0 impostato a 0
 - +100 Punti Ferita
-- Immunit‡ a imprigionamento, risucchio di livello, stordimento e attacchi a distanza.
+- Immunit√† a imprigionamento, risucchio di livello, stordimento e attacchi a distanza.
 
-L'Uccisore puÚ essere difficile da controllare: dopo il primo round, hai una probabilit‡ cumulativa del 10% per round di perdere il controllo di te stesso per un round.~
+L'Uccisore pu√≤ essere difficile da controllare: dopo il primo round, hai una probabilit√† cumulativa del 10% per round di perdere il controllo di te stesso per un round.~
 @10 = ~Trasformazione nell'Uccisore
 
-Quanto utilizzi quest'abilit‡, assumi la forma della brutale essenza di Bhaal: una creatura potente e violenta fatta di zanne e artigli. Utilizzare quest'abilit‡ riduce la tua reputazione di due punti, e anche coloro che non assistono all'evento in sÈ potranno percepire la corruzione causata dal tuo cedere ai feroci istinti.
+Quanto utilizzi quest'abilit√†, assumi la forma della brutale essenza di Bhaal: una creatura potente e violenta fatta di zanne e artigli. Utilizzare quest'abilit√† riduce la tua reputazione di due punti, e anche coloro che non assistono all'evento in s√© potranno percepire la corruzione causata dal tuo cedere ai feroci istinti.
 
 La forma dell'Uccisore ha potenziato i suoi poteri con la tua crescita ed ora conferisce i seguenti benefici:
 
@@ -55,11 +55,11 @@ La forma dell'Uccisore ha potenziato i suoi poteri con la tua crescita ed ora co
 - THAC0 impostato a -4
 - +150 Punti Ferita
 - Rigenerazione di due punti ferita al secondo
-- Immunit‡ a imprigionamento, risucchio di livello, stordimento e attacchi a distanza
-- Possibilit‡ di perdere il controllo: 10%, pi˘ un 5% cumulativo ad ogni round~
+- Immunit√† a imprigionamento, risucchio di livello, stordimento e attacchi a distanza
+- Possibilit√† di perdere il controllo: 10%, pi√π un 5% cumulativo ad ogni round~
 @11 = ~Trasformazione nell'Uccisore
 
-Quanto utilizzi quest'abilit‡, assumi la forma della brutale essenza di Bhaal: una creatura potente e violenta fatta di zanne e artigli. Utilizzare quest'abilit‡ riduce la tua reputazione di due punti, e anche coloro che non assistono all'evento in sÈ potranno percepire la corruzione causata dal tuo cedere ai feroci istinti.
+Quanto utilizzi quest'abilit√†, assumi la forma della brutale essenza di Bhaal: una creatura potente e violenta fatta di zanne e artigli. Utilizzare quest'abilit√† riduce la tua reputazione di due punti, e anche coloro che non assistono all'evento in s√© potranno percepire la corruzione causata dal tuo cedere ai feroci istinti.
 
 La forma dell'Uccisore ha potenziato i suoi poteri con la tua crescita ed ora conferisce i seguenti benefici:
 
@@ -70,16 +70,16 @@ La forma dell'Uccisore ha potenziato i suoi poteri con la tua crescita ed ora co
 - Resistenza ai danni elementali impostata a 40%
 - Tiri-salvezza impostati a 2
 - Attacchi per turno impostati a 4 (2d8 da impatto, 8 da freddo)
-- Gli attacchi hanno il 10% di possibilit‡ di lanciare Dissolvi Magie e di ridurre le Resistenze Magiche
+- Gli attacchi hanno il 10% di possibilit√† di lanciare Dissolvi Magie e di ridurre le Resistenze Magiche
 - THAC0 impostato a -8
 - +200 Punti Ferita
 - Rigenerazione di tre punti ferita al secondo
-- Immunit‡ a imprigionamento, risucchio di livello, stordimento e attacchi a distanza
-- Libert‡
-- Possibilit‡ di perdere il controllo: 5% cumulativo ogni due round~
+- Immunit√† a imprigionamento, risucchio di livello, stordimento e attacchi a distanza
+- Libert√†
+- Possibilit√† di perdere il controllo: 5% cumulativo ogni due round~
 @12 = ~Trasformazione nel Distruttore
 
-Quanto utilizzi quest'abilit‡, assumi la forma o dell'Uccisore o del Distruttore, una terribile manifestazione di Bhaal. Utilizzare quest'abilit‡ riduce la tua reputazione di due punti come Uccisore e di tre punti come Distruttore.
+Quanto utilizzi quest'abilit√†, assumi la forma o dell'Uccisore o del Distruttore, una terribile manifestazione di Bhaal. Utilizzare quest'abilit√† riduce la tua reputazione di due punti come Uccisore e di tre punti come Distruttore.
 
 La forma dell'Uccisore conferisce i seguenti benefici:
 
@@ -90,13 +90,13 @@ La forma dell'Uccisore conferisce i seguenti benefici:
 - Resistenza ai danni elementali impostata a 40%
 - Tiri-salvezza impostati a 2
 - Attacchi per turno impostati a 4 (2d8 da impatto, 8 da freddo)
-- Gli attacchi hanno il 10% di possibilit‡ di lanciare Dissolvi Magie e di ridurre le Resistenze Magiche
+- Gli attacchi hanno il 10% di possibilit√† di lanciare Dissolvi Magie e di ridurre le Resistenze Magiche
 - THAC0 impostato a -8
 - +200 Punti Ferita
 - Rigenerazione di tre punti ferita al secondo
-- Immunit‡ a imprigionamento, risucchio di livello, stordimento e attacchi a distanza
-- Libert‡
-- Possibilit‡ di perdere il controllo: 5% cumulativo ad ogni round
+- Immunit√† a imprigionamento, risucchio di livello, stordimento e attacchi a distanza
+- Libert√†
+- Possibilit√† di perdere il controllo: 5% cumulativo ad ogni round
 
 La forma del Distruttore conferisce i seguenti benefici addizionali:
 
@@ -105,16 +105,16 @@ La forma del Distruttore conferisce i seguenti benefici addizionali:
 - Resistenza ai danni elementali impostata a 50%
 - Resistenza ai danni magici impostata a 50%
 - Attacchi per turno impostati a 5 (3d8 da impatto, 8 da freddo)
-- Gli attacchi hanno il 20% di possibilit‡ di lanciare Dissolvi Magie
+- Gli attacchi hanno il 20% di possibilit√† di lanciare Dissolvi Magie
 - THAC0 impostato a -12
 - +250 Punti Ferita
 - Rigenerazione di cinque punti ferita al secondo
-- Immunit‡ a imprigionamento, risucchio di livello, stordimento e attacchi a distanza
-- Libert‡
-- Possibilit‡ di perdere il controllo aumentata al 40% pi˘ 10% cumulativo ad ogni round~
+- Immunit√† a imprigionamento, risucchio di livello, stordimento e attacchi a distanza
+- Libert√†
+- Possibilit√† di perdere il controllo aumentata al 40% pi√π 10% cumulativo ad ogni round~
 @13 = ~Trasformazione nell'Uccisore
 
-Quanto Imoen utilizza quest'abilit‡, assume la forma della brutale essenza di Bhaal: una creatura potente e violenta fatta di zanne e artigli.
+Quanto Imoen utilizza quest'abilit√†, assume la forma della brutale essenza di Bhaal: una creatura potente e violenta fatta di zanne e artigli.
 
 La forma dell'Uccisore conferisce i seguenti benefici:
 
@@ -125,11 +125,11 @@ La forma dell'Uccisore conferisce i seguenti benefici:
 - Attacchi per turno impostati a 4 (1d8 da impatto, 2 da freddo)
 - THAC0 impostato a 0
 - +100 Punti Ferita
-- Immunit‡ a imprigionamento, risucchio di livello, stordimento e attacchi a distanza
+- Immunit√† a imprigionamento, risucchio di livello, stordimento e attacchi a distanza
 
-Forse perchÈ Imoen possiede meno essenza di Bhaal rispetto a <CHARNAME>, o forse a causa di ciÚ che ha appreso dopo che Melissan ha evocato la sua essenza, Ë maggiormente in grado di contenere il potere dell'Uccisore e non ha corre nessun rischio di perdere il controllo mentre si trova nella forma dell'Uccisore.~
+Forse perch√© Imoen possiede meno essenza di Bhaal rispetto a <CHARNAME>, o forse a causa di ci√≤ che ha appreso dopo che Melissan ha evocato la sua essenza, √® maggiormente in grado di contenere il potere dell'Uccisore e non ha corre nessun rischio di perdere il controllo mentre si trova nella forma dell'Uccisore.~
 @14 = ~Poteri della Progenie di Bhaal attribuiti~
-@15 = ~Imoen ora puÚ cambiare a piacimento e puÚ entrare nel Piano Etereo una volta al minuto~
+@15 = ~Imoen ora pu√≤ cambiare a piacimento e pu√≤ entrare nel Piano Etereo una volta al minuto~
 @16 = ~Controllare Demone
 
 Raggio d'azione: a vista
@@ -138,16 +138,16 @@ Durata: Speciale
 Area d'effetto: 1 demone
 Tiro salvezza: Nessuno
 
-Questa abilit‡ permette alla progenie di Bhaal di tentare di strappare il controllo di un demone a Melissan e di renderlo un alleato. Il figlio di Bhaal ingaggia una battaglia mentale con il demone per DURATION_PLACEHOLDER secondi, alla fine del quale il demone ha il SUCCESS_CHANCE_PLACEHOLDER% di possibilit‡ di diventare un alleato. (Non ci sono ulteriori tiri salvezza, nÈ viene controllata la resistenza magica). Il demone non Ë tuttavia sotto il controllo diretto della progenie di Bhaal. Questa abilit‡ puÚ essere utilizzata una volta ogni 3 round.~
+Questa abilit√† permette alla progenie di Bhaal di tentare di strappare il controllo di un demone a Melissan e di renderlo un alleato. Il figlio di Bhaal ingaggia una battaglia mentale con il demone per DURATION_PLACEHOLDER secondi, alla fine del quale il demone ha il SUCCESS_CHANCE_PLACEHOLDER% di possibilit√† di diventare un alleato. (Non ci sono ulteriori tiri salvezza, n√© viene controllata la resistenza magica). Il demone non √® tuttavia sotto il controllo diretto della progenie di Bhaal. Questa abilit√† pu√≤ essere utilizzata una volta ogni 3 round.~
 @17 = ~Scatenare il Potere
 
 Raggio d'azione: 1,5 metri
 Tempo di lancio: 1
 Durata: Istantaneo
 Area d'effetto:  1 creatura
-Tiro-salvezza: 1/2 pi˘ speciale
+Tiro-salvezza: 1/2 pi√π speciale
 
-L'abilit‡ "Scatenare il Potere" rilascia la tua forza interiore su un bersaglio a portata di combattimento da mischia, colpendolo per DICENUMBER_PLACEHOLDERd12 punti di danno da magia (dimezzato se effettua con successo un tiro-salvezza contro Morte con -4 di penalit‡), facendolo volare via e rendendolo forse inconsapevole per un breve periodo di tempo. Questa abilit‡ puÚ essere attivata una volta ogni trenta secondi. Dopo averla utilizzata, la progenie di Bhaal sar‡ incredibilmente affaticato e avr‡ il 25% di possibilit‡ di fallire il lancio di qualsiasi incantesimo per 2 round. A causa della quantit‡ di essenza divina usata, la forma dell'Uccisore non sar‡ disponibile per trenta secondi.~
+L'abilit√† "Scatenare il Potere" rilascia la tua forza interiore su un bersaglio a portata di combattimento da mischia, colpendolo per DICENUMBER_PLACEHOLDERd12 punti di danno da magia (dimezzato se effettua con successo un tiro-salvezza contro Morte con -4 di penalit√†), facendolo volare via e rendendolo forse inconsapevole per un breve periodo di tempo. Questa abilit√† pu√≤ essere attivata una volta ogni trenta secondi. Dopo averla utilizzata, la progenie di Bhaal sar√† incredibilmente affaticato e avr√† il 25% di possibilit√† di fallire il lancio di qualsiasi incantesimo per 2 round. A causa della quantit√† di essenza divina usata, la forma dell'Uccisore non sar√† disponibile per trenta secondi.~
 @18 = ~Focalizzare
 
 Raggio d'azione: 0
@@ -156,7 +156,7 @@ Durata: 5 round
 Area d'effetto: Il lanciatore
 Tiro-salvezza: Nessuno
 
-Questa abilit‡ permette alla progenie di Bhaal di focalizzare l'energia dentro di sÈ per resistere agli effetti degli incantesimi ostili. Per 30 secondi, la progenie di Bhaal diventa immune agli incantesimi Carne in Pietra, Disintegrazione e Fermare il Tempo. Tutti gli incantesimi minori dal 1∞ al 3∞ livello non avranno inoltre effetto sulla progenie di Bhaal. Questa abilit‡ Ë utilizzabile una volta al minuto.~
+Questa abilit√† permette alla progenie di Bhaal di focalizzare l'energia dentro di s√© per resistere agli effetti degli incantesimi ostili. Per 30 secondi, la progenie di Bhaal diventa immune agli incantesimi Carne in Pietra, Disintegrazione e Fermare il Tempo. Tutti gli incantesimi minori dal 1¬∞ al 3¬∞ livello non avranno inoltre effetto sulla progenie di Bhaal. Questa abilit√† √® utilizzabile una volta al minuto.~
 @19 = ~Porta Dimensionale
 
 Raggio d'azione: Infinito
@@ -165,10 +165,10 @@ Durata: Istantanea
 Area d'effetto: Il lanciatore
 Tiro-salvezza: Nessuno
 
-La Progenie di Bhaal ora puÚ muoversi liberamente attraverso lo spazio e i piani. Questo potere di teletrasporto Ë utilizzabile una volta per round.~
+La Progenie di Bhaal ora pu√≤ muoversi liberamente attraverso lo spazio e i piani. Questo potere di teletrasporto √® utilizzabile una volta per round.~
 @20 = ~Mutare Forma in Pipistrello
 
-Questa abilit‡ permette a Bodhi di trasformarsi in pipistrello.~
+Questa abilit√† permette a Bodhi di trasformarsi in pipistrello.~
 @21 = ~Dono divino
 (Invocazione)
 
@@ -187,9 +187,9 @@ Tempo di lancio: 1 turno
 Area d'Effetto: Balthazar
 Tiro-salvezza: Nessuno
 
-Con questa abilit‡, Balthazar inverte le sue resistenze innate. La sua normale resistenza ai danni fisici del 10% aumenta fino al 90%, la sua normale resistenza alla magia, al danno magico e al danno elementale del 90% si riduce al 10%.
+Con questa abilit√†, Balthazar inverte le sue resistenze innate. La sua normale resistenza ai danni fisici del 10% aumenta fino al 90%, la sua normale resistenza alla magia, al danno magico e al danno elementale del 90% si riduce al 10%.
 
-Balthazar puÚ invertire le sue resistenze a volont‡.~
+Balthazar pu√≤ invertire le sue resistenze a volont√†.~
 @23 = ~Inversione di Resistenze
 
 Raggio d'Azione: 0
@@ -198,20 +198,20 @@ Tempo di lancio: 1 turno
 Area d'Effetto: Balthazar
 Tiro-salvezza: Nessuno
 
-Con questa abilit‡, Balthazar inverte le sue resistenze innate. La sua normale resistenza ai danni fisici del 10% viene ripristinata, cosÏ come la sua normale resistenza alla magia, al danno magico e al danno elementale del 90%.
+Con questa abilit√†, Balthazar inverte le sue resistenze innate. La sua normale resistenza ai danni fisici del 10% viene ripristinata, cos√¨ come la sua normale resistenza alla magia, al danno magico e al danno elementale del 90%.
 
-Balthazar puÚ invertire le sue resistenze a volont‡.~
+Balthazar pu√≤ invertire le sue resistenze a volont√†.~
 @24 = ~Posizione del Sole
 
 Raggio d'azione: 0
 Durata: 3 ore
 Tempo di lancio: 1
-Area d'effetto: Balthazar, pi˘ eventuali creature entro 9 metri
+Area d'effetto: Balthazar, pi√π eventuali creature entro 9 metri
 Tiro-salvezza: Nessuno
 
-Entrando nella Posizione del Sole, Balthazar fa appello al potere del Sole per migliorare le sue abilit‡ mistiche. Ottiene la resistenza al fuoco del 127% (anche quando usando Inversione di Resistenze) e tutti i suoi attacchi infliggono un danno da fuoco aggiuntivo di 1d10, inoltre questo danno guarisce Balthazar. Entrando nella Posizione del Sole, Balthazar rilascia un'esplosione di fuoco che infligge 12d6 danni da fuoco (un Tiro-salvezza contro incantesimi riuscito dimezza il danno) e 1d8 danni da schiacciamento a tutte le creature entro 9 metri che vengono investite dall'esplosione.
+Entrando nella Posizione del Sole, Balthazar fa appello al potere del Sole per migliorare le sue abilit√† mistiche. Ottiene la resistenza al fuoco del 127% (anche quando usando Inversione di Resistenze) e tutti i suoi attacchi infliggono un danno da fuoco aggiuntivo di 1d10, inoltre questo danno guarisce Balthazar. Entrando nella Posizione del Sole, Balthazar rilascia un'esplosione di fuoco che infligge 12d6 danni da fuoco (un Tiro-salvezza contro incantesimi riuscito dimezza il danno) e 1d8 danni da schiacciamento a tutte le creature entro 9 metri che vengono investite dall'esplosione.
 
-Balthazar puÚ avere una sola posizione attiva alla volta: attivando la Posizione del Sole si annullano tutte le altre posizioni. La Posizione del Sole puÚ essere rimossa da incantesimi come Breccia.~
+Balthazar pu√≤ avere una sola posizione attiva alla volta: attivando la Posizione del Sole si annullano tutte le altre posizioni. La Posizione del Sole pu√≤ essere rimossa da incantesimi come Breccia.~
 @25 = ~Posizione della Luna
 
 Raggio d'azione: 0
@@ -220,9 +220,9 @@ Tempo di lancio: 1
 Area d'effetto: Balthazar
 Tiro-salvezza: Nessuno
 
-Entrando nella Posizione della Luna, Balthazar fa appello al potere della Luna per migliorare le sue abilit‡ mistiche. Durante la Posizione della Luna Balthazar Ë immune a Risucchio di Energia, Imprigionamento e Fermare il Tempo e riceve un utilizzo della Malia della Luna. Entrando nella Posizione della Luna, tutti i nemici adiacenti a Balthazar sono accecati per 4 round (un Tiro-salvezza contro incantesimi riuscito nega l'effetto).
+Entrando nella Posizione della Luna, Balthazar fa appello al potere della Luna per migliorare le sue abilit√† mistiche. Durante la Posizione della Luna Balthazar √® immune a Risucchio di Energia, Imprigionamento e Fermare il Tempo e riceve un utilizzo della Malia della Luna. Entrando nella Posizione della Luna, tutti i nemici adiacenti a Balthazar sono accecati per 4 round (un Tiro-salvezza contro incantesimi riuscito nega l'effetto).
 
-Balthazar puÚ avere una sola posizione attiva alla volta: attivando la Posizione della Luna si annullano tutte le altre posizioni. La Posizione della Luna puÚ essere rimossa da incantesimi come Breccia.~
+Balthazar pu√≤ avere una sola posizione attiva alla volta: attivando la Posizione della Luna si annullano tutte le altre posizioni. La Posizione della Luna pu√≤ essere rimossa da incantesimi come Breccia.~
 @26 = ~Posizione dell'Ombra
 
 Raggio d'Azione: 0
@@ -231,10 +231,10 @@ Tempo di lancio: 1
 Area d'Effetto: Balthazar
 Tiro-salvezza: Nessuno
 
-Entrando nella Posizione dell'Ombra, Balthazar fa appello al potere dell'Ombra per migliorare le sue abilit‡ mistiche. Durante la Posizione dell'Ombra Balthazar Ë protetto dall'Invisibilit‡ Potenziata (ed Ë completamente invisibile per i primi 15 secondi o finchÈ non attacca). Oltre ai gi‡ significativi vantaggi difensivi dell'Invisibilit‡ Potenziata, il mantello d'ombra conferisce a Balthazar un ulteriore bonus di +6 alla Classe Armatura.
+Entrando nella Posizione dell'Ombra, Balthazar fa appello al potere dell'Ombra per migliorare le sue abilit√† mistiche. Durante la Posizione dell'Ombra Balthazar √® protetto dall'Invisibilit√† Potenziata (ed √® completamente invisibile per i primi 15 secondi o finch√© non attacca). Oltre ai gi√† significativi vantaggi difensivi dell'Invisibilit√† Potenziata, il mantello d'ombra conferisce a Balthazar un ulteriore bonus di +6 alla Classe Armatura.
 
-Balthazar puÚ avere una sola posizione attiva alla volta: attivando la Posizione dell'Ombra si annullano tutte le altre posizioni. La Posizione dell'Ombra puÚ essere rimossa da incantesimi come Breccia.~
-@27 = ~Pi˘ Veloce degli Occhi
+Balthazar pu√≤ avere una sola posizione attiva alla volta: attivando la Posizione dell'Ombra si annullano tutte le altre posizioni. La Posizione dell'Ombra pu√≤ essere rimossa da incantesimi come Breccia.~
+@27 = ~Pi√π Veloce degli Occhi
 
 Raggio d'Azione: Vista
 Durata: Istantanea
@@ -244,7 +244,7 @@ Tiro-salvezza: Nessuno
 
 In un batter d'occhio, Balthazar si trasporta in un qualsiasi luogo a lui visibile.
 
-Questo potere puÚ essere usato una volta ogni due round.~
+Questo potere pu√≤ essere usato una volta ogni due round.~
 @28 = ~Pugno del Drago
 
 Raggio d'Azione: Tocco
@@ -253,9 +253,9 @@ Tempo di lancio: 0
 Area d'effetto: la creatura bersaglio
 Tiro-salvezza: Nessuno
 
-Incanalando l'energia del Ki in un colpo, Balthazar rimuove le difese magiche del suo avversario. Il Pugno del Drago ha una probabilit‡ del 25% di distruggere tutte le protezioni da combattimento e i potenziamenti al di sotto del 9 ∞ livello, ha una probabilit‡ del 25% di distruggere tutti gli effetti antimagici al di sotto del 9 ∞ livello e una probabilit‡ del 50% di distruggere entrambi. Rallenta anche il bersaglio (causando una penalit‡ di -4 a CA e tiri per colpire) per due round.
+Incanalando l'energia del Ki in un colpo, Balthazar rimuove le difese magiche del suo avversario. Il Pugno del Drago ha una probabilit√† del 25% di distruggere tutte le protezioni da combattimento e i potenziamenti al di sotto del 9 ¬∞ livello, ha una probabilit√† del 25% di distruggere tutti gli effetti antimagici al di sotto del 9 ¬∞ livello e una probabilit√† del 50% di distruggere entrambi. Rallenta anche il bersaglio (causando una penalit√† di -4 a CA e tiri per colpire) per due round.
 
-Questo potere puÚ essere usato una volta ogni tre round.~
+Questo potere pu√≤ essere usato una volta ogni tre round.~
 @29 = ~Colpo della Tigre
 
 Raggio d'Azione: 0
@@ -264,9 +264,9 @@ Tempo di lancio: 1
 Area d'Effetto: Balthazar
 Tiro-salvezza: Nessuno
 
-Mentre Colpo della Tigre Ë attivo, Balthazar ha una probabilit‡ del 50% che ogni colpo andato a segno sia un colpo critico. Inoltre, ogni colpo fa volare la vittima all'indietro, stordendola per 1 round.
+Mentre Colpo della Tigre √® attivo, Balthazar ha una probabilit√† del 50% che ogni colpo andato a segno sia un colpo critico. Inoltre, ogni colpo fa volare la vittima all'indietro, stordendola per 1 round.
 
-Questo potere puÚ essere usato una volta ogni quattro round.~
+Questo potere pu√≤ essere usato una volta ogni quattro round.~
 @30 = ~Mano dell'Omicidio 
 
 Raggio d'Azione: 0
@@ -277,7 +277,7 @@ Tiro-salvezza: Speciale
 
 Combinando il suo ki con la sua essenza di Progenie di Bhaal tutti gli attacchi di Balthazar, per un round, sono automaticamente colpi critici. Per i primi tre secondi dopo aver attivato il potere, tutti coloro che vengono colpiti cadono morti (un Tiro-salvezza contro incantesimi riuscito nega l'effetto).
 
-Questo potere puÚ essere usato una volta ogni tre round.~
+Questo potere pu√≤ essere usato una volta ogni tre round.~
 @31 = ~Calcio Senza Ombra
 
 Raggio d'Azione: Tocco
@@ -288,7 +288,7 @@ Tiro-salvezza: Nessuno
 
 Con un potente calcio, Balthazar respinge il suo avversario, facendolo volare. Ogni creatura che viene colpita subisce 4d8 danni dall'impatto e rimane incosciente per alcuni secondi.
 
-Questo potere puÚ essere usato una volta ogni due round.~
+Questo potere pu√≤ essere usato una volta ogni due round.~
 @32 = ~Malia della Luna
 
 Raggio d'Azione: 9 metri
@@ -297,6 +297,6 @@ Tempo di lancio: 1
 Area d'Effetto: 1 creatura
 Tiro- salvezza: Speciale
 
-La creatura colpita da Malia della Luna subisce una penalit‡ di -4 a tutti i Tiri-salvezza per un periodo di 40 round. Inoltre, deve effettuare un Tiro-salvezza contro gli incantesimi con una penalit‡ di -2 o rimanere rallentata (subendo una penalit‡ di -4 alla CA e ai tiri per colpire) per 2 round.
+La creatura colpita da Malia della Luna subisce una penalit√† di -4 a tutti i Tiri-salvezza per un periodo di 40 round. Inoltre, deve effettuare un Tiro-salvezza contro gli incantesimi con una penalit√† di -2 o rimanere rallentata (subendo una penalit√† di -4 alla CA e ai tiri per colpire) per 2 round.
 
-Balthazar ottiene un utilizzo di questa abilit‡ ogni volta che entra nella Posizione della Luna.~
+Balthazar ottiene un utilizzo di questa abilit√† ogni volta che entra nella Posizione della Luna.~

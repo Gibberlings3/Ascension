@@ -1,20 +1,20 @@
-@3001 = ~La hoja de Sarevok, el hermano de <CHARNAME>, utilizada en la batalla en la que combatieron en la lejana Puerta de Baldur. <CHARNAME> se impuso, destruyendo los planes de Sarevok y librando a la Costa de la Espada de la inminente guerra. Ahora Sarevok se ha unido a la causa de <CHARNAME> y su hoja le ha sido devuelta. Sarevok ha descrito el arma como la hoja de un portador de la muerte y ha conseguido recuperar algo del viejo poder de la espada. Sin su esencia de Engendro de Bhaal para canalizarla a travÈs de la espada, de todas formas, no puede alcanzar el poder que una vez tuvo. TodavÌa, a pesar de todo, es un arma formidable... y algo que Sarevok advierte es que serÌa m·s difÌcil de manejar en manos de alguien que no sea un portador de la muerte, si pudiera usarla claro.
+@3001 = ~La hoja de Sarevok, el hermano de <CHARNAME>, utilizada en la batalla en la que combatieron en la lejana Puerta de Baldur. <CHARNAME> se impuso, destruyendo los planes de Sarevok y librando a la Costa de la Espada de la inminente guerra. Ahora Sarevok se ha unido a la causa de <CHARNAME> y su hoja le ha sido devuelta. Sarevok ha descrito el arma como la hoja de un portador de la muerte y ha conseguido recuperar algo del viejo poder de la espada. Sin su esencia de Engendro de Bhaal para canalizarla a trav√©s de la espada, de todas formas, no puede alcanzar el poder que una vez tuvo. Todav√≠a, a pesar de todo, es un arma formidable... y algo que Sarevok advierte es que ser√≠a m√°s dif√≠cil de manejar en manos de alguien que no sea un portador de la muerte, si pudiera usarla claro.
 
-CARACTERÕSTICAS:
+CARACTER√çSTICAS:
 
-Aptitudes: cada golpe drena de uno a cinco puntos de golpe al objetivo y los transfiere al portador. Esto no curar· mas all· del m·ximo del portador.
+Aptitudes: cada golpe drena de uno a cinco puntos de golpe al objetivo y los transfiere al portador. Esto no curar√° mas all√° del m√°ximo del portador.
 
-La hoja tambiÈn concede un +10% de resistencia m·gica mientras sea equipada.
+La hoja tambi√©n concede un +10% de resistencia m√°gica mientras sea equipada.
 
 THAC0: +4
-DaÒo: 1d10 +4 (cortante)
+Da√±o: 1d10 +4 (cortante)
 Factor de velocidad: 8
 Talento marcial: Mandoble
 Tipo: A dos manos
 
 Requisitos:
 Fuerza 14
-ConstituciÛn 18
+Constituci√≥n 18
 
 Peso: 10 lbs~
 @3003 = ~Possibly a brew of Sendai's own, this is an incredibly potent healing potion capable of fully restoring the hit points of any who use it.
@@ -22,6 +22,6 @@ Peso: 10 lbs~
 STATISTICS:
 
 Weight: 1~
-@3004 = ~TodavÌa, a pesar de todo, es un arma formidable... y algo que Sarevok advierte es que serÌa m·s difÌcil de manejar en manos de alguien que no sea un portador de la muerte, si pudiera usarla claro.~
-@3005 = ~Sin embargo, es un arma formidable... que sÛlo un Portador de la Muerte con la habilidad y el poder de Sarevok puede blandir.~
-@3006 = ~SÛlo Sarevok puede usar esta arma.~
+@3004 = ~Todav√≠a, a pesar de todo, es un arma formidable... y algo que Sarevok advierte es que ser√≠a m√°s dif√≠cil de manejar en manos de alguien que no sea un portador de la muerte, si pudiera usarla claro.~
+@3005 = ~Sin embargo, es un arma formidable... que s√≥lo un Portador de la Muerte con la habilidad y el poder de Sarevok puede blandir.~
+@3006 = ~S√≥lo Sarevok puede usar esta arma.~

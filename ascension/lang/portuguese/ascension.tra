@@ -3,21 +3,21 @@
 @1006 = ~Onda de Choque~
 @1007 = ~Aura de Raio~
 @1009 = ~Telecinese~
-@1012 = ~Trocar Resistências~
-@1013 = ~Controlar Demônio~
+@1012 = ~Trocar ResistÃªncias~
+@1013 = ~Controlar DemÃ´nio~
 @1014 = ~Foco~
 @1016 = ~Divine Mantle~
 @1017 = ~Extrair Poder~
-@1018 = ~Feitiço do Escudo Divino~
-@1019 = ~Comandar Demônio~
+@1018 = ~FeitiÃ§o do Escudo Divino~
+@1019 = ~Comandar DemÃ´nio~
 @1020 = ~Banir~
 @1022 = ~Unleash~
 @1024 = ~Feedback~
-@1025 = ~Restauração Divina~
+@1025 = ~RestauraÃ§Ã£o Divina~
 @1026 = ~Limpeza Divina~
-@1027 = ~Aura de Paralização~
+@1027 = ~Aura de ParalizaÃ§Ã£o~
 @1029 = ~Bomba de Lava~
-@1031 = ~Símbolo, Lento~
+@1031 = ~SÃ­mbolo, Lento~
 @1037 = ~Ravager Change~
 @1038 = ~Melissan: Command the Minions of the Abyss~
 @1039 = ~Bhaalspawn Power gained: Immunity to Energy Drain~
@@ -26,15 +26,15 @@
 @1042 = ~Weapons weakened by Babau slime~
 @1043 = ~Agarrado~
 @1044 = ~Recupera os poderes de Bhaal~
-@1045 = ~Você recuperou o controle por agora.~
-@1046 = ~Resistência mágina diminuída em 5%~
-@1047 = ~Resistência mágina diminuída em 5%~
-@1048 = ~Transformação no assassino melhorada~
-@1049 = ~O demônio se curva a sua vontade~
-@1050 = ~O demônio desafia sua vontade~
-@1051 = ~Este poder só afeta demônios~
-@1052 = ~O demônio se curva a vontade de Melissan~
-@1053 = ~O demônio desafia a vontade de Melissan~
+@1045 = ~VocÃª recuperou o controle por agora.~
+@1046 = ~ResistÃªncia mÃ¡gina diminuÃ­da em 5%~
+@1047 = ~ResistÃªncia mÃ¡gina diminuÃ­da em 5%~
+@1048 = ~TransformaÃ§Ã£o no assassino melhorada~
+@1049 = ~O demÃ´nio se curva a sua vontade~
+@1050 = ~O demÃ´nio desafia sua vontade~
+@1051 = ~Este poder sÃ³ afeta demÃ´nios~
+@1052 = ~O demÃ´nio se curva a vontade de Melissan~
+@1053 = ~O demÃ´nio desafia a vontade de Melissan~
 @1054 = ~Bhaalspawn Power gained: Unleash~
 @1055 = ~Bhaalspawn Power gained: immunity to death magic~
 @1056 = ~Bhaalspawn Power gained: immunity to vorpal effects~
@@ -44,9 +44,9 @@
 @1060 = ~Bhaalspawn Power gained: Focus~
 @1061 = ~Bhaalspawn Power gained: immunity to Taint of the Slayer~
 @1062 = ~Dom Divino~
-@1063 = ~Resistência Mágica Restaurada~
-@1064 = ~Proteções Antimágicas Removidas~
-@1065 = ~Proteções de Combate Removidas~
+@1063 = ~ResistÃªncia MÃ¡gica Restaurada~
+@1064 = ~ProteÃ§Ãµes AntimÃ¡gicas Removidas~
+@1065 = ~ProteÃ§Ãµes de Combate Removidas~
 @1066 = ~IA desativada~
 @1067 = ~IA ativada~
 @1068 = ~Lunar Malison~
@@ -139,7 +139,7 @@ Like the 5th level spell Raise Dead, Resurrection will return a character back t
 @2007 = ~Bhaalspawn Powers
 
 <CHARNAME> has gained 25% resistance to physical damage (i.e., slashing, piercing, crushing and missile damage).~
-@2008 = ~Habilidade de mudança do Assassino melhorada~
+@2008 = ~Habilidade de mudanÃ§a do Assassino melhorada~
 @3000 = ~Espada do Caos do Sarevok +4~
 @3001 = ~The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.
 
@@ -166,6 +166,6 @@ Paladin
 Ranger
 Druid
 non-Chaotic aligned~
-@3002 = ~Poção da Sendai~
+@3002 = ~PoÃ§Ã£o da Sendai~
 @3003 = ~Sendai's Potion
 Possibly a brew of Sendai's own, this is an incredibly potent healing potion capable of fully restoring the hit points of any who use it.~

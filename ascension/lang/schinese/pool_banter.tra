@@ -1,8 +1,8 @@
 @91 = ~Goodbye, brother. Your self-destructive ways have cost you dearly. You were a fool to oppose such power and I will not suffer in the Abyss with you this time.~
 @92 = ~It would seem our prey intends to cower inside the magics of this place, <CHARNAME>. I have no patience for her games. I will have my soul!~
 @93 = ~These pools around us have the stench of magic, if we sever their connection to Melissan she will be forced to confront us. This is the realm of all Bhaalspawn, <CHARNAME> - your blood will serve you well.~
-@396 = ~´ÓÕ½¶·Ò»¿ªÊ¼£¬Äã¾ÍÔÚË¼¿¼×ÅÄãµÄ¶Ô²ß¡£ÔÚÄÜÁ¿Á÷ÏòÖÐÑë°Í¶ûÍõ×ùµÄÊ±ºò£¬Ã·ÀöÉº¿´ÆðÀ´ÊÇÎÞ·¨ÉËº¦µÄ......¶øÇÒËýµÄÁ¦Á¿ÔÚ¿ìËÙÔö³¤×Å......±ØÐëÓÃÄ³ÖÖ°ì·¨±ÆËý³öÀ´¡£~
-@397 = ~Î¨Ò»µÄ¶Ô²ßÊÇ´ÓÍõ×ùÖÜÎ§µÄÄÜÁ¿³ØÈëÊÖ£¬ÄãÄÚÔÚµÄÌì¸³Ê¹µÃÄãÄÜ¹»ÇÐ¶ÏÄÜÁ¿³ØÓëÃ·ÀöÉºµÄÁªÏµ£¬Ç¿ÆÈËý³öÀ´Õ½¶·£¬È»¶ø£¬ÕâÐ©³Ø×ÓËÆºõ¶¼±»ÑÏÃÜÊØÎÀ×Å¡£~
-@1005 = ~ÎÒÃÇ±ØÐë½÷É÷Ð©£¬<CHARNAME>¡£ÔÚÄÜÁ¿Á÷ÖÐµÄÃ·ÀöÉºÊÇÎÞ·¨ÉËº¦µÄ......¶øÇÒËýÒ²²»¿ÉÄÜÖ÷¶¯À´Ãæ¶ÔÎÒÃÇ¡£~
-@1006 = ~ÎÒÏëÍõ×ùÓëÖÜÎ§ÄÜÁ¿³ØµÄÁªÏµÓ¦¸Ã¿ÉÒÔ±»°Í¶ûÖ®×ÓËùÇÐ¶Ï£¬ÎÒÃÇÖÐµÄÒ»¸ö¡£Èç¹ûÈý¸öÈ«±»ÇÐ¶ÏµÄ»°£¬Ã·ÀöÉºÓ¦¸Ã»á±»±Æ³öÀ´¡£~
-@1007 = ~ÄÇÐ©ÄÜÁ¿³ØÖÜÎ§±ØÈ»ÓÐËýµÄÊØÎÀ......µ«ÕâÊÇÎÒÄÜÏëµ½µÄÎ¨Ò»°ì·¨£¬·ñÔò¾ÍµÃ¿´×ÅËýµÇÉñ¡£~
+@396 = ~ä»Žæˆ˜æ–—ä¸€å¼€å§‹ï¼Œä½ å°±åœ¨æ€è€ƒç€ä½ çš„å¯¹ç­–ã€‚åœ¨èƒ½é‡æµå‘ä¸­å¤®å·´å°”çŽ‹åº§çš„æ—¶å€™ï¼Œæ¢…ä¸½çŠçœ‹èµ·æ¥æ˜¯æ— æ³•ä¼¤å®³çš„......è€Œä¸”å¥¹çš„åŠ›é‡åœ¨å¿«é€Ÿå¢žé•¿ç€......å¿…é¡»ç”¨æŸç§åŠžæ³•é€¼å¥¹å‡ºæ¥ã€‚~
+@397 = ~å”¯ä¸€çš„å¯¹ç­–æ˜¯ä»ŽçŽ‹åº§å‘¨å›´çš„èƒ½é‡æ± å…¥æ‰‹ï¼Œä½ å†…åœ¨çš„å¤©èµ‹ä½¿å¾—ä½ èƒ½å¤Ÿåˆ‡æ–­èƒ½é‡æ± ä¸Žæ¢…ä¸½çŠçš„è”ç³»ï¼Œå¼ºè¿«å¥¹å‡ºæ¥æˆ˜æ–—ï¼Œç„¶è€Œï¼Œè¿™äº›æ± å­ä¼¼ä¹Žéƒ½è¢«ä¸¥å¯†å®ˆå«ç€ã€‚~
+@1005 = ~æˆ‘ä»¬å¿…é¡»è°¨æ…Žäº›ï¼Œ<CHARNAME>ã€‚åœ¨èƒ½é‡æµä¸­çš„æ¢…ä¸½çŠæ˜¯æ— æ³•ä¼¤å®³çš„......è€Œä¸”å¥¹ä¹Ÿä¸å¯èƒ½ä¸»åŠ¨æ¥é¢å¯¹æˆ‘ä»¬ã€‚~
+@1006 = ~æˆ‘æƒ³çŽ‹åº§ä¸Žå‘¨å›´èƒ½é‡æ± çš„è”ç³»åº”è¯¥å¯ä»¥è¢«å·´å°”ä¹‹å­æ‰€åˆ‡æ–­ï¼Œæˆ‘ä»¬ä¸­çš„ä¸€ä¸ªã€‚å¦‚æžœä¸‰ä¸ªå…¨è¢«åˆ‡æ–­çš„è¯ï¼Œæ¢…ä¸½çŠåº”è¯¥ä¼šè¢«é€¼å‡ºæ¥ã€‚~
+@1007 = ~é‚£äº›èƒ½é‡æ± å‘¨å›´å¿…ç„¶æœ‰å¥¹çš„å®ˆå«......ä½†è¿™æ˜¯æˆ‘èƒ½æƒ³åˆ°çš„å”¯ä¸€åŠžæ³•ï¼Œå¦åˆ™å°±å¾—çœ‹ç€å¥¹ç™»ç¥žã€‚~

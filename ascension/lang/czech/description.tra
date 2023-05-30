@@ -1,308 +1,308 @@
-@1 = ~Étherická forma
+@1 = ~Ã‰therickÃ¡ forma
 
-Imoen na èas vstoupí do Étherické sféry. Tuto schopnost mùe pouít jednou za minut a bìhem jejího trvaní není schopná vzít na sebe podobu Zabijáka. Étherickou formu si udrí po jedno kolo a bìhem té doby je neviditelná a není moné ji ádnım zpùsobem zranit. Nebude ale schopná pouívat zbranì, zvláštní schopnosti ani kouzla.
+Imoen na Äas vstoupÃ­ do Ã‰therickÃ© sfÃ©ry. Tuto schopnost mÅ¯Å¾e pouÅ¾Ã­t jednou za minut a bÄ›hem jejÃ­ho trvanÃ­ nenÃ­ schopnÃ¡ vzÃ­t na sebe podobu ZabijÃ¡ka. Ã‰therickou formu si udrÅ¾Ã­ po jedno kolo a bÄ›hem tÃ© doby je neviditelnÃ¡ a nenÃ­ moÅ¾nÃ© ji Å¾Ã¡dnÃ½m zpÅ¯sobem zranit. Nebude ale schopnÃ¡ pouÅ¾Ã­vat zbranÄ›, zvlÃ¡Å¡tnÃ­ schopnosti ani kouzla.
 
-Jakmile toto kolo uplyne, vstoupí do polo-étherické fáze, kdy je kadou nohou v jiné sféøe. Je stále neviditelná a veškeré zranìní které obdrí je sníeno o 50%. Mùe ale normálnì vykonávat všechny èinnosti, aèkoliv má malou šanci (10%) e její kouzla selou. V obou fázích je schopna vidìt všechny neviditelné bytosti.~
-@6 = ~Ukonèit promìnu v Zabijáka
+Jakmile toto kolo uplyne, vstoupÃ­ do polo-Ã©therickÃ© fÃ¡ze, kdy je kaÅ¾dou nohou v jinÃ© sfÃ©Å™e. Je stÃ¡le neviditelnÃ¡ a veÅ¡kerÃ© zranÄ›nÃ­ kterÃ© obdrÅ¾Ã­ je snÃ­Å¾eno o 50%. MÅ¯Å¾e ale normÃ¡lnÄ› vykonÃ¡vat vÅ¡echny Äinnosti, aÄkoliv mÃ¡ malou Å¡anci (10%) Å¾e jejÃ­ kouzla selÅ¾ou. V obou fÃ¡zÃ­ch je schopna vidÄ›t vÅ¡echny neviditelnÃ© bytosti.~
+@6 = ~UkonÄit promÄ›nu v ZabijÃ¡ka
 
-Tato schopnost ukonèí Imoeninu transformaci a navrátí ji do její normální podoby.~
+Tato schopnost ukonÄÃ­ Imoeninu transformaci a navrÃ¡tÃ­ ji do jejÃ­ normÃ¡lnÃ­ podoby.~
 @7 = ~Regenerace 
 
 Dosah: dotek
-Trvání: 1 kolo/2 úrovnì
-Doba sesílání: 7
-Oblast pùsobení: dotknutá bytost
-Záchrannı hod: není 
+TrvÃ¡nÃ­: 1 kolo/2 ÃºrovnÄ›
+Doba sesÃ­lÃ¡nÃ­: 7
+Oblast pÅ¯sobenÃ­: dotknutÃ¡ bytost
+ZÃ¡chrannÃ½ hod: nenÃ­ 
 
-Tato mocná schopnost umoòuje Bhaalovu zplozenci naplnit jednu bytost schopností regenerace. Tato regenerace zahojí všechny rány a dokonce obnoví i ztracené konèetiny. Zvolené bytosti se zaènou obnovovat 3 ivoty kadou sekundu. Úèinek trvá 1 kolo za kadé 2 úrovnì sesilatele, nebo do rozptılení kouzla. Napøíklad postavì 14. úrovnì se bude regenerovat 18 ivotù za kolo po dobu 7 kol.~
-@8 = ~Vzkøíšení 
+Tato mocnÃ¡ schopnost umoÅ¾Åˆuje Bhaalovu zplozenci naplnit jednu bytost schopnostÃ­ regenerace. Tato regenerace zahojÃ­ vÅ¡echny rÃ¡ny a dokonce obnovÃ­ i ztracenÃ© konÄetiny. ZvolenÃ© bytosti se zaÄnou obnovovat 3 Å¾ivoty kaÅ¾dou sekundu. ÃšÄinek trvÃ¡ 1 kolo za kaÅ¾dÃ© 2 ÃºrovnÄ› sesilatele, nebo do rozptÃ½lenÃ­ kouzla. NapÅ™Ã­klad postavÄ› 14. ÃºrovnÄ› se bude regenerovat 18 Å¾ivotÅ¯ za kolo po dobu 7 kol.~
+@8 = ~VzkÅ™Ã­Å¡enÃ­ 
 
 Dosah: dotek
-Trvání: trvale
-Doba sesílání: 1
-Oblast pùsobení: dotknutá bytost
-Záchrannı hod: není
+TrvÃ¡nÃ­: trvale
+Doba sesÃ­lÃ¡nÃ­: 1
+Oblast pÅ¯sobenÃ­: dotknutÃ¡ bytost
+ZÃ¡chrannÃ½ hod: nenÃ­
 
-Podobnì jako kouzlo 5. úrovnì Oiv mrtvého, i Vzkøíšení vrátí ivot zvolené postavì. Avšak Vzkøíšení ji také úplnì vyléèí, take je ihned pøipravena na další dobrodruství.~
-@9 = ~Promìna v Zabijáka
+PodobnÄ› jako kouzlo 5. ÃºrovnÄ› OÅ¾iv mrtvÃ©ho, i VzkÅ™Ã­Å¡enÃ­ vrÃ¡tÃ­ Å¾ivot zvolenÃ© postavÄ›. AvÅ¡ak VzkÅ™Ã­Å¡enÃ­ ji takÃ© ÃºplnÄ› vylÃ©ÄÃ­, takÅ¾e je ihned pÅ™ipravena na dalÅ¡Ã­ dobrodruÅ¾stvÃ­.~
+@9 = ~PromÄ›na v ZabijÃ¡ka
 
-Kdy pouiješ tuto schopnost, vezmeš na sebe formu Avatára samotného Bhaala. Násilnou a mocnou zrùdu s dlouhımi zuby a drápy. Pouití této schopnosti sníí tvou reputaci o jeden bod, protoe i ti kteøí nevidí tvou hrùzostrašnou promìnu dokáí vycítit èisté zlo, které ulpí na tvé auøe.
+KdyÅ¾ pouÅ¾ijeÅ¡ tuto schopnost, vezmeÅ¡ na sebe formu AvatÃ¡ra samotnÃ©ho Bhaala. NÃ¡silnou a mocnou zrÅ¯du s dlouhÃ½mi zuby a drÃ¡py. PouÅ¾itÃ­ tÃ©to schopnosti snÃ­Å¾Ã­ tvou reputaci o jeden bod, protoÅ¾e i ti kteÅ™Ã­ nevidÃ­ tvou hrÅ¯zostraÅ¡nou promÄ›nu dokÃ¡Å¾Ã­ vycÃ­tit ÄistÃ© zlo, kterÃ© ulpÃ­ na tvÃ© auÅ™e.
 
-Promìna v Zabijáka poskytuje následující vıhody:
+PromÄ›na v ZabijÃ¡ka poskytuje nÃ¡sledujÃ­cÃ­ vÃ½hody:
 
-- Síla a Obratnost je nastavena na 25
-- Obranné èíslo je nastaveno na -9
-- Magická odolnost je nastavena na 40%
-- Záchranné hody jsou nastaveny 2
-- Poèet útokù za kolo je nastaven na 4 (1k8 drtivé + 2 chladem)
+- SÃ­la a Obratnost je nastavena na 25
+- ObrannÃ© ÄÃ­slo je nastaveno na -9
+- MagickÃ¡ odolnost je nastavena na 40%
+- ZÃ¡chrannÃ© hody jsou nastaveny 2
+- PoÄet ÃºtokÅ¯ za kolo je nastaven na 4 (1k8 drtivÃ© + 2 chladem)
 - THAC0 je nastaveno na 0
-- PLUS_SIGN_PLACEHOLDER 100 ivotù
-- Imunita na uvìznìní, vysátí úrovnì, ochromení, strachu, ovládnutí, spánku a bìnım støelám
+- PLUS_SIGN_PLACEHOLDER 100 Å¾ivotÅ¯
+- Imunita na uvÄ›znÄ›nÃ­, vysÃ¡tÃ­ ÃºrovnÄ›, ochromenÃ­, strachu, ovlÃ¡dnutÃ­, spÃ¡nku a bÄ›Å¾nÃ½m stÅ™elÃ¡m
 
-Forma Zabijáka se tìko ovládá. Po uplynutí prvního kola je zde 10% šance e ztratíš kontrolu. Tato šance se zvıší o dalších 10%, kadé následující kolo. Pokud ztratíš kontrolu, budeš po dobu jednoho kola bezhlavì útoèít na kadého ve své blízkosti.~
-@10 = ~Promìna v Zabijáka
+Forma ZabijÃ¡ka se tÄ›Å¾ko ovlÃ¡dÃ¡. Po uplynutÃ­ prvnÃ­ho kola je zde 10% Å¡ance Å¾e ztratÃ­Å¡ kontrolu. Tato Å¡ance se zvÃ½Å¡Ã­ o dalÅ¡Ã­ch 10%, kaÅ¾dÃ© nÃ¡sledujÃ­cÃ­ kolo. Pokud ztratÃ­Å¡ kontrolu, budeÅ¡ po dobu jednoho kola bezhlavÄ› ÃºtoÄÃ­t na kaÅ¾dÃ©ho ve svÃ© blÃ­zkosti.~
+@10 = ~PromÄ›na v ZabijÃ¡ka
 
-Kdy pouiješ tuto schopnost, vezmeš na sebe formu Avatára samotného Bhaala. Násilnou a mocnou zrùdu s dlouhımi zuby a drápy. Pouití této schopnosti sníí tvou reputaci o jeden bod, protoe i ti kteøí nevidí tvou hrùzostrašnou tranformaci dokáí vycítit èisté zlo, které ulpí na tvé auøe.
+KdyÅ¾ pouÅ¾ijeÅ¡ tuto schopnost, vezmeÅ¡ na sebe formu AvatÃ¡ra samotnÃ©ho Bhaala. NÃ¡silnou a mocnou zrÅ¯du s dlouhÃ½mi zuby a drÃ¡py. PouÅ¾itÃ­ tÃ©to schopnosti snÃ­Å¾Ã­ tvou reputaci o jeden bod, protoÅ¾e i ti kteÅ™Ã­ nevidÃ­ tvou hrÅ¯zostraÅ¡nou tranformaci dokÃ¡Å¾Ã­ vycÃ­tit ÄistÃ© zlo, kterÃ© ulpÃ­ na tvÃ© auÅ™e.
 
-Jak se zvìtšuje tvá síla, Zabiják se stává stále mocnìjším. 
-Promìna nyní poskytuje následující vıhody:
+Jak se zvÄ›tÅ¡uje tvÃ¡ sÃ­la, ZabijÃ¡k se stÃ¡vÃ¡ stÃ¡le mocnÄ›jÅ¡Ã­m. 
+PromÄ›na nynÃ­ poskytuje nÃ¡sledujÃ­cÃ­ vÃ½hody:
 
-- Síla a Obratnost je nastavena na 25
-- Obranné èíslo je nastaveno na -9
-- Magická odolnost je nastavena na 50%
-- Odolnost vùèi fyzickému zranìní je nastavena na 15%
-- Odolnost vùèi elementálnímu zranìní je nastavena na 30%
-- Záchranné hody jsou nastaveny 2
-- Poèet útokù za kolo je nastaven na 4 (2k6 drtivé + 4 chladem)
+- SÃ­la a Obratnost je nastavena na 25
+- ObrannÃ© ÄÃ­slo je nastaveno na -9
+- MagickÃ¡ odolnost je nastavena na 50%
+- Odolnost vÅ¯Äi fyzickÃ©mu zranÄ›nÃ­ je nastavena na 15%
+- Odolnost vÅ¯Äi elementÃ¡lnÃ­mu zranÄ›nÃ­ je nastavena na 30%
+- ZÃ¡chrannÃ© hody jsou nastaveny 2
+- PoÄet ÃºtokÅ¯ za kolo je nastaven na 4 (2k6 drtivÃ© + 4 chladem)
 - THAC0 je nastaveno na -4
-- PLUS_SIGN_PLACEHOLDER 150 ivotù
-- Regeneruješ si 2 body zdraví za vteøinu
-- Imunita na uvìznìní, vysátí úrovnì, ochromení, strachu, ovládnutí, spánku a bìnım støelám
-- Šance na ztrátu kontroly: 10% plus kumulativní šance 5% za kadé další kolo~
-@11 = ~Promìna v Zabijáka
+- PLUS_SIGN_PLACEHOLDER 150 Å¾ivotÅ¯
+- RegenerujeÅ¡ si 2 body zdravÃ­ za vteÅ™inu
+- Imunita na uvÄ›znÄ›nÃ­, vysÃ¡tÃ­ ÃºrovnÄ›, ochromenÃ­, strachu, ovlÃ¡dnutÃ­, spÃ¡nku a bÄ›Å¾nÃ½m stÅ™elÃ¡m
+- Å ance na ztrÃ¡tu kontroly: 10% plus kumulativnÃ­ Å¡ance 5% za kaÅ¾dÃ© dalÅ¡Ã­ kolo~
+@11 = ~PromÄ›na v ZabijÃ¡ka
 
-Kdy pouiješ tuto schopnost, vezmeš na sebe formu Avatára samotného Bhaala. Násilnou a mocnou zrùdu s dlouhımi zuby a drápy. Pouití této schopnosti sníí tvou reputaci o dva body, protoe i ti kteøí nevidí tvou hrùzostrašnou tranformaci dokáí vycítit èisté zlo, které ulpí na tvé auøe.
+KdyÅ¾ pouÅ¾ijeÅ¡ tuto schopnost, vezmeÅ¡ na sebe formu AvatÃ¡ra samotnÃ©ho Bhaala. NÃ¡silnou a mocnou zrÅ¯du s dlouhÃ½mi zuby a drÃ¡py. PouÅ¾itÃ­ tÃ©to schopnosti snÃ­Å¾Ã­ tvou reputaci o dva body, protoÅ¾e i ti kteÅ™Ã­ nevidÃ­ tvou hrÅ¯zostraÅ¡nou tranformaci dokÃ¡Å¾Ã­ vycÃ­tit ÄistÃ© zlo, kterÃ© ulpÃ­ na tvÃ© auÅ™e.
 
-Jak se zvìtšuje tvá síla, Zabiják se stává stále mocnìjším. 
-Promìna nyní poskytuje následující vıhody:
+Jak se zvÄ›tÅ¡uje tvÃ¡ sÃ­la, ZabijÃ¡k se stÃ¡vÃ¡ stÃ¡le mocnÄ›jÅ¡Ã­m. 
+PromÄ›na nynÃ­ poskytuje nÃ¡sledujÃ­cÃ­ vÃ½hody:
 
-- Síla a Obratnost je nastavena na 25
-- Obranné èíslo je nastaveno na -9
-- Magická odolnost je nastavena na 60%
-- Odolnost vùèi fyzickému zranìní je nastavena na 30%
-- Odolnost vùèi elementálnímu zranìní je nastavena na 40%
-- Záchranné hody jsou nastaveny 2
-- Poèet útokù za kolo je nastaven na 4 (2k8 drtivé + 8 chladem)
-- Útok má 10% šanci e rozptıli ze zasaeného cíle magii a sníí mu magickou odolnost
+- SÃ­la a Obratnost je nastavena na 25
+- ObrannÃ© ÄÃ­slo je nastaveno na -9
+- MagickÃ¡ odolnost je nastavena na 60%
+- Odolnost vÅ¯Äi fyzickÃ©mu zranÄ›nÃ­ je nastavena na 30%
+- Odolnost vÅ¯Äi elementÃ¡lnÃ­mu zranÄ›nÃ­ je nastavena na 40%
+- ZÃ¡chrannÃ© hody jsou nastaveny 2
+- PoÄet ÃºtokÅ¯ za kolo je nastaven na 4 (2k8 drtivÃ© + 8 chladem)
+- Ãštok mÃ¡ 10% Å¡anci Å¾e rozptÃ½li ze zasaÅ¾enÃ©ho cÃ­le magii a snÃ­Å¾Ã­ mu magickou odolnost
 - THAC0 je nastaveno na -8
-- PLUS_SIGN_PLACEHOLDER 200 ivotù
-- Regeneruješ si 3 body zdraví za vteøinu
-- Imunita na uvìznìní, vysátí úrovnì, ochromení, strachu, ovládnutí, spánku a bìnım støelám
-- Poskytuje efekt "Volné akce"
-- Šance na ztrátu kontroly: 5% za kadé dvì kola~
-@12 = ~Promìna v Nièitele
+- PLUS_SIGN_PLACEHOLDER 200 Å¾ivotÅ¯
+- RegenerujeÅ¡ si 3 body zdravÃ­ za vteÅ™inu
+- Imunita na uvÄ›znÄ›nÃ­, vysÃ¡tÃ­ ÃºrovnÄ›, ochromenÃ­, strachu, ovlÃ¡dnutÃ­, spÃ¡nku a bÄ›Å¾nÃ½m stÅ™elÃ¡m
+- Poskytuje efekt "VolnÃ© akce"
+- Å ance na ztrÃ¡tu kontroly: 5% za kaÅ¾dÃ© dvÄ› kola~
+@12 = ~PromÄ›na v NiÄitele
 
-Nyní na sebe dokáeš vzít formu Zabijáka i formu Nièitele - Bhaalova nejstrašlivìjšího a nejmocnìjšího vtìlení. 
-Promìna zabijáka sníí tvou reputaci o dva body.
-Promìna v Nièitele sníí tvou reputaci o tøi body.
+NynÃ­ na sebe dokÃ¡Å¾eÅ¡ vzÃ­t formu ZabijÃ¡ka i formu NiÄitele - Bhaalova nejstraÅ¡livÄ›jÅ¡Ã­ho a nejmocnÄ›jÅ¡Ã­ho vtÄ›lenÃ­. 
+PromÄ›na zabijÃ¡ka snÃ­Å¾Ã­ tvou reputaci o dva body.
+PromÄ›na v NiÄitele snÃ­Å¾Ã­ tvou reputaci o tÅ™i body.
 
-Forma Zabijáka poskytuje následující vıhody:
+Forma ZabijÃ¡ka poskytuje nÃ¡sledujÃ­cÃ­ vÃ½hody:
 
-- Síla a Obratnost je nastavena na 25
-- Obranné èíslo je nastaveno na -9
-- Magická odolnost je nastavena na 60%
-- Odolnost vùèi fyzickému zranìní je nastavena na 30%
-- Odolnost vùèi elementálnímu zranìní je nastavena na 50%
-- Záchranné hody jsou nastaveny 2
-- Poèet útokù za kolo je nastaven na 4 (2k8 drtivé + 8 chladem)
-- Útok má 10% šanci e rozptıli ze zasaeného cíle magii a sníí mu magickou odolnost
+- SÃ­la a Obratnost je nastavena na 25
+- ObrannÃ© ÄÃ­slo je nastaveno na -9
+- MagickÃ¡ odolnost je nastavena na 60%
+- Odolnost vÅ¯Äi fyzickÃ©mu zranÄ›nÃ­ je nastavena na 30%
+- Odolnost vÅ¯Äi elementÃ¡lnÃ­mu zranÄ›nÃ­ je nastavena na 50%
+- ZÃ¡chrannÃ© hody jsou nastaveny 2
+- PoÄet ÃºtokÅ¯ za kolo je nastaven na 4 (2k8 drtivÃ© + 8 chladem)
+- Ãštok mÃ¡ 10% Å¡anci Å¾e rozptÃ½li ze zasaÅ¾enÃ©ho cÃ­le magii a snÃ­Å¾Ã­ mu magickou odolnost
 - THAC0 je nastaveno na -8
-- PLUS_SIGN_PLACEHOLDER 200 ivotù
-- Regeneruješ si 3 body zdraví za vteøinu
-- Imunita na uvìznìní, vysátí úrovnì, ochromení, strachu, ovládnutí, zmatku, spánku, nemocem, jedu a bìnım støelám
-- Poskytuje efekt "Volné akce"
-- Šance na ztrátu kontroly: 5% za kadé dvì kola
+- PLUS_SIGN_PLACEHOLDER 200 Å¾ivotÅ¯
+- RegenerujeÅ¡ si 3 body zdravÃ­ za vteÅ™inu
+- Imunita na uvÄ›znÄ›nÃ­, vysÃ¡tÃ­ ÃºrovnÄ›, ochromenÃ­, strachu, ovlÃ¡dnutÃ­, zmatku, spÃ¡nku, nemocem, jedu a bÄ›Å¾nÃ½m stÅ™elÃ¡m
+- Poskytuje efekt "VolnÃ© akce"
+- Å ance na ztrÃ¡tu kontroly: 5% za kaÅ¾dÃ© dvÄ› kola
 
-Forma Nièitele poskytuje tyto vıhody:
+Forma NiÄitele poskytuje tyto vÃ½hody:
 
-- Síla a Obratnost je nastavena na 25
-- Obranné èíslo je nastaveno na -9
-- Magická odolnost je nastavena na 75%
-- Odolnost vùèi fyzickému zranìní je nastavena na 50%
-- Odolnost vùèi elementálnímu zranìní je nastavena na 50%
-- Záchranné hody jsou nastaveny 2
-- Poèet útokù za kolo je nastaven na 5 (3k8 drtivé + 8 chladem)
-- Útok má 20% šanci e rozptıli ze zasaeného cíle magii a sníí mu magickou odolnost
+- SÃ­la a Obratnost je nastavena na 25
+- ObrannÃ© ÄÃ­slo je nastaveno na -9
+- MagickÃ¡ odolnost je nastavena na 75%
+- Odolnost vÅ¯Äi fyzickÃ©mu zranÄ›nÃ­ je nastavena na 50%
+- Odolnost vÅ¯Äi elementÃ¡lnÃ­mu zranÄ›nÃ­ je nastavena na 50%
+- ZÃ¡chrannÃ© hody jsou nastaveny 2
+- PoÄet ÃºtokÅ¯ za kolo je nastaven na 5 (3k8 drtivÃ© + 8 chladem)
+- Ãštok mÃ¡ 20% Å¡anci Å¾e rozptÃ½li ze zasaÅ¾enÃ©ho cÃ­le magii a snÃ­Å¾Ã­ mu magickou odolnost
 - THAC0 je nastaveno na -12
-- PLUS_SIGN_PLACEHOLDER 250 ivotù
-- Regeneruješ si 5 bodù zdraví za vteøinu
-- Imunita na uvìznìní, vysátí úrovnì, ochromení, strachu, ovládnutí, zmatku, spánku, nemocem, jedu a bìnım støelám
-- Poskytuje efekt "Volné akce"
-- Šance na ztrátu kontroly: 40% plus kumulativní šance 10% za kadé další kolo~
-@13 = ~Promìna v Zabijáka
+- PLUS_SIGN_PLACEHOLDER 250 Å¾ivotÅ¯
+- RegenerujeÅ¡ si 5 bodÅ¯ zdravÃ­ za vteÅ™inu
+- Imunita na uvÄ›znÄ›nÃ­, vysÃ¡tÃ­ ÃºrovnÄ›, ochromenÃ­, strachu, ovlÃ¡dnutÃ­, zmatku, spÃ¡nku, nemocem, jedu a bÄ›Å¾nÃ½m stÅ™elÃ¡m
+- Poskytuje efekt "VolnÃ© akce"
+- Å ance na ztrÃ¡tu kontroly: 40% plus kumulativnÃ­ Å¡ance 10% za kaÅ¾dÃ© dalÅ¡Ã­ kolo~
+@13 = ~PromÄ›na v ZabijÃ¡ka
 
-Kdy Imoen pouije tuto schopnost, vezme na sebe formu Avatára samotného Bhaala. Násilnou a mocnou zrùdu s dlouhımi zuby a drápy.
+KdyÅ¾ Imoen pouÅ¾ije tuto schopnost, vezme na sebe formu AvatÃ¡ra samotnÃ©ho Bhaala. NÃ¡silnou a mocnou zrÅ¯du s dlouhÃ½mi zuby a drÃ¡py.
 
-Forma Zabijáka poskytuje následující vıhody:
+Forma ZabijÃ¡ka poskytuje nÃ¡sledujÃ­cÃ­ vÃ½hody:
 
-- Síla a Obratnost je nastavena na 25
-- Obranné èíslo je nastaveno na -9
-- Magická odolnost je nastavena na 40%
-- Záchranné hody jsou nastaveny 2
-- Poèet útokù za kolo je nastaven na 4 (1k8 drtivé + 2 chladem)
+- SÃ­la a Obratnost je nastavena na 25
+- ObrannÃ© ÄÃ­slo je nastaveno na -9
+- MagickÃ¡ odolnost je nastavena na 40%
+- ZÃ¡chrannÃ© hody jsou nastaveny 2
+- PoÄet ÃºtokÅ¯ za kolo je nastaven na 4 (1k8 drtivÃ© + 2 chladem)
 - THAC0 je nastaveno na 0
-- PLUS_SIGN_PLACEHOLDER 100 ivotù
-- Imunita na uvìznìní, vysátí úrovnì, ochromení, strachu, ovládnutí, spánku a bìnım støelám
+- PLUS_SIGN_PLACEHOLDER 100 Å¾ivotÅ¯
+- Imunita na uvÄ›znÄ›nÃ­, vysÃ¡tÃ­ ÃºrovnÄ›, ochromenÃ­, strachu, ovlÃ¡dnutÃ­, spÃ¡nku a bÄ›Å¾nÃ½m stÅ™elÃ¡m
 
-Moná e je to tím, e Imoen má mnohem ménì esence ne <CHARNAME>, ale faktem zùstává, e její kontrola nad touto formou je absolutní a proto nad ní nikdy neztratí kontrolu.~
-@14 = ~Získány schopnosti Bhaalova zplozence~
-@15 = ~Imoen na sebe nyní mùe bez omezení brát formu Zabijáka a jednou za minutu na sebe vzít Étherickou formu~
-@16 = ~Ovládání Démonù
+MoÅ¾nÃ¡ Å¾e je to tÃ­m, Å¾e Imoen mÃ¡ mnohem mÃ©nÄ› esence neÅ¾ <CHARNAME>, ale faktem zÅ¯stÃ¡vÃ¡, Å¾e jejÃ­ kontrola nad touto formou je absolutnÃ­ a proto nad nÃ­ nikdy neztratÃ­ kontrolu.~
+@14 = ~ZÃ­skÃ¡ny schopnosti Bhaalova zplozence~
+@15 = ~Imoen na sebe nynÃ­ mÅ¯Å¾e bez omezenÃ­ brÃ¡t formu ZabijÃ¡ka a jednou za minutu na sebe vzÃ­t Ã‰therickou formu~
+@16 = ~OvlÃ¡dÃ¡nÃ­ DÃ©monÅ¯
 
 Dosah: dohled sesilatele
-Doba sesílání: 1
-Trvání: speciální
-Oblast pùsobení: 1 démon
-Záchrannı hod: není
+Doba sesÃ­lÃ¡nÃ­: 1
+TrvÃ¡nÃ­: speciÃ¡lnÃ­
+Oblast pÅ¯sobenÃ­: 1 dÃ©mon
+ZÃ¡chrannÃ½ hod: nenÃ­
 
-Tato schopnost umoní zplozeci vøevzít kontrolu nad démony které Melissa vyvovala. S vybranım démone se utkáš v mentální bitvì po dobu DURATION_PLACEHOLDER vteøin. Po ulynutí této doby je zde SUCCESS_CHANCE_PLACEHOLDER% e se z démona stane tvùj spojenec. Neexistuje zde ádnı záchrannı hod nebo odolnost. Démon není pod tvou pøímou kontrolou, ale bude bojovat na tvé stranì. Tuto schopnost mùeš pouít jednou za 3 kola.~
-@17 = ~Utrení ze øetìzu
+Tato schopnost umoÅ¾nÃ­ zplozeci vÅ™evzÃ­t kontrolu nad dÃ©mony kterÃ© Melissa vyvovala. S vybranÃ½m dÃ©mone se utkÃ¡Å¡ v mentÃ¡lnÃ­ bitvÄ› po dobu DURATION_PLACEHOLDER vteÅ™in. Po ulynutÃ­ tÃ©to doby je zde SUCCESS_CHANCE_PLACEHOLDER% Å¾e se z dÃ©mona stane tvÅ¯j spojenec. Neexistuje zde Å¾Ã¡dnÃ½ zÃ¡chrannÃ½ hod nebo odolnost. DÃ©mon nenÃ­ pod tvou pÅ™Ã­mou kontrolou, ale bude bojovat na tvÃ© stranÄ›. Tuto schopnost mÅ¯Å¾eÅ¡ pouÅ¾Ã­t jednou za 3 kola.~
+@17 = ~UtrÅ¾enÃ­ ze Å™etÄ›zu
 
 Dosah: 3 metry
-Doba sesílání: 1
-Trvání: Instant
-Oblast pùsobení: 1 bytost
-Záchrannı hod: 1/2 + speciální
+Doba sesÃ­lÃ¡nÃ­: 1
+TrvÃ¡nÃ­: Instant
+Oblast pÅ¯sobenÃ­: 1 bytost
+ZÃ¡chrannÃ½ hod: 1/2 + speciÃ¡lnÃ­
 
-Schopnost "Utrení ze øetìzu" umoòuje vypustit tvou vniøní energii na nepøátele v tvé bezprostøední a zpùsobit jim magické zranìní ve vıši DICENUMBER_PLACEHOLDERk12 (polovinu, pokud uspìjí v záchranném hodu proti smrti s postihem -4) a odhodí je od tebe (je zde šance, e po odhození budou na chvíli v bezvìdomí). Tuto schopnost je moné pouít jednou za 30 vteøin. Po jejím pouití jsi extrémnì unavenı a máš 25% šanci e seleš pøi sesílání kouzla po dobu dvou kol. Jeliko vyuíváš extrémnì velké mnoství esence, podoby Zabijáka a Nièitele nebudou následujících 30 vteøin dostupné.~
+Schopnost "UtrÅ¾enÃ­ ze Å™etÄ›zu" umoÅ¾Åˆuje vypustit tvou vniÅ™nÃ­ energii na nepÅ™Ã¡tele v tvÃ© bezprostÅ™ednÃ­ a zpÅ¯sobit jim magickÃ© zranÄ›nÃ­ ve vÃ½Å¡i DICENUMBER_PLACEHOLDERk12 (polovinu, pokud uspÄ›jÃ­ v zÃ¡chrannÃ©m hodu proti smrti s postihem -4) a odhodÃ­ je od tebe (je zde Å¡ance, Å¾e po odhozenÃ­ budou na chvÃ­li v bezvÄ›domÃ­). Tuto schopnost je moÅ¾nÃ© pouÅ¾Ã­t jednou za 30 vteÅ™in. Po jejÃ­m pouÅ¾itÃ­ jsi extrÃ©mnÄ› unavenÃ½ a mÃ¡Å¡ 25% Å¡anci Å¾e selÅ¾eÅ¡ pÅ™i sesÃ­lÃ¡nÃ­ kouzla po dobu dvou kol. JelikoÅ¾ vyuÅ¾Ã­vÃ¡Å¡ extrÃ©mnÄ› velkÃ© mnoÅ¾stvÃ­ esence, podoby ZabijÃ¡ka a NiÄitele nebudou nÃ¡sledujÃ­cÃ­ch 30 vteÅ™in dostupnÃ©.~
 @18 = ~Ohnisko
 
 Dosah: 0
-Doba sesílání: 1
-Trvání: 5 kol
-Oblast pùsobení: sesilatel
-Záchrannı hod: není
+Doba sesÃ­lÃ¡nÃ­: 1
+TrvÃ¡nÃ­: 5 kol
+Oblast pÅ¯sobenÃ­: sesilatel
+ZÃ¡chrannÃ½ hod: nenÃ­
 
-Tato schopnost umoòuje zplozenci soustøedit svou energii smìrem dovnitø a odolat tak velkému mnoství kouzel. Po dobu 30 vteøin se stane imunní na kouzla jako je "Kámen na maso", "Desintegrace" a "Zastav èas". Zároveò mùe naprosto ignorovat všechny kouzla 1-3 úrovnì. Tuto schopnost je moné pouít jednou za minutu.~
-@19 = ~Dimenzionální dveøe
+Tato schopnost umoÅ¾Åˆuje zplozenci soustÅ™edit svou energii smÄ›rem dovnitÅ™ a odolat tak velkÃ©mu mnoÅ¾stvÃ­ kouzel. Po dobu 30 vteÅ™in se stane imunnÃ­ na kouzla jako je "KÃ¡men na maso", "Desintegrace" a "Zastav Äas". ZÃ¡roveÅˆ mÅ¯Å¾e naprosto ignorovat vÅ¡echny kouzla 1-3 ÃºrovnÄ›. Tuto schopnost je moÅ¾nÃ© pouÅ¾Ã­t jednou za minutu.~
+@19 = ~DimenzionÃ¡lnÃ­ dveÅ™e
 
-Dosah: neomezenı
-Doba sesílání: 0
-Trvání: okamité
-Oblast pùsobení: sesilatel
-Záchrannı hod: není
+Dosah: neomezenÃ½
+Doba sesÃ­lÃ¡nÃ­: 0
+TrvÃ¡nÃ­: okamÅ¾itÃ©
+Oblast pÅ¯sobenÃ­: sesilatel
+ZÃ¡chrannÃ½ hod: nenÃ­
 
-Zplozenec se mùe zcela volnì pohybovat v prostoru a mezi sférami. Teleportaci mùe pouít jednou za kolo.~
-@20 = ~Promìna v netopıra
+Zplozenec se mÅ¯Å¾e zcela volnÄ› pohybovat v prostoru a mezi sfÃ©rami. Teleportaci mÅ¯Å¾e pouÅ¾Ã­t jednou za kolo.~
+@20 = ~PromÄ›na v netopÃ½ra
 
-Tato schopnost umoòuje Bodhi promìnit se v netopıra.~
-@21 = ~Boskı dar
-
-Dosah: 0
-Trvání: 1 tah
-Doba sesílání: 1
-Oblast pùsobení: sesilatel
-Záchrannı hod: není
-
-Zplozenec vyvolá sílu své krve, co mu na krátkı èas propùjèí obrovskou moc. Síla, obratnost a odolnost budou zvıšeny na 25.~
-@22 = ~Otoè odolnosti
+Tato schopnost umoÅ¾Åˆuje Bodhi promÄ›nit se v netopÃ½ra.~
+@21 = ~BoÅ¾skÃ½ dar
 
 Dosah: 0
-Trvání: trvalé
-Doba sesílání: 1
-Oblast pùsobení: Balthazar
-Záchrannı hod: není
+TrvÃ¡nÃ­: 1 tah
+Doba sesÃ­lÃ¡nÃ­: 1
+Oblast pÅ¯sobenÃ­: sesilatel
+ZÃ¡chrannÃ½ hod: nenÃ­
 
-Pomocí této schopnosti mùe Balthazar libovolnì otáèet svou pøirozenou odolnost. Jeho odolnost vùèi fyzickému zranìní se zvıší z 10% na 90% a jeho odolnost vùèi magii a elementálnímu zranìní se sníí z 90% na 10%.
-
-Balthazar mùe své odolnosti otáèet kdykoliv se mu zachce.~
-@23 = ~Otoè odolnosti
+Zplozenec vyvolÃ¡ sÃ­lu svÃ© krve, coÅ¾ mu na krÃ¡tkÃ½ Äas propÅ¯jÄÃ­ obrovskou moc. SÃ­la, obratnost a odolnost budou zvÃ½Å¡eny na 25.~
+@22 = ~OtoÄ odolnosti
 
 Dosah: 0
-Trvání: trvalé
-Doba sesílání: 1
-Oblast pùsobení: Balthazar
-Záchrannı hod: není
+TrvÃ¡nÃ­: trvalÃ©
+Doba sesÃ­lÃ¡nÃ­: 1
+Oblast pÅ¯sobenÃ­: Balthazar
+ZÃ¡chrannÃ½ hod: nenÃ­
 
-Pomocí této schopnosti mùe Balthazar libovolnì otáèet svou pøirozenou odolnost. Jeho odolnost vùèi fyzickému zranìní se sníí z 90% na 10% a jeho odolnost vùèi magii a elementálnímu zranìní se zvıší z 10% na 90%.
+PomocÃ­ tÃ©to schopnosti mÅ¯Å¾e Balthazar libovolnÄ› otÃ¡Äet svou pÅ™irozenou odolnost. Jeho odolnost vÅ¯Äi fyzickÃ©mu zranÄ›nÃ­ se zvÃ½Å¡Ã­ z 10% na 90% a jeho odolnost vÅ¯Äi magii a elementÃ¡lnÃ­mu zranÄ›nÃ­ se snÃ­Å¾Ã­ z 90% na 10%.
 
-Balthazar mùe své odolnosti otáèet kdykoliv se mu zachce.~
+Balthazar mÅ¯Å¾e svÃ© odolnosti otÃ¡Äet kdykoliv se mu zachce.~
+@23 = ~OtoÄ odolnosti
+
+Dosah: 0
+TrvÃ¡nÃ­: trvalÃ©
+Doba sesÃ­lÃ¡nÃ­: 1
+Oblast pÅ¯sobenÃ­: Balthazar
+ZÃ¡chrannÃ½ hod: nenÃ­
+
+PomocÃ­ tÃ©to schopnosti mÅ¯Å¾e Balthazar libovolnÄ› otÃ¡Äet svou pÅ™irozenou odolnost. Jeho odolnost vÅ¯Äi fyzickÃ©mu zranÄ›nÃ­ se snÃ­Å¾Ã­ z 90% na 10% a jeho odolnost vÅ¯Äi magii a elementÃ¡lnÃ­mu zranÄ›nÃ­ se zvÃ½Å¡Ã­ z 10% na 90%.
+
+Balthazar mÅ¯Å¾e svÃ© odolnosti otÃ¡Äet kdykoliv se mu zachce.~
 @24 = ~Postoj Slunce
 
 Dosah: 0
-Trvání: 3 hodiny
-Doba sesílání: 1
-Oblast pùsobení: Balthazar a všechny bytosti v okruhu 10 metrù
-Záchrannı hod: není
+TrvÃ¡nÃ­: 3 hodiny
+Doba sesÃ­lÃ¡nÃ­: 1
+Oblast pÅ¯sobenÃ­: Balthazar a vÅ¡echny bytosti v okruhu 10 metrÅ¯
+ZÃ¡chrannÃ½ hod: nenÃ­
 
-Pokud Balthazar zaujme postoj slunce, vylepší tím své mystické schopnosti. Získá 127% odolnost vùèi ohni (bez ohledu na to, jestli má otoèené odolnosti) a všechny jeho útoky pùsobí dodateèné zranìní ohnìm 1k10; a zároveò Balthazarovi léèí zdraví o stejné vıši. Jakmile vstoupí do postoje slunce, vypustí Blathazar vlnu plamenù, které zpùsobí 12k6 zranìní ohnìm (polovinu, pøi úspìšné záchranì proti kouzlu) a 1k8 drtivého zranìní všem, co se nechází v okruhu 10 m od nìj. Všichni jsou zároveò i odhozeni.
+Pokud Balthazar zaujme postoj slunce, vylepÅ¡Ã­ tÃ­m svÃ© mystickÃ© schopnosti. ZÃ­skÃ¡ 127% odolnost vÅ¯Äi ohni (bez ohledu na to, jestli mÃ¡ otoÄenÃ© odolnosti) a vÅ¡echny jeho Ãºtoky pÅ¯sobÃ­ dodateÄnÃ© zranÄ›nÃ­ ohnÄ›m 1k10; a zÃ¡roveÅˆ Balthazarovi lÃ©ÄÃ­ zdravÃ­ o stejnÃ© vÃ½Å¡i. Jakmile vstoupÃ­ do postoje slunce, vypustÃ­ Blathazar vlnu plamenÅ¯, kterÃ© zpÅ¯sobÃ­ 12k6 zranÄ›nÃ­ ohnÄ›m (polovinu, pÅ™i ÃºspÄ›Å¡nÃ© zÃ¡chranÄ› proti kouzlu) a 1k8 drtivÃ©ho zranÄ›nÃ­ vÅ¡em, co se nechÃ¡zÃ­ v okruhu 10 m od nÄ›j. VÅ¡ichni jsou zÃ¡roveÅˆ i odhozeni.
 
-Balthazar mùe najednou vyuívat pouze jeden postoj. Vstup do tohoto postoje zruší všechny pøedchozí. Postoj slunce mùe bıt zrušen kouzly jako je "Zlom".~
-@25 = ~Postoj Mìsíce
-
-Dosah: 0
-Trvání: 3 hodiny
-Doba sesílání: 1
-Oblast pùsobení: Balthazar
-Záchrannı hod: není
-
-Pokud Balthazar zaujme postoj mìsíce, vylepší tím své mystické schopnosti. Získá imunitu na Vysátí energie, Uvìznìní, Zastavení èasu a mùe jednou pouít Kletbu mìsíce. Jakmile vstoupí do tohoto postoje, všichni nepøátelé v jeho okolí jsou na 4 kola oslepeni (záchrana proti kouzlu ruší úèinek).
-
-Balthazar mùe najednou vyuívat pouze jeden postoj. Vstup do tohoto postoje zruší všechny pøedchozí. Postoj mìsíce mùe bıt zrušen kouzly jako je "Zlom".~
-@26 = ~Stínovı postoj
+Balthazar mÅ¯Å¾e najednou vyuÅ¾Ã­vat pouze jeden postoj. Vstup do tohoto postoje zruÅ¡Ã­ vÅ¡echny pÅ™edchozÃ­. Postoj slunce mÅ¯Å¾e bÃ½t zruÅ¡en kouzly jako je "Zlom".~
+@25 = ~Postoj MÄ›sÃ­ce
 
 Dosah: 0
-Trvání: 3 hodiny
-Doba sesílání: 1
-Oblast pùsobení: Balthazar
-Záchrannı hod: není
+TrvÃ¡nÃ­: 3 hodiny
+Doba sesÃ­lÃ¡nÃ­: 1
+Oblast pÅ¯sobenÃ­: Balthazar
+ZÃ¡chrannÃ½ hod: nenÃ­
 
-Pokud Balthazar zaujme stínovı postoj, vylepší tím své mystické schopnosti. Moc stínù mu propùjèí úplnou neviditelnost (stejné jako kouzlo "Vylepšená neviditelnost"). Mimo to, mu ochrannı stínovı pláš zvyšuje obranné èíslo o dalších 6 bodù.
+Pokud Balthazar zaujme postoj mÄ›sÃ­ce, vylepÅ¡Ã­ tÃ­m svÃ© mystickÃ© schopnosti. ZÃ­skÃ¡ imunitu na VysÃ¡tÃ­ energie, UvÄ›znÄ›nÃ­, ZastavenÃ­ Äasu a mÅ¯Å¾e jednou pouÅ¾Ã­t Kletbu mÄ›sÃ­ce. Jakmile vstoupÃ­ do tohoto postoje, vÅ¡ichni nepÅ™Ã¡telÃ© v jeho okolÃ­ jsou na 4 kola oslepeni (zÃ¡chrana proti kouzlu ruÅ¡Ã­ ÃºÄinek).
 
-Balthazar mùe najednou vyuívat pouze jeden postoj. Vstup do tohoto postoje zruší všechny pøedchozí. Stínovı postoj mùe bıt zrušen kouzly jako je "Pravdivé vidìní" nebo "Orákulum".~
-@27 = ~Rychlejší ne oko
+Balthazar mÅ¯Å¾e najednou vyuÅ¾Ã­vat pouze jeden postoj. Vstup do tohoto postoje zruÅ¡Ã­ vÅ¡echny pÅ™edchozÃ­. Postoj mÄ›sÃ­ce mÅ¯Å¾e bÃ½t zruÅ¡en kouzly jako je "Zlom".~
+@26 = ~StÃ­novÃ½ postoj
+
+Dosah: 0
+TrvÃ¡nÃ­: 3 hodiny
+Doba sesÃ­lÃ¡nÃ­: 1
+Oblast pÅ¯sobenÃ­: Balthazar
+ZÃ¡chrannÃ½ hod: nenÃ­
+
+Pokud Balthazar zaujme stÃ­novÃ½ postoj, vylepÅ¡Ã­ tÃ­m svÃ© mystickÃ© schopnosti. Moc stÃ­nÅ¯ mu propÅ¯jÄÃ­ Ãºplnou neviditelnost (stejnÃ© jako kouzlo "VylepÅ¡enÃ¡ neviditelnost"). Mimo to, mu ochrannÃ½ stÃ­novÃ½ plÃ¡Å¡Å¥ zvyÅ¡uje obrannÃ© ÄÃ­slo o dalÅ¡Ã­ch 6 bodÅ¯.
+
+Balthazar mÅ¯Å¾e najednou vyuÅ¾Ã­vat pouze jeden postoj. Vstup do tohoto postoje zruÅ¡Ã­ vÅ¡echny pÅ™edchozÃ­. StÃ­novÃ½ postoj mÅ¯Å¾e bÃ½t zruÅ¡en kouzly jako je "PravdivÃ© vidÄ›nÃ­" nebo "OrÃ¡kulum".~
+@27 = ~RychlejÅ¡Ã­ neÅ¾ oko
 
 Dosah: dohled sesilatele
-Trvání: okamité
-Doba sesílání: 0
-Oblast pùsobení: Balthazar
-Záchrannı hod: není
+TrvÃ¡nÃ­: okamÅ¾itÃ©
+Doba sesÃ­lÃ¡nÃ­: 0
+Oblast pÅ¯sobenÃ­: Balthazar
+ZÃ¡chrannÃ½ hod: nenÃ­
 
-Pouhım mrknutím oka se Balthazar mùe pøesunout kamkoliv dohlédne.
+PouhÃ½m mrknutÃ­m oka se Balthazar mÅ¯Å¾e pÅ™esunout kamkoliv dohlÃ©dne.
 
-Tato schopnost mùe bıt pouita jednou za 2 kola.~
-@28 = ~Draèí pìst
+Tato schopnost mÅ¯Å¾e bÃ½t pouÅ¾ita jednou za 2 kola.~
+@28 = ~DraÄÃ­ pÄ›st
 
 Dosah: dotek
-Trvání: speciální
-Doba sesílání: 0
-Oblast pùsobení: zasaená bytost
-Záchrannı hod: není
+TrvÃ¡nÃ­: speciÃ¡lnÃ­
+Doba sesÃ­lÃ¡nÃ­: 0
+Oblast pÅ¯sobenÃ­: zasaÅ¾enÃ¡ bytost
+ZÃ¡chrannÃ½ hod: nenÃ­
 
-Soustøedìním KI do svého úderu, mùe Balthazar prorazit nepøátelské magické ochrany. Draèí pìst má 25% šanci na znièení všech bojovıch ochran a posílení úrovnì niší ne 9 a 25% šanci na znièení antimagickıch efektù a ochran úrovnì niší ne 9. Zároveò má 50% šanci na znièení obojího. Tento úder navíc zpomalí (-4 k šanci na zásah a obranì) zasaenı cíl na 2 kola.
+SoustÅ™edÄ›nÃ­m KI do svÃ©ho Ãºderu, mÅ¯Å¾e Balthazar prorazit nepÅ™Ã¡telskÃ© magickÃ© ochrany. DraÄÃ­ pÄ›st mÃ¡ 25% Å¡anci na zniÄenÃ­ vÅ¡ech bojovÃ½ch ochran a posÃ­lenÃ­ ÃºrovnÄ› niÅ¾Å¡Ã­ neÅ¾ 9 a 25% Å¡anci na zniÄenÃ­ antimagickÃ½ch efektÅ¯ a ochran ÃºrovnÄ› niÅ¾Å¡Ã­ neÅ¾ 9. ZÃ¡roveÅˆ mÃ¡ 50% Å¡anci na zniÄenÃ­ obojÃ­ho. Tento Ãºder navÃ­c zpomalÃ­ (-4 k Å¡anci na zÃ¡sah a obranÄ›) zasaÅ¾enÃ½ cÃ­l na 2 kola.
 
-Tato schopnost mùe bıt pouita jednou za 3 kola.~
+Tato schopnost mÅ¯Å¾e bÃ½t pouÅ¾ita jednou za 3 kola.~
 @29 = ~Technika tygra
 
 Dosah: 0
-Trvání: 2 kola
-Doba sesílání: 1
-Oblast pùsobení: Balthazar
-Záchrannı hod: není
+TrvÃ¡nÃ­: 2 kola
+Doba sesÃ­lÃ¡nÃ­: 1
+Oblast pÅ¯sobenÃ­: Balthazar
+ZÃ¡chrannÃ½ hod: nenÃ­
 
-Pokud pouívá techniku tigra, má Balthazar 50% šanci na kritickı útok; všechny jeho údery navíc odhazují nepøátele a nechávají je omráèené po dobu jednoho kola.
+Pokud pouÅ¾Ã­vÃ¡ techniku tigra, mÃ¡ Balthazar 50% Å¡anci na kritickÃ½ Ãºtok; vÅ¡echny jeho Ãºdery navÃ­c odhazujÃ­ nepÅ™Ã¡tele a nechÃ¡vajÃ­ je omrÃ¡ÄenÃ© po dobu jednoho kola.
 
-Tato schopnost mùe bıt pouita jednou za 4 kola.~
-@30 = ~Smrtící ruka
+Tato schopnost mÅ¯Å¾e bÃ½t pouÅ¾ita jednou za 4 kola.~
+@30 = ~SmrtÃ­cÃ­ ruka
 
 Dosah: 0
-Trvání: 1 kolo
-Doba sesílání: 1
-Oblast pùsobení: Balthazar
-Záchrannı hod: speciální
+TrvÃ¡nÃ­: 1 kolo
+Doba sesÃ­lÃ¡nÃ­: 1
+Oblast pÅ¯sobenÃ­: Balthazar
+ZÃ¡chrannÃ½ hod: speciÃ¡lnÃ­
 
-Pokud Balthazar spojí své KI s esencí Bhaalova zplozence, vznikne vskutku smrtící kombinace. Po dobu jednoho kola jsou všechny jeho útoky automaticky kritické zásahy a bìhem prvních 3 vteøin po aktivaci, jsou všichni zasaení nepøátelé automaticky zabiti (záchrana proti kouzlu ruší úèinek).
+Pokud Balthazar spojÃ­ svÃ© KI s esencÃ­ Bhaalova zplozence, vznikne vskutku smrtÃ­cÃ­ kombinace. Po dobu jednoho kola jsou vÅ¡echny jeho Ãºtoky automaticky kritickÃ© zÃ¡sahy a bÄ›hem prvnÃ­ch 3 vteÅ™in po aktivaci, jsou vÅ¡ichni zasaÅ¾enÃ­ nepÅ™Ã¡telÃ© automaticky zabiti (zÃ¡chrana proti kouzlu ruÅ¡Ã­ ÃºÄinek).
 
-Tato schopnost mùe bıt pouita jednou za 3 kola.~
-@31 = ~Stínovı kop
+Tato schopnost mÅ¯Å¾e bÃ½t pouÅ¾ita jednou za 3 kola.~
+@31 = ~StÃ­novÃ½ kop
 
 Dosah: dotek
-Trvání: 4 vteøiny
-Doba sesílání: 0
-Oblast pùsobení: zasaená bytost
-Záchrannı hod: není
+TrvÃ¡nÃ­: 4 vteÅ™iny
+Doba sesÃ­lÃ¡nÃ­: 0
+Oblast pÅ¯sobenÃ­: zasaÅ¾enÃ¡ bytost
+ZÃ¡chrannÃ½ hod: nenÃ­
 
-Pomocí mocného kopu odhodí Balthazar zasaeného neøítele a zpùsobí mu 4k8 drtivého zranìní. Odhození nepøátele jsou na pár vteøin omráèeni.
+PomocÃ­ mocnÃ©ho kopu odhodÃ­ Balthazar zasaÅ¾enÃ©ho neÅ™Ã­tele a zpÅ¯sobÃ­ mu 4k8 drtivÃ©ho zranÄ›nÃ­. OdhozenÃ­ nepÅ™Ã¡tele jsou na pÃ¡r vteÅ™in omrÃ¡Äeni.
 
-Tato schopnost mùe bıt pouita jednou za 2 kola.~
-@32 = ~Kletba Mìsíce
+Tato schopnost mÅ¯Å¾e bÃ½t pouÅ¾ita jednou za 2 kola.~
+@32 = ~Kletba MÄ›sÃ­ce
 
-Dosah: 10 metrù
-Trvání: speciální
-Doba sesílání: 1
-Oblast pùsobení: 1 bytost
-Záchrannı hod: speciální
+Dosah: 10 metrÅ¯
+TrvÃ¡nÃ­: speciÃ¡lnÃ­
+Doba sesÃ­lÃ¡nÃ­: 1
+Oblast pÅ¯sobenÃ­: 1 bytost
+ZÃ¡chrannÃ½ hod: speciÃ¡lnÃ­
 
-Bytost, která je zasaená Kletbou mìsíce obdrí postih -4 ke všem záchrannım hodùm po dobu 40 kol. Dále musí uspìt v záchranì proti kouzlu s postihem -2, nebo bude zpomalena (-4 k šanci na zásah a obranì) na 2 kola.
+Bytost, kterÃ¡ je zasaÅ¾enÃ¡ Kletbou mÄ›sÃ­ce obdrÅ¾Ã­ postih -4 ke vÅ¡em zÃ¡chrannÃ½m hodÅ¯m po dobu 40 kol. DÃ¡le musÃ­ uspÄ›t v zÃ¡chranÄ› proti kouzlu s postihem -2, nebo bude zpomalena (-4 k Å¡anci na zÃ¡sah a obranÄ›) na 2 kola.
 
-Balthazar získá jedno pouití této schopnosti kdykoliv vstoupí do Postoje mìsíce.~
+Balthazar zÃ­skÃ¡ jedno pouÅ¾itÃ­ tÃ©to schopnosti kdykoliv vstoupÃ­ do Postoje mÄ›sÃ­ce.~
