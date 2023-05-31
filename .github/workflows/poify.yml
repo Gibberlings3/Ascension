@@ -1,6 +1,8 @@
 name: Poify/Unpoify/dir2msgstr
 on:
   push:
+    branches:
+        - master
     paths:
       - "ascension/lang/**"
   workflow_dispatch:
