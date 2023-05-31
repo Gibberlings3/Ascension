@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2023-05-30 07:12+0000\n"
+"PO-Revision-Date: 2023-05-31 06:43+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: French <https://tra.bgforge.net/projects/infinity-engine/"
 "ascension/fr/>\n"
@@ -93,7 +93,7 @@ msgstr "Bombe de lave"
 
 #: ascension.tra:1031
 msgid "Symbol, Slow"
-msgstr "Symbole, Lenteur"
+msgstr "Symbole : Lenteur"
 
 #: ascension.tra:1037
 msgid "Ravager Change"
