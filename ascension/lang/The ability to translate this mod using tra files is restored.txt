@@ -1,6 +1,6 @@
 The ability to translate this mod using tra files is restored.
 
-Regardless of above, preffered method is to edit .po files or use the online translation system.
+Regardless of the above, the preferred method is to edit .po files directly or use the online translation system:
 Website: https://hive.bgforge.net/projects/infinity-engine/ascension
 How to use it: https://forums.bgforge.net/viewtopic.php?f=2&t=25
 Official doc: https://docs.weblate.org/en/latest/user/translating.html
