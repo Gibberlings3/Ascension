@@ -64,6 +64,10 @@ LANGUAGE ~Italian (Al17, Alessandro, Max, M.Inxes, Rahar and Stefano)~
          ~italian~
          ~ascension/lang/italian/setup.tra~
 
+LANGUAGE ~Portuguese (Ecthelion)~
+         ~portuguese~
+         ~ascension/lang/portuguese/setup.tra~ 
+
 // test component
 
 // BEGIN test DESIGNATED 99
