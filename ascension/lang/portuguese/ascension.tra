@@ -151,23 +151,20 @@ Habilidades de combate:
 Habilidades equipadas:
 - Resistência à Magia: + 10%
 
-PACA0: bônus de +4
 Dano: 1D10 +4
+PACA0: bônus de +4
 Tipo de Dano: Corte
 Fator de Velocidade: 8
 Tipo de Proficiência: Montante
 Tipo: Duas mãos
-Requer: 
-14 Força 14
-18 Constituição
-
+Requer: 14 Força 14, 18 Constituição
 Peso: 10
 Não utilizável por:
 Clérigo
 Mago
 Paladino
-guarda
-druida
+Guardião
+Druida
 Alinhamento não caótico~
 @3002 = ~Poção de Sendai~
 @3003 = ~Poção de Sendai

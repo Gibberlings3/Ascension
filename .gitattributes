@@ -14,9 +14,6 @@ ascension/lang/schinese/**.tra               working-tree-encoding=cp936
 ascension/lang/tchinese/**.tra               working-tree-encoding=cp950
 ascension/lang/ukrainian/**.tra              working-tree-encoding=cp1251
 
-# Files detected as text
-* text=auto
-
 # Fix Git mess for hive.bgforge.net
 *.po text eol=lf
 *.pot text eol=lf
@@ -67,7 +64,7 @@ ascension/lang/ukrainian/**.tra              working-tree-encoding=cp1251
 *.tpa text
 *.tph text
 *.tpp text
-*.tra text eol=crlf
+*.tra eol=crlf
 *.vef binary
 *.vvc binary
 *.wav binary
