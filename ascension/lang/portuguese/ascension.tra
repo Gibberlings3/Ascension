@@ -1,171 +1,174 @@
 @500 = ~Babau~
 @1003 = ~Transformar em Morcego~
 @1006 = ~Onda de Choque~
-@1007 = ~Aura de Raio~
-@1009 = ~Telecinese~
-@1012 = ~Trocar Resistências~
-@1013 = ~Controlar Demônio~
+@1007 = ~Aura do Relâmpago~
+@1009 = ~Telecinesia~
+@1012 = ~Inverter Resistências~
+@1013 = ~Controle de Demônio~
 @1014 = ~Foco~
-@1016 = ~Divine Mantle~
-@1017 = ~Extrair Poder~
-@1018 = ~Feitiço do Escudo Divino~
+@1016 = ~Manto Divino~
+@1017 = ~Obter Poder~
+@1018 = ~Escudo de Feitiços Divinos~
 @1019 = ~Comandar Demônio~
 @1020 = ~Banir~
-@1022 = ~Unleash~
-@1024 = ~Feedback~
+@1022 = ~Soltar~
+@1024 = ~Regeneração~
 @1025 = ~Restauração Divina~
 @1026 = ~Limpeza Divina~
-@1027 = ~Aura de Paralização~
+@1027 = ~Aura de Paralisia~
 @1029 = ~Bomba de Lava~
 @1031 = ~Símbolo, Lento~
-@1037 = ~Ravager Change~
-@1038 = ~Melissan: Command the Minions of the Abyss~
-@1039 = ~Bhaalspawn Power gained: Immunity to Energy Drain~
-@1040 = ~Bhaalspawn Power gained: 25% physical damage resistance~
-@1041 = ~Transfixado~
-@1042 = ~Weapons weakened by Babau slime~
+@1037 = ~Devastador~
+@1038 = ~Melissan: Comande os Agentes do Abismo~
+@1039 = ~Poderes da Descendência de Bhaal recebido: Imunidade à Drenagem de Níveis~
+@1040 = ~Poderes da Descendência de Bhaal recebido: 25% de resistência a danos físicos~
+@1041 = ~Parado~
+@1042 = ~Armas enfraquecidas pelo lodo do Babau~
 @1043 = ~Agarrado~
 @1044 = ~Recupera os poderes de Bhaal~
-@1045 = ~Você recuperou o controle por agora.~
-@1046 = ~Resistência mágina diminuída em 5%~
-@1047 = ~Resistência mágina diminuída em 5%~
-@1048 = ~Transformação no assassino melhorada~
-@1049 = ~O demônio se curva a sua vontade~
+@1045 = ~Você recuperou o controle por enquanto.~
+@1046 = ~Resistência Mágica reduzida em 5%~
+@1047 = ~Resistência Mágica reduzida em 5%~
+@1048 = ~Forma do Matador aprimorada~
+@1049 = ~O demônio se curva à sua vontade~
 @1050 = ~O demônio desafia sua vontade~
-@1051 = ~Este poder só afeta demônios~
-@1052 = ~O demônio se curva a vontade de Melissan~
+@1051 = ~Esse poder afeta apenas demônios~
+@1052 = ~O demônio se curva à vontade de Melissan~
 @1053 = ~O demônio desafia a vontade de Melissan~
-@1054 = ~Bhaalspawn Power gained: Unleash~
-@1055 = ~Bhaalspawn Power gained: immunity to death magic~
-@1056 = ~Bhaalspawn Power gained: immunity to vorpal effects~
-@1057 = ~Bhaalspawn Power gained: Dimension Door~
-@1058 = ~Bhaalspawn Power gained: Control Demons~
-@1059 = ~Bhaalspawn Power gained: immunity to Maze and Imprisonment~
-@1060 = ~Bhaalspawn Power gained: Focus~
-@1061 = ~Bhaalspawn Power gained: immunity to Taint of the Slayer~
-@1062 = ~Dom Divino~
-@1063 = ~Resistência Mágica Restaurada~
-@1064 = ~Proteções Antimágicas Removidas~
+@1054 = ~Poderes da Descendência de Bhaal recebido: Libertar~
+@1055 = ~Poderes da Descendência de Bhaal recebido: Imunidade à magia da morte~
+@1056 = ~Poderes da Descendência de Bhaal recebido: Imunidade aos efeitos vorpais~
+@1057 = ~Poderes da Descendência de Bhaal recebido: Porta Dimensional~
+@1058 = ~Poderes da Descendência de Bhaal recebido: Controle de Demônio~
+@1059 = ~Poderes da Descendência de Bhaal recebido: Imunidade a Labirinto e Aprisionamento~
+@1060 = ~Poderes da Descendência de Bhaal recebido: Foco~
+@1061 = ~Poderes da Descendência de Bhaal recebido: imunidade a Mancha do Matador~
+@1062 = ~Presente Divino~
+@1063 = ~Resistência à Magia Restaurada~
+@1064 = ~Proteções Antimagicas Removidas~
 @1065 = ~Proteções de Combate Removidas~
 @1066 = ~IA desativada~
 @1067 = ~IA ativada~
-@1068 = ~Lunar Malison~
-@2000 = ~Bhaalspawn Powers
+@1068 = ~Maldição Lunar~
+@2000 = ~Poderes da Descendência de Bhaal
 
-<CHARNAME> has gained the ability, usable once per day: 
+<CHARNAME> ganhou a habilidade, utilizável uma vez por dia:
 
-Mass Healing (Necromancy)
-Range: Sight of caster 
-Duration: Permanent 
-Casting Time: 1
-Area of Effect: 30 foot radius
-Saving Throw: None 
+Cura em Massa (Necromancia)
+Alcance: Visão do lançador
+Duração: Permanente
+Tempo de Lançamento: 1
+Área de Efeito: Raio de 9 metros
+Salvaguarda: Nenhuma
 
-When using this ability, the Bhaalspawn must picture the faces of <PRO_HISHER> fellow party members clearly and focus on the unity of the group. Upon completion, all party members within 30 foot radius of the caster are healed 2d8 + 2/level hit points. Other conditions suffered by the party are cured, as well: fatigue, poison, disease, blindness and deafness.~
-@2001 = ~Bhaalspawn Powers
+Quando lança este feitiço, o filho de Bhaal precisa pensar claramente nas faces de seus colegas de grupo e enfocar a unidade da equipe. Quando terminado, todos os membros do grupo num raio de 9 metros do lançador recebem 2d8 + 2/nível pontos de vida. Outras aflições que a equipe esteja sofrendo também serão curadas: fadiga, veneno, doença, cegueira e surdez.~
+@2001 = ~Poderes da Descendência de Bhaal
 
-<CHARNAME> has gained the ability, usable once per day: 
+<CHARNAME> ganhou a habilidade, utilizável uma vez por dia:
 
-Regeneration (Necromancy)
-Range: Touch
-Duration: 1 round/ 2 levels
-Casting Time: 7
-Area of Effect: Target Creature
-Saving Throw: None 
+Regeneração (Necromancia)
+Alcance: Toque
+Duração: 1 rodada/2 níveis
+Tempo de Lançamento: 7
+Área de Efeito: Criatura tocada
+Salvaguarda: Nenhuma
 
-This powerful ability enables the Bhaalspawn to imbue 1 creature with the ability to regenerate. This regeneration will heal any wounds and even regenerate lost limbs. The creature affected will regain 3 hit points per second. The effect lasts for 1 round per every 2 levels of the caster or until dispelled. For example, a 14th level character would regenerate 18 hit points per round for 7 rounds.~
-@2002 = ~Bhaalspawn Powers
+Este poderoso feitiço permite que o filho de Bhaal dê a uma criatura a habilidade de regenerar. Esta regeneração curará qualquer ferimento e até regenerará membros perdidos. A criatura afetada recuperará 3 pontos de vida por segundo. O efeito dura 1 rodada por cada 2 níveis do lançador ou até que seja dissipado. Por exemplo, um sacerdote de nível 14 regeneraria 18 pontos de vida por rodada durante 7 rodadas.~
+@2002 = ~Poderes da Descendência de Bhaal
 
-<CHARNAME> has gained the ability, usable once per day: 
+<CHARNAME> ganhou a habilidade, utilizável uma vez por dia:
 
-Draw Upon Holy Might (Invocation) 
-Range: 0 
-Duration: 1 turn
-Casting Time: 1
-Area of Effect: The caster 
-Saving Throw: None 
+Utilizar Poder Sagrado (Invocação)
+Alcance: Lançador
+Duração: 1 turno
+Tempo de Lançamento: 1
+Área de Efeito: Lançador
+Salvaguarda: Nenhuma
 
-The Bhaalspawn calls upon the might of <PRO_HISHER> blood to grant him power for a short period. When <PRO_HESHE> does this, <PRO_HISHER> strength, constitution and dexterity all are raised by 1 point for every 3 levels of the caster. A third level caster would have <PRO_HISHER> abilities raised by 1, while a 12th level caster would have all <PRO_HISHER> abilities raised by 4.~
-@2003 = ~Bhaalspawn Powers
+O filho de Bhaal convoca o poder de seu sangue para receber poder por um curto periodo. Quando ele o faz, sua força, constituição e destreza aumentam 1 ponto para cada 3 níveis do lançador. Um lançador de nível 3 receberia 1 ponto a mais para suas habilidades, enquanto um de nível 12 receberia 4 pontos a mais.~
+@2003 = ~Poderes da Descendência de Bhaal
 
-<CHARNAME> has gained the ability, usable once per day: 
+<CHARNAME> ganhou a habilidade, utilizável uma vez por dia:
 
-Dark Taint (Necromancy) 
-Range: 20 feet
-Duration: 1 turn
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: Negates
+Mancha Negra (Necromancia)
+Alcance: 7m
+Duração: 1 turno
+Tempo de Lançamento: 1
+Área de Efeito: 1 criatura
+Salvaguarda: Anula
 
-Through this spell, the Bhaalspawn can expel the taint of <PRO_HISHER> evil sire onto a victim, poisoning those who fail their save vs. death. The effects depend upon the caster's level and are detailed below:
-7-9th level: 2d8 + 2/round, slow for 12 seconds, save at -2
-10-12th level: 3d8 + 3/round, slow for 12 seconds, save at -2
-13-14th level: 4d8 + 4/round, slow for 12 seconds, save at -2
-15-16th level: 6d8 + 5/round, slow for 24 seconds, save at -2
-17-21st level: 8d8 + 6/round, slow for 24 seconds, save at -4
-25th level: 8d8 + 6/round, slow for 36 seconds, save at -4, affects group of targets~
-@2004 = ~Bhaalspawn Powers
+Através deste feitiço, o filho de Bhaal pode expelir a mancha de seu pai maligno numa vítima, envenenando aqueles que fracassarem em uma salvaguarda contra a morte. Os efeitos dependem do nível do lançador e estão detalhados abaixo:
+Níveis 7-9: dano 2d8+2/rodada, diminuir velocidade por 12 segundos, salvaguarda -2
+Níveis 10-12: dano 3d8+3/rodada, diminuir velocidade por 12 segundos, salvaguarda -2
+Níveis 13-14: dano 4d8+4/rodada, diminuir velocidade por 12 segundos, salvaguarda -2
+Níveis 15-16: dano 6d8+5/rodada, diminuir velocidade por 24 segundos, salvaguarda -2
+Níveis 17-21: dano 8d8+6/rodada, diminuir velocidade por 24 segundos, salvaguarda -4
+Níveis 25: dano 8d8+6/rodada, diminuir velocidade por 36 segundos, salvaguarda -4, afeta grupo de alvos~
+@2004 = ~Poderes da Descendência de Bhaal
 
-<CHARNAME> has gained permanent negative plane protection (i.e., <CHARNAME> cannot be level-drained) and 5% magic resistance.~
-@2005 = ~Bhaalspawn Powers
+<CHARNAME> ganhou proteção contra o plano negativo permanente (ou seja, <CHARNAME> não pode ter su nível drenado) e 5% de resistência mágica.~
+@2005 = ~Poderes da Descendência de Bhaal
 
-<CHARNAME> has gained the ability, usable once per day: 
+<CHARNAME> ganhou a habilidade, utilizável uma vez por dia:
 
-Hand of Murder (Necromancy) 
-Range: Caster
-Duration: 1 rounds/5 levels
-Casting Time: 1
-Saving Throw: none 
+Mão do Assassinato (Necromancia)
+Alcance: Lançador
+Duração: 1 rodada/5 níveis
+Tempo de Lançamento: 1
+Salvaguarda: Nenhuma
 
-When this power is called upon by the Bhaalspawn, <PRO_HESHE> immediately does extra damage with each hit to <PRO_HISHER> target with any melee weapon desired (whether it be fist or sword). <PRO_HISHER> dark energies travel through <PRO_HISHER> weapon to assault <PRO_HISHER> victim, allowing <PRO_HIMHER> to absorb that damage as healing to <PRO_HIMHER>self.
-The effects vary by level as follows:
-10th: 2 rounds, 4 hp extra damage, 4 hp healed
-15th: 3 rounds, 6 hp extra damage, 6 hp healed
-20th: 4 rounds, 8 hp extra damage, 8 hp healed
-25th: 5 rounds, 10 hp extra damage, 10 hp healed
-30th: 6 rounds, 12 hp extra damage, 12 hp healed~
-@2006 = ~Bhaalspawn Powers
+Quando o filho de Bhaal invoca este poder, ele imediatamente causa mais danos a seus adversários com qualquer arma de combate corpo-a-corpo que ele deseje, canalizando sua energia negra por sua arma... e absorvendo o dano para se curar.
+Os efeitos variam pelo nível:
+10: 2 rodadas, dano extra de 4PV, cura 4PV
+15: 3 rodadas, dano extra de 6PV, cura 6PV
+20: 4 rodadas, dano extra de 8PV, cura 8PV
+25: 5 rodadas, dano extra de 10PV, cura 10PV
+30: 6 rodadas, dano extra de 12PV, cura 12PV~
+@2006 = ~Poderes da Descendência de Bhaal
 
-<CHARNAME> has gained the ability, usable once per day: 
+<CHARNAME> ganhou a habilidade, utilizável uma vez por dia:
 
-Resurrection (Necromancy)
-Range: Touch
-Duration: Permanent
-Casting Time: 1
-Area of Effect: Creature Touched
-Saving Throw: None
+Ressurreição (Necromancia)
+Alcance: Toque
+Duração: Permanente
+Tempo de Lançamento: 1 turno
+Área de Efeito: Criatura tocada
+Salvaguarda: Nenhuma
 
-Like the 5th level spell Raise Dead, Resurrection will return a character back to life. However, Resurrection also heals the character so that they are ready for the adventuring life once more.~
-@2007 = ~Bhaalspawn Powers
+Como o feitiço de nível 5 Levantar os Mortos, o feitiço Ressurreição traz um personagem de volta a vida. Além disso, ele também cura o personagem, para que ele esteja pronto para voltar à vida de aventureiro.~
+@2007 = ~Poderes da Descendência de Bhaal
 
-<CHARNAME> has gained 25% resistance to physical damage (i.e., slashing, piercing, crushing and missile damage).~
-@2008 = ~Habilidade de mudança do Assassino melhorada~
-@3000 = ~Espada do Caos do Sarevok +4~
-@3001 = ~The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.
+<CHARNAME> ganhou 25% de resistência a dano físico (corte, perfuração, esmagamento e projéteis).~
+@2008 = ~Habilidade Melhoradas da Forma do Matador~
+@3000 = ~A Espada do Caos de Sarevok + 4~
+@3001 = ~A espada de Sarevok, irmão de <CHARNAME>, usada na batalha entre os dois na distante Portão de Baldur. <CHARNAME> venceu, destruindo os planos de Sarevok e salvando a Costa das Espadas da guerra iminente. Agora Sarevok se juntou à causa de <CHARNAME> e sua espada foi restaurada para ele. Sarevok chama a arma de Arauto da Morte e restaurou um pouco do antigo poder da arma. Sem a sua essência de Filho de Bhall para canalizar através da espada, ela não pode alcançar o poder que já teve. Ainda assim, no entanto, é uma arma formidável... e uma que Sarevok avisa se tornaria cada vez mais difícil de usar nas mãos de alguém que não era um Arauto da Morte, se pudesse usá-la.
 
-STATISTICS:
+ESTATÍSTICAS:
 
-Combat abilities:
-- Each hit drains one to five Hit Points from the target and transfers it to the wielder. This will not heal beyond the wielder's maximum.
+Habilidades de combate:
+- Cada golpe drena de um a cinco pontos de vida do alvo e o transfere para o usuário. Isto não dará pontos de vida além do máximo do portador.
 
-Equipped abilities:
-- Magic Resistance: +10%
+Habilidades equipadas:
+- Resistência à Magia: + 10%
 
-Damage: 1D10 +4
-THAC0: +4 bonus
-Damage type: slashing
-Speed Factor: 8
-Proficiency Type: Two Handed sword
-Type: 2-handed
-Requires: 14 Strength, 18 Constitution
-Weight: 10
-Not Usable By:
-Cleric
-Mage
-Paladin
-Ranger
-Druid
-non-Chaotic aligned~
-@3002 = ~Poção da Sendai~
-@3003 = ~Sendai's Potion
-Possibly a brew of Sendai's own, this is an incredibly potent healing potion capable of fully restoring the hit points of any who use it.~
+PACA0: bônus de +4
+Dano: 1D10 +4
+Tipo de Dano: Corte
+Fator de Velocidade: 8
+Tipo de Proficiência: Montante
+Tipo: Duas mãos
+Requer: 
+14 Força 14
+18 Constituição
+
+Peso: 10
+Não utilizável por:
+Clérigo
+Mago
+Paladino
+guarda
+druida
+Alinhamento não caótico~
+@3002 = ~Poção de Sendai~
+@3003 = ~Poção de Sendai
+Possivelmente uma mistura da própria Sendai, esta é uma poção de cura incrivelmente potente capaz de restaurar totalmente os pontos de vida de qualquer um que a use.~

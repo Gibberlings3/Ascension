@@ -1,29 +1,29 @@
-@3001 = ~The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.
+@3001 = ~A espada de Sarevok, irmão de <CHARNAME>, usada na batalha entre os dois na distante Portão de Baldur. <CHARNAME> venceu, destruindo os planos de Sarevok e salvando a Costa das Espadas da guerra iminente. Agora Sarevok se juntou à causa de <CHARNAME> e sua espada foi restaurada para ele. Sarevok chama a arma de Arauto da Morte e restaurou um pouco do antigo poder da arma. Sem a sua essência de Filho de Bhall para canalizar através da espada, ela não pode alcançar o poder que já teve. Ainda assim, no entanto, é uma arma formidável... e uma que Sarevok avisa se tornaria cada vez mais difícil de usar nas mãos de alguém que não era um Arauto da Morte, se pudesse usá-la.
 
-STATISTICS:
+ESTATÍSTICAS:
 
-Combat abilities:
-- Each hit drains one to five Hit Points from the target and transfers it to the wielder. This will not heal beyond the wielder's maximum.
+Habilidades de combate:
+- Cada golpe drena de um a cinco pontos de vida do alvo e o transfere para o usuário. Isto não dará pontos de vida além do máximo do portador.
 
-Equipped abilities:
-- Magic Resistance: +10%
+Habilidades equipadas:
+- Resistência à Magia: + 10%
 
-THAC0: +4
-Damage: 1d10+4 (slashing)
-Speed Factor: 8
-Proficiency Type: Two-handed Sword
-Type: Two-handed
+PACA0: +4
+Dano: 1d10+4 (corte)
+Fator de Velocidade: 8
+Tipo de Proficiência: Montante
+Tipo: Duas Mãos
 
-Requires:
-14 Strength
-18 Constitution
+Requer:
+14 Força
+18 Constituição
 
-Weight: 10~
-@3003 = ~Possibly a brew of Sendai's own, this is an incredibly potent healing potion capable of fully restoring the hit points of any who use it.
+Peso: 10~
+@3003 = ~Possivelmente uma mistura da própria Sendai, esta é uma poção de cura incrivelmente potente capaz de restaurar totalmente os pontos de vida de qualquer um que a use.
 
-STATISTICS:
+ESTATÍSTICAS:
 
-Weight: 1~
-@3004 = ~Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.~
-@3005 = ~Still, however, it is a formidable weapon... and one that only a Deathbringer of Sarevok's skill and power can wield.~
-@3006 = ~Só o Sarevok pode usar esta arma.~
+Peso: 1~
+@3004 = ~Ainda assim, no entanto, é uma arma formidável... e uma que Sarevok avisa se tornaria cada vez mais difícil de usar nas mãos de alguém que não era um Arauto da Morte, se pudesse usá-la.~
+@3005 = ~Ainda assim, é uma arma formidável... e somente um Arauto da Morte com a habilidade e poder de Sarevok pode empunhá-la.~
+@3006 = ~Apenas Sarevok pode usar esta arma.~

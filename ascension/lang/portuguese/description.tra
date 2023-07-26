@@ -1,302 +1,302 @@
-@1 = ~Ethereal
+@1 = ~Etéreo
 
-Imoen is now able to enter the Ethereal Plane for brief periods of time. The ability is useable once every minute, and its use prevents her from assuming the Slayer form for a minute, as well. Imoen can remain fully ethereal and intangible to forces on this plane for a full round... during which she is invisible and completely immune to harm. During that round, she also cannot cast spells or use abilities.
+Imoen agora é capaz de entrar no Plano Etéreo por breves períodos de tempo. A habilidade é utilizável uma vez a cada minuto, e seu uso a impede de assumir a forma do Matador por um minuto também. Imoen pode permanecer completamente etérea e intangível a forças neste plano por um turno completo ... durante o qual ela é invisível e completamente imune a danos. Durante essa rodada, ela também não pode conjurar mágicas ou usar habilidades.
 
-For another two rounds afterwards, Imoen remains 'half-phased'... she is partially ethereal and partially in this plane. She is still invisible, but takes half damage from all sources. In this state, there is a small chance (10%) that she will miscast a spell. For all three rounds, she is able to see any invisible targets.~
-@6 = ~End Slayer Change
+Por mais duas rodadas depois, Imoen permanecerá como 'meio-etérea' ... ela é parcialmente etérea e parcialmente nesse plano. Ela ainda é invisível, mas leva metade do dano de todas as fontes. Neste estado, há uma pequena chance (10%) de que ela irá errar um feitiço. Para as três rodadas, ela é capaz de ver quaisquer alvos invisíveis.~
+@6 = ~Desfazer a Forma do Matador
 
-This ability allows Imoen to cancel her transformation and return to her usual form.~
-@7 = ~Regeneration
+Essa habilidade permite que Imoen cancele sua transformação e retorne à sua forma usual.~
+@7 = ~Regeneração
 
-Range: Touch
-Duration: 1 round/ 2 levels
-Casting Time: 7
-Area of Effect: Target Creature
-Saving Throw: None 
+Alcance: Toque
+Duração: 1 rodada/2 níveis
+Tempo de Lançamento: 7
+Área de Efeito: Criatura alvo
+Salvaguarda: Nenhum
 
-This powerful ability enables the Bhaalspawn to imbue 1 creature with the ability to regenerate. This regeneration will heal any wounds and even regenerate lost limbs. The creature affected will regain 3 hit points per second. The effect lasts for 1 round per every 2 levels of the caster or until dispelled. For example, a 14th level character would regenerate 18 hit points per round for 7 rounds.~
-@8 = ~Resurrection
+Este poderoso feitiço permite que o filho de Bhaal dê a uma criatura a habilidade de regenerar. Esta regeneração curará qualquer ferimento e até regenerará membros perdidos. A criatura afetada recuperará 3 pontos de vida por segundo. O efeito dura 1 rodada por cada 2 níveis do lançador ou até que seja dissipado. Por exemplo, um sacerdote de nível 14 regeneraria 18 pontos de vida por rodada durante 7 rodadas.~
+@8 = ~Ressurreição
 
-Range: Touch
-Duration: Permanent
-Casting Time: 1
-Area of Effect: Creature Touched
-Saving Throw: None
+Alcance: Toque
+Duração: Permanente
+Tempo de Lançamento: 1 turno
+Área de Efeito: Criatura tocada
+Salvaguarda: Nenhuma
 
-Like the 5th level spell Raise Dead, Resurrection will return a character back to life. However, Resurrection also heals the character so that they are ready for the adventuring life once more.~
-@9 = ~Slayer Change
+Como o feitiço de nível 5 Levantar os Mortos, o feitiço Ressurreição traz um personagem de volta a vida. Além disso, ele também cura o personagem, para que ele esteja pronto para voltar à vida de aventureiro.~
+@9 = ~Forma do Matador
 
-When you use this ability, you take on the form of the brutal essence of Bhaal: a violent, powerful creature made of teeth and claws. Using this ability reduces your reputation by one point, as even those who do not witness the event can sense the corruption caused by giving yourself over to instinct.
+Quando você usa esta habilidade, assume a forma da essência brutal de Bhaal: uma criatura violenta e poderosa feita de dentes e garras. Usar esta habilidade reduz sua reputação em um ponto, pois mesmo aqueles que não testemunham o evento podem sentir a corrupção causada ao se entregar ao instinto.
 
-The Slayer form grants the following benefits:
+A Forma do Matador concede os seguintes benefícios:
 
-- Strength and Dexterity set to 25
-- Effective AC set to -9
-- Magic Resistance set to 40%
-- Saving Throws set to 2
-- Attacks per round set to 4 (1d8 crushing, 2 cold)
-- THAC0 set to 0
-- PLUS_SIGN_PLACEHOLDER 100 Hit Points
-- Immunity to imprisonment, level drain, stun, fear, charm, confusion, sleep, and missile attacks
+- Força e Destreza definidas em 25
+- Classe de armadura definida em -9
+- Resistência mágica definida em 50%
+- Salvaguardas definidas para 2
+- Ataques por rodada definidos para 4 (1d8 esmagamento, 2 frio)
+- PACA0 definido para 0
+- PLUS_SIGN_PLACEHOLDER 100 pontos de vida adicionais
+- Imunidade a aprisionamento, drenagem de nível, atordoamento, medo, encantamento, confusão, sono e ataques de projétil
 
-The Slayer can be difficult to control: after the first round, you have a 10% cumulative chance per round of losing control of yourself for a round.~
-@10 = ~Slayer Change
+O Matador pode ser difícil de controlar: após a primeira rodada, você tem 10% de chance cumulativa por rodada de perder o controle de si mesmo por uma rodada.~
+@10 = ~Forma do Matador
 
-When you use this ability, you take on the form of the brutal essence of Bhaal: a violent, powerful creature made of teeth and claws. Using this ability reduces your reputation by one point, as even those who do not witness the event can sense the corruption caused by giving yourself over to instinct.
+Quando você usa esta habilidade, assume a forma da essência brutal de Bhaal: uma criatura violenta e poderosa feita de dentes e garras. Usar esta habilidade reduz sua reputação em um ponto, pois mesmo aqueles que não testemunham o evento podem sentir a corrupção causada ao se entregar ao instinto.
 
-The Slayer form has increased in power with your own, and now grants the following benefits:
+A Forma do Matador ficou mais forte e agora concede os seguintes benefícios:
 
-- Strength and Dexterity set to 25
-- Effective AC set to -9
-- Magic Resistance set to 50%
-- Resistance to physical damage set to 15%
-- Resistance to elemental damage set to 30%
-- Saving Throws set to 2
-- Attacks per round set to 4 (2d6 crushing, 4 cold)
-- THAC0 set to -4
-- PLUS_SIGN_PLACEHOLDER 150 Hit Points
-- Regenerate 2 Hit Points per second
-- Immunity to imprisonment, level drain, stun, fear, charm, confusion, sleep, and missile attacks
-- Chance of losing control: 10%, plus a cumulative 5% per round
+- Força e Destreza definidas em 25
+- Classe de armadura definida em -9
+- Resistência mágica definida em 50%
+- Resistência a dano físico definida em 15%
+- Resistência ao dano elementar definida em 30%
+- Salvaguardas definidas para 2
+- Ataques por rodada definidos para 4 (2d6 esmagamento, 4 frio)
+- PACA0 definido para -4
+- PLUS_SIGN_PLACEHOLDER 150 pontos de vida adicionais
+- Regenera 2 Pontos de Vida por segundo
+- Imunidade a aprisionamento, drenagem de nível, atordoamento, medo, encantamento, confusão, sono e ataques de projétil
+- Chance de perder o controle: 10%, mais um acumulado de 5% por rodada
 ~
-@11 = ~Slayer Change
+@11 = ~Forma do Matador
 
-When you use this ability, you take on the form of the brutal essence of Bhaal: a violent, powerful creature made of teeth and claws. Using this ability reduces your reputation by two points, as even those who do not witness the event can sense the corruption caused by giving yourself over to instinct.
+Quando você usa esta habilidade, assume a forma da essência brutal de Bhaal: uma criatura violenta e poderosa feita de dentes e garras. Usar esta habilidade reduz sua reputação em dois pontos, pois mesmo aqueles que não testemunham o evento podem sentir a corrupção causada ao se entregar ao instinto.
 
-The Slayer form has increased in power with your own, and now grants the following benefits:
+A Forma do Matador ficou mais forte e agora concede os seguintes benefícios:
 
-- Strength and Dexterity set to 25
-- Effective AC set to -9
-- Magic Resistance set to 60%
-- Resistance to physical damage set to 30%
-- Resistance to elemental damage set to 40%
-- Saving Throws set to 2
-- Attacks per round set to 4 (2d8 crushing, 8 cold)
-- Attacks have a 10% chance of casting Dispel Magic and of lowering Magic Resistance
-- THAC0 set to -8
-- PLUS_SIGN_PLACEHOLDER 200 Hit Points
-- Regenerate 3 Hit Points per second
-- Immunity to imprisonment, level drain, stun, fear, charm, confusion, sleep, disease, poison, and missile attacks
-- Free action
-- Chance of losing control: a cumulative 5% per two rounds~
-@12 = ~Ravager Change
+- Força e Destreza definidas em 25
+- Classe de armadura definida em -9
+- Resistência mágica definida em 50%
+- Resistência a dano físico definida em 15%
+- Resistência ao dano elementar definida em 30%
+- Salvaguardas definidas para 2
+- Ataques por rodada definidos para 4 (2d6 esmagamento, 4 frio)
+- Ataques têm 10% de chance de conjurar Dissipar Magia e de diminuir a Resistência Mágica.
+- PACA0 definido para -8
+- PLUS_SIGN_PLACEHOLDER 200 pontos de vida adicionais
+- Regenera 3 Pontos de Vida por segundo
+- Imunidade a aprisionamento, drenagem de nível, atordoamento, medo, encantamento, confusão, sono, doenças, ataques de veneno e ataques de projétil
+- Ação livre
+- Chance de perder o controle: um cumulativo de 5% por duas rodadas ~
+@12 = ~Forma do Devastador
 
-You now have the ability to take on the form either of the Slayer, or of the Ravager - a terrible manifestation of Bhaal. Using this ability reduces your reputation by two points for the Slayer, or a full three points for the Ravager.
+Você agora tem a capacidade de assumir a forma do Matador ou do Devastador, uma terrível manifestação de Bhaal. Usar esta habilidade reduz sua reputação em dois pontos para o Matador, ou três pontos para o Devastador.
 
-As the Slayer, you have the following benefits:
+Como o Matador, você ganha os seguintes benefícios:
 
-- Strength and Dexterity set to 25
-- Effective AC set to -9
-- Magic Resistance set to 60%
-- Resistance to physical damage set to 30%
-- Resistance to elemental damage set to 50%
-- Saving Throws set to 2
-- Attacks per round set to 4 (2d8 crushing, 8 cold)
-- Attacks have a 10% chance of casting Dispel Magic and of lowering Magic Resistance
-- THAC0 set to -8
-- PLUS_SIGN_PLACEHOLDER 200 Hit Points
-- Regenerate 3 Hit Points per second
-- Immunity to imprisonment, level drain, stun, fear, charm, confusion, sleep, disease, poison, and missile attacks
-- Free action
-- Chance of losing control: a cumulative 5% per two rounds
+- Força e Destreza definidas em 25
+- Classe de armadura definida em -9
+- Resistência mágica definida em 60%
+- Resistência a dano físico definida em 30%
+- Resistência ao dano elementar definida em 50%
+- Salvaguardas definidas para 2
+- Ataques por rodada definidos para 4 (2d8 esmagamento, 4 frio)
+- Ataques têm 10% de chance de conjurar Dissipar Magia e de diminuir a Resistência Mágica.
+- PACA0 definido para -8
+- PLUS_SIGN_PLACEHOLDER 200 pontos de vida adicionais
+- Regenera 3 Pontos de Vida por segundo
+- Imunidade a aprisionamento, drenagem de nível, atordoamento, medo, encantamento, confusão, sono, doenças, ataques de veneno e ataques de projétil
+- Ação livre
+- Chance de perder o controle: um cumulativo de 5% por duas rodadas 
 
-As the Ravager, you get the following additional benefits:
+Como o Devastador, você ganha os seguintes benefícios adicionais:
 
-- Magic Resistance set to 75%
-- Resistance to physical damage set to 50%
-- Resistance to elemental damage set to 50%
-- Resistance to magic damage set to 50%
-- Attacks per round set to 5 (3d8 crushing, 8 cold)
-- Chance of dispelling on hit increases to 20%
-- THAC0 set to -12
-- PLUS_SIGN_PLACEHOLDER 250 hit points
-- Regenerate 5 Hit Points per second
-- Chance of losing control increases to 40% plus a cumulative 10% chance per round~
-@13 = ~Slayer Change
+- Resistência mágica definida em 75%
+- Resistência a dano físico definida em 50%
+- Resistência ao dano elementar definida em 50%
+- Resistência ao dano mágico definida em 50%
+- Ataques por rodada definidos para 5 (3d8 esmagamento, 8 frio)
+- A chance de Dissipar Magia por acerto aumenta para 20%
+- PACA0 definido para -12
+- PLUS_SIGN_PLACEHOLDER 250 pontos de vida adicionais
+- Regenera 5 Pontos de Vida por segundo
+- A chance de perder o controle aumenta para 40%, mais uma chance cumulativa de 10% por rodada~
+@13 = ~Forma do Matador
 
-When Imoen uses this ability, she takes on the form of the brutal essence of Bhaal: a violent, powerful creature made of teeth and claws.
+Quando Imoen usa essa habilidade, ela assume a forma da essência brutal de Bhaal: uma criatura violenta e poderosa feita de dentes e garras.
 
-The Slayer form grants the following benefits:
+A Forma do Matador concede os seguintes benefícios:
 
-- Strength and Dexterity set to 25
-- Effective AC set to -9
-- Magic Resistance set to 40%
-- Saving Throws set to 2
-- Attacks per round set to 4 (1d8 crushing, 2 cold)
-- THAC0 set to 0
-- PLUS_SIGN_PLACEHOLDER 100 Hit Points
-- Immunity to imprisonment, level drain, stun, fear, charm, confusion, sleep, and missile attacks
+- Força e Destreza definidas em 25
+- Classe de armadura definida em -9
+- Resistência mágica definida em 40%
+- Salvaguardas definidas para 2
+- Ataques por rodada definidos para 4 (1d8 esmagamento, 2 frio)
+- PACA0 definido para 0
+- PLUS_SIGN_PLACEHOLDER 100 pontos de vida adicionais
+- Imunidade a aprisionamento, drenagem de nível, atordoamento, medo, encantamento, confusão, sono e ataques de projétil
 
-Perhaps because Imoen has less of Bhaal's essence than <CHARNAME> - or perhaps because of what she learned after Melissan called forth her essence - she is more able to contain the Slayer's power, and has no chance of losing control while in Slayer form.~
-@14 = ~Bhaalspawn powers granted~
-@15 = ~Imoen can now change into the Slayer at will, and can enter the Ethereal plane once per minute~
-@16 = ~Control Demon
+Talvez porque Imoen tenha menos essência de Bhaal do que <CHARNAME>, ou talvez por causa do que ela aprendeu depois que Melissan invocou sua essência, ela é mais capaz de conter o poder do Matador, e não tem chance de perder o controle enquanto está nessa forma.~
+@14 = ~Poderes da Descendência de Bhaal concedidos ~
+@15 = ~Imoen agora pode se transformar no Matador à vontade, e pode entrar no Plano Etéreo uma vez por minuto ~
+@16 = ~Controle de Demônio
 
-Range: sight
-Casting time: 1
-Duration: special
-Area of Effect: 1 demon
-Saving Throw: none
+Alcance: Alcance visual do lançador
+Duração: especial
+Tempo de Lançamento: 1
+Área de efeito: 1 demônio
+Salvaguarda: Nenhuma
 
-This ability allows the Bhaalspawn to attempt to wrest control of a demon away from Melissan and make them an ally. The Bhaalspawn engages the demon in mental combat for DURATION_PLACEHOLDER seconds, at the end of which the demon has a SUCCESS_CHANCE_PLACEHOLDER% chance of becoming an ally. (There is no further saving throw, nor is magic resistance checked.) The demon is not under the Bhaalspawn's direct control, however. This ability may be used once every 3 rounds.~
-@17 = ~Unleash
+Essa habilidade permite que o Filho de Bhaal tente arrancar o controle de um demônio de Melissan e torná-lo um aliado. O Filho de Bhaal envolve o demônio em combate mental por DURATION_PLACEHOLDER segundos, ao final do qual o demônio tem SUCCESS_CHANCE_PLACEHOLDER% de chance de se tornar um aliado. (Não há mais salvaguarda, nem a resistência mágica é verificada.) O demônio não está sob o controle direto do Filho de Bhaal, no entanto. Essa habilidade pode ser usada uma vez a cada três rodadas. ~
+@17 = ~Libertar
 
-Range: 5ft
-Casting Time: 1
-Duration: Instant
-Area of Effect: 1 creature
-Saving Throw: 1/2 plus special
+Alcance: 1 metro e meio
+Tempo de Lançamento: 1
+Duração: Instantâneo
+Área de efeito: 1 criatura
+Salvaguarda: 1/2 especial
 
-The "Unleash" ability releases your inner power upon a target that is within melee range, hitting them for DICENUMBER_PLACEHOLDERd12 magic damage (half on a successful save vs. Death at -4) and sending them flying back and perhaps unconscious for a short period. This ability may only be used once ever thirty seconds... and after using it the Bhaalspawn will be incredibly fatigued, and have a 25% miscast chance on all spells, for 2 rounds. Due to the amount of divine essence used, the Slayer form will also not be available for thirty seconds.~
-@18 = ~Focus
+A habilidade "Libertar" libera seu poder interior sobre um alvo que esteja dentro do alcance do corpo a corpo, causando DICENUMBER_PLACEHOLDERd12 de Dano Mágico (salvaguarda contra morte -4 para anular a metade) e jogando-o para trás e talvez inconsciente por um curto período. Esta habilidade só pode ser usada uma vez a cada trinta segundos ... e depois de usá-la, o Filho de Bhaal ficará incrivelmente fatigado, e terá 25% de chance de falha em todos os feitiços, por 2 rodadas. Devido à quantidade de essência divina usada, a Forma do Matador também não estará disponível por trinta segundos.~
+@18 = ~Foco
 
-Range: 0
-Casting Time: 1
-Duration: 5 rounds
-Area of Effect: Caster
-Saving Throw: None
+Alcance: 0
+Tempo de Lançamento: 1
+Duração: 5 rodadas
+Área de efeito: Lançador
+Salvaguarda: Nenhuma
 
-This ability allows the Bhaalspawn to focus <PRO_HISHER> energy within <PRO_HIMHER> to resist spell effects from without. For a 30-second duration, the Bhaalspawn becomes immune to the spells Flesh to Stone, Disintegration and Time Stop. All minor spells of 1st through 3rd level will also not affect the Bhaalspawn. This ability is useable once per minute.~
-@19 = ~Dimension Door
+Esta habilidade permite que o Filho de Bhaal concentre a energia dentro dele para resistir aos efeitos de magia de fora. Por uma duração de 30 segundos, o Filho de Bhaal torna-se imune aos feitiços Carne para Pedra, Desintegração e Parar o Tempo. Todas as magias menores do 1º ao 3º nível também não afetarão o Filho de Bhaal. Esta habilidade é utilizável uma vez por minuto.~
+@19 = ~Porta Dimensional
 
-Range: Infinite
-Casting Time: 0
-Duration: Instant
-Area of Effect: Caster
-Saving Throw: None
+Alcance: Infinito
+Tempo de Lançamento: 0
+Duração: Instantânea
+Área de efeito: Lançador
+Salvaguarda: Nenhuma
 
-The Bhaalspawn may now move freely through space and the planes. This teleportation power is useable once per round.~
-@20 = ~Shapeshift: Bat
+O Filho de Bhaal pode agora se mover livremente através do espaço e dos planos. Esse poder de teletransporte é utilizável uma vez por rodada.~
+@20 = ~Mudança de forma: Morcego
 
-This ability allows Bodhi to shapeshift into bat form.~
-@21 = ~Divine Gift
-(Invocation)
+Essa habilidade permite que Bodhi se transforme em morcego.~
+@21 = ~Presente Divino
+(Invocação)
 
-Range: 0
-Duration: 1 turn
-Casting Time: 1
-Area of Effect: The caster
-Saving Throw: None
+Alcance: 0
+Duração: 1 turno
+Tempo de Lançamento: 1
+Área de efeito: Lançador
+Salvaguarda: Nenhuma
 
-The Bhaalspawn calls upon the might of <PRO_HISHER> blood to grant <PRO_HIMHER> power for a short period. When <PRO_HESHE> does this, <PRO_HISHER> Strength, Constitution, and Dexterity all are raised to 25.~
-@22 = ~Flip Resistances
+O Filho de Bhaal invoca a força do seu sangue para aumentar seu poder por um curto período. Quando ele faz isto, sua Força, Constituição e Destreza, são aumentados para 25. ~
+@22 = ~Inverter Resistências
 
-Range: 0
-Duration: Permanent
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+Alcance: 0
+Duração: Permanente
+Tempo de Lançamento: 1
+Área de Efeito: Balthazar
+Salvaguarda: Nenhuma
 
-With this ability, Balthazar inverts his innate resistances. His normal 10% resistance to physical damage increases to 90%; his normal 90% resistance to magic, magic damage and elemental damage drops to 10%.
+Com essa habilidade, Balthazar inverte suas resistências inatas. Sua resistência normal de 10% ao dano físico aumenta para 90%; sua resistência normal de 90% à magia, dano mágico e dano elemental cai para 10%.
 
-Balthazar may flip his resistances at will.~
-@23 = ~Flip Resistances
+Balthazar pode inverter suas resistências à vontade.~
+@23 = ~Inverter Resistências
 
-Range: 0
-Duration: Permanent
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+Alcance: 0
+Duração: Permanente
+Tempo de Lançamento: 1
+Área de Efeito: Balthazar
+Salvaguarda: Nenhuma
 
-With this ability, Balthazar inverts his innate resistances. His normal 10% resistance to physical damage is restored; so is his normal 90% resistance to magic, magic damage and elemental damage.
+Com essa habilidade, Balthazar inverte suas resistências inatas. Sua resistência normal de 10% ao dano físico é restaurada; assim como sua resistência normal de 90% à magia, dano mágico e dano elementar.
 
-Balthazar may flip his resistances at will.~
-@24 = ~Solar Stance
+Balthazar pode inverter suas resistências à vontade.~
+@24 = ~Postura Solar
 
-Range: 0
-Duration: 3 hours
-Casting Time: 1
-Area of Effect: Balthazar, plus any creatures within 30ft
-Saving Throw: None
+Alcance: 0
+Duração: 3 horas
+Tempo de Lançamento: 1
+Área de Efeito: Balthazar, mais quaisquer criaturas no alcance de 10 metros
+Salvaguarda: Nenhuma
 
-By entering the Solar Stance, Balthazar calls on the power of the sun to enhance his mystical abilities. He gains 127% resistance to fire (even when using Flip Resistance) and all of his attacks deal an additional 1d10 fire damage; this damage actually heals Balthazar. Upon entering the Solar Stance, Balthazar releases a blast of flame which deals 12d6 fire damage (save vs. spell for 1/2) and 1d8 crushing damage to all with 30ft, blasting any nearby creatures away from him.
+Ao entrar na Postura Solar, Balthazar invoca o poder do sol para melhorar suas habilidades místicas. Ele ganha 127% de resistência ao fogo (mesmo quando usa Inverter Resistências) e todos os seus ataques causam mais 1d10 de dano por fogo; esse dano realmente cura Balthazar. Ao entrar na Postura Solar, Balthazar libera uma rajada de chamas que causa 12d6 de dano de fogo (salvaguarda contra feitiço para anular a metade) e 1d8 de dano contundente a todos no alcance de 10 metros, e afastando quaisquer criaturas próximas dele.
 
-Balthazar can have only one stance active at a time: entering the Solar Stance cancels all other stances. The Solar Stance can be removed by effects such as Breach.~
-@25 = ~Lunar Stance
+Balthazar pode ter apenas uma postura ativa de cada vez: entrar na Postura Solar cancela todas as outras posições. A Postura Solar pode ser removida por magias como Fender.~
+@25 = ~Postura Lunar
 
-Range: 0
-Duration: 3 hours
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+Alcance: 0
+Duração: 3 horas
+Tempo de Lançamento: 1
+Área de Efeito: Balthazar
+Salvaguarda: Nenhuma
 
-By entering the Lunar Stance, Balthazar calls on the power of the moon to enhance his mystical abilities. While in the Lunar Stance, Balthazar is immune to energy drain, Imprisonment and Time Stop, and receives one use of the Lunar Malison ability. Upon entering the Lunar Stance, all enemies adjacent to Balthazar are blinded for four rounds (save vs. spells to avoid).
+Ao entrar na Postura Lunar, Balthazar invoca o poder da lua para melhorar suas habilidades místicas. Enquanto estiver na Postura Lunar, Balthazar é imune a drenagem de nível, Aprisionamento e Parar o Tempo, e recebe um uso da habilidade Maldição Lunar. Ao entrar na Postura Lunar, todos os inimigos adjacentes ao Balthazar ficam cegos por quatro rodadas (salvamento contra feitiço para anular).
 
-Balthazar can have only one stance active at a time: entering the Lunar Stance cancels all other stances. The Lunar Stance can be removed by effects such as Breach.~
-@26 = ~Shadow Stance
+Balthazar pode ter apenas uma postura ativa de cada vez: entrar na Postura Lunar cancela todas as outras posições. A Postura Lunar pode ser removida por magias como Fender.~
+@26 = ~Postura da Sombra
 
-Range: 0
-Duration: 3 hours
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+Alcance: 0
+Duração: 3 horas
+Tempo de Lançamento: 1
+Área de Efeito: Balthazar
+Salvaguarda: Nenhuma
 
-By entering the Shadow Stance, Balthazar calls on the power of the Plane of Shadow to enhance his mystical abilities. While in the Shadow Stance, Balthazar is protected by Improved Invisibility (and is completely invisible for the first 15 seconds, or until he attacks). In addition to the already-significant defensive advantages of Improved Invisibility, the cloak of shadows grants Balthazar an additional +6 bonus to Armor Class.
+Ao entrar na Postura da Sombra, Balthazar invoca o poder do Plano das Sombras para melhorar suas habilidades místicas. Enquanto estiver na Postura da Sombra, Balthazar fica protegido por Invisibilidade Melhorada (e é completamente invisível pelos primeiros 15 segundos, ou até que ele ataque). Além das vantagens defensivas já significativas da Invisibilidade Melhorada, o manto de sombras concede a Balthazar um bônus adicional de +6 na Classe de Armadura.
 
-Balthazar can have only one stance active at a time: entering the Shadow Stance cancels all other stances. The Shadow Stance can be removed by effects such as Oracle or True Sight.~
-@27 = ~Faster than the Eye
+Balthazar pode ter apenas uma postura ativa de cada vez: entrar na Postura da Sombra cancela todas as outras posições. A Postura da Sombra pode ser removida por efeitos como Oráculo ou Visão Verdadeira.~
+@27 = ~Mais rápido que o Olho
 
-Range: Sight
-Duration: Instant
-Casting Time: 0
-Area of Effect: Balthazar
-Saving Throw: None
+Alcance: Visão
+Duração: Instantânea
+Tempo de Lançamento: 0
+Área de Efeito: Balthazar
+Salvaguarda: Nenhuma
 
-In the blink of an eye, Balthazar transports himself anywhere in sight.
+Em um piscar de olhos, Balthazar se transporta para qualquer lugar à vista.
 
-This power can be used once per two rounds.~
-@28 = ~Dragon Fist
+Este poder pode ser usado uma vez por duas rodadas.~
+@28 = ~Punho do Dragão
 
-Range: Touch
-Duration: Special
-Casting Time: 0
-Area of Effect: Creature hit
-Saving Throw: None
+Alcance: Toque
+Duração: Especial
+Tempo de Lançamento: 0
+Área de Efeito: Acerto de criatura
+Salvaguarda: Nenhuma
 
-By channeling ki energy into a blow, Balthazar rips through his opponent's magical defenses. The Dragon Fist has a 25% chance of destroying all combat protections and boosts below 9th level, a 25% chance of destroying all antimagic effects below 9th level, and a 50% chance of destroying both. It also slows its target (causing a -4 penalty to AC and attack rolls) for two rounds.
+Ao canalizar a energia ki em um golpe, Balthazar rasga as defesas mágicas de seu oponente. O Punho do Dragão tem 25% de chance de destruir todas as proteções de combate e aumenta abaixo do 9º nível, 25% de chance de destruir todos os efeitos antimágicos abaixo do 9º nível, e 50% de chance de destruir ambos. Também diminui o seu alvo (causando -4 de penalidade na CA e nas jogadas de ataque) por duas rodadas.
 
-This power can be used once per three rounds.~
-@29 = ~Tiger Strike
+Este poder pode ser usado uma vez por três rodadas.~
+@29 = ~Garras de Tigre
 
-Range: 0
-Duration: 2 rounds
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+Alcance: 0
+Duração: 2 rodadas
+Tempo de Lançamento: 1
+Área de Efeito: Balthazar
+Salvaguarda: Nenhuma
 
-While Tiger Strike is active, Balthazar has a 50% chance per hit of a critical hit; in addition, any hit sends its victim flying backwards, stunning them for 1 round.
+Enquanto Garras de Tigre estiver ativo, Balthazar tem 50% de chance de causar um acerto crítico; Além disso, qualquer golpe envia sua vítima para trás, atordoando-a por 1 rodada.
 
-This power can be used once per four rounds.~
-@30 = ~Hand of Murder
+Este poder pode ser usado uma vez por quatro rodadas.~
+@30 = ~Mão do Assassino
 
-Range: 0
-Duration: 1 round
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: Special
+Alcance: 0
+Duração: 1 rodada
+Tempo de Lançamento: 1
+Área de Efeito: Balthazar
+Salvaguarda: Especial
 
-Through combining his ki with his Bhaalspawn essence, all of Balthazar's attacks for one round are automatic critical hits. For the first three second after he activates the power, anyone hit drops dead (save vs. spells to negate).
+Através da combinação de seu ki com sua essência de Filho de Bhaal, todos os ataques de Balthazar por uma rodada são ataques críticos automáticos. Nos primeiros três segundos depois que ele ativar o poder, qualquer um que ele acertar cairá morto (salvaguarda contra feitiços para anular).
 
-This power can be used once per three rounds.~
-@31 = ~Shadowless Kick
+Este poder pode ser usado uma vez por três rodadas.~
+@31 = ~Chute sem Sombras
 
-Range: Touch
-Duration: 4 seconds
-Casting Time: 0
-Area of Effect: Creature kicked
-Saving Throw: None
+Alcance: Toque
+Duração: 4 segundos
+Tempo de Lançamento: 0
+Área de efeito: Criatura chutada
+Salvaguarda: Nenhuma
 
-With a powerful kick, Balthazar knocks his opponent away, sending them flying; they take 4d8 damage from the impact and are knocked unconscious for a few seconds.
+Com um poderoso chute, Balthazar derruba seu oponente, mandando-o longe; eles recebem 4d8 de dano do impacto e ficam inconscientes por alguns segundos.
 
-This power can be used once per two rounds.~
-@32 = ~Lunar Malison
+Este poder pode ser usado uma vez por duas rodadas.~
+@32 = ~Maldição Lunar
 
-Range: 30 ft.
-Duration: special
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: Special
+Alcance: 10 metros
+Duração: Especial
+Tempo de Lançamento: 1
+Área de efeito: 1 criatura
+Salvaguarda: Especial
 
-The creature affected by Lunar Malison suffers a -4 penalty to all saving throws for a period of 40 rounds. Additionally, they must save vs. spells at a -2 penalty or be slowed (taking a -4 penalty to AC and attack rolls) for 2 rounds.
+A criatura afetada pela Maldição Lunar sofre -4 de penalidade em todos os testes de salvaguarda por um período de 40 rodadas. Além disso, eles devem fazer uma dalvaguarda contra feitiços com uma penalidade de -2 ou serão retardados (recebendo -4 de penalidade nas jogadas de CA e ataque) por 2 rodadas.
 
-Balthazar receives one use of this ability whenever he enters the Lunar Stance.~
+Balthazar pode usar essa habilidade sempre que ele entra na Postura Lunar.~

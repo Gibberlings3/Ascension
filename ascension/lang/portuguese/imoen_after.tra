@@ -1,27 +1,27 @@
-@477 = ~It... it's gone... I'm human again. Ohhhh, now I know what you went through, <CHARNAME>! I don't know if I ever want to go through that again!~
-@478 = ~And I can't believe what you said, either! 'Go ahead and kill her'? After all we've been through, that's what you say in my defense?!~
-@479 = ~I was trying to convince Melissan to leave you alone, Imoen!~
-@480 = ~Get over yourself, little girl. I never asked you to come, did I?~
-@481 = ~We don't have time for this chat, Imoen! This is the middle of a fight!~
-@482 = ~Well... I suppose. You convinced me more than her, obviously. I... I'm just glad I didn't do more damage as the Slayer. I don't know how you handled it. Thank you for... for not killing me.~
-@483 = ~I... I can't stay here, though. This is way out of my league. I wish you well, <CHARNAME>, and I hope I'll see you again. Maybe back at Candlekeep, huh? Anyway... good luck...~
-@484 = ~Do you need me to join back up with you? I could... leave the Throne, I think... I think I have that power, now, same as you. But I'll fight by your side again, if you want me to.~
-@485 = ~Imoen Has Survived
+@477 = ~Sumiu... eu sou humana novamente. Ohhhh, agora eu sei o que você passou, <CHARNAME>! Não sei se quero passar por isso de novo!~
+@478 = ~E não posso acreditar no que você disse! 'Vá em frente e a mate'? Depois de tudo o que passamos, é isso que você diz em minha defesa?!~
+@479 = ~Eu estava tentando convencer Melissan a te deixar em paz, Imoen!~
+@480 = ~Supere-se, garota. Eu nunca pedi para você vir, não é?~
+@481 = ~Não temos tempo para essa conversa, Imoen! Estamos no meio de uma luta!~
+@482 = ~Bem... eu suponho. Você me convenceu mais do que ela, obviamente. Eu... estou apenas feliz por não ter causado mais estragos como o Matador. Não sei como você aguentou. Obrigada por... por não me matar.~
+@483 = ~Mas... eu não posso ficar aqui. Isso está muito além das minhas capacidades. Desejo-lhe bem, <CHARNAME>, e espero te ver novamente. Talvez no Forte da Vela, huh? De qualquer forma... boa sorte...~
+@484 = ~Você precisa que eu me junte a você novamente? Eu poderia... deixar o Trono, acho... parece que tenho esse poder agora, assim como você. Mas lutarei ao seu lado novamente, se você quiser.~
+@485 = ~Imoen Sobreviveu
 
-Imoen managed to survive Melissan's attempt to force her into berserk Slayer form. It seems that in doing so, Imoen has had her own progress in the taint advanced considerably. She now not only can turn into the same Slayer form that I began to back in Spellhold... but has also gained the ability to go ethereal for brief periods of time.
+Imoen conseguiu sobreviver à tentativa de Melissan de forçá-la a se transformar no Matador enlouquecido. Parece que, ao fazer isso, Imoen avançou consideravelmente em seu próprio progresso contra a mácula. Agora, ela não apenas pode se transformar no mesmo estado do Matador que eu comecei a experimentar em Fortaleza do Feitiço... mas também adquiriu a habilidade de ficar etérea por breves períodos de tempo.
 
-Ethereal
+Etéreo
 -------------
-Imoen is now able to enter the Ethereal Plane for brief periods of time. The ability is useable once every minute, and its use prevents her from assuming the Slayer form for a minute, as well. Imoen can remain fully ethereal and intangible to forces on this plane for a full round... during which she is invisible and completely immune to harm. During that round, she also cannot cast spells or use abilities.
-For another two rounds afterwards, Imoen can remain 'half-phased'... she is partially ethereal and partially in this plane. She is still invisible, but takes half damage from all sources. In this state, there is a small chance (10%) that she will miscast a spell. For all three rounds, she is able to see any invisible targets.~
-@486 = ~Sure. Let's join up again.~
-@487 = ~No... get out of here while you can, Imoen.~
-@488 = ~I wish you well, <CHARNAME>, and I hope I'll see you again. Maybe back at Candlekeep, huh? Anyway... good luck...~
-@489 = ~Yeah, right. You do whatever you have to, <CHARNAME>. Me... I'm getting as far away from here as possible. Good-bye!~
-@490 = ~Nope, you sure didn't. Thanks for nothing, I guess. You do whatever you have to, <CHARNAME>. Me... I'm getting as far away from here as possible. Good-bye!~
-@491 = ~I'm... just glad I didn't do anything worse while I was... when I... oh, I just don't know how you handled it back in Spellhold. Thank you for... not killing me, okay?~
-@492 = ~Oh, so it is! Do you need me back in the party? I could... leave the Throne, I think... I think I have that power, now, same as you. But I'll fight by your side again, if you want me to.~
-@493 = ~I see the fight's still going on. Do you need me back in the party? I could... leave the Throne, I think... I think I have that power, now, same as you. But I'd like to see this through, same as you.~
-@494 = ~Stop distracting me in the middle of combat, already! Get back in the party!~
-@495 = ~Yes <PRO_SIRMAAM>! (giggle!) Time to kick a certain someone's butt, right?~
-@1000 = ~Bhaalspawn powers granted~
+Agora, Imoen é capaz de entrar no Plano Etéreo por curtos períodos de tempo. A habilidade pode ser usada uma vez a cada minuto e, ao utilizá-la, ela fica impossibilitada de assumir a forma do Matador por um minuto. Imoen pode permanecer completamente etérea e intangível às forças deste plano durante uma rodada completa... durante a qual ela fica invisível e completamente imune a danos. Nesse período, ela também não pode lançar feitiços ou usar habilidades.
+Durante mais duas rodadas após isso, Imoen pode permanecer 'parcialmente em fase'... ela está parcialmente etérea e parcialmente neste plano. Ela ainda está invisível, mas recebe apenas metade do dano de todas as fontes. Nesse estado, existe uma pequena chance (10%) de ela lançar um feitiço de forma errônea. Durante essas três rodadas, ela é capaz de enxergar alvos invisíveis.~
+@486 = ~Claro. Vamos nos juntar novamente.~
+@487 = ~Não... saia daqui enquanto ainda pode, Imoen.~
+@488 = ~Desejo tudo de bom para você, <CHARNAME>, e espero te ver de novo. Talvez no Forte da Vela, né? De qualquer forma... boa sorte...~
+@489 = ~Sim, claro. Faça o que precisar fazer, <CHARNAME>. Eu... estou indo o mais longe possível daqui. Adeus!~
+@490 = ~Não, realmente não fez. Obrigada por nada, eu acho. Faça o que precisar fazer, <CHARNAME>. Eu... estou indo o mais longe possível daqui. Adeus!~
+@491 = ~Eu... só estou feliz por não ter feito algo pior enquanto estava... quando eu... ah, eu simplesmente não sei como você lidou com isso na Fortaleza do Feitiço. Obrigada por... não me matar, tá?~
+@492 = ~Ah, é verdade! Você precisa que eu volte ao grupo? Acho que posso sair do Trono agora, eu acho... eu acredito que tenho esse poder, assim como você. Mas eu lutarei ao seu lado novamente, se você quiser.~
+@493 = ~Vejo que a luta ainda está acontecendo. Você precisa que eu volte ao grupo? Acho que posso sair do Trono agora, eu acho... eu acredito que tenho esse poder, assim como você. Mas eu gostaria de ver isso até o fim, assim como você.~
+@494 = ~Pare de me distrair no meio do combate! Volte para o grupo!~
+@495 = ~Sim, <PRO_SIRMAAM>! (risos!) Hora de dar uma surra em certa pessoa, certo?~
+@1000 = ~Poderes da Descendência de Bhaal concedidos ~
