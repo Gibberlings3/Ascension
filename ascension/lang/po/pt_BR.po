@@ -4,9 +4,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2023-05-27 11:04+0000\n"
+"PO-Revision-Date: 2023-07-26 21:30+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
-"Language-Team: Portuguese (Brazil) <https://tra.bgforge.net/projects/infinity-engine/ascension/pt_BR/>\n"
+"Language-Team: Portuguese (Brazil) <https://tra.bgforge.net/projects/"
+"infinity-engine/ascension/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2893,7 +2894,7 @@ msgstr ""
 #: epilogues.tra:4006 epilogues.tra:4011 epilogues.tra:4012 epilogues.tra:4013
 #: epilogues.tra:4015
 msgid " "
-msgstr "   "
+msgstr " "
 
 #: epilogues.tra:4007
 msgid ""
@@ -4680,7 +4681,7 @@ msgstr ""
 
 #: setup.tra:101000
 msgid "Ascension"
-msgstr ""
+msgstr "Ascension"
 
 #: setup.tra:101001
 msgid ""
@@ -4781,7 +4782,7 @@ msgstr "Poderes da Descendência de Bhaal Restaurados"
 
 #: setup.tra:104001
 msgid "Rewritten Final Chapter of Throne of Bhaal"
-msgstr "Capítulo Final do Trono de Bhaal  Reescrito"
+msgstr "Capítulo Final do Trono de Bhaal Reescrito"
 
 #: setup.tra:104002
 msgid "Improved Sarevok-Player Interactions"
@@ -5723,7 +5724,7 @@ msgstr ""
 "Neera viajou para o norte, parando em pousadas e tavernas ao longo do "
 "caminho, sempre ouvindo felizmente enquanto bardos teciam contos, tanto "
 "verdadeiros quanto falsos, de suas aventuras com <CHARNAME>. Quando ela "
-"chegou  à Floresta Alta, foi recebida de volta como uma heroína e "
+"chegou à Floresta Alta, foi recebida de volta como uma heroína e "
 "pessoalmente parabenizada por Turlang, o criado. Em questão de dias, ela "
 "estava entediada novamente e voltou para Amn, onde se reuniu com os "
 "sobreviventes dos magos selvagens do Refúgio Oculto, esperando encontrar "
@@ -5734,8 +5735,8 @@ msgstr ""
 "de Thay, e Neera se viu perseguida novamente pelos Magos Vermelhos. Foi uma "
 "perseguição que ela apreciou, por um tempo, especialmente quando levou a "
 "outra aliança de conveniência com Szass Tam. Embora os resultados de suas "
-"aventuras fossem imprevisíveis como sua magia selvagem, uma coisa era certa:"
-" Neera viveria uma vida muito interessante."
+"aventuras fossem imprevisíveis como sua magia selvagem, uma coisa era certa: "
+"Neera viveria uma vida muito interessante."
 
 #: shawnesepilogues_eenpc.tra:5008
 msgid ""
@@ -6204,8 +6205,8 @@ msgid ""
 "to meeting you again on Faerun, <CHARNAME>... as a mortal and a true "
 "<PRO_BROTHERSISTER>."
 msgstr ""
-" E assim está feito. Eu acredito que você fez a escolha certa. Estou ansioso"
-" para encontrá-la novamente em Faerun, <CHARNAME>... como uma mortal e uma "
+"E assim está feito. Eu acredito que você fez a escolha certa. Estou ansioso "
+"para encontrá-la novamente em Faerun, <CHARNAME>... como uma mortal e uma "
 "verdadeira irmã."
 
 msgctxt "female"
