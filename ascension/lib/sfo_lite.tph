@@ -105,8 +105,31 @@ BEGIN
           ACTION_IF "%iconv_path%" STRING_EQUAL_CASE "" BEGIN
              OUTER_SPRINT iconv_path "%scsroot%/%tra_base%/iconv"
           END
+          
+          ACTION_DEFINE_ASSOCIATIVE_ARRAY charset_table  BEGIN
+              czech      => cp1250
+              english    => cp1252
+              french     => cp1252
+              german     => cp1252
+              italian    => cp1252
+              japanese   => cp932
+              polish     => cp1250
+              portuguese => cp1252
+              russian    => cp1251
+              schinese   => cp950
+              spanish    => cp1252
+              swedish    => cp1252
+              tchinese   => cp936
+          END
+          
           // when using HANDLE_CHARSETS with from_utf8 = 1, first remove all lines from the .gitattributes  that contain 'working-tree-encoding=xxxxx'
-          LAF HANDLE_CHARSETS INT_VAR infer_charsets = 1 STR_VAR iconv_path  tra_path = ~%scs_tra_loc%~  END
+          LAF HANDLE_CHARSETS 
+            INT_VAR 
+                infer_charsets = 0
+            STR_VAR 
+                iconv_path tra_path = ~%scs_tra_loc%~
+                charset_table = charset_table
+          END
        END
    END ELSE BEGIN
       // on non-EE, just set the tra loc
