@@ -625,10 +625,10 @@ DEFINE_PATCH_FUNCTION yagashura_cre_patch BEGIN
                resist_acid=99
                resist_electricity=99
                resist_magic_damage=99
-               resist_piercing=99
-               resist_slashing=99
-               resist_crushing=99
-               resist_missile=99
+               resist_piercing=99  // This can easily allow for complete damage immunity with any of the item mods adding DR to armor.
+               resist_slashing=99  // This can easily allow for complete damage immunity with any of the item mods adding DR to armor.
+               resist_crushing=99  // This can easily allow for complete damage immunity with any of the item mods adding DR to armor.
+               resist_missile=99   // This can easily allow for complete damage immunity with any of the item mods adding DR to armor.
                save_vs_death=4
                save_vs_wand=6
                save_vs_poly=5
@@ -650,6 +650,7 @@ DEFINE_PATCH_FUNCTION yagashura_cre_patch BEGIN
     LPF ADD_CRE_EFFECT INT_VAR opcode=126 target=1 timing=1 parameter1=4 END // movement bonus
     REMOVE_CRE_ITEM hamm10 // remove existing copy of shuruppak's hammer
     REMOVE_CRE_ITEM helmnoan // remove resistance to critical hits
+    ADD_CRE_ITEM plat22 #0 #0 #0 NONE ARMOR // shuruppak's armor moves to inventory (avoids complete damage immunity)
     ADD_CRE_ITEM hamm10 #0 #0 #0 NONE SHIELD // shuruppak's hammer dual-wielded; shield moves to inventory
     REPLACE_CRE_ITEM yagawh #0 #0 #0 NONE WEAPON1 // new undroppable hammer
     ADD_CRE_ITEM rndtre05 #0 #0 #0 NONE INV // new loot
