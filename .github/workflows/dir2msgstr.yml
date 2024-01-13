@@ -5,6 +5,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: github.repository == 'InfinityMods/Ascension'
     steps:
       - name: Checkout
         uses: actions/checkout@v2
