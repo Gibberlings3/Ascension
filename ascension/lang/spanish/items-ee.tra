@@ -2,12 +2,14 @@
 
 CARACTERÍSTICAS:
 
-Aptitudes: cada golpe drena de uno a cinco puntos de golpe al objetivo y los transfiere al portador. Esto no curará mas allá del máximo del portador.
+Aptitudes de combate:
+- Cada golpe drena de uno a cinco puntos de golpe al objetivo y los transfiere al portador. Esto no curará mas allá del máximo del portador.
 
-La hoja también concede un +10% de resistencia mágica mientras sea equipada.
+Aptitudes poseídas:
+- La hoja también concede un +10% de resistencia mágica mientras sea equipada.
 
-THAC0: +4
-Daño: 1d10 +4 (cortante)
+GAC0: Bonificación +4
+Daño: 1D10 +4 (cortante)
 Factor de velocidad: 8
 Talento marcial: Mandoble
 Tipo: A dos manos
@@ -17,11 +19,11 @@ Fuerza 14
 Constitución 18
 
 Peso: 10 lbs~
-@3003 = ~Possibly a brew of Sendai's own, this is an incredibly potent healing potion capable of fully restoring the hit points of any who use it.
+@3003 = ~Posiblemente un brebaje propiedad de Sendái, es una poción increíblemente potente de curación capaz de restaurar completamente los puntos de golpe de cualquiera que la use.
 
-STATISTICS:
+CARACTERÍSTICAS:
 
-Weight: 1~
+Peso: 1~
 @3004 = ~Todavía, a pesar de todo, es un arma formidable... y algo que Sarevok advierte es que sería más difícil de manejar en manos de alguien que no sea un portador de la muerte, si pudiera usarla claro.~
 @3005 = ~Sin embargo, es un arma formidable... que sólo un Portador de la Muerte con la habilidad y el poder de Sarevok puede blandir.~
 @3006 = ~Sólo Sarevok puede usar esta arma.~

@@ -3,304 +3,302 @@
 Imoen puede ahora entrar en el Plano Etéreo por cortos periodos de tiempo. La habilidad puede ser usada una vez por minuto, y su uso también la previene de asumir la forma del Asesino durante un minuto. Imoen puede permanecer etérea e intocable a las fuerzas de este plano durante todo un turno... durante el cual es invisible y completamente inmune al daño. Durante ese turno, ella tampoco puede lanzar conjuros o usar habilidades.
 
 Durante los dos turnos posteriores, Imoen puede permanecer 'en semi-fase'... ella es parcialmente en el plano etéreo y parcialmente en este plano. Es aún invisible, pero recibe la mitad de daño de cualquier origen. En este estado, hay una pequeña probabilidad (10%) de que calcule mal un conjuro. Durante tres turnos, ella puede ver objetivos invisibles.~
-@6 = ~End Slayer Change
+@6 = ~Finalizar transformación en el Asesino
 
-This ability allows Imoen to cancel her transformation and return to her usual form.~
+Esta habilidad permite a Imoen cancelar su transformación y volver a su forma habitual.~
 @7 = ~Regeneración
 
 Alcance: Toque
 Duración: 1 asalto/2 niveles
 Tiempo de lanzamiento: 7
 Área de efecto: Criatura objetivo
-Tirada de salvación: No
+Tirada de salvación: Ninguna
 
 DESCRIPCIÓN:
 
-Esta poderosa aptitud permite al Engendro de Bhaal imbuir a una criatura con la habilidad de regenerarse. Esta regeneración curará cualquier herida e incluso regenerará extremidades perdidas. La criatura afectada recuperará 3 puntos de golpe por segundo. El efecto permanece 1 asalto por cada 2 niveles del lanzador o hasta que sea disipado. Por ejemplo, un personaje de nivel 14 regeneraría 18 puntos de golpe por asalto durante 7 asaltos.~
+Esta poderosa aptitud permite al engendro de Bhaal imbuir a una criatura con la habilidad de regenerarse. Esta regeneración curará cualquier herida e incluso regenerará extremidades perdidas. La criatura afectada recuperará 3 puntos de golpe por segundo. El efecto permanece 1 asalto por cada 2 niveles del lanzador o hasta que sea disipado. Por ejemplo, un personaje de nivel 14 regeneraría 18 puntos de golpe por asalto durante 7 asaltos.~
 @8 = ~Resurrección
 
 Alcance: Toque
 Duración: Permanente
 Tiempo de lanzamiento: 1
 Área de efecto: Criatura tocada
-Tirada de salvación: No
+Tirada de salvación: Ninguna
 
 DESCRIPCIÓN:
 
 Al igual que el conjuro de 5º nivel Revivir a los muertos, Resurrección devolverá a la vida a un personaje. Sin embargo, Resurrección también curará por completo al resucitado, permitiéndole estar listo para vivir nuevas aventuras.~
-@9 = ~Slayer Change
+@9 = ~Transformación en el Asesino
 
-When you use this ability, you take on the form of the brutal essence of Bhaal: a violent, powerful creature made of teeth and claws. Using this ability reduces your reputation by one point, as even those who do not witness the event can sense the corruption caused by giving yourself over to instinct.
+Cuando utilizas esta habilidad, adoptas la forma de la brutal esencia de Bhaal: una criatura violenta y poderosa hecha de dientes y garras. El uso de esta habilidad reduce tu reputación en un punto, ya que incluso aquellos que no presencian el suceso pueden percibir la corrupción causada al entregarte al instinto.
 
-The Slayer form grants the following benefits:
+La forma del Asesino otorga los siguientes beneficios:
 
-- Strength and Dexterity set to 25
-- Effective AC set to -9
-- Magic Resistance set to 40%
-- Saving Throws set to 2
-- Attacks per round set to 4 (1d8 crushing, 2 cold)
-- THAC0 set to 0
-- PLUS_SIGN_PLACEHOLDER 100 Hit Points
-- Immunity to imprisonment, level drain, stun, fear, charm, confusion, sleep, and missile attacks
+- Fuerza y destreza aumentadas a 25
+- CA efectiva fijada en -9
+- Resistencia mágica fijada a 40%
+- Tiradas de salvación fijadas en 2
+- Ataques por asalto fijados en 4 (1D8 contundente, 2 frío)
+- GAC0 fijado a 0
+- PLUS_SIGN_PLACEHOLDER 100 puntos de golpe
+- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusión, sueño y ataques con proyectiles
 
-The Slayer can be difficult to control: after the first round, you have a 10% cumulative chance per round of losing control of yourself for a round.~
-@10 = ~Slayer Change
+El Asesino puede ser difícil de controlar: después del primer asalto, tienes una probabilidad acumulativa del 10% por asalto de perder el control de ti mismo durante un asalto.~
+@10 = ~Transformación en el Asesino
 
-When you use this ability, you take on the form of the brutal essence of Bhaal: a violent, powerful creature made of teeth and claws. Using this ability reduces your reputation by one point, as even those who do not witness the event can sense the corruption caused by giving yourself over to instinct.
+Cuando utilizas esta habilidad, adoptas la forma de la brutal esencia de Bhaal: una criatura violenta y poderosa hecha de dientes y garras. El uso de esta habilidad reduce tu reputación en un punto, ya que incluso aquellos que no presencian el suceso pueden percibir la corrupción causada al entregarte al instinto.
 
-The Slayer form has increased in power with your own, and now grants the following benefits:
+La forma del Asesino otorga los siguientes beneficios:
 
-- Strength and Dexterity set to 25
-- Effective AC set to -9
-- Magic Resistance set to 50%
-- Resistance to physical damage set to 15%
-- Resistance to elemental damage set to 30%
-- Saving Throws set to 2
-- Attacks per round set to 4 (2d6 crushing, 4 cold)
-- THAC0 set to -4
-- PLUS_SIGN_PLACEHOLDER 150 Hit Points
-- Regenerate 2 Hit Points per second
-- Immunity to imprisonment, level drain, stun, fear, charm, confusion, sleep, and missile attacks
-- Chance of losing control: 10%, plus a cumulative 5% per round
-~
-@11 = ~Slayer Change
+- Fuerza y destreza aumentadas a 25
+- CA efectiva fijada en -9
+- Resistencia mágica fijada a 50%
+- Resistencia al daño físico fijada en 15%
+- Resistencia al daño elemental fijada en 30%
+- Tiradas de salvación fijadas en 2
+- Ataques por asalto fijados en 4 (2D6 contundente, 4 frío)
+- GAC0 fijado a -4
+- PLUS_SIGN_PLACEHOLDER 150 puntos de golpe
+- Regenera 2 puntos de golpe por segundo
+- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusión, sueño y ataques con proyectiles
+- Probabilidad de perder el control: 10%, más un 5% acumulativo por asalto.~
+@11 = ~Transformación en el Asesino
 
-When you use this ability, you take on the form of the brutal essence of Bhaal: a violent, powerful creature made of teeth and claws. Using this ability reduces your reputation by two points, as even those who do not witness the event can sense the corruption caused by giving yourself over to instinct.
+Cuando utilizas esta habilidad, adoptas la forma de la brutal esencia de Bhaal: una criatura violenta y poderosa hecha de dientes y garras. El uso de esta habilidad reduce tu reputación en un punto, ya que incluso aquellos que no presencian el suceso pueden percibir la corrupción causada al entregarte al instinto.
 
-The Slayer form has increased in power with your own, and now grants the following benefits:
+La forma del Asesino otorga los siguientes beneficios:
 
-- Strength and Dexterity set to 25
-- Effective AC set to -9
-- Magic Resistance set to 60%
-- Resistance to physical damage set to 30%
-- Resistance to elemental damage set to 40%
-- Saving Throws set to 2
-- Attacks per round set to 4 (2d8 crushing, 8 cold)
-- Attacks have a 10% chance of casting Dispel Magic and of lowering Magic Resistance
-- THAC0 set to -8
-- PLUS_SIGN_PLACEHOLDER 200 Hit Points
-- Regenerate 3 Hit Points per second
-- Immunity to imprisonment, level drain, stun, fear, charm, confusion, sleep, disease, poison, and missile attacks
-- Free action
-- Chance of losing control: a cumulative 5% per two rounds~
-@12 = ~Ravager Change
+- Fuerza y destreza aumentadas a 25
+- CA efectiva fijada en -9
+- Resistencia mágica fijada a 60%
+- Resistencia al daño físico fijada en 30%
+- Resistencia al daño elemental fijada en 40%
+- Tiradas de salvación fijadas en 2
+- Ataques por asalto fijados en 4 (2D8 contundente, 8 frío)
+- Los ataques tienen un 10% de probabilidad de lanzar Disipar Magia y de reducir la resistencia mágica
+- GAC0 fijado a -8
+- PLUS_SIGN_PLACEHOLDER 200 puntos de golpe
+- Regenera 3 puntos de golpe por segundo
+- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusión, sueño, enfermedad, veneno y ataques con proyectiles
+- Acción libre
+- Probabilidad de perder el control: un 5% acumulativo cada dos asaltos~
+@12 = ~Transformación en el Saqueador
 
-You now have the ability to take on the form either of the Slayer, or of the Ravager - a terrible manifestation of Bhaal. Using this ability reduces your reputation by two points for the Slayer, or a full three points for the Ravager.
+Ahora tienes la habilidad de adoptar la forma del Asesino o del Saqueador, una terrible manifestación de Bhaal. El uso de esta habilidad reduce tu reputación en dos puntos en el caso del Asesino, o en tres puntos en el caso del Saqueador.
 
-As the Slayer, you have the following benefits:
+Como el Asesino, tienes los siguientes beneficios:
 
-- Strength and Dexterity set to 25
-- Effective AC set to -9
-- Magic Resistance set to 60%
-- Resistance to physical damage set to 30%
-- Resistance to elemental damage set to 50%
-- Saving Throws set to 2
-- Attacks per round set to 4 (2d8 crushing, 8 cold)
-- Attacks have a 10% chance of casting Dispel Magic and of lowering Magic Resistance
-- THAC0 set to -8
-- PLUS_SIGN_PLACEHOLDER 200 Hit Points
-- Regenerate 3 Hit Points per second
-- Immunity to imprisonment, level drain, stun, fear, charm, confusion, sleep, disease, poison, and missile attacks
-- Free action
-- Chance of losing control: a cumulative 5% per two rounds
+- Fuerza y destreza aumentadas a 25
+- CA efectiva fijada en -9
+- Resistencia mágica fijada a 60%
+- Resistencia al daño físico fijada en 30%
+- Resistencia al daño elemental fijada en 50%
+- Tiradas de salvación fijadas en 2
+- Ataques por asalto fijados en 4 (2D8 contundente, 8 frío)
+- Los ataques tienen un 10% de probabilidad de lanzar Disipar Magia y de reducir la resistencia mágica
+- GAC0 fijado a -8
+- PLUS_SIGN_PLACEHOLDER 200 puntos de golpe
+- Regenera 3 puntos de golpe por segundo
+- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusión, sueño, enfermedad, veneno y ataques con proyectiles
+- Acción libre
+- Probabilidad de perder el control: un 5% acumulativo cada dos asaltos
 
-As the Ravager, you get the following additional benefits:
+Como el Saqueador, tienes los siguientes beneficios:
 
-- Magic Resistance set to 75%
-- Resistance to physical damage set to 50%
-- Resistance to elemental damage set to 50%
-- Resistance to magic damage set to 50%
-- Attacks per round set to 5 (3d8 crushing, 8 cold)
-- Chance of dispelling on hit increases to 20%
-- THAC0 set to -12
-- PLUS_SIGN_PLACEHOLDER 250 hit points
-- Regenerate 5 Hit Points per second
-- Chance of losing control increases to 40% plus a cumulative 10% chance per round~
-@13 = ~Slayer Change
+- Resistencia mágica fijada a 75%
+- Resistencia al daño físico fijada en 50%
+- Resistencia al daño elemental fijada en 50%
+- Resistencia al daño mágico fijada en 50%
+- Ataques por asalto fijados en 5 (3D8 contundente, 8 frío)
+- La probabilidad de disipación al golpear aumenta al 20%
+- GAC0 fijado a -12
+- PLUS_SIGN_PLACEHOLDER 250 puntos de golpe
+- Regenera 5 puntos de golpe por segundo
+- Probabilidad de perder el control aumenta al 40% más un 10% acumulativo por asalto.~
+@13 = ~Transformación en el Asesino
 
-When Imoen uses this ability, she takes on the form of the brutal essence of Bhaal: a violent, powerful creature made of teeth and claws.
+Cuando Imoen utiliza esta habilidad, adopta la forma de la brutal esencia de Bhaal: una criatura violenta y poderosa hecha de dientes y garras.
 
-The Slayer form grants the following benefits:
+La forma del Asesino otorga los siguientes beneficios:
 
-- Strength and Dexterity set to 25
-- Effective AC set to -9
-- Magic Resistance set to 40%
-- Saving Throws set to 2
-- Attacks per round set to 4 (1d8 crushing, 2 cold)
-- THAC0 set to 0
-- PLUS_SIGN_PLACEHOLDER 100 Hit Points
-- Immunity to imprisonment, level drain, stun, fear, charm, confusion, sleep, and missile attacks
+- Fuerza y destreza aumentadas a 25
+- CA efectiva fijada en -9
+- Resistencia mágica fijada a 40%
+- Tiradas de salvación fijadas en 2
+- Ataques por asalto fijados en 4 (1D8 contundente, 2 frío)
+- GAC0 fijado a 0
+- PLUS_SIGN_PLACEHOLDER 100 puntos de golpe
+- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusión, sueño y ataques con proyectiles
 
-Perhaps because Imoen has less of Bhaal's essence than <CHARNAME> - or perhaps because of what she learned after Melissan called forth her essence - she is more able to contain the Slayer's power, and has no chance of losing control while in Slayer form.~
-@14 = ~Bhaalspawn powers granted~
-@15 = ~Imoen can now change into the Slayer at will, and can enter the Ethereal plane once per minute~
+Tal vez porque Imoen tiene menos esencia de Bhaal que <CHARNAME>, o tal vez por lo que aprendió después de que Melisán invocara su esencia, es más capaz de contener el poder de el Asesino, y no tiene ninguna posibilidad de perder el control mientras está en forma de el Asesino.~
+@14 = ~Poderes de engendro de Bhaal obtenidos~
+@15 = ~Ahora Imoen puede transformarse en el Asesino a voluntad y entrar en el plano etéreo una vez por minuto.~
 @16 = ~Controlar Demonio
 
-Alcance: visión
+Alcance: Visión
 Tiempo de Lanzamiento: 1
-Duración: especial
-Área de Efecto: un demonio
-Tirada de Salvación: no
+Duración: Especial
+Área de efecto: Un demonio
+Tirada de salvación: Ninguna
 
-Esta habilidad permite a los hijos de Bhaal intentar arrebatar el control de un demonio de Melissan, y hacerlo aliado suyo. El hijo de Bhaal se enzarza en un combate mental durante DURATION_PLACEHOLDER segundos, al final de la cual, el demonio tiene SUCCESS_CHANCE_PLACEHOLDER% de la probabilidad de ser su aliado. Sin embargo, el demonio no esta bajo el control directo del hijo de Bhaal. Esta habilidad sólo puede ser usada cada 3 turnos.~
-@17 = ~Liberar
+Esta habilidad permite a los engendros de Bhaal intentar arrebatar el control de un demonio de Melisán, y hacerlo aliado suyo. El engendro de Bhaal se enzarza en un combate mental durante DURATION_PLACEHOLDER segundos, al final de la cual, el demonio tiene SUCCESS_CHANCE_PLACEHOLDER% de la probabilidad de ser su aliado. Sin embargo, el demonio no esta bajo el control directo del engendro de Bhaal. Esta habilidad sólo puede ser usada cada 3 turnos.~
+@17 = ~Desatar
 
-Alcance: 5 pies
+Alcance: 1,5 metros
 Tiempo de lanzamiento: 1
 Duración: Instantáneo
 Área de efecto: Criatura objetivo
 Tirada de salvación: 1/2 + especial
 
-La habilidad de "Liberar" os permite soltar vuestro poder interior hacia un objetivo que este dentro del rango de contacto, golpeándole con un DICENUMBER_PLACEHOLDERd12 puntos de daño mágico (la mitad si supera una tirada de salvación contra muerte a -4) y le envía volando en dirección contraria a vos, e incluso puede dejarlo inconsciente durante un corto periodo de tiempo. Esta habilidad sólo deberíais usarla una vez cada treinta segundos... y después de usarla los hijos de Bhaal se fatigan enormemente y tienen un 25% de errar conjuro en todos los hechizos durante 2 turnos. Debido a la cantidad de esencia divina usada, la forma del Asesino no estará disponible durante treinta segundos.~
-@18 = ~Enfoque
+La habilidad de "Desatar" os permite soltar vuestro poder interior hacia un objetivo que este dentro del rango de contacto, golpeándole con un DICENUMBER_PLACEHOLDERd12 puntos de daño mágico (la mitad si supera una tirada de salvación contra muerte a -4) y le envía volando en dirección contraria a vos, e incluso puede dejarlo inconsciente durante un corto periodo de tiempo. Esta habilidad sólo deberíais usarla una vez cada treinta segundos... y después de usarla los engendros de Bhaal se fatigan enormemente y tienen un 25% de errar conjuro en todos los hechizos durante 2 turnos. Debido a la cantidad de esencia divina usada, la forma del Asesino no estará disponible durante treinta segundos.~
+@18 = ~Concentración
 
 Alcance: 0
 Tiempo de lanzamiento: 1
 Duración: 5 asaltos
-Área de Efecto: El lanzador
-Tirada de Salvación: Ninguna
+Área de efecto: El lanzador
+Tirada de salvación: Ninguna
 
-Esta habilidad permite al Bhaalspawn concentrar energía <PRO_HISHER> dentro de <PRO_HIMHER> para resistir los efectos de hechizos del exterior. Durante 30 segundos, el Bhaalspawn se vuelve inmune a los hechizos Carne a Piedra, Desintegración y Detener el Tiempo. Además, los hechizos menores de niveles 1º a 3º tampoco afectarán al Bhaalspawn. Esta habilidad puede utilizarse una vez por minuto.~
-@19 = ~Dimension Door
+Esta habilidad permite al engendro de Bhaal concentrar su energía dentro de él para resistir los efectos de hechizos del exterior. Durante 30 segundos, el engendro de Bhaal se vuelve inmune a los hechizos Carne a Piedra, Desintegración y Detener el Tiempo. Además, los hechizos menores de niveles 1º a 3º tampoco afectarán al engendro de Bhaal. Esta habilidad puede utilizarse una vez por minuto.~
+@19 = ~Puerta dimensional
 
-Range: Infinite
-Casting Time: 0
-Duration: Instant
-Area of Effect: Caster
-Saving Throw: None
+Alcance: Infinito
+Tiempo de lanzamiento: 0
+Duración: Instantáneo
+Área de efecto: El lanzador
+Tirada de salvación: Ninguna
 
-The Bhaalspawn may now move freely through space and the planes. This teleportation power is useable once per round.~
-@20 = ~Shapeshift: Bat
+Ahora los engendros de Bhaal pueden moverse libremente por el espacio y los planos. Este poder de teletransporte se puede usar una vez por asalto.~
+@20 = ~Cambio de forma: Murciélago
 
-This ability allows Bodhi to shapeshift into bat form.~
-@21 = ~Divine Gift
-(Invocation)
+Esta habilidad permite a Bodhi transformarse en murciélago.~
+@21 = ~Regalo divino (Invocación)
 
-Range: 0
-Duration: 1 turn
-Casting Time: 1
-Area of Effect: The caster
-Saving Throw: None
+Alcance: 0
+Duración: 1 turno
+Tiempo de lanzamiento: 1
+Área de efecto: El lanzador
+Tirada de salvación: Ninguna
 
-The Bhaalspawn calls upon the might of <PRO_HISHER> blood to grant <PRO_HIMHER> power for a short period. When <PRO_HESHE> does this, <PRO_HISHER> Strength, Constitution, and Dexterity all are raised to 25.~
-@22 = ~Flip Resistances
+El engendro de Bhaal invoca la fuerza de su sangre para que le otorgue poder durante un breve periodo de tiempo. Al hacerlo, su fuerza, destreza y constitución aumentan a 25.~
+@22 = ~Invertir resistencias
 
-Range: 0
-Duration: Permanent
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+Alcance: 0
+Duración: Permanente
+Tiempo de lanzamiento: 1
+Área de efecto: Baltasar
+Tirada de salvación: Ninguna
 
-With this ability, Balthazar inverts his innate resistances. His normal 10% resistance to physical damage increases to 90%; his normal 90% resistance to magic, magic damage and elemental damage drops to 10%.
+Con esta habilidad, Baltasar invierte sus resistencias innatas. Su resistencia normal del 10% al daño físico aumenta al 90%; su resistencia normal del 90% a la magia, el daño mágico y el daño elemental baja al 10%.
 
-Balthazar may flip his resistances at will.~
-@23 = ~Flip Resistances
+Baltasar puede invertir sus resistencias a voluntad.~
+@23 = ~Invertir resistencias
 
-Range: 0
-Duration: Permanent
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+Alcance: 0
+Duración: Permanente
+Tiempo de lanzamiento: 1
+Área de efecto: Baltasar
+Tirada de salvación: Ninguna
 
-With this ability, Balthazar inverts his innate resistances. His normal 10% resistance to physical damage is restored; so is his normal 90% resistance to magic, magic damage and elemental damage.
+Con esta habilidad, Baltasar invierte sus resistencias innatas. Recupera su resistencia normal del 10% al daño físico, así como su resistencia normal del 90% a la magia, el daño mágico y el daño elemental.
 
-Balthazar may flip his resistances at will.~
-@24 = ~Solar Stance
+Baltasar puede invertir sus resistencias a voluntad.~
+@24 = ~Postura solar
 
-Range: 0
-Duration: 3 hours
-Casting Time: 1
-Area of Effect: Balthazar, plus any creatures within 30ft
-Saving Throw: None
+Alcance: 0
+Duración: 3 horas
+Tiempo de lanzamiento: 1
+Área de efecto: Baltasar + cualquier criatura en un radio de 9 metros
+Tirada de salvación: Ninguna
 
-By entering the Solar Stance, Balthazar calls on the power of the sun to enhance his mystical abilities. He gains 127% resistance to fire (even when using Flip Resistance) and all of his attacks deal an additional 1d10 fire damage; this damage actually heals Balthazar. Upon entering the Solar Stance, Balthazar releases a blast of flame which deals 12d6 fire damage (save vs. spell for 1/2) and 1d8 crushing damage to all with 30ft, blasting any nearby creatures away from him.
+Al adoptar la postura solar, Baltasar invoca el poder del sol para potenciar sus habilidades místicas. Obtiene un 127% de resistencia al fuego (incluso cuando usa invertir resistencias) y todos sus ataques infligen 1D10 puntos de daño de fuego adicional; este daño cura a Baltasar. Al entrar en Postura Solar, Baltasar libera una ráfaga de llamas que inflige 12D6 puntos de daño de fuego (salvación contra conjuro por 1/2) y 1D8 puntos de daño contundente a todos los que se encuentren a 9 metros, alejando de él a cualquier criatura cercana.
 
-Balthazar can have only one stance active at a time: entering the Solar Stance cancels all other stances. The Solar Stance can be removed by effects such as Breach.~
-@25 = ~Lunar Stance
+Baltasar sólo puede tener una postura activa a la vez: al entrar en la Postura Solar se cancelan todas las demás posturas. La Postura Solar puede ser eliminada por efectos como Brecha.~
+@25 = ~Postura lunar
 
-Range: 0
-Duration: 3 hours
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+Alcance: 0
+Duración: 3 horas
+Tiempo de lanzamiento: 1
+Área de efecto: Baltasar
+Tirada de salvación: Ninguna
 
-By entering the Lunar Stance, Balthazar calls on the power of the moon to enhance his mystical abilities. While in the Lunar Stance, Balthazar is immune to energy drain, Imprisonment and Time Stop, and receives one use of the Lunar Malison ability. Upon entering the Lunar Stance, all enemies adjacent to Balthazar are blinded for four rounds (save vs. spells to avoid).
+Al adoptar la postura lunar, Baltasar invoca el poder de la luna para potenciar sus habilidades místicas. Mientras está en postura lunar, Baltasar es inmune a drenaje de energía, encarcelamiento y parar el tiempo, y recibe un uso de la habilidad maldición lunar. Al entrar en postura lunar, todos los enemigos adyacentes a Baltasar quedan cegados durante cuatro asaltos (salvaciones contra conjuro para evitarlo).
 
-Balthazar can have only one stance active at a time: entering the Lunar Stance cancels all other stances. The Lunar Stance can be removed by effects such as Breach.~
-@26 = ~Shadow Stance
+Baltasar sólo puede tener una postura activa a la vez: al adoptar la Postura Lunar, se anulan todas las demás posturas. La Postura Lunar puede ser eliminada por efectos como Brecha.~
+@26 = ~Postura de las sombras
 
-Range: 0
-Duration: 3 hours
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+Alcance: 0
+Duración: 3 horas
+Tiempo de lanzamiento: 1
+Área de efecto: Baltasar
+Tirada de salvación: Ninguna
 
-By entering the Shadow Stance, Balthazar calls on the power of the Plane of Shadow to enhance his mystical abilities. While in the Shadow Stance, Balthazar is protected by Improved Invisibility (and is completely invisible for the first 15 seconds, or until he attacks). In addition to the already-significant defensive advantages of Improved Invisibility, the cloak of shadows grants Balthazar an additional +6 bonus to Armor Class.
+Al adoptar la postura de las sombras, Baltasar invoca el poder del plano de la sombra para potenciar sus habilidades místicas. Mientras está en la postura de las sombras, Baltasar está protegido por la invisibilidad mejorada (y es completamente invisible durante los primeros 15 segundos, o hasta que ataca). Además de las ya importantes ventajas defensivas de la invisibilidad mejorada, el manto de sombras concede a Baltasar un bonificador adicional de +6 a la clase de armadura.
 
-Balthazar can have only one stance active at a time: entering the Shadow Stance cancels all other stances. The Shadow Stance can be removed by effects such as Oracle or True Sight.~
-@27 = ~Faster than the Eye
+Baltasar sólo puede tener una postura activa a la vez: al entrar en la postura de las sombras se cancelan todas las demás posturas. La postura de las sombras puede eliminarse con efectos como oráculo o visión verdadera.~
+@27 = ~Más rápido que la vista
 
-Range: Sight
-Duration: Instant
-Casting Time: 0
-Area of Effect: Balthazar
-Saving Throw: None
+Alcance: Rango visual del lanzador
+Duración: Instantáneo
+Tiempo de lanzamiento: 0
+Área de efecto: Baltasar
+Tirada de salvación: Ninguna
 
-In the blink of an eye, Balthazar transports himself anywhere in sight.
+En un abrir y cerrar de ojos, Baltasar se transporta a cualquier lugar a la vista.
 
-This power can be used once per two rounds.~
-@28 = ~Dragon Fist
+Este poder puede utilizarse una vez cada dos asaltos.~
+@28 = ~Puño del Dragón
 
-Range: Touch
-Duration: Special
-Casting Time: 0
-Area of Effect: Creature hit
-Saving Throw: None
+Alcance: Toque
+Duración: Especial
+Tiempo de lanzamiento: 0
+Área de efecto: Criatura golpeada
+Tirada de salvación: Ninguna
 
-By channeling ki energy into a blow, Balthazar rips through his opponent's magical defenses. The Dragon Fist has a 25% chance of destroying all combat protections and boosts below 9th level, a 25% chance of destroying all antimagic effects below 9th level, and a 50% chance of destroying both. It also slows its target (causing a -4 penalty to AC and attack rolls) for two rounds.
+Al canalizar energía ki en un golpe, Baltasar destroza las defensas mágicas de su oponente. El puño del dragón tiene un 25% de probabilidad de destruir todas las protecciones y potenciadores de combate por debajo del 9º nivel, un 25% de probabilidad de destruir todos los efectos antimágicos por debajo del 9º nivel y un 50% de probabilidad de destruir ambos. También ralentiza a su objetivo (causando una penalización de -4 a la CA y a las tiradas de ataque) durante dos asaltos.
 
-This power can be used once per three rounds.~
-@29 = ~Tiger Strike
+Este poder puede utilizarse una vez cada tres asaltos.~
+@29 = ~Golpe del tigre
 
-Range: 0
-Duration: 2 rounds
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+Alcance: 0
+Duración: 2 asaltos
+Tiempo de lanzamiento: 1
+Área de efecto: Baltasar
+Tirada de salvación: Ninguna
 
-While Tiger Strike is active, Balthazar has a 50% chance per hit of a critical hit; in addition, any hit sends its victim flying backwards, stunning them for 1 round.
+Mientras el golpe del tigre está activo, Baltasar tiene un 50% de posibilidades de golpe crítico por impacto; además, cualquier impacto lanza a su víctima hacia atrás, aturdiéndola durante 1 asalto.
 
-This power can be used once per four rounds.~
-@30 = ~Hand of Murder
+Este poder puede utilizarse una vez cada cuatro asaltos.~
+@30 = ~Mano del asesinato
 
-Range: 0
-Duration: 1 round
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: Special
+Alcance: 0
+Duración: 1 asalto
+Tiempo de lanzamiento: 1
+Área de efecto: Baltasar
+Tirada de salvación: Especial
 
-Through combining his ki with his Bhaalspawn essence, all of Balthazar's attacks for one round are automatic critical hits. For the first three second after he activates the power, anyone hit drops dead (save vs. spells to negate).
+Al combinar su ki con su esencia de engendro de Bhaal, todos los ataques de Baltasar durante un asalto son golpes críticos automáticos. Durante los tres segundos siguientes a la activación del poder, cualquiera que reciba un impacto cae muerto (salvación contra conjuros para anularlo).
 
-This power can be used once per three rounds.~
-@31 = ~Shadowless Kick
+Este poder puede utilizarse una vez cada tres asaltos.~
+@31 = ~Patada sin sombras
 
-Range: Touch
-Duration: 4 seconds
-Casting Time: 0
-Area of Effect: Creature kicked
-Saving Throw: None
+Alcance: Toque
+Duración: 4 segundos
+Tiempo de lanzamiento: 0
+Área de efecto: Criatura pateada
+Tirada de salvación: Ninguna
 
-With a powerful kick, Balthazar knocks his opponent away, sending them flying; they take 4d8 damage from the impact and are knocked unconscious for a few seconds.
+Con una potente patada, Baltasar derriba a su oponente, lanzándolo por los aires; recibe 4D8 de daño por el impacto y queda inconsciente durante unos segundos.
 
-This power can be used once per two rounds.~
-@32 = ~Lunar Malison
+Este poder puede utilizarse una vez cada dos asaltos.~
+@32 = ~Maldición lunar
 
-Range: 30 ft.
-Duration: special
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: Special
+Alcance: 9 metros
+Duración: Especial
+Tiempo de lanzamiento: 1
+Área de efecto: Una criatura
+Tirada de salvación: Especial
 
-The creature affected by Lunar Malison suffers a -4 penalty to all saving throws for a period of 40 rounds. Additionally, they must save vs. spells at a -2 penalty or be slowed (taking a -4 penalty to AC and attack rolls) for 2 rounds.
+La criatura afectada por maldición lunar sufre un penalizador -4 a todas las tiradas de salvación durante 40 asaltos. Además, debe realizar salvaciones contra conjuros con una penalización de -2 o quedar ralentizada (sufriendo una penalización de -4 a la CA y a las tiradas de ataque) durante 2 asaltos.
 
-Balthazar receives one use of this ability whenever he enters the Lunar Stance.~
+Baltasar recibe un uso de esta habilidad cada vez que entra en postura lunar.~

@@ -2,16 +2,16 @@
 @1003 = ~Transformación en murciélago~
 @1006 = ~Onda de choque~
 @1007 = ~Aura relampagueante~
-@1009 = ~Telequinesia~
-@1012 = ~Invertir Resistencias~
+@1009 = ~Telequinesis~
+@1012 = ~Invertir resistencias~
 @1013 = ~Controlar demonio~
 @1014 = ~Concentración~
 @1016 = ~Manto divino~
 @1017 = ~Drenar poder~
-@1018 = ~Escudo de conjuros divinos~
+@1018 = ~Escudo de conjuro divino~
 @1019 = ~Dominar demonio~
 @1020 = ~Desterrar~
-@1022 = ~Liberar~
+@1022 = ~Desatar~
 @1024 = ~Retroacción~
 @1025 = ~Restauración divina~
 @1026 = ~Purificación divina~
@@ -19,38 +19,38 @@
 @1029 = ~Bomba de lava~
 @1031 = ~Símbolo, Ralentizamiento~
 @1037 = ~Transformación en el Saqueador~
-@1038 = ~Melissan: Dominar las huestes del Abismo~
-@1039 = ~Poder de Engrendro de Bhaal conseguido: Inmudidad a Drenar Energía~
-@1040 = ~Poder de Engendro de Bhaal conseguido: 25% de resistencia a daño físico~
+@1038 = ~Melisán: Dominar las huestes del abismo~
+@1039 = ~Poder de engendro de Bhaal obtenido: Inmudidad a Drenar Energía~
+@1040 = ~Poder de engendro de Bhaal obtenido: 25% de resistencia a daño físico~
 @1041 = ~Transfigurado~
-@1042 = ~Armas debilitadas por slime Babau~
+@1042 = ~Armas debilitadas por limo Babau~
 @1043 = ~Agarrado~
 @1044 = ~Recupera los poderes de Bhaal~
 @1045 = ~Has retomado el control, por ahora.~
-@1046 = ~Resistencia Mágica reducida un 5%~
-@1047 = ~Resistencia Mágica reducida un 5%~
-@1048 = ~Transformación de asesino mejorada~
-@1049 = ~The demon bows to your will~
-@1050 = ~The demon defies your will~
-@1051 = ~This power only affects demons~
-@1052 = ~The demon bows to Melissan's will~
-@1053 = ~The demon defies Melissan's will~
-@1054 = ~Bhaalspawn Power gained: Unleash~
-@1055 = ~Bhaalspawn Power gained: immunity to death magic~
-@1056 = ~Bhaalspawn Power gained: immunity to vorpal effects~
-@1057 = ~Bhaalspawn Power gained: Dimension Door~
-@1058 = ~Bhaalspawn Power gained: Control Demons~
-@1059 = ~Bhaalspawn Power gained: immunity to Maze and Imprisonment~
-@1060 = ~Bhaalspawn Power gained: Focus~
-@1061 = ~Bhaalspawn Power gained: immunity to Taint of the Slayer~
-@1062 = ~Regalo Divino~
-@1063 = ~Magic Resistance Restored~
-@1064 = ~Antimagic Protections Removed~
-@1065 = ~Combat Protections Removed~
-@1066 = ~AI deactivated~
-@1067 = ~AI activated~
-@1068 = ~Lunar Malison~
-@2000 = ~Poderes de Engendro de Bhaal
+@1046 = ~Resistencia mágica reducida un 5%~
+@1047 = ~Resistencia mágica reducida un 5%~
+@1048 = ~Transformación en el Asesino mejorada~
+@1049 = ~El demonio se inclina ante tu voluntad~
+@1050 = ~El demonio desafía tu voluntad~
+@1051 = ~Este poder solo afecta a los demonios~
+@1052 = ~El demonio se inclina ante la voluntad de Melisán~
+@1053 = ~El demonio desafía la voluntad de Melisán~
+@1054 = ~Poder de engendro de Bhaal obtenido: Desatar~
+@1055 = ~Poder de engendro de Bhaal obtenido: Inmunidad a la magia de muerte~
+@1056 = ~Poder de engendro de Bhaal obtenido: Inmunidad a efectos vorpal~
+@1057 = ~Poder de engendro de Bhaal obtenido: Puerta dimensional~
+@1058 = ~Poder de engendro de Bhaal obtenido: Controlar demonios~
+@1059 = ~Poder de engendro de Bhaal obtenido: Inmunidad a laberinto y encarcelamiento~
+@1060 = ~Poder de engendro de Bhaal obtenido: Concentración~
+@1061 = ~Poder de engendro de Bhaal obtenido: Inmunidad a mancha del Asesino~
+@1062 = ~Regalo divino~
+@1063 = ~Resistencia mágica restaurada~
+@1064 = ~Protecciones antimágicas removidas~
+@1065 = ~Protecciones de combate removidas~
+@1066 = ~IA desactivada~
+@1067 = ~IA activada~
+@1068 = ~Maldición lunar~
+@2000 = ~Poderes de engendro de Bhaal
 
 <CHARNAME> ha obtenido la aptitud, utilizable una vez por día: 
 
@@ -59,12 +59,12 @@ Alcance: Visión del lanzador
 Duración: Permanente 
 Tiempo de lanzamiento: 1
 Área de efecto: Radio de 9 metros
-Tirada de salvación: No
+Tirada de salvación: Ninguna
 
 DESCRIPCIÓN:
 
-Cuando utiliza esta aptitud, el Engendro de Bhaal debe tener en la mente los rostros de sus compañeros del grupo claramente y concentrarse en la unidad del grupo. Al finalizar, todos los miembros del grupo en un radio de 9 metros del lanzador recuperarán 2d8 + 2/nivel puntos de golpe. Otras condiciones que afecten al grupo son curadas también, como la fatiga, el veneno, la enfermedad, la ceguera y la sordera.~
-@2001 = ~Poderes de Engendro de Bhaal
+Cuando utiliza esta aptitud, el engendro de Bhaal debe tener en la mente los rostros de sus compañeros del grupo claramente y concentrarse en la unidad del grupo. Al finalizar, todos los miembros del grupo en un radio de 9 metros del lanzador recuperarán 2d8 + 2/nivel puntos de golpe. Otras condiciones que afecten al grupo son curadas también, como la fatiga, el veneno, la enfermedad, la ceguera y la sordera.~
+@2001 = ~Poderes de engendro de Bhaal
 
 <CHARNAME> ha obtenido la aptitud, utilizable una vez por día: 
 
@@ -73,12 +73,12 @@ Alcance: Toque
 Duración: 1 asalto/2 niveles
 Tiempo de lanzamiento: 7
 Área de efecto: Criatura objetivo
-Tirada de salvación: No
+Tirada de salvación: Ninguna
 
 DESCRIPCIÓN:
 
-Esta poderosa aptitud permite al Engendro de Bhaal imbuir a una criatura con la habilidad de regenerarse. Esta regeneración curará cualquier herida e incluso regenerará extremidades perdidas. La criatura afectada recuperará 3 puntos de golpe por segundo. El efecto permanece 1 asalto por cada 2 niveles del lanzador o hasta que sea disipado. Por ejemplo, un personaje de nivel 14 regeneraría 18 puntos de golpe por asalto durante 7 asaltos.~
-@2002 = ~Poderes de Engendro de Bhaal
+Esta poderosa aptitud permite al engendro de Bhaal imbuir a una criatura con la habilidad de regenerarse. Esta regeneración curará cualquier herida e incluso regenerará extremidades perdidas. La criatura afectada recuperará 3 puntos de golpe por segundo. El efecto permanece 1 asalto por cada 2 niveles del lanzador o hasta que sea disipado. Por ejemplo, un personaje de nivel 14 regeneraría 18 puntos de golpe por asalto durante 7 asaltos.~
+@2002 = ~Poderes de engendro de Bhaal
 
 <CHARNAME> ha obtenido la aptitud, utilizable una vez por día: 
 
@@ -87,17 +87,17 @@ Alcance: 0
 Duración: 1 turno
 Tiempo de lanzamiento: 1
 Área de efecto: El lanzador
-Tirada de salvación: No
+Tirada de salvación: Ninguna
 
 DESCRIPCIÓN:
 
-El Engendro de Bhaal llama al poder de su sangre para darle poder durante un corto período. Cuando haga esto, su fuerza, constitución y destreza serán elevadas en 1 punto por cada 3 niveles del lanzador. Un lanzador de tercer nivel elevaría sus características en 1, mientras que un lanzador de nivel 12 elevaría sus características en 4.~
-@2003 = ~Poderes de Engendro de Bhaal
+El engendro de Bhaal llama al poder de su sangre para darle poder durante un corto período. Cuando haga esto, su fuerza, constitución y destreza serán elevadas en 1 punto por cada 3 niveles del lanzador. Un lanzador de tercer nivel elevaría sus características en 1, mientras que un lanzador de nivel 12 elevaría sus características en 4.~
+@2003 = ~Poderes de engendro de Bhaal
 
 <CHARNAME> ha obtenido la aptitud, utilizable una vez por día:
 
 Mancha oscura (Nigromancia)
-Alcance: 20 pies
+Alcance: 6 metros
 Duración: 1 turno
 Tiempo de lanzamiento: 1
 Área de efecto: 1 criatura
@@ -105,17 +105,17 @@ Tirada de salvación: Niega efecto
 
 DESCRIPCIÓN:
 
-A través de este conjuro, el Engendro de Bhaal puede expulsar la mancha de su malvado progenitor en una víctima, envenenando a aquellos que fallen su salvación contra muerte. Los efectos dependen del nivel del lanzador y son detallados a continuación:
-Niveles 7-9: 2d8 + 2/asalto, ralentizado 12 segundos, salvación a -2
-Niveles 10-12: 3d8 + 3/asalto, ralentizado 12 segundos, salvación a -2
-Niveles 13-14: 4d8 + 4/asalto, ralentizado 12 segundos, salvación a -2
-Niveles 15-16: 6d8 + 5/asalto, ralentizado 24 segundos, salvación a -2
-Niveles 17-21: 8d8 + 6/asalto, ralentizado 24 segundos, salvación a -4
-Nivel 25+: 8d8 + 6/asalto, ralentizado 36 segundos, salvación a -4, afecta a un grupo de objetivos~
-@2004 = ~Poderes de Engendro de Bhaal
+A través de este conjuro, el engendro de Bhaal puede expulsar la mancha de su malvado progenitor en una víctima, envenenando a aquellos que fallen su salvación contra muerte. Los efectos dependen del nivel del lanzador y son detallados a continuación:
+Niveles 7-9: 2D8 + 2/asalto, ralentizado 12 segundos, salvación a -2
+Niveles 10-12: 3D8 + 3/asalto, ralentizado 12 segundos, salvación a -2
+Niveles 13-14: 4D8 + 4/asalto, ralentizado 12 segundos, salvación a -2
+Niveles 15-16: 6D8 + 5/asalto, ralentizado 24 segundos, salvación a -2
+Niveles 17-21: 8D8 + 6/asalto, ralentizado 24 segundos, salvación a -4
+Nivel 25+: 8D8 + 6/asalto, ralentizado 36 segundos, salvación a -4, afecta a un grupo de objetivos~
+@2004 = ~Poderes de engendro de Bhaal
 
-<CHARNAME> ha obtenido protección permanente contra el plano negativo (p.e., a <CHARNAME> no se le pueden drenar niveles) y un 5% de resistencia mágica.~
-@2005 = ~Poderes de Engendro de Bhaal
+<CHARNAME> ha obtenido protección permanente contra el plano negativo (por ejemplo, a <CHARNAME> no se le pueden drenar niveles) y un 5% de resistencia mágica.~
+@2005 = ~Poderes de engendro de Bhaal
 
 <CHARNAME> ha obtenido la aptitud, utilizable una vez por día:
 
@@ -123,18 +123,18 @@ Mano del asesinato (Nigromancia)
 Alcance: Lanzador
 Duración: 1 asalto/5 niveles
 Tiempo de lanzamiento: 1
-Tirada de salvación: No
+Tirada de salvación: Ninguna
 
 DESCRIPCIÓN:
 
-Cuando el Engendro de Bhaal invoca este poder, inmediatamente inflinge un daño adicional con cada golpe a su objetivo con cualquier arma de cuerpo a cuerpo que desee (tanto puño como espada). Sus oscuras energías viajan a través de su arma atacando a su víctima... y absorbiendo ese daño.
+Cuando el engendro de Bhaal invoca este poder, inmediatamente inflinge un daño adicional con cada golpe a su objetivo con cualquier arma de cuerpo a cuerpo que desee (tanto puño como espada). Sus oscuras energías viajan a través de su arma atacando a su víctima... y absorbiendo ese daño.
 Los efectos varían dependiendo del nivel:
-10º: 2 asaltos, daño extra 4 pg, cura 4 pg
-15º: 3 asaltos, daño extra 6 pg, cura 6 pg
-20º: 4 asaltos, daño extra 8 pg, cura 8 pg
-25º: 5 asaltos, daño extra 10 pg, cura 10 pg
-30º: 6 asaltos, daño extra 12 pg, cura 12 pg~
-@2006 = ~Poderes de Engendro de Bhaal
+10º: 2 asaltos, daño extra 4 PG, cura 4 PG
+15º: 3 asaltos, daño extra 6 PG, cura 6 PG
+20º: 4 asaltos, daño extra 8 PG, cura 8 PG
+25º: 5 asaltos, daño extra 10 PG, cura 10 PG
+30º: 6 asaltos, daño extra 12 PG, cura 12 PG~
+@2006 = ~Poderes de engendro de Bhaal
 
 <CHARNAME> ha obtenido la aptitud, utilizable una vez por día:
 
@@ -143,39 +143,41 @@ Alcance: Toque
 Duración: Permanente
 Tiempo de lanzamiento: 1
 Área de efecto: Criatura tocada
-Tirada de salvación: No
+Tirada de salvación: Ninguna
 
 DESCRIPCIÓN:
 
 Al igual que el conjuro de 5º nivel Revivir a los muertos, Resurrección devolverá a la vida a un personaje. Sin embargo, Resurrección también curará por completo al resucitado, permitiéndole estar listo para vivir nuevas aventuras.~
-@2007 = ~Poderes de Engendro de Bhaal
+@2007 = ~Poderes de engendro de Bhaal
 
-<CHARNAME> ha obtenido un 25% de resistencia al daño físico (como p.e. el daño cortante, perforante, contundente y de proyectil).~
-@2008 = ~Slayer Change ability improved~
-@3000 = ~Espada del Caos +4~
-@3001 = ~La hoja de Sarevok, el hermano de <CHARNAME>, utilizada en la batalla en la que combatieron en la lejana Puerta de Baldur. <CHARNAME> se impuso, destruyendo los planes de Sarevok y librando a la Costa de la Espada de la inminente guerra. Ahora Sarevok se ha unido a la causa de <CHARNAME> y su hoja le ha sido devuelta. Sarevok ha descrito el arma como la hoja de un portador de la muerte y ha conseguido recuperar algo del viejo poder de la espada. Sin su esencia de Engendro de Bhaal para canalizarla a través de la espada, de todas formas, no puede alcanzar el poder que una vez tuvo. Todavía, a pesar de todo, es un arma formidable... y algo que Sarevok advierte es que sería más difícil de manejar en manos de alguien que no sea un portador de la muerte, si pudiera usarla claro.
+<CHARNAME> ha obtenido un 25% de resistencia al daño físico (por ejemplo, el daño cortante, perforante, contundente y de proyectil).~
+@2008 = ~Capacidad de cambio del Asesino mejorada~
+@3000 = ~Espada del caos +4~
+@3001 = ~La hoja de Sarevok, el hermano de <CHARNAME>, utilizada en la batalla en la que combatieron en la lejana Puerta de Baldur. <CHARNAME> se impuso, destruyendo los planes de Sarevok y librando a la Costa de la Espada de la inminente guerra. Ahora Sarevok se ha unido a la causa de <CHARNAME> y su hoja le ha sido devuelta. Sarevok ha descrito el arma como la hoja de un portador de la muerte y ha conseguido recuperar algo del viejo poder de la espada. Sin su esencia de engendro de Bhaal para canalizarla a través de la espada, de todas formas, no puede alcanzar el poder que una vez tuvo. Todavía, a pesar de todo, es un arma formidable... y algo que Sarevok advierte es que sería más difícil de manejar en manos de alguien que no sea un portador de la muerte, si pudiera usarla claro.
 
 CARACTERÍSTICAS:
 
-Aptitudes: cada golpe drena de uno a cinco puntos de golpe al objetivo y los transfiere al portador. Esto no curará mas allá del máximo del portador.
+Aptitudes de combate:
+- Cada golpe drena de uno a cinco puntos de golpe al objetivo y los transfiere al portador. Esto no curará mas allá del máximo del portador.
 
-La hoja también concede un +10% de resistencia mágica mientras sea equipada.
+Aptitudes poseídas:
+- La hoja también concede un +10% de resistencia mágica mientras sea equipada.
 
-Daño: 1d10 +4
-THAC0: +4
-Tipo de daño: cortante
-Peso: 10 lbs
+Daño: 1D10 +4
+GAC0: Bonificación +4
+Tipo de daño: Cortante
 Factor de velocidad: 8
 Talento marcial: Mandoble
 Tipo: A dos manos
 Requisitos: Fuerza 14, Constitución 18
-No lo puede usar:
- Clérigo
- Mago
- Paladín
- Explorador
- Druida
- Alineamiento no caótico~
-@3002 = ~Poción de Sendai~
-@3003 = ~Poción de Sendai
-Posiblemente un brebaje propiedad de Sendai, es una poción increíblemente potente de curación capaz de restaurar completamente los puntos de golpe de cualquiera que la use.~
+Peso: 10 lbs
+No permitido a:
+Clérigo
+Mago
+Paladín
+Explorador
+Druida
+Alineamiento no caótico~
+@3002 = ~Poción de Sendái~
+@3003 = ~Poción de Sendái
+Posiblemente un brebaje propiedad de Sendái, es una poción increíblemente potente de curación capaz de restaurar completamente los puntos de golpe de cualquiera que la use.~
