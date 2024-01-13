@@ -7,6 +7,9 @@ jobs:
     runs-on: ubuntu-latest
     if: github.repository == 'InfinityMods/Ascension'
     steps:
+      - name: Echo github.repository
+        shell: pwsh
+        run: "github.repository: ${github.repository}"
       - name: Checkout
         uses: actions/checkout@v2
       - name: dir2msgstr
