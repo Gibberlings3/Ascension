@@ -1,0 +1,15 @@
+name: dir2msgstr
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: dir2msgstr
+        uses: BGforgeNet/msg2po@master
+        with:
+          push: true
+          dir2msgstr: true
