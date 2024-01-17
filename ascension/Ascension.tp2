@@ -5,7 +5,7 @@ BACKUP ~weidu_external/backup/ascension~
 SUPPORT "https://www.gibberlings3.net/forums/forum/207-ascension/"
 
 // use Semantic Versioning - http://semver.org
-VERSION ~2.0.26~
+VERSION ~2.0.27~
 
 AUTO_EVAL_STRINGS
 README "ascension/doc/readme-ascension.html"
