@@ -1,3 +1,5 @@
+*.tra text working-tree-encoding=UTF-8
+
 # Fix Git mess for hive.bgforge.net
 *.po text eol=lf
 *.pot text eol=lf
