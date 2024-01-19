@@ -1,6 +1,7 @@
 @1 = ~Eterea
--------------
-Imoen è ora in grado di entrare nel Piano Etereo per brevi periodi di tempo. L'abilità è utilizzabile una volta ogni minuto e il suo uso evita anche la sua trasformazione nell'Uccisore per un minuto. Imoen può rimanere totalmente eterea e immateriale per le forze su questo piano per un round intero... durante il quale è invisibile e completamente immune al danno. Durante il round, non può lanciare incantesimi o usare abilità.
+
+Imoen è ora in grado di entrare nel Piano Etereo per brevi periodi di tempo. L'abilità è utilizzabile una volta ogni minuto e il suo uso evita anche la sua trasformazione nell'Uccisore per un minuto. Imoen può rimanere totalmente eterea e immateriale per le forze su questo piano per un round intero... durante il quale è invisibile e completamente immune al danno. Durante il round, non può lanciare incantesimi o usare abilità.
+
 Per i due successivi round, Imoen può rimanere "tra i piani": è in parte eterea, in parte su questo piano. È ancora invisibile, ma riceve metà dei danni da tutte le fonti. In questo stato, c'è una piccola possibilità (10%) che sbagli il lancio di un incantesimo. Per tutti e tre i round, è in grado di vedere qualsiasi creatura invisibile.~
 @6 = ~Fine Cambiamento in Uccisore
 

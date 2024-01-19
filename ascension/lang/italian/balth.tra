@@ -3,9 +3,9 @@
 @1074 = ~Sì, è vero. Sei un buon uomo, <CHARNAME>, e la tua presa di posizione contro il male è fuori discussione. La tua lotta contro la corruzione del nostro malvagio padre merita una lode.~
 @1075 = ~Non percepisco nessuna bontà innata in te, <CHARNAME>... sebbene le tue imprese sia decantate in lungo e in largo come degne di lodi. Mi pare... interessante che uno come te, uno che deve lottare così tanto contro la corruzione di nostro padre dentro di sé, si sia adoperato molto per combattere il vero male.~
 @1076 = ~Vedo il bene che è in te, <CHARNAME>, ma le tue imprese sono difficilmente degne di lodi. Percepisco solo un'anima che combatte la corruzione di nostro padre, che lotta alla ricerca del cammino retto dove esso non esiste.~
-@1077 = ~Non percepisco nessuna bontà  innata in te, <CHARNAME>. Non penso che le tue imprese siano degne di lodi. Percepisco solo un'anima che combatte la corruzione di nostro padre, proprio come me.~
+@1077 = ~Non percepisco nessuna bontà innata in te, <CHARNAME>. Non penso che le tue imprese siano degne di lodi. Percepisco solo un'anima che combatte la corruzione di nostro padre, proprio come me.~
 @1078 = ~A dire il vero, sono la persona perfetta per giudicare, <CHARNAME>. Anch'io ho la corruzione di nostro padre. Anch'io ho provato il suo desiderio di sangue, i suoi tentativi di esercitare il caos sulla mia vita. L'ho dominata... ma solo a stento. So troppo bene di cosa sia capace.~
-@1079 = ~Naturalmente. La nostra corruzione non ci da pace, non è così, <CHARNAME>? Noi combattiamo per difenderci, eppure uccidiamo comunque, portiamo distruzione comunque. Se volessimo, potremmo rivendicare una mancanza di responsabilità , ma so fin troppo bene di cosa sia capace la corruzione nella nostra anima. Continuo a dominarla solo a stento.~
+@1079 = ~Naturalmente. La nostra corruzione non ci da pace, non è così, <CHARNAME>? Noi combattiamo per difenderci, eppure uccidiamo comunque, portiamo distruzione comunque. Se volessimo, potremmo rivendicare una mancanza di responsabilità, ma so fin troppo bene di cosa sia capace la corruzione nella nostra anima. Continuo a dominarla solo a stento.~
 @1080 = ~Non mi aspetterei nessun'altra risposta da un mio vero fratello. Conosco fin troppo bene la brama di morte che deriva dalla corruzione di nostro padre. Io l'ho dominata, ma solo a stento... Compatisco quelli che ne sono schiavi.~ ~Non mi aspetterei nessun'altra risposta da un mia vera sorella. Conosco fin troppo bene la brama di morte che deriva dalla corruzione di nostro padre. Io l'ho dominata, ma solo a stento... Compatisco quelli che ne sono schiavi.~
 @1081 = ~Non farmi ridere, <CHARNAME>. Se ti aspetti che creda che la tua depravata vita esista per combattere il male in questo mondo, allora ti aspetti troppo da me.~
 @1082 = ~Nonostante i nostri desideri a riguardo, il nostro destino è stato scritto per noi, <CHARNAME>. Qualcuno potrebbe scappare da esso o negarlo, mentre altri lo accettano... ma tutte le progenie di Bhaal hanno un seme dentro di loro che si è schiuso in un frutto carico di sangue e di omicidio. Vorresti negarlo?~
@@ -19,16 +19,16 @@
 @1090 = ~No. Ho portato la mia parte di morte e distruzione in questa terra, ma vedo uno scopo più grande dietro tutto ciò... Io cerco di porre fine per sempre alla possibilità che Bhaal ritorni e di ripulire questa terra dalla sua corruzione.~
 @1091 = ~Ho dominato il potere dentro di me e ho mantenuto il male sotto controllo, ma conosco bene... se non meglio... della maggior parte dei miei fratelli la minaccia che porta per tutto il Faerùn. Non lo permetterò. Ho dedicato l'intera mia vita a questo.~
 @1092 = ~Se solo ci fossimo incontrati in altre circostanze, <CHARNAME>... mi sarebbe piaciuto sedermi e confrontare i cammini che ci hanno portati fino a questo punto. Se non fossimo stati costretti dal destino a sopportare questa corruzione delle nostre anime, cosa saremmo stati? Rimpiango ciò che devo fare, sebbene sappia di doverlo fare.~
-@1093 = ~E cosa ne sarà di Melissan? Sarà libera di resuscitare Bhaal e di portare a termine il suo piano?~
+@1093 = ~E cosa ne sarà di Melissan? Sarà libera di resuscitare Bhaal e di portare a termine il suo piano?~
 @1094 = ~Non devi farlo, Balthazar. Non dobbiamo combatterci l'un l'altro.~
 @1095 = ~Non ti vedrai davvero come la forza della rettitudine in tutto questo, vero?~
 @1096 = ~Allora basta parlare. Facciamola finita.~
 @1097 = ~Certo che no. Lei possiede la chiave per la resurrezione Bhaal. Dopo che sarai morto, anche lei dovrà essere distrutta.~
-@1098 = ~Allora dovremmo combatterla insieme! Come puoi sapere se non sia già  in grado di evocare Bhaal... Tutto ciò per cui hai combattuto sarà stato vano!~
+@1098 = ~Allora dovremmo combatterla insieme! Come puoi sapere se non sia già in grado di evocare Bhaal... Tutto ciò per cui hai combattuto sarà stato vano!~
 @1099 = ~E intendi fermarla da solo? Hai mai pensato al fatto che forse l'hai aiutata per tutto questo tempo e che lei ti sta semplicemente usando?~
 @1100 = ~Un'altra morte da aggiungere al conto? E dopo, quando l'avrai uccisa? Quando avrai tutto quel potere solo per te... pensi che riuscirai a resistere?~
 @1101 = ~Cosa ti fa pensare che potresti ucciderla? Io sono quello che ha sconfitto tutte le progenie di Bhaal... mentre tu non facevi altro che non nasconderti in questa fortezza opprimendo i contadini del posto.~
-@1102 = ~Pensavo che avessi intenzione di ucciderti dopo la mia morte. Di sicuro non vorrai vedere altro male una volta che sarà  morta anche Melissan, giusto? Probabilmente saresti un promettente Signore dell'Omicidio, sai...~
+@1102 = ~Pensavo che avessi intenzione di ucciderti dopo la mia morte. Di sicuro non vorrai vedere altro male una volta che sarà morta anche Melissan, giusto? Probabilmente saresti un promettente Signore dell'Omicidio, sai...~
 @1103 = ~Scordatelo. Tutto questo è inutile. Facciamola finita e basta.~
 @1104 = ~Combatterla insieme?~
 @1105 = ~No. Come potrei fidarmi di te? Se fossimo sul punto di sconfiggere Melissan ed io fossi debole... potresti porre fine alla mia vita e tutto ciò per cui ho lavorato sarebbe stato vano.~
@@ -63,7 +63,7 @@
 @1135 = ~Ma... hai mostrato anche una grande forza di volontà. Nonostante la corruzione nella tua anima, hai combattuto contro di essa proprio come me. Cosa mi rende più degno...? No, non devo farmi domande! Non ora!~
 @1136 = ~Non sei di certo un candidato migliore per resistere a una simile tentazione, <CHARNAME>. Mi fiderei più di me stesso che di te. Mandarti nel Trono sarebbe rinunciare a ogni cosa in cui ho creduto.~
 @1137 = ~La forza non è nulla, <CHARNAME>. Puoi sconfiggermi con la tua potenza e puoi anche sconfiggere Melissan, ma non sconfiggerai mai te stesso. Il potere non ti porterà alcuna pace... questo lo so. Ed è per questo che devo essere l'ultimo.~
-@1138 = ~Sono stanco delle battaglie che ho combattuto, <CHARNAME>. Sono stanco del tormento che ho sopportato, mettendo il bene superiore sopra il benessere degli altri, di me stesso e della mia anima immortale. Sarà  sufficiente che il retaggio di Bhaal sia distrutto, non c'è tentazione che segua.~
+@1138 = ~Sono stanco delle battaglie che ho combattuto, <CHARNAME>. Sono stanco del tormento che ho sopportato, mettendo il bene superiore sopra il benessere degli altri, di me stesso e della mia anima immortale. Sarà sufficiente che il retaggio di Bhaal sia distrutto, non c'è tentazione che segua.~
 @1139 = ~Questo è il mio destino. Quale altra scelta ho?~
 @1140 = ~Hai sempre una scelta, Balthazar. Non essere schiavo della profezia di Alaundo! Io la combatto sin da quando ho scoperto il mio retaggio e "non" mi arrenderò!~
 @1141 = ~La profezia di Alaundo non significa che tutte le progenie di Bhaal debbano essere distrutte, Balthazar! Significa anche che possiamo fermare la profezia dal diventare realtà, lo so!~
@@ -72,7 +72,7 @@
 @1144 = ~Sono tuo fratello, Balthazar. Combattiamo ciò che è inevitabile! Possiamo lavorare insieme!~
 @1145 = ~Lascia stare. Non ha senso discuterne con te, giusto? Facciamola finita.~
 @1146 = ~Sei notevole con le tue parole, <CHARNAME>. Riesco a sentire il destino alterarsi alle tue parole, come se tu fossi il centro di tutto... Com'è possibile che non me ne sia accorto prima?~
-@1147 = ~Ma la semplice verità è che le tue parole mi suonano false. Non vi credo. Hai combattuto il destino, ma lo vedo in te ancora di più quando ne parli.~
+@1147 = ~Ma la semplice verità è che le tue parole mi suonano false. Non vi credo. Hai combattuto il destino, ma lo vedo in te ancora di più quando ne parli.~
 @1148 = ~Forse... forse c'è qualcosa nelle tue parole. Guardo dentro di me e vedo quanto rigidamente mi sia tenuto al mio destino... e mi sento in errore. Ma non... posso credere che tutto questo sia stato per nulla.~
 @1149 = ~Cosa vuoi dire? Come lo sai?~
 @1150 = ~Mi è stato detto da un Solar, un agente di profezie! Lei... Oh, so come sembra, ma è vero!~
@@ -83,7 +83,7 @@
 @1155 = ~Ciò che dici è incredibile, ma... ha senso. Mi sono preparato tutto questo tempo in errore? Come potrebbe essere?~
 @1156 = ~"Uscirne", un'idea affascinante. Vorrei poterlo fare. Vorrei che tutti noi potessimo farlo.~
 @1157 = ~Ma forse mi sono rassegnato a un sentiero che non è ciò che sembra. Sei... difficilmente ciò che mi aspettavo dall'ultima progenie di Bhaal, <CHARNAME>. Forse c'è speranza... o forse mi sto solo illudendo.~
-@1158 = ~Ma questa è un'idea folle, <CHARNAME>, e io non sono un folle. Non c'è alcuna simile possibilità  per me o per ciascuno di noi, non importa quanto affascinante tu possa farla sembrare.~
+@1158 = ~Ma questa è un'idea folle, <CHARNAME>, e io non sono un folle. Non c'è alcuna simile possibilità per me o per ciascuno di noi, non importa quanto affascinante tu possa farla sembrare.~
 @1159 = ~No! Non hai sentito nulla di ciò che ho detto! È QUESTO il sentiero, perché non c'è scelta per noi! Vorresti che dimenticassi tutti gli omicidi che ho commesso con le mie stesse mani, tutti i torti che ho fatto nel nome del bene superiore... Non posso dimenticare! Non mi perdonerò e NON lascerò che altri siano afflitti dalla corruzione che possiedo!~
 @1160 = ~Hai un carisma notevole, <CHARNAME>... ma siamo fratelli e non possiamo collaborare. Sai bene quanto me ciò che cerca l'essenza e non sarà soddisfatta finché il nostro destino non sarà compiuto.~
 @1161 = ~Non ti giudico, <CHARNAME>. Sei ciò per cui sei nato. Posso solo fidarmi di me stesso per tenere fede al sentiero del bene che porterà alla distruzione del vero male che minaccia Faerùn. Non c'è nessun altro sentiero per me.~
@@ -94,7 +94,7 @@
 @1166 = ~Allora facciamola finita. Sono stufo di parlare.~
 @1167 = ~È... È vero. Ho prestato poca attenzione alle azioni dei miei uomini, ma io... sapevo cosa stavano facendo. Lo credevo un grande sacrificio, necessario per mantenere la segretezza, per conseguire il mio scopo finale senza che sapessero, nella loro ignoranza, che alla fine avrebbe portato più benefici a loro. Ma... è da come trattiamo i più bisognosi nei momenti peggiori che si vede la bontà di un uomo, non è così? Mi... vergogno, <CHARNAME>. Cercavo solo... di fare il meglio per tutti noi.~
 @1168 = ~Hai scoperto chi fossero i Cinque per mezzo degli intrighi di Melissan... e per mezzo, non in piccola parte, dei miei. Ma chi dice che le cose non avrebbero potute essere diverse? Chi sei TU per dire che le cose avrebbero potute essere diverse?~
-@1169 = ~Ma... è vero, nonostante tutto. Ho preso la strada facile e ho fatto molto che ha ferito gli altri in nome della necessità . Ma quando la "necessità" supera il confine del male? Io... mi vergogno, <CHARNAME>.~
+@1169 = ~Ma... è vero, nonostante tutto. Ho preso la strada facile e ho fatto molto che ha ferito gli altri in nome della necessità. Ma quando la "necessità" supera il confine del male? Io... mi vergogno, <CHARNAME>.~
 @1170 = ~Non sono fiero dei risultati ottenuti nello sforzo di compiere ciò che credo sia un obbiettivo necessario... ma non dovresti esserlo neanche tu. Hai brancolato nell'oscurità, causando più male per la tua negligenza di quanto ne avrei mai potuto fare io con i miei complotti.~
 @1171 = ~NON sarà sbeffeggiato in questo modo! Ho sacrificato tutta la mia vita, la gente di questo villaggio, tutto ciò che ho al fine di vedere questo male distrutto! Distrutto, completamente! Ho supplicato Ao il Padre Supremo che a un simile odio non sia permesso di vivere nel cuore dei mortali ed io SARÒ ascoltato!~
 @1172 = ~Io... so solo quali sono le tentazioni con cui la corruzione ci tormenta, <CHARNAME>. So solo che se il nostro potere crescesse, se il tuo potere crescesse, così farebbe anche la tentazione.~
