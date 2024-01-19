@@ -1,0 +1,27 @@
+@3001 = ~Obouruční meč +4: Sarevokův meč Chaosu
+
+Čepel Sarevoka, bratra <CHARNAME>, použitá v bitvě, kterou spolu bojovali v podzemí vzdálené Baldurovy Brány. <CHARNAME> zvítězil, zničil Sarevokovy plány a zachránil Mečové pobřeží, které bylo na pokraji války. Nyní se Sarevok připojil k <CHARNAME> a jeho čepel mu byla navrácena. Sarevok nazývá zbraň Smrtonošovou čepelí a obnovil většinu její staré sílu. Bez esence Bhaalova zplozence, proudící skrze meč, však nemůže dosáhnout plné moci. Leč stále je to strašlivá zbraň... a Sarevok varuje, že když se pokusí použít zbraň někdo, kdo není Smrtonošem, moc zbraně bude omezená.
+
+VLASTNOSTI:
+
+Schopnost v boji:
+– Každý zásah vysaje z cíle 1 až 5 bodů života a přemístí jej k vlastníkovi. Tímto není možné se uzdravit nad maximální hranici životů vlastníka.
+
+Při vybavení:
+- Magická odolnost: +10%
+
+THAC0: +4
+Zranění: 1K10 +4 (sečné)
+Rychlost: 8
+Druh dovednosti: obouruční meč
+Druh: obouruční
+
+Váha: 10~
+@3003 = ~Tento léčivý lektvar je tak silný, že dokáže úplně uzdravit kohokoliv kdo jej vypije. Musí se jednat o Sendainu osobní várku.
+
+VLASTNOSTI:
+
+Váha: 1~
+@3004 = ~Leč stále je to strašlivá zbraň... a Sarevok varuje, že když se pokusí použít zbraň někdo, kdo není Smrtonošem, moc zbraně bude omezená.~
+@3005 = ~Přesto je to hrozivá zbraň, kterou může ovládat jen Smrtonoš se Sarevokovými schopnostmi a mocí.~
+@3006 = ~Tuto zbraň může používat pouze Sarevok.~
