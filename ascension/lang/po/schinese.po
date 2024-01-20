@@ -20,23 +20,23 @@ msgstr "巴布魔"
 
 #: ascension.tra:1003
 msgid "Transform Into Bat"
-msgstr "变形为蝙蝠"
+msgstr "蝙蝠形态"
 
 #: ascension.tra:1006 tougher.tra:9
 msgid "Shockwave"
-msgstr "震波"
+msgstr "冲击波"
 
 #: ascension.tra:1007 tougher.tra:10
 msgid "Lightning Aura"
-msgstr "闪电灵光"
+msgstr "闪电光环"
 
 #: ascension.tra:1009
 msgid "Telekinesis"
-msgstr "心灵遥控"
+msgstr "心灵传动"
 
 #: ascension.tra:1012
 msgid "Flip Resistances"
-msgstr "反转抗性"
+msgstr "反转抗力"
 
 #: ascension.tra:1013
 msgid "Control Demon"
@@ -44,19 +44,19 @@ msgstr "控制恶魔"
 
 #: ascension.tra:1014
 msgid "Focus"
-msgstr "神性聚集"
+msgstr "能量聚焦"
 
 #: ascension.tra:1016
 msgid "Divine Mantle"
-msgstr "神力护罩"
+msgstr "神圣金钟罩"
 
 #: ascension.tra:1017
 msgid "Draw Power"
-msgstr "吸取能量"
+msgstr "拉拔之力"
 
 #: ascension.tra:1018
 msgid "Divine Spell Shield"
-msgstr "神力法术护盾"
+msgstr "神圣法术护盾"
 
 #: ascension.tra:1019
 msgid "Command Demon"
@@ -64,27 +64,27 @@ msgstr "驱役恶魔"
 
 #: ascension.tra:1020
 msgid "Banish"
-msgstr "放逐术"
+msgstr "放逐"
 
 #: ascension.tra:1022
 msgid "Unleash"
-msgstr "神性释放"
+msgstr "能量释放"
 
 #: ascension.tra:1024
 msgid "Feedback"
-msgstr "神性回归"
+msgstr "反馈"
 
 #: ascension.tra:1025
 msgid "Divine Restoration"
-msgstr "神力复原"
+msgstr "神圣复原"
 
 #: ascension.tra:1026
 msgid "Divine Cleansing"
-msgstr "神力净化"
+msgstr "神圣净化"
 
 #: ascension.tra:1027
 msgid "Paralyzation Aura"
-msgstr "麻痹灵光"
+msgstr "麻痹光环"
 
 #: ascension.tra:1029 tougher.tra:8
 msgid "Lava Bomb"
@@ -92,47 +92,47 @@ msgstr "熔岩炸弹"
 
 #: ascension.tra:1031
 msgid "Symbol, Slow"
-msgstr "符号，慢"
+msgstr "减速法印"
 
 #: ascension.tra:1037
 msgid "Ravager Change"
-msgstr "化身破坏者"
+msgstr "变身毁灭者"
 
 #: ascension.tra:1038
 msgid "Melissan: Command the Minions of the Abyss"
-msgstr "梅丽珊：驱役深渊仆役"
+msgstr "梅丽珊：驱役深渊爪牙"
 
 #: ascension.tra:1039
 msgid "Bhaalspawn Power gained: Immunity to Energy Drain"
-msgstr "获得巴尔后裔的力量：免疫能量吸取"
+msgstr "获得巴尔神力：免疫能量吸取"
 
 #: ascension.tra:1040
 msgid "Bhaalspawn Power gained: 25% physical damage resistance"
-msgstr "获得巴尔后裔的力量：物理伤害抗性提高25％"
+msgstr "获得巴尔神力：物理伤害抗力提高25%"
 
 #: ascension.tra:1041
 msgid "Transfixed"
-msgstr "被钉住"
+msgstr "惊恐"
 
 #: ascension.tra:1042
 msgid "Weapons weakened by Babau slime"
-msgstr "武器被巴布魔粘液弱化"
+msgstr "武器被巴布魔粘液削弱"
 
 #: ascension.tra:1043
 msgid "Grabbed"
-msgstr "被抓住"
+msgstr "抓取"
 
 #: ascension.tra:1044
 msgid "Regains Bhaal powers"
-msgstr "重新获得巴尔的力量"
+msgstr "重获巴尔神力"
 
 #: ascension.tra:1045
 msgid "You have regained control for now."
-msgstr "你现在已重获控制权。"
+msgstr "你现在已经恢复了控制。"
 
 #: ascension.tra:1046 ascension.tra:1047
 msgid "Magic Resistance lowered by 5%"
-msgstr "魔法抗力降低5％"
+msgstr "魔法抗力降低5%"
 
 #: ascension.tra:1048
 msgid "Slayer transformation enhanced"
@@ -144,7 +144,7 @@ msgstr "恶魔屈从于你的意志"
 
 #: ascension.tra:1050
 msgid "The demon defies your will"
-msgstr "恶魔抗拒了你的意志"
+msgstr "恶魔拒斥了你的意志"
 
 #: ascension.tra:1051
 msgid "This power only affects demons"
@@ -156,43 +156,43 @@ msgstr "恶魔屈从于梅丽珊的意志"
 
 #: ascension.tra:1053
 msgid "The demon defies Melissan's will"
-msgstr "恶魔抗拒了梅丽珊的意志"
+msgstr "恶魔拒斥了梅丽珊的意志"
 
 #: ascension.tra:1054
 msgid "Bhaalspawn Power gained: Unleash"
-msgstr "获得巴尔后裔的力量：神力释放"
+msgstr "获得巴尔神力：能量释放"
 
 #: ascension.tra:1055
 msgid "Bhaalspawn Power gained: immunity to death magic"
-msgstr "获得巴尔后裔的力量：免疫即死魔法"
+msgstr "获得巴尔神力：免疫即死魔法"
 
 #: ascension.tra:1056
 msgid "Bhaalspawn Power gained: immunity to vorpal effects"
-msgstr "获得巴尔后裔的力量：免疫斩首效果"
+msgstr "获得巴尔神力：免疫斩首效果"
 
 #: ascension.tra:1057
 msgid "Bhaalspawn Power gained: Dimension Door"
-msgstr "获得巴尔后裔的力量：任意门"
+msgstr "获得巴尔神力：时空之门"
 
 #: ascension.tra:1058
 msgid "Bhaalspawn Power gained: Control Demons"
-msgstr "获得巴尔后裔的力量：控制恶魔"
+msgstr "获得巴尔神力：控制恶魔"
 
 #: ascension.tra:1059
 msgid "Bhaalspawn Power gained: immunity to Maze and Imprisonment"
-msgstr "获得巴尔后裔的力量：免疫迷宫和禁锢"
+msgstr "获得巴尔神力：免疫迷宫术和禁锢术"
 
 #: ascension.tra:1060
 msgid "Bhaalspawn Power gained: Focus"
-msgstr "获得巴尔后裔的力量：神性聚焦"
+msgstr "获得巴尔神力：能量聚焦"
 
 #: ascension.tra:1061
 msgid "Bhaalspawn Power gained: immunity to Taint of the Slayer"
-msgstr "获得巴尔后裔的力量：免疫杀戮者的秽魂"
+msgstr "获得巴尔神力：免疫杀戮者污秽"
 
 #: ascension.tra:1062
 msgid "Divine Gift"
-msgstr "神性天赋"
+msgstr "神圣天赋"
 
 #: ascension.tra:1063
 msgid "Magic Resistance Restored"
@@ -208,7 +208,7 @@ msgstr "战斗防护移除"
 
 #: ascension.tra:1066
 msgid "AI deactivated"
-msgstr "人工智能已解除"
+msgstr "人工智能未激活"
 
 #: ascension.tra:1067
 msgid "AI activated"
@@ -216,7 +216,7 @@ msgstr "人工智能已激活"
 
 #: ascension.tra:1068
 msgid "Lunar Malison"
-msgstr "月阴毒咒"
+msgstr "月阴诅咒"
 
 #: ascension.tra:2000
 msgid ""
@@ -233,18 +233,18 @@ msgid ""
 "\n"
 "When using this ability, the Bhaalspawn must picture the faces of <PRO_HISHER> fellow party members clearly and focus on the unity of the group. Upon completion, all party members within 30 foot radius of the caster are healed 2d8 + 2/level hit points. Other conditions suffered by the party are cured, as well: fatigue, poison, disease, blindness and deafness."
 msgstr ""
-"巴尔后裔的力量\n"
+"巴尔之子的新能力。\n"
 "\n"
-"<CHARNAME>获得了这个能力，每天可以使用1次：\n"
+"<CHARNAME>获得了这个新能力，每天可以使用1次：\n"
 "\n"
-"集体治疗（死灵系）\n"
+"法术名称：集体治疗（死灵系）\n"
 "有效距离：施法者视线所及\n"
 "持续时间：永久\n"
 "施法时间：1\n"
-"影响范围：30尺方圆\n"
+"影响范围：半径30尺圆形\n"
 "豁免检定：无\n"
 "\n"
-"当使用这项能力，巴尔后裔必须集中精神且清楚地描绘队伍中每位伙伴的面貌。施展完成后，方圆30尺内每位成员将被治愈2d8+2/每等级的生命点数。队伍中其他不良症状也将解除，细节如下：疲劳、中毒、疾病、盲目以及耳聋。"
+"使用此能力时，巴尔之子必须集中精神且清楚地在脑海中描绘队伍中每位伙伴的面貌。施展完成后，半径30尺内的所有队友都能恢复2D8+2每等级的生命点数，并解除如下不良状态：疲劳，中毒，疾病，失明以及耳聋。"
 
 #: ascension.tra:2001
 msgid ""
@@ -261,18 +261,18 @@ msgid ""
 "\n"
 "This powerful ability enables the Bhaalspawn to imbue 1 creature with the ability to regenerate. This regeneration will heal any wounds and even regenerate lost limbs. The creature affected will regain 3 hit points per second. The effect lasts for 1 round per every 2 levels of the caster or until dispelled. For example, a 14th level character would regenerate 18 hit points per round for 7 rounds."
 msgstr ""
-"巴尔后裔的力量\n"
+"巴尔之子的新能力。\n"
 "\n"
-"<CHARNAME>获得了这个能力，每天可以使用1次：\n"
+"<CHARNAME>获得了这个新能力，每天可以使用1次：\n"
 "\n"
-"再生术（死灵系）\n"
+"法术名称：再生术（死灵系）\n"
 "有效距离：碰触\n"
-"持续时间：1轮/2级\n"
+"持续时间：1轮每2等级\n"
 "施法时间：7\n"
 "影响范围：1个生物\n"
 "豁免检定：无\n"
 "\n"
-"这个超强的能力允许巴尔后裔为一个目标生物灌输再生的能力，受术者的伤势会自动复原，甚至连残肢都可以再生。受术者每秒可以恢复3点的生命值，效果可持续1轮/每2等级的时间，或是直到被解除为止。举例而言，十四级的牧师所施展的再生术，每轮可恢复18点生命值，持续7轮的时间。"
+"这个超强的能力允许巴尔之子为一个目标生物灌输再生的能力，受术者的伤势会自动复原，甚至连残肢断臂都可以再生。受术者每秒恢复3点生命值，效果持续1轮每2等级的时间，或是直到被解除魔法为止。举例来讲，14级的角色施展再生术的效果是7轮内每轮恢复18点生命。"
 
 #: ascension.tra:2002
 msgid ""
@@ -289,18 +289,18 @@ msgid ""
 "\n"
 "The Bhaalspawn calls upon the might of <PRO_HISHER> blood to grant him power for a short period. When <PRO_HESHE> does this, <PRO_HISHER> strength, constitution and dexterity all are raised by 1 point for every 3 levels of the caster. A third level caster would have <PRO_HISHER> abilities raised by 1, while a 12th level caster would have all <PRO_HISHER> abilities raised by 4."
 msgstr ""
-"巴尔后裔的力量\n"
+"巴尔之子的新能力。\n"
 "\n"
-"<CHARNAME>获得了这个能力，每天可以使用1次：\n"
+"<CHARNAME>获得了这个新能力，每天可以使用1次：\n"
 "\n"
-"召唤圣力（聚能/塑能系）\n"
-"有效距离：0\n"
+"法术名称：召唤神力（神能系）\n"
+"有效距离：自身\n"
 "持续时间：1回合\n"
 "施法时间：1\n"
 "影响范围：施法者\n"
 "豁免检定：无\n"
 "\n"
-"巴尔后裔可以呼唤<PRO_HISHER>血液中的神力，在一段短时间中给予<PRO_HISHER>力量。当<PRO_HISHER>使用此能力时，每3个施法者等级，<PRO_HISHER>的力量、体质与敏捷就会提升1点。三级施法者可以将能力提升1点，十二级施法者则可提升4点。"
+"巴尔之子利用蕴藏在血液之中的神性使自己在短期内变得更强壮。启用此能力可以提高力量，体质，敏捷各1点每3等级。例如3级的施法者可以提高各属性1点，而12级的施法者可以提高各属性4点。"
 
 #: ascension.tra:2003
 msgid ""
@@ -323,24 +323,25 @@ msgid ""
 "17-21st level: 8d8 + 6/round, slow for 24 seconds, save at -4\n"
 "25th level: 8d8 + 6/round, slow for 36 seconds, save at -4, affects group of targets"
 msgstr ""
-"巴尔后裔的力量\n"
+"巴尔之子的新能力。\n"
 "\n"
-"<CHARNAME>获得了这个能力，每天可以使用1次：\n"
+"<CHARNAME>获得了这个新能力，每天可以使用1次：\n"
 "\n"
-"黑暗的污点（死灵系）\n"
-"有效距离：20呎\n"
+"法术名称：黑暗浸染（死灵系）\n"
+"有效距离：20尺\n"
 "持续时间：1回合\n"
 "施法时间：1\n"
 "影响范围：1个生物\n"
-"豁免检定：无效\n"
+"豁免检定：无\n"
 "\n"
-"透过这法术，巴尔后裔可以将他们邪恶污染的种子播种在被害者的体内，若是豁免检定失败即死亡。法术影响依施法者等级而定，细节如下：\n"
-"7-9级：2d8+2/轮，减缓12秒，豁免检定-2\n"
-"10-12级：3d8+3/轮，减缓12秒，豁免检定-2\n"
-"13-14级：4d8+4/轮，减缓12秒，豁免检定-2\n"
-"15-16级：6d8+5/轮，减缓24秒，豁免检定-2\n"
-"17-21级：8d8+6/轮，减缓24秒，豁免检定-4\n"
-"25级：8d8+6/轮，减缓36秒，豁免检定-4，影响群体目标"
+"透过此法术，巴尔之子可以将他受邪恶力量浸染的种子寄生在受术者体内。受术者必须通过对死亡的豁免检定，否则既被毒害。该能力效果依施法者等级而定，具体影响如下：\n"
+"\n"
+"7-9级：2D8+2每轮，减速2轮，豁免检定-2不利\n"
+"10-12级：3D8+3每轮，减速2轮，豁免检定-2不利\n"
+"13-14级：4D8+4每轮，减速2轮，豁免检定-2不利\n"
+"15-16级：6D8+5每轮，减速4轮，豁免检定-2不利\n"
+"17-21级：8D8+6每轮，减速4轮，豁免检定-4不利\n"
+"25级：8D8+6每轮，减速6轮，豁免检定-4不利，影响群体目标"
 
 #: ascension.tra:2004
 msgid ""
@@ -348,9 +349,9 @@ msgid ""
 "\n"
 "<CHARNAME> has gained permanent negative plane protection (i.e., <CHARNAME> cannot be level-drained) and 5% magic resistance."
 msgstr ""
-"巴尔后裔的力量\n"
+"巴尔之子的新能力。\n"
 "\n"
-"<CHARNAME>获得了永久的防护负界伤害能力（例如<CHARNAME>不能被吸取等级），以及5％的魔法抗力。"
+"<CHARNAME>获得了永久的防护负界伤害能力以及5％的魔法抗力。"
 
 #: ascension.tra:2005
 msgid ""
@@ -372,23 +373,24 @@ msgid ""
 "25th: 5 rounds, 10 hp extra damage, 10 hp healed\n"
 "30th: 6 rounds, 12 hp extra damage, 12 hp healed"
 msgstr ""
-"巴尔后裔的力量\n"
+"巴尔之子的新能力。\n"
 "\n"
-"<CHARNAME>获得了这个能力，每天可以使用1次：\n"
+"<CHARNAME>获得了这个新能力，每天可以使用1次：\n"
 "\n"
-"谋杀之手（死灵系）\n"
-"有效距离：施法者\n"
-"持续时间：每轮/5等级\n"
+"法术名称：谋杀之手（死灵系）\n"
+"有效距离：自身\n"
+"持续时间：1轮每5等级\n"
 "施法时间：1\n"
+"影响范围：施法者\n"
 "豁免检定：无\n"
 "\n"
-"当巴尔后裔呼唤这项力量，他们瞬间可以获得近战武器的额外伤害（无论是拳或是剑），他们的黑暗能量会在他们的武器之中流动并且攻击触碰到的人，更会将伤害吸收来治疗自己。\n"
-"效果以等级作以下变化：\n"
-"10级：2轮，4点生命值额外伤害，4点生命值治疗\n"
-"15级：3轮，6点生命值额外伤害，6点生命值治疗\n"
-"20级：4轮，8点生命值额外伤害，8点生命值治疗\n"
-"25级：5轮，10点生命值额外伤害，10点生命值治疗\n"
-"30级：6轮，12点生命值额外伤害，12点生命值治疗"
+"当巴尔之子启用这一能力时，可以瞬间获得近战武器的额外伤害（无论是拳或者剑）。其拥有的黑暗能量会在他们的武器之中流淌，同时会吸收来自敌人的伤害以治疗自己。该能力效果依施法者等级而定，具体影响如下：\n"
+"\n"
+"10级：持续2轮，每击造成4点额外伤害，同时回复4点生命值\n"
+"15级：持续3轮，每击造成6点额外伤害，同时回复6点生命值\n"
+"20级：持续4轮，每击造成8点额外伤害，同时回复8点生命值\n"
+"25级：持续5轮，每击造成10点额外伤害，同时回复10点生命值\n"
+"30级：持续6轮，每击造成12点额外伤害，同时回复12点生命值"
 
 #: ascension.tra:2006
 msgid ""
@@ -405,18 +407,18 @@ msgid ""
 "\n"
 "Like the 5th level spell Raise Dead, Resurrection will return a character back to life. However, Resurrection also heals the character so that they are ready for the adventuring life once more."
 msgstr ""
-"巴尔后裔的力量\n"
+"巴尔之子的新能力。\n"
 "\n"
-"<CHARNAME>获得了这个能力，每天可以使用1次：\n"
+"<CHARNAME>获得了这个新能力，每天可以使用1次：\n"
 "\n"
-"复生大法（死灵系）\n"
+"法术名称：起死回生（死灵系）\n"
 "有效距离：碰触\n"
 "持续时间：永久\n"
 "施法时间：1\n"
-"影响范围：被碰触的生物\n"
+"影响范围：被碰触生物\n"
 "豁免检定：无\n"
 "\n"
-"就像是五级的死者复生，复生大法能使角色起死回生。复生大法也会治愈这名角色的伤害，所以他们已准备好再次冒险。"
+"就像五级的法术复活死者，起死回生可以使角色找回他们的生命。同时起死回生还将治愈该角色受到的所有伤害。因此受术者可以瞬间恢复至生前的最佳状态。"
 
 #: ascension.tra:2007
 msgid ""
@@ -424,9 +426,9 @@ msgid ""
 "\n"
 "<CHARNAME> has gained 25% resistance to physical damage (i.e., slashing, piercing, crushing and missile damage)."
 msgstr ""
-"巴尔后裔的力量\n"
+"巴尔之子的新能力。\n"
 "\n"
-"<CHARNAME>获得了25％的物理伤害抗性（包括挥砍、穿刺、粉碎和远程伤害）。"
+"<CHARNAME>获得了25％的物理伤害抗力（包括对抗挥砍、穿刺、粉碎和远程伤害）。"
 
 #: ascension.tra:2008
 msgid "Slayer Change ability improved"
@@ -434,10 +436,9 @@ msgstr "变身杀戮者能力提升"
 
 #: ascension.tra:3000
 msgid "Sarevok's Sword of Chaos +4"
-msgstr "混乱之剑+4"
+msgstr "混沌之刃+4"
 
 #: ascension.tra:3001
-#, fuzzy
 msgid ""
 "The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.\n"
 "\n"
@@ -465,25 +466,22 @@ msgid ""
 "Druid\n"
 "non-Chaotic aligned"
 msgstr ""
+"混沌之刃\n"
 "这把剑是<CHARNAME>_的兄弟，沙洛佛克的武器。在博德之门发生的最后一战中，沙洛佛克被<CHARNAME>_击败，他计划在剑湾发动战争的阴谋也随之破产。现在沙洛佛克加入了<CHARNAME>_的队伍，这把剑也被归还到他的手中。沙洛佛克把这件武器称为死亡使者，并使它恢复了原有的一些能力。虽然失去巴尔之子的灵魂已经使沙洛佛克的剑无法达到原来那般强大。但它仍然是一件可怕的武器……就像沙洛佛克所说的那样，不具备死亡使者资质的人会越来越难以运用它。\n"
 "\n"
+"特殊能力：\n"
+"每次击中吸取敌人1-5点生命值治疗自己\n"
+"魔法抗力+10%\n"
+"\n"
 "数据资料：\n"
-"\n"
-"战斗能力：\n"
-"-每次击中吸取敌人1-5点生命值治疗自己\n"
-"\n"
-"装备能力：\n"
-"-魔法抗力：+10%\n"
-"\n"
 "伤害力：1D10+4\n"
-"零级命中值：+4\n"
+"零级命中值：+4改善\n"
 "伤害类型：挥砍\n"
+"重量：10\n"
 "武器速度：8\n"
-"武器特长类型：双手剑\n"
+"武器特长类别：双手剑\n"
 "使用类别：双手\n"
 "需求：力量14，体质18\n"
-"\n"
-"重量：10\n"
 "\n"
 "无法使用的职业：\n"
 "牧师\n"
@@ -502,8 +500,10 @@ msgid ""
 "Sendai's Potion\n"
 "Possibly a brew of Sendai's own, this is an incredibly potent healing potion capable of fully restoring the hit points of any who use it."
 msgstr ""
-"仙黛的药剂\n"
-"这瓶药可能是仙黛自己配制的药剂，它具有相当强大的治疗效果，任何人喝了它都会完全恢复生命值。"
+"这瓶药可能是仙黛自己配制的药剂，它具有相当强大的治疗效果，任何人喝了它都会完全恢复健康。\n"
+"\n"
+"数据资料：\n"
+"重量：1"
 
 #: balth.tra:1060
 msgid ""
@@ -522,7 +522,7 @@ msgid ""
 "against evil is without question. Your fight against the taint of our evil "
 "father is worthy of praise."
 msgstr ""
-"我承认，你是一位善良的<PRO_MANWOMAN>，<CHARNAME>。尤其是在与邪恶斗争这方面。你为了不受我们那位邪恶父亲的秽魂影响而付出了很多努力，这确实配得上赞赏。"
+"我承认，你是一位善良的<PRO_MANWOMAN>_，<CHARNAME>_。尤其是在与邪恶斗争这方面。你为了不受我们那位邪恶父亲的影响而付出了很多努力，这确实配得上赞赏。"
 
 #: balth.tra:1075
 #, fuzzy
@@ -540,7 +540,7 @@ msgid ""
 "above reproach. I sense only a soul that struggles with our father's taint, "
 "that struggles to find the good path where none exists."
 msgstr ""
-"我看到了在你内心中善良的一面，<CHARNAME>。但你却没有为自己播下广为人知的善行。我只看到了一个苦苦与我们父亲秽魂对抗的孤独灵魂，却永远无法找到能够指引自己向善的道路。"
+"我看到了在你内心中善良的一面，<CHARNAME>。但你却没有为自己播下广为人知的善行。我只看到了一个苦苦与我们父亲邪恶侵染对抗的孤独灵魂，却永远无法找到能够指引自己向善的道路。"
 
 #: balth.tra:1077
 msgid ""
@@ -548,7 +548,7 @@ msgid ""
 " above reproach. I sense only a soul struggling against the taint of "
 "<PRO_HISHER> father, much like mine own."
 msgstr ""
-"我能感到在你的内心并没有与生俱来的善意，<CHARNAME>。而且我也不认为你曾经的所作所为都是无可指责的。我只能感受到你是一个不断遭受着由父亲秽魂所带来的折磨的可悲灵魂。就像我自己一样。"
+"我能感到在你的内心并没有与生俱来的善意，<CHARNAME>。而且我也不认为你曾经的所作所为都是无可指责的。我只能感受到你是一个不断遭受着由巴尔血脉所带来的折磨的可悲灵魂。就像我自己一样。"
 
 #: balth.tra:1078
 msgid ""
@@ -557,7 +557,7 @@ msgid ""
 "its efforts to exert chaos upon my life. I have mastered it... but only "
 "barely. Too well I know what it is capable of."
 msgstr ""
-"事实上，我就是最合适的审判者，<CHARNAME>。我同样遭受着来自我们父亲的秽魂，也同样感受着对血的饥渴。混乱不断充斥着我的生命。我一度理解了那力量……可程度却太有限。不过这一切已让我深知其中滋味。"
+"事实上，我就是最合适的审判者，<CHARNAME>。我同样遭受着来自我们父亲的侵染，也同样感受着对血的饥渴。混乱不断充斥着我的生命。我一度理解了那力量……可程度却太有限。不过这一切已让我深知其中滋味。"
 
 #: balth.tra:1079
 msgid ""
@@ -566,7 +566,7 @@ msgid ""
 " an absence of responsibility, should we desire, but I know all too well "
 "what the taint in our soul is capable of. Only barely do I keep it mastered."
 msgstr ""
-"很自然，我们拥有的秽魂决定了我们将永不得安宁，不是么？<CHARNAME>。我们不断地自我防卫，也在不断地招徕杀戮，死亡与毁灭。尽管我们可以声称那不是自己的责任，但我很清楚这秽魂将导致什么。"
+"很自然，我们拥有的邪恶血统决定了我们将永不得安宁，不是么？<CHARNAME>。我们不断地自我防卫，也在不断地招徕杀戮，死亡与毁灭。尽管我们可以声称那不是自己的责任，但我很清楚这污秽的血脉将导致什么。"
 
 #: balth.tra:1080
 msgid ""
@@ -574,7 +574,7 @@ msgid ""
 "know too well the thirst for death that comes with the taint of our sire. I "
 "have mastered it, but only barely... I pity those who are a slave to it."
 msgstr ""
-"我从未期望我的<PRO_BROTHERSISTER>会带给我任何不同的答案。来自我们父亲的秽魂将招致对死亡与杀戮的崇拜。我对此已深有所感，甚至对你们这些杀戮之王的奴隶深感同情。"
+"我从未期望我的<PRO_BROTHERSISTER>会带给我任何不同的答案。来自我们父亲的血脉将招致对死亡与杀戮的崇拜。我对此已深有所感，甚至对你们这些杀戮之王的奴隶深感同情。"
 
 #: balth.tra:1081
 msgid ""
@@ -594,7 +594,7 @@ msgstr ""
 
 #: balth.tra:1083
 msgid "Are you implying that you are somehow different, Balthazar?"
-msgstr "你是在暗示自己会有所不同吗，巴萨札？"
+msgstr "你是在暗示自己会有所不同么？巴萨札？"
 
 #: balth.tra:1084
 msgid "I have only ever acted when it was necessary, in self-defense."
@@ -604,17 +604,17 @@ msgstr "我在必要的时候才使用武力，而且只是自卫。"
 msgid ""
 "You would make us out to be victims of circumstance rather than masters of "
 "our own destiny."
-msgstr "你觉得我们就应该成为自身处境的牺牲品，而不是去主动掌握自己的命运。"
+msgstr "你觉得我们就应该成为自身处境的牺牲品，而不是去主动掌握自己的命运？"
 
 #: balth.tra:1086
 msgid "I deny nothing. Death comes for all who stand in my way."
-msgstr "我不否认。任何阻挡我去路的人都得死。"
+msgstr "我不否认，任何阻挡我去路的人都得死。"
 
 #: balth.tra:1087
 msgid ""
 "I am death incarnate, fool! Not some weak fool wrapped in denial like "
 "yourself!"
-msgstr "我就是死亡的化身，蠢货！不像你这个拒绝承认现实的孱弱小人！"
+msgstr "我就是死亡的化身，蠢货！不像你这个拒绝承认现实的孱弱小人。"
 
 #: balth.tra:1088
 msgid ""
@@ -625,7 +625,7 @@ msgid ""
 "wishes, has it not? Do you deny that you bring violence and destruction "
 "wherever you go, <CHARNAME>?"
 msgstr ""
-"我有点怀疑你听没听懂我说的话。你内在的秽魂非常强大……是我见过的所有巴尔之子里最强大的一个。你在梦境中感受到了那种欲望，不是吗？无论你愿意与否，混乱与邪恶都在肆意地撕扯着你的生活，不是吗？你给所到之处带去的都是暴力与毁灭，不是吗，<CHARNAME>？"
+"我有点怀疑你听没听懂我说的话。你内在的血脉之力非常强大……是我见过的所有巴尔之子里最强大的一个。你在梦境中感受到了那种欲望，不是么？无论你愿意与否，混乱与邪恶都在肆意地撕扯着你的生活，不是么？你给所到之处带去的都是暴力与毁灭，不是么？"
 
 #: balth.tra:1089
 msgid ""
@@ -633,7 +633,7 @@ msgid ""
 "fight against the evil that Bhaal's legacy brings to this world. I have "
 "faced the evil within me and I have mastered it."
 msgstr ""
-"我不像你，我的存在就是为了与那邪恶的秽魂斗争到底，与巴尔的遗产为这个世界带来的邪恶斗争到底。我敢于面对自身的邪恶之力，并且我已经掌控了这种力量。"
+"我不像你，我的存在就是为了与那邪恶的血脉斗争到底，与巴尔的子嗣为这个世界带来的邪恶斗争到底。我敢于面对自身的邪恶之力，并且我已经掌控了这种力量。"
 
 #: balth.tra:1090
 msgid ""
@@ -641,7 +641,7 @@ msgid ""
 " a larger purpose behind it... I seek to end the possibility of Bhaal's "
 "return forever, and to wipe his taint from the land."
 msgstr ""
-"不。虽然我确实为这片土地带来了杀戮与毁灭，但我仍在为了一个更大的目标而奋斗……我要彻底抹杀巴尔复活的任何可能，并把他的秽魂从这块土地上彻底清除。"
+"不。虽然我确实为这片土地带来了杀戮与毁灭，但我仍在为了一个更大的目标而奋斗……我要彻底抹杀巴尔复活的任何可能，并把他所留下的痕迹从这块土地上彻底清除！"
 
 #: balth.tra:1091
 msgid ""
@@ -649,8 +649,7 @@ msgid ""
 "just as well... if not better... than most of my brethren the threat that it"
 " holds for all of Faerun. I will not allow this. I have dedicated my life to"
 " preventing it."
-msgstr ""
-"我控制了这种力量并抑制了其中的邪恶，但正如我所知的那样……甚至更糟……其他的兄弟姐妹们仍在依靠它威胁着这个世界。我不会允许这种情况发生，我会穷尽一生致力于阻止此事。"
+msgstr "我控制了这种力量并抑制了其中的邪恶，但是其他的兄弟姐妹们仍在依靠它威胁着这个世界。我不会允许这种情况发生，我会用生命来阻止此事。"
 
 #: balth.tra:1092
 #, fuzzy
@@ -694,14 +693,14 @@ msgstr "当然不是，她掌握着巴尔复活的关键，你死以后，她也
 msgid ""
 "Then we should fight her together! How do you know she still can't summon "
 "Bhaal... everything you've fought for will be for nothing!"
-msgstr "那我们应该并肩作战！你如何保证她不会独自唤醒巴尔？……你的一切努力到头来都会白费！"
+msgstr "那我们应该一起对抗她！你如何保证她不会独自唤醒巴尔？……你的一切努力到头来都会白费！"
 
 #: balth.tra:1099
 msgid ""
 "And you're going to stop her alone? Have you given any thought to the fact "
 "that maybe you've been helping her all along, that she's been playing you "
 "like a harp?"
-msgstr "你要独自阻止她么？你想过没有，你可能一直被她玩弄于股掌之间？"
+msgstr "你想要独自阻止她么？你难道就没想过自己所做的一切正是梅丽珊想要的？你考虑过自己可能一直以来都在帮助梅丽珊吗？她操纵你就像在弹琴一般。"
 
 #: balth.tra:1100
 msgid ""
@@ -715,14 +714,14 @@ msgid ""
 "What makes you think you could kill her? I'm the one that has defeated all "
 "the Bhaalspawn... while you were doing nothing but hiding in this fortress "
 "making the peasants miserable."
-msgstr "你凭什么认为自己杀得了她？我才是那个击败所有巴尔后裔的人……而你只是一事无成地躲在这座要塞里，为平民带去痛苦。"
+msgstr "你凭什么认为自己杀得了她？我才是那个击败所有巴尔之子的人……而你只是一事无成地躲在这座要塞里，为平民带去痛苦。"
 
 #: balth.tra:1102
 msgid ""
 "I thought you were going to kill yourself after I was dead. Sure you won't "
 "see some more evil once Melissan is dead, too? You'd probably make a "
 "promising Lord of Murder, you know..."
-msgstr "你可能是想在我死之后自杀，以为这样就不会有任何邪恶存世了？你在造就另一个谋杀之王……"
+msgstr "你可能是想在我死之后自杀，以为这样就不会有任何邪恶存世了？你在造就另一个谋杀之神！"
 
 #: balth.tra:1103
 msgid "Forget it. This is pointless. Let's just get this over with."
@@ -730,7 +729,7 @@ msgstr "算了吧，这毫无意义，让我们把这件事结束吧。"
 
 #: balth.tra:1104
 msgid "Fight her together?"
-msgstr "一起去对付她？"
+msgstr "一起对抗她？"
 
 #: balth.tra:1105
 msgid ""
@@ -744,38 +743,39 @@ msgid ""
 "I had thought when this moment arrived, I would hold clearly to my purpose. "
 "We must... end this, <CHARNAME>. I wish this to be over with, one way or the"
 " other."
-msgstr "我想过，真到了那个时候，我会坚守我的信念。我们必须……让这一切结束，<CHARNAME>，你或者我。"
+msgstr "我想过，真到了那个时候，我会坚守我的信念。我们必须……让一切结束，<CHARNAME>，你或者我。"
 
 #: balth.tra:1107
 msgid "Alright, Balthazar. If that's what you want... let's end this now."
-msgstr "好吧，巴萨札，如果这就是你想要的……让我们现在就结束这一切吧。"
+msgstr "好吧，巴萨札，这就是你想要的……让我们现在就结束这一切吧。"
 
 #: balth.tra:1108
 msgid ""
 "I am at a loss, <CHARNAME>. You question me, and I have no good answers for "
 "you. My heart tells me that you must be killed, but I am not sure if I "
 "should listen to it. What... what would you have me do?"
-msgstr "我有些迷茫了，你问住了我，我却没法给你甚至我自己一个满意的回答。我心里清楚你必须被杀，但却在犹豫该不该那么做。你……你觉得我该怎么做？"
+msgstr ""
+"我有些迷茫了，<CHARNAME>。你把我给问住了，我无法给你一个令人满意的答案。我的心灵告诉我你必须被消灭，但我却不知道自己是否要这么做。你想……你想让我做什么？"
 
 #: balth.tra:1109
 msgid ""
 "Join me, Balthazar. Let us fight Melissan together, instead of doing what "
 "she wants us to."
-msgstr "加入我吧，巴萨札，让我们一起对付梅丽珊，而不是做她想让我们做的。"
+msgstr "加入我，巴萨札，让我们一起对付梅丽珊，而不是受她的计划摆布。"
 
 #: balth.tra:1110
 msgid "I don't know, Balthazar. But I don't want to fight you."
-msgstr "我不知道，巴萨札，但我不想和你打。"
+msgstr "我不知道，巴萨札，但我不想和你争斗。"
 
 #: balth.tra:1111
 msgid "Let us fight, then, if it must be. Let me give you some peace at last."
-msgstr "如果必要的话，那我们就一决胜负吧。就让我来赐你安息。"
+msgstr "让我们决出一个胜负吧，如果有必要的话。让我给予你想得到的安宁吧。"
 
 #: balth.tra:1112
 msgid ""
 "You're a bigger fool than I thought. Let's just end this now, shall we? I "
 "have an appointment with god-hood."
-msgstr "你比我想的还蠢。现在让我们结束这一切吧，如何？我跟艾欧还有些业务需要处理。"
+msgstr "你比我想象的还要孱弱和愚蠢，让我们赶紧结束这一切吧。我与神使还有些事情需要处理。"
 
 #: balth.tra:1113
 msgid "Yes... you are right."
@@ -786,7 +786,7 @@ msgid ""
 "Very well, then, <CHARNAME>. I will join you. You are a worthy "
 "<PRO_MANWOMAN>. Perhaps even worthy of turning Bhaal's dark taint and making"
 " something better of it. I do not know. But I will take that chance."
-msgstr "很好，<CHARNAME>，我会加入你。你是个值得信赖的人，也许把巴尔的秽魂用在正确的地方比消灭它更好。也许吧，但我至少会试一试。"
+msgstr "很好，<CHARNAME>。我会加入你，你是个值得信赖的人，也许把巴尔的邪恶之力用在正确的地方比消灭它更好。我不知道，但我想试一试。"
 
 #: balth.tra:1115
 msgid ""
@@ -795,14 +795,13 @@ msgid ""
 "to hold out against us both. I have preparations to make, <CHARNAME>. Go to "
 "the Throne of Bhaal. When the time comes, I will be there."
 msgstr ""
-"让梅丽珊颤抖吧，我们会让她得到应得的下场。就算巴尔复活了，他也对付不了咱们俩。我还有些准备工作要做，<CHARNAME>，一旦时机成熟，我会在巴尔王座那里跟你碰面。"
+"当梅丽珊看到我们携手作战时一定会颤抖的，我们将给予她应得的打击。即使巴尔复活了，他也没办法同时对抗我们两个人！我还要做些准备，<CHARNAME>。前往巴尔的王座吧，等时机来临，我会在那里和你碰面。"
 
 #: balth.tra:1116
 msgid "I cannot, <CHARNAME>."
 msgstr "我不能，<CHARNAME>。"
 
 #: balth.tra:1117
-#, fuzzy
 msgid ""
 "You must take the battle to Melissan. It is your destiny to see that Bhaal's"
 " legacy ends here and now. But you must promise me, <CHARNAME>... you must "
@@ -812,122 +811,119 @@ msgid ""
 "taint. Do not take it, <CHARNAME>... even a god can be tempted, you must "
 "realize that. Promise me you will turn it away."
 msgstr ""
-"你必须跟梅丽珊去做最后的决战。亲眼见证巴尔的遗产在此时此地终结是你的宿命。但是你必须向我保证，<CHARNAME>，不要被力量所诱惑。当你击败了梅丽珊，那股力量终归于你之后，一定要拒绝……彼时你会面临同现在一样与自身的抗争，并且那时你拥有的秽魂的量远非现在的一小部分可比。那是连神都会为之所诱惑的力量，<CHARNAME>，你必须要清楚这一点。答应我，不要接受。"
+"你必须去与梅丽珊做最后的决战，见证巴尔的血脉结束于此就是你的宿命。但是你必须答应我，<CHARNAME>_……你要答应我自己绝不能被那邪恶的力量所蛊惑。在你击败梅丽珊以后，一定要拒绝那种力量……你已清楚那力量能给予你的只会是永世的折磨。一定不要接受它，<CHARNAME>_……你必须明白即使是神也会走向堕落。答应我你会拒绝它。"
 
 #: balth.tra:1118
 msgid ""
 "If I am given the option, Balthazar... I will refuse the taint. I swear it."
-msgstr "如果我有机会选择的话，巴萨札……我会拒绝。我发誓。"
+msgstr "如果我有机会做出选择的话，巴萨札……我答应你，我一定会拒绝它。"
 
 #: balth.tra:1119
 msgid ""
 "No. I will swear nothing of the kind. Great good could come out of that "
 "power, you don't know otherwise any better than I."
-msgstr "不，我不会答应这样的事。那股力量也可以成为强大的正义，我会比任何人做的都好。"
+msgstr "不，我不会答应那样的事。那股力量可以招徕更为强大的正义，我会比任何人都懂得如何驾驭它！"
 
 #: balth.tra:1120
 msgid "Forget it! I'll do no such thing!"
-msgstr "算了吧，我才不会那么做呢！"
+msgstr "算了吧，我才不会做这种事情！"
 
 #: balth.tra:1121
 msgid ""
 "Then I am satisfied. The essence of our sire ends with me... and with you. "
 "May the gods forgive me. May you... may you forgive me, "
 "<PRO_BROTHERSISTER>..."
-msgstr "那我就放心了。我们的神性本质将在我……还有你的手里终结。希望诸神原谅我，也希望你能原谅我，<PRO_BROTHERSISTER>……"
+msgstr "那我就放心了，来自我们父亲的神性就会在你我这里结束了。希望众神能原谅我，也希望你……能原谅我，<PRO_BROTHERSISTER>_……"
 
 #: balth.tra:1122
 msgid ""
 "Then we must do battle. I... I am sorry, <PRO_BROTHERSISTER>. I had hoped "
 "this would be otherwise."
-msgstr "那我就必须杀了你，很……抱歉，<PRO_BROTHERSISTER>。我本希望会有互相残杀之外的结局的。"
+msgstr "那我就必须杀了你，我很……抱歉，<PRO_BROTHERSISTER>。真希望这种事不会发生。"
 
 #: balth.tra:1123
-#, fuzzy
 msgid ""
 "And I cannot trust that you will turn aside the power when it is offered to "
 "you. You have experienced the struggle even a sliver of Bhaal's taint has "
 "brought you, yet I cannot believe that you would turn it aside. I... I am "
 "sorry, <PRO_BROTHERSISTER>... but I have no choice."
 msgstr ""
-"我不相信当那力量摆在你面前时你能拒绝。你很清楚即便是巴尔秽魂的一小部分都很难控制，我没法相信你能拒绝。很……抱歉，<PRO_BROTHERSISTER>，但我别无选择。"
+"我不相信你能拒绝那股力量。你已经品尝到即使是那力量的一部分所给予你的，我无法相信你还能拒绝它。很抱歉，<PRO_BROTHERSISTER>，但我没有选择了。"
 
 #: balth.tra:1124
 msgid "So be it. Come, my pupils... may the gods help us all."
-msgstr "那就如此吧。来吧，我的弟子们……愿诸神保佑我们。"
+msgstr "那就……来吧，我的学徒们。愿众神保佑我们。"
 
 #: balth.tra:1125
-#, fuzzy
 msgid ""
 "No. Further dialogue is pointless. Let us end this now, <CHARNAME>... and "
 "may the gods have pity on us all."
-msgstr "不，再谈下去也没什么意义了。让我们结束这一切吧，<CHARNAME>……..愿诸神宽恕我们。"
+msgstr "不，再谈下去也不会有任何意义，让我们结束这件事吧，<CHARNAME>……希望众神终能降怜悯于世人。"
 
 #: balth.tra:1126
 msgid ""
 "Perhaps what you are saying holds merit. But what if I died during the "
 "battle? What if I was weakened, in the end... you might find yourself... "
 "tempted. How could I trust you?"
-msgstr "也许你说的有点道理，但如果我在战斗中死了，或者被削弱了，而你又被那种力量所诱惑，那又当如何？我怎么相信你？"
+msgstr "也许你说的是对的，但我如果在战斗中死去，或者被削弱了，而你又被那种力量所诱惑，我该怎么相信你？"
 
 #: balth.tra:1128
 msgid ""
 "I don't know how to explain it, exactly, but she must have used you! She "
 "used everyone else! I didn't trust her and she even got me to do what she "
 "wanted!"
-msgstr "我不知道怎么解释，但是她必然要利用你！她利用了每个人！即使我从开始就不信任她，她还是利用我达到了她的目的！"
+msgstr "我也不知道该怎样解释，但她肯定在利用你！她利用了每一个人！即使我从开始就不信任她，她还是想利用我达到她的目的！"
 
 #: balth.tra:1129
 msgid ""
 "Think about it, Balthazar! You honestly think she didn't know what your "
 "plans were? Do you think you took her by surprise? Even I saw it coming, and"
 " there was nothing I could do to stop it!"
-msgstr "仔细想想吧，巴萨札！你真认为她不知道你的计划？你认为你真能给她个惊喜？我眼睁睁地看着她一步步实现她的计划，但我却无法阻止这件事的到来！"
+msgstr "仔细想想吧，巴萨札！你以为她真不知道你在盘算着什么？你以为这一切都只是意外吗？连我都看到了其中的必然性，而且我还无力阻止事情的到来！"
 
 #: balth.tra:1130
 msgid ""
 "She used you to get rid of the other Bhaalspawn, obviously. Think about it! "
 "She knew what you were planning all along. She wanted all the Bhaalspawn "
 "dead... and she wants us to fight! She *wants* this to happen!"
-msgstr ""
-"很显然，她在利用你除去其他的巴尔之子。仔细想想，她从头到尾都了解你的计划。她想杀掉所有的巴尔之子……她想让咱们自相残杀！她*渴望*事态如此发展！"
+msgstr "很显然，她在利用你除掉其他的巴尔之子。想想吧！她早就掌握了你的计划，她想杀掉所有的巴尔之子……她想让我们自相残杀！她就希望这种事情发生！"
 
 #: balth.tra:1131
 msgid ""
 "Of course she used me, <CHARNAME>. And no doubt she knew my plans as well as"
 " I knew hers. This changes nothing."
-msgstr "当然，她利用了我，<CHARNAME>。而且毫无疑问，她知道我的计划－－正如我也清楚她想干什么，但这改变不了什么。"
+msgstr "当然，她利用了我，<CHARNAME>。而且毫无疑问，她知道我的计划就如同我也知道她的，但这改变不了什么。"
 
 #: balth.tra:1132
 msgid ""
 "You... may be right, <CHARNAME>. But that does not mean that my plan will "
 "fail. Melissan underestimates me, I am sure of that... just as she "
 "underestimates you."
-msgstr "你……也许是对的，<CHARNAME>。但这不意味着我的计划就会失败。梅丽珊低估了我……就像她低估了你一样，我很确定这一点。"
+msgstr "你……也许你是对的，<CHARNAME>。但这并不意味着我的计划就会失败，她低估了我……就像她低估了你一样……我很确定这一点。"
 
 #: balth.tra:1133
 msgid ""
 "I... perhaps you are right, <CHARNAME>. I see the wisdom of your words. "
 "Still... this does not mean my plan is doomed to failure. Or is it?"
-msgstr "我……也许你是对的，<CHARNAME>。我能从你的话里感受到你的智慧。但……这也未必代表着我的计划注定失败。难道这真的行不通？"
+msgstr "……也许你是对的，<CHARNAME>。我能从你的话里感受到你的智慧。但这仍然并不意味着我的计划就会失败，不是么？"
 
 #: balth.tra:1134
 msgid "I must resist it. I will. I have no choice."
-msgstr "我一定会抵抗它。我会的，我没有选择。"
+msgstr "我必须抵抗它，我会的，我没有选择。"
 
 #: balth.tra:1135
 msgid ""
 "But... you have shown great willpower, as well. Despite the taint in your "
 "soul, you have struggled against it just as I have. What makes me more "
 "worthy...? No, I must not question myself! Not now!"
-msgstr "但是……你已经展现了强大的意志力。你和我一样，一直坚持抵抗自己的秽魂。那我比你强在哪儿呢？不，现在不是怀疑自己的时候！现在不行！"
+msgstr "但你已经展现出了强大的意志力，你跟我一样，一直在抵抗自己的心魔。那我又比你强在哪里呢？不，现在不是怀疑自己的时候！至少现在不行！"
 
 #: balth.tra:1136
 msgid ""
 "You are certainly no better a candidate for resisting such temptation, "
 "<CHARNAME>. I would trust myself far more than I would trust you. To send "
 "you to the Throne would be to give up everything I have believed in."
-msgstr "显然你未必能够抵抗得了这种诱惑，<CHARNAME>。我更相信自身的判断而非你的。让你进入巴尔王座就意味着放弃我的信念。"
+msgstr "你也未必能够抵抗住这种诱惑，<CHARNAME>。我相信自己远胜过相信你。让你进入巴尔的王座就意味着放弃我的所有信念。"
 
 #: balth.tra:1137
 msgid ""
@@ -935,7 +931,7 @@ msgid ""
 "you may even vanquish Melissan. But you will never vanquish yourself. Might "
 "will bring you no peace... this I know. And this is why I must be the last."
 msgstr ""
-"力量并不代表一切，<CHARNAME>。你可能会用武力击败我，甚至会击败梅丽珊。但你却无法击败自己的心魔。武力无法给你带来平静……我知道这点。所以我必须留到最后。"
+"力量并不代表一切，<CHARNAME>。你的力量可能会击败我，甚至也会击败梅丽珊，但却击败不了自己的心魔。力量无法为你带来真正的安宁……我理解，因此我必须留到最后！"
 
 #: balth.tra:1138
 msgid ""
@@ -943,88 +939,88 @@ msgid ""
 "anguish that I have endured, placing the greater good above the welfare of "
 "others, of myself and my own immortal soul. It will be enough that Bhaal's "
 "legacy is destroyed, there is no temptation beyond that."
-msgstr ""
-"我已经厌倦了我经历的战斗，<CHARNAME>。为了大义，却罔顾他人的利益、我自己和我的不朽灵魂，我再也无法忍受这种心灵上的折磨。摧毁巴尔遗产就足够了，除此以外再无旁念。"
+msgstr "在经历过这么多之后，我已经累了。为了终结巴尔的传说，我也时常扪心自问，我可以为了这个目标牺牲自己，但是其他无辜的人呢？这一切……就应该么？"
 
 #: balth.tra:1139
 msgid "But I do. It is my destiny. What other choice have I?"
-msgstr "但我不得不做。这是我的宿命。我还有别的选择吗？"
+msgstr "但我知道，这是我的宿命，我没有别的选择……"
 
 #: balth.tra:1140
 msgid ""
 "You always have a choice, Balthazar. Don't be a slave to Alaundo's prophecy!"
 " I have fought against it ever since I found out about my heritage and I "
 "will *not* give up!"
-msgstr "你一直有机会选择的，巴萨札。不要被阿兰多的预言所支配！自从发现了我继承的邪恶血脉以来，我一直在抗争，而且我绝*不会*放弃！"
+msgstr "你会有机会选择的，巴萨札，不要被阿蓝多的预言所支配！从我得知自己身份的那天起，我就一直在为未来而奋斗。我从未放弃！"
 
 #: balth.tra:1141
 msgid ""
 "Alaundo's prophecy does not mean the Bhaalspawn must be destroyers, "
 "Balthazar! It also means we can stop the prophecy from becoming true, I know"
 " this!"
-msgstr "而且阿兰多的预言并不意味着巴尔后裔全都是毁灭的化身，巴萨札！它也意味着我们可以阻止预言成真，我知道！"
+msgstr "阿蓝多的预言并不意味着巴尔之子全都是毁灭的化身！巴萨札。同样那预言也可能意味着我们有机会阻止这一切的实现，我了解这一点！"
 
 #: balth.tra:1142
 msgid ""
 "You can walk away. You can do what's right, Balthazar, what you know to be "
 "right instead of what you've resigned yourself to."
-msgstr "你可以就此放手。你可以做正确的事，巴萨札，你知道什么才是对的，而不是受命运的摆布。"
+msgstr "你可以选择一走了之，也可以选择勇敢地直面它，巴萨札。你应该遵从你内心的选择，而不是受预言的摆布。"
 
 #: balth.tra:1143
 msgid ""
 "You are walking a path that you don't need to, Balthazar. You see yourself "
 "as evil, but it doesn't have to be that way."
-msgstr "你走了一段你没必要走的路，巴萨札。你把自己当作了恶人，但完全没有必要这样。"
+msgstr "相反现在的你正沿着一条毫无意义的路走下去，巴萨札。你视自己为恶魔，可事实却并非如此。"
 
 #: balth.tra:1144
 msgid ""
 "I am your <PRO_BROTHERSISTER>, Balthazar. Let us fight what is inevitable! "
 "We can work together!"
-msgstr "我是你的<PRO_BROTHERSISTER>，巴萨札。让我们一起对抗注定发生的事！我们能并肩作战！"
+msgstr "我是你的<PRO_BROTHERSISTER>，巴萨札。让我们一同改变那既定的命运吧！我们应该并肩作战！而不是互相残杀！"
 
 #: balth.tra:1145
 msgid ""
 "Forget it. There's no point in discussing this with you, is there? Let's get"
 " this over with."
-msgstr "算了吧。跟你谈话真没意义，不是吗？让我们把这事解决了吧。"
+msgstr "算了吧，与你交谈真是毫无意义，让我们赶快把这事解决了吧。"
 
 #: balth.tra:1146
 msgid ""
 "You are impressive with your words, <CHARNAME>. I can feel destiny altering "
 "to your will, how you are the center of it all... how is it that I did not "
 "see this before?"
-msgstr "你的话很深刻， <CHARNAME>。我能感觉到宿命因你的意志而改变，你是预言的中心……我从前怎么没意识到呢？"
+msgstr "你的话令人印象深刻，我甚至能感受到我的宿命因你而改变。你才是预言中的关键……我以前怎么没有意识到这一点？"
 
 #: balth.tra:1147
 msgid ""
 "But the simple truth is your words ring hollow to me. I do not believe them."
 " You have fought against destiny, yet I see it in you even the more as you "
 "speak."
-msgstr "然而你的话对我而言很空洞。我不相信。你说你抗争过命运，但我看是你说的比做的多。"
+msgstr "但是，简而言之，你的话听上去十分空洞。我不相信这些。我知道你所谓的“对抗命运”是什么意思，而且比你说得还清楚。"
 
 #: balth.tra:1148
 msgid ""
 "Perhaps... perhaps there is something to your words. I look within myself "
 "and see how rigidly I have held myself to my destiny... and I feel hollow. "
 "But I... cannot believe that this has been for nothing."
-msgstr "也许……也许你的话有些道理。我审视自己，看到了自己是如何顺从宿命……并且我感受到的只有空虚。但我很难相信之前所做的一切……竟然毫无意义。"
+msgstr ""
+"也许……也许你的话有些道理。当我审视自身之时，我也发觉自己被“命运”二字束缚得太紧了，这令我感到十分空虚。但我很难接受之前所做的一切……都变得毫无意义。"
 
 #: balth.tra:1149
 msgid "What do you mean? How do you know this?"
-msgstr "你是什么意思？你怎么知道这些的？"
+msgstr "你说这是什么意思？你是怎么知道这些的？"
 
 #: balth.tra:1150
 msgid ""
 "It was told to me by a Solar, an agent of prophecy! It... oh, I know how it "
 "sounds, but it's true!"
-msgstr "是一个炽天神侍告诉我的，预言的代理人！这……哦，我知道这听起来难以置信，但却是真的！"
+msgstr "是一位神使告诉我的，预言的代理者！她……我知道这听起来难以置信，但这一切都是真的！"
 
 #: balth.tra:1151
 msgid ""
 "I have been told many things by agents of Alaundo's prophecy... higher "
 "beings that have sought me out to prepare me. Alaundo's prophecy does not "
 "necessarily mean what you think it does, Balthazar."
-msgstr "阿兰多预言的代理人告诉我了很多事情……高等存在把我找了出来，并做了很多准备。阿兰多的预言未必是你想象的那样，巴萨札。"
+msgstr "预言的代理者告诉我了很多事……某些更高级别的存在把我挑选了出来，并且指引我进行了许多准备。阿蓝多的预言并不一定就是你想的那样，巴萨札。"
 
 #: balth.tra:1152
 msgid ""
@@ -1032,33 +1028,32 @@ msgid ""
 " what is to come. The prophecy is not so simple as you think it to be, no "
 "matter how we assume it to be. Think about it and you'll know it to be true,"
 " Balthazar... everything has more than one side."
-msgstr ""
-"作为我的指引者，一位炽天神侍从一开始就引导并帮助我准备将到来的事。预言并不像你想象的那样简单，无论我们如何假设它会怎样。仔细想想你就该知道了，巴萨札……很多事情都有其两面性。"
+msgstr "曾经有某位神使作为我的指引者，引导并帮助我准备即将到来的事。预言并不像你想像的那样简单。仔细想想吧，巴萨札，世间万物都有其两面性。"
 
 #: balth.tra:1153
 msgid ""
 "I have no agent of the heavens to interpret my destiny for me, <CHARNAME>. "
 "And my path remains clear."
-msgstr "没有神界的代理人来为我指引道路，<CHARNAME>。我仍能看清自己的道路。"
+msgstr "我不曾有任何来自上苍的代理者为我解读命运，<CHARNAME>。但我依然能够看清自己的道路。"
 
 #: balth.tra:1154
 msgid ""
 "You plant a seed of doubt in me, <CHARNAME>, and I begin to wonder. Yet... "
 "it seems that my destiny may differ from yours. I have no heavenly guidance."
 " Perhaps my path has been made for me, yet."
-msgstr "你在我内心中播下了困惑的种子， <CHARNAME>，我开始迷茫了。看起来我的命运或许与你不同。没有人指引我。但也许我的前路还未可知。"
+msgstr "你在我内心播下了疑惑的种子，<CHARNAME>。我有些迷茫了，看上去我的命运与你有所不同，没有人指引过我。也许我的确还有另一条路可走……"
 
 #: balth.tra:1155
 msgid ""
 "What you say is incredible, and yet... it does make sense. Have I prepared "
 "myself for all this time in error? How could this be?"
-msgstr "你的话实在是难以置信……但的确是有些道理。一直以来我为此刻所做的准备都是错的？怎么会是这样？"
+msgstr "你的话令人难以置信……并且的确有些道理。难道我从前所做的一切都是错的么？这可能么？"
 
 #: balth.tra:1156
 msgid ""
 "An appealing notion, to walk away. Would that I could do so. Would that any "
 "of us could have done so."
-msgstr "很吸引人的见解，就此放手。我早就能这么做。我们中的任何人都能够这么做。"
+msgstr "一走了之确实是个吸引人的想法。我能这么做么？我们中有人曾做到这一点么？"
 
 #: balth.tra:1157
 msgid ""
@@ -1066,14 +1061,14 @@ msgid ""
 "are... hardly what I expected for the last of the Bhaalspawn, <CHARNAME>. "
 "Perhaps there is hope... or perhaps I am only deluding myself."
 msgstr ""
-"也许我为自己确定的方向并不能达到我想要的目标。你……和我预期中最终存活的巴尔后裔不一样，<CHARNAME>。也许真的还有希望……也许我只是在蒙骗自己。"
+"也许我为自己确立的方向并不能指引我达到预期的目标。真实的你和我认为的那个巴尔之子不一样，<CHARNAME>。也许真的还有希望，也许我只是在蒙骗自己。"
 
 #: balth.tra:1158
 msgid ""
 "But that is a fool's notion, <CHARNAME>, and I am no fool. There is no such "
 "option available to me or any of us, no matter how appealing you may make it"
 " seem."
-msgstr "但那是个愚蠢的想法， <CHARNAME>，我又不是傻子。我们中的任何人都没有这种选择，无论你说得多好听。"
+msgstr "愚蠢的想法，<CHARNAME>。我不是傻子，我们中的任何人都没有这样的可能，无论你说得有多动听。"
 
 #: balth.tra:1159
 msgid ""
@@ -1083,16 +1078,15 @@ msgid ""
 "greater good... I cannot forget! I will not forgive myself and I will *not* "
 "allow others to be afflicted with the taint I possess!"
 msgstr ""
-"不！你根本没听明白我说什么！事到如今*变成*这样，是因为我们根本没有选择的余地！你想让我忘记被我亲手杀死的那些人吗，以及那些以大义为名做的错事……我不可能忘记！我不会原谅自己，也*不会*原谅与我受到同样秽魂侵染的人！"
+"不，你根本没听明白我在说什么！事情之所以会如此是因为我们根本没有选择的余地！你想让我忘记那些因我而死的人么，那些被我以正义之名屠杀的人……我不可能忘记！我不会原谅自己，也不会再允许有人因我而遭受灭顶之灾！"
 
 #: balth.tra:1160
-#, fuzzy
 msgid ""
 "You have considerable charisma, <CHARNAME>... but it is because we are "
 "siblings that we cannot work together. You know as well as I what the "
 "essence seeks, and it will not be satisfied until our destiny is culminated."
 msgstr ""
-"你的人格魅力很强，<CHARNAME>......但也就因为我们有着相同的天赋，我们不可能并肩作战，你我都知道这种天赋会导致什么，而且直到我们走到宿命的劲头，这种天赋都不会结束。"
+"你有很强的人格魅力，<CHARNAME>……但因为我们体内流淌着共同的巴尔之血，这注定了我们不可能并肩作战。你我都知道这血脉一直在渴求着什么，而且直到我们走到宿命的尽头，那种对杀戮的渴求都不会结束。"
 
 #: balth.tra:1161
 msgid ""
@@ -1100,7 +1094,7 @@ msgid ""
 "I can only trust myself to hold to the path of good that will lead to the "
 "destruction of the true evil that threatens Faerun. There is no other path "
 "for me."
-msgstr "我没有资格评判你，<CHARNAME>。你保持着你的天性。我只能坚信自己能够秉持正义之道，将威胁费伦的真正邪恶摧毁。对我而言没有别的道路。"
+msgstr "我不会去评价你，<CHARNAME>。你要沿着你的路走下去，而我也要沿着我的路走下去——直至结束这威胁费伦的邪恶。此外没有别的选择。"
 
 #: balth.tra:1162
 msgid ""
@@ -1109,7 +1103,7 @@ msgid ""
 "the innocent at the slightest provocation! And all for nothing! You call "
 "these the actions of a good man?"
 msgstr ""
-"来看看你给安姆克萨蓝带来了什么苦难！你的僧侣奉你之命去恐吓无辜的人们！你雇的无情佣兵只要稍有招惹，就会对无辜的人们拔刀相向！而且不会受到任何制裁！你就把这叫做好人的行为？"
+"回头看看你给安姆克萨蓝带来了什么！你的武僧在你的命令之下恐怖统治着无辜的人民。你雇佣的那些卑鄙的佣兵肆意杀戮着普通的百姓！这一切都毫无意义！你能说你没有责任吗？"
 
 #: balth.tra:1163
 msgid ""
@@ -1118,13 +1112,13 @@ msgid ""
 "without your scheming. It was your choice to join the Five in their reign of"
 " destruction, so live up to it!"
 msgstr ""
-"真正的好人应该从一开始就对抗梅丽珊。你说你想要找出五裔……然而没有你的帮助，我仍把他们全击败了。加入五裔的残暴统治是你自己决定的，你要承担这个后果！"
+"真正善良之人应该从一开始就对抗梅丽珊。你说你想要找出五裔……可是我没靠你就把他们全击败了！如果你决定加入五裔，继续那招致毁灭的统治，那你就去做吧！"
 
 #: balth.tra:1164
 msgid ""
 "You make no judgement upon me? Don't make me laugh! Inevitability is only "
 "the newest excuse for yet one more murder! You would make our father proud!"
-msgstr "你没有资格评判我？真可笑！你所谓的必然性只是一个又一个屠杀的借口！你真是给我们的父亲增光啊！"
+msgstr "“你不会评价我”？真可笑！你所谓的“必然命运”只是屠杀的又一个借口！看来我们的父亲肯定会以你为荣！"
 
 #: balth.tra:1165
 msgid ""
@@ -1133,11 +1127,11 @@ msgid ""
 " evil? Do you know destiny so well that you can say for certain where it "
 "leads for someone else, never mind yourself?"
 msgstr ""
-"那如果这也是我的路呢，巴萨札？你说你没法评判我，那你为什么认定自己就是唯一一个能对抗邪恶的人呢？你如此肯定宿命会影响他人却不提及你自己，你真的那么了解自己的宿命吗？"
+"那我的路是什么呢？巴萨札？你说你不会评价我，那你为什么认定自己就是唯一一个能对抗邪恶的人呢？你真的了解自己的宿命么？你能预见未来要发生的事么？真要知道的话，你又有什么可怕的呢？"
 
 #: balth.tra:1166
 msgid "Then let's get this over with. I'm tired of talking."
-msgstr "让我们赶快结束吧。我不想再说下去了。"
+msgstr "让我们赶快结束吧，我已经厌倦这谈话了。"
 
 #: balth.tra:1167
 msgid ""
@@ -1149,29 +1143,28 @@ msgid ""
 "goodness of a man, does it not? I... I am ashamed, <CHARNAME>. I sought... "
 "only to do what was best for us all."
 msgstr ""
-"没……没错。我并没有管教我手下的行为，而且我……知道他们的所作所为。我认为这是一个为了保守秘密而作出的巨大牺牲，那是为了达到我的最终目标。虽然，由于他们的无知，他们不知道这个目标最终会使他们获益更多。但……这就是我们在最糟糕的时期对待最无助的兄弟的方式，这标志着一个人的善良，不是吗？我……我很惭愧，<CHARNAME>。我寻求……只做对我们所有人最好的事情。"
+"是……是的。我并没有对我手下的行为严加看管，而且我……清楚地知道他们的所作所为。我想这是一个为了保守秘密而作出的巨大牺牲，那是为了达到我的最终目标。虽然，由于人们的无知，他们不知道这个目标的实现会最终使他们获益更多。但……在困难时刻的所做所为确实最能体现出一个人的品德，不是么？在这点上我很羞愧，<CHARNAME>，可我的确是为了我们最根本的利益着想。"
 
 #: balth.tra:1168
 msgid ""
 "You found out who the Five were through Melissan's scheming... and through, "
 "in no small part, my own. But who is to say that things might not have been "
 "different? Who are *you* to say that things might have been different?"
-msgstr "你找出了梅丽珊计划里的五裔……而且，在很大程度上，我也是其中的一员。但是有谁能说事情会发生变化呢？*你*有什么资格说事情有所不同？"
+msgstr "你找出了梅丽珊计划中的五裔成员，而且，你也找到了我。但有谁能说事情就因此发生了改变呢？你又有什么资格说事情会有所不同呢？"
 
 #: balth.tra:1169
 msgid ""
 "But... it is true, nevertheless. I have taken the easy path, and have done "
 "much that has brought harm to others in the name of necessity. But when does"
 " 'necessity' cross into the realm of evil? I... I am ashamed, <CHARNAME>."
-msgstr ""
-"但……尽管如此，没错。我选了一条简单的道路，并且做了很多以必要的名义伤害他人的事情。但是这个“必然”什么时候会跨入邪恶的领域呢？我……我很惭愧，<CHARNAME>。"
+msgstr "但是……没错，我选择了一个简单的办法，而且以“必须”的名义伤害了很多人。当“必须”之事开始变为邪恶……我很惭愧，<CHARNAME>。"
 
 #: balth.tra:1170
 msgid ""
 "I do not stand here proud of my accomplishments in attaining what I see to "
 "be a necessary goal... but neither should you. You have blundered about, "
 "causing more harm by your negligence than I ever could by my plotting."
-msgstr "我并不认为我的所作所为值得赞扬，但这是我达成目标的必经之路……但你也一样。你犯了大错，你的疏忽造成的伤害比我的策划造成的伤害还多。"
+msgstr "我并不认为我的所作所为值得赞扬，但这是我达成目标的必经之路。你也一样，你的疏忽也对他人造成了严重的伤害，而且可能比我所带去的还要多。"
 
 #: balth.tra:1171
 msgid ""
@@ -1180,14 +1173,14 @@ msgid ""
 "Destroyed, all of it! I cry out to Ao the Overfather that such evil must not"
 " be allowed to live in the hearts of mortals, and I *will* be heard!"
 msgstr ""
-"我*不会*被这么愚弄的！为了毁灭这个邪恶，我牺牲了自己的一生，这个镇里的人民，我所拥有的一切！全都被毁了！我向众神之神大声呼喊，决不能让这样的邪恶在凡人心中存留，祇*会*回应我的！"
+"我不是这么容易被愚弄的！我自己的全部生命，这个镇子里的所有人民，我所拥有的一切，全都为了摧毁那邪神而被牺牲掉了！我向众神之神祈祷，这样的邪恶绝对不允许在人们心中存留，我的愿望一定会实现的！"
 
 #: balth.tra:1172
 msgid ""
 "I... know only what the temptations are that the taints puts upon us, "
 "<CHARNAME>. I know only that if our power was to grow, if your power was to "
 "grow, that so would the temptation."
-msgstr "我……只知道秽魂对我们的诱惑是什么，<CHARNAME>。我只知道，每当我们的力量增长时，这种诱惑也会随之增强。"
+msgstr "我……只知道这个诱惑存在于我们的神性之中，每当我们的力量更强大，这种诱惑也就更强烈。"
 
 #: balth.tra:1173
 msgid ""
@@ -1197,21 +1190,20 @@ msgid ""
 "our treatment of the least of our brethren is the true judge of a man's "
 "soul? I... I am ashamed."
 msgstr ""
-"但……你成功地抵制了这种诱惑。比我成功的多。在正义之名下，我……做了很多后悔的事。我的人民因为我把最终目标置于一切之上而受苦……但是我们对待手足同胞的方式，不正是判断一个人心灵善恶的准绳吗？我……我很羞愧。"
+"但……你的确成功抵御了这种诱惑，比我成功得多。在正义之名下我干了很多悔恨之事，我的人民因为我的目标而遭受痛苦。我现在才意识到如何对待手足同胞不也正是判断一个人心灵善恶的标准吗？我很羞愧。"
 
 #: balth.tra:1174
-#, fuzzy
 msgid ""
 "And despite what you might profess, I think the taint sits closer to your "
 "heart then you would have me believe. I must walk my own path, <CHARNAME>..."
 " and you must walk yours."
-msgstr "不管你怎么说，我认为天赋影响了你的思想，我必须沿着我的路走下去，<CHARNAME>，你也一样。"
+msgstr "不管你怎么说，我认为那邪恶的天性已经影响了你的思想。我必须沿着自己的路走下去，<CHARNAME>，你也一样。"
 
 #: balth.tra:1175
 msgid ""
 "Very well. Come, my students... my teachings are ended. We make our last "
 "stand now for what is right. May the gods have pity on us all."
-msgstr "很好。来吧，我的学生们……我的教学结束了。我们必须为正义而战。愿神宽恕我们。"
+msgstr "很好，来吧，我的学徒们，我的课程结束了。我们必须为正义而战，愿众神宽恕我们。"
 
 #: balth.tra:1176
 msgid ""
@@ -1221,7 +1213,7 @@ msgid ""
 "<PRO_MANWOMAN> such as yourself without the taint on your soul, I think. But"
 " now I have little choice."
 msgstr ""
-"即使是命运，也没有让我们达成共识，虽然有些东西的确是变了。如果你没有带着我们父亲的秽魂出生，也许事情会有所不同。我想，如果你的灵魂里没有这样的污秽，我会很高兴认识你。但现在，我没有别的选择。"
+"即使是命运，也没有让我们达成共识。我怀疑事情是否还有转机。如果你没有背负这种沉重命运的话，也许事情在你那里会有所改变。如果你身上不曾流过巴尔之血的话，我想我会很乐意能够认识你。但现在，我别无选择。"
 
 #: balth.tra:1177
 msgid ""
@@ -1230,7 +1222,7 @@ msgid ""
 "Candlekeep... would I not find some who would claim such innocence for "
 "themselves? Who died merely because they were caught in your wake?"
 msgstr ""
-"你敢说你对萨拉督许的死者一点责任没有吗。还有那些近期死在阿斯卡特拉、博德之门和烛堡的人……这其中难道没有无辜的人吗？有多少人是被你抓到后杀死的？"
+"你敢说你对萨拉督许城的屠杀一点责任都没有吗？你敢说被你在阿斯卡特拉、博德之门还有烛堡杀死的人里，就没有无辜的人吗？有多少人仅仅是因为遇见了你就被杀死了？"
 
 #: balth.tra:1178
 msgid ""
@@ -1240,21 +1232,21 @@ msgid ""
 "presence. Would you allow such carnage to continue? Have we not spared the "
 "entire land from agony by the slaying of our siblings?"
 msgstr ""
-"你认为其他的巴尔后裔会有所区别吗？想想吧，<CHARNAME>，这世上有着众多的巴尔后裔，即便不是出自他们本意，仅仅是存在就会给他人带来苦难。你会允许这样的屠杀继续吗？我们不是为了让整个大陆免于苦难才杀害自己的手足的吗？"
+"你认为其他的巴尔之子会有所区别么？想想吧，<CHARNAME>。巴尔之子只能给其他人带来不幸。即使那不是我们的本意，内在的天性也会为他人带来死亡。你会允许这样的屠杀继续发生么？我们正在为整个大陆招致痛苦与不幸！"
 
 #: balth.tra:1179
 msgid ""
 "You believe yourself to be the master of your destiny, do you? The destiny "
 "foreseen long ago by Alaundo? You believe it by choice alone that you ended "
 "up here, in this place?"
-msgstr "你相信你能够掌控自己的命运，不是吗？那个阿兰多在很久以前做出的预言？你认为你独自一人就能在这里终结它吗？"
+msgstr "你相信你能够掌控自己的命运？那长久以来阿蓝多所做的预言，你相信它会因你的选择而改变么？"
 
 #: balth.tra:1180
 msgid ""
 "You mistake the path for the journey, my friend. Whatever paths you have "
 "taken since leaving Candlekeep, the journey has ended here as it was always "
 "meant to. Destiny masters us... we do not master it."
-msgstr "你误解了旅途的意思，我的朋友。无论你从烛堡出发时选择了怎样的道路，旅途到这里都该结束了。天命有归，人谋不及。"
+msgstr "你误解了道路的意思，我的朋友。无论你从烛堡出发时选择了怎样的路，旅途到这里都该结束了。还是那句话：命运掌控着我们，我们掌控不了命运。"
 
 #: balth.tra:1181
 msgid ""
@@ -1262,7 +1254,8 @@ msgid ""
 "crossing your path. My own life has been little different, no matter how I "
 "have struggled against it. I am glad you see this... it will make things "
 "much easier."
-msgstr "没错，无论他们是需要克服的障碍，还是擦肩而过的路人。无论我如何挣扎，我自己的人生都不会有所不同。我很高兴你明白这点……这会使事情简单很多。"
+msgstr ""
+"没错，无论他们是需要逾越的障碍，还是擦肩而过的路人，无论我如何地挣扎，自己的命运都不会有任何改变。我很高兴你能明白这点……这会使事情简单很多。"
 
 #: balth.tra:1182
 msgid ""
@@ -1271,21 +1264,21 @@ msgid ""
 "victorious, it is true, but the fact that you embrace the taint within you "
 "makes my own path that much the clearer."
 msgstr ""
-"你有点像雅加苏拉，身心强大。然而，当他的命运来临时，他也倒下了。你血脉中的力量可能会让你胜利，没错，但是你拥抱你内在的秽魂这一事实使我自己的道路更加清晰。"
+"你听上去就像雅加苏拉，那个自私的巨人，当命运降临时，他注定要失败。你血液中的力量可能会使你成功，没错，但是你拥抱那邪恶天性的行为使我注定无法站在你那一边。"
 
 #: balth_finsol.tra:580
 msgid ""
 "Only one other spawn of the dead god remains... the sibling who fought at "
 "your side. His portion of the essence is less than your own, but still "
 "significant. His choice must also be made."
-msgstr "现在剩下的巴尔之子只剩下一位了……那位与你并肩作战的兄弟。他的那份精华虽然比你的少，但仍然很重要。他现在必须做出选择。"
+msgstr "现在只剩下一位巴尔之子了……那位想要为你而战的兄弟。虽然他的那部分神性能量要比你少得多，但依然很重要。是该他做出抉择的时刻了。"
 
 #: balth_finsol.tra:581
 msgid ""
 "First, however, there is the matter of the children of the dead god who "
 "fought by your side. Their essences are less than your own, but their "
 "decision no less important."
-msgstr "然而，首先是与你并肩作战的其他巴尔之子的事情。尽管他们的精华比你的少，但他们的决定也很重要。"
+msgstr "首先，在你队伍里还有另外的巴尔之子为你而战，尽管他们的神性能量与你相比要逊色得多，但依然很重要。是该他们做出抉择的时刻了。"
 
 #: balth_finsol.tra:582
 msgid ""
@@ -1294,40 +1287,39 @@ msgid ""
 "have an opportunity that few are given. You may choose your destiny... a "
 "choice you thought yourself forever denied."
 msgstr ""
-"我只是这件事的代理人，巴萨札。我负责见证巴尔之子们的宿命结束。你有一个他人罕有的机会。你可以选择你的命运……一个你曾认为自己会永远拒绝的选择。"
+"在这里只有我能成为宇宙的代行者，巴萨札。只有我能够见证所有巴尔之子们的最终宿命。你是少数几个还有权利选择的人。选择你的归宿吧，这是你逃脱不掉的命运。"
 
 #: balth_finsol.tra:583
 msgid ""
 "If that is your choice, you may surrender the portion of your divine essence"
 " to your elder sibling. You may become a normal mortal, with a destiny to "
 "follow as you see fit."
-msgstr ""
-"如果这是你的选择，你会放弃你的神性精华，并交给你的<PRO_BROTHERSISTER>。你会成为一个普通的凡人，按照你认为合适的方式去追随命运。"
+msgstr "如果这是你的选择，你可以把自己的神性能量给予你的<PRO_BROTHERSISTER>，这样你就会成为一名普通的凡人，得到你想要的生活。"
 
 #: balth_finsol.tra:584
 msgid ""
 "As you wish, Balthazar, so it is done. Go in peace, and know that in the end"
 " you walked that narrow path which had ever eluded you."
-msgstr "如你所愿，巴萨札，这样就结束了。平静的离去吧，要记住，你在最后走的那条你一直在逃避的路。"
+msgstr "如你所愿，巴萨札，这样就完成了。平静地离去吧，记住这坎坷的岁月最终永远地离你而去。"
 
 #: balth_finsol.tra:585
 msgid "Now there is but one other sibling who must also make her choice."
-msgstr "现在，另一位巴尔之子也必须做出她的选择。"
+msgstr "现在，另一位巴尔之子也必须做出她自己的选择。"
 
 #: balth_finsol.tra:1009
 msgid "You... you are so beautiful. I... had no idea..."
-msgstr "你……你太美了。 我……不知道……"
+msgstr "你……你是如此美丽。我……我不知道。"
 
 #: balth_finsol.tra:1010
 msgid "Choose? You mean... I may rid myself of the taint on my soul forever?"
-msgstr "选择？你是说……我可以从灵魂里永远除去这种秽魂？"
+msgstr "选择？你是说……我可以永远除去我灵魂上的那块污点？"
 
 #: balth_finsol.tra:1011
 msgid ""
 "And there is nothing that I ever wanted more. I choose to become a mortal "
 "gladly, and with all my heart. To walk the earth without that dark burden "
 "twisting my soul... I... I cannot even imagine..."
-msgstr "我没有别的愿望了。我从心底感到高兴，能够成为一个凡人。在没有那种黑暗负担扭曲我的灵魂的情况下走遍大陆……我……我简直无法想象……"
+msgstr "我再没有别的愿望了，我衷心期待能够成为一名凡人，除去巴尔血脉给我带来的彷徨、困扰与折磨……这简直无法想像。"
 
 #: balth_finsol.tra:1012
 msgid ""
@@ -1337,7 +1329,7 @@ msgid ""
 "with that stain upon my soul and perhaps even been Melissan's puppet "
 "forever."
 msgstr ""
-"我不知道怎么感谢你才好，<CHARNAME>，你给了我最珍贵的礼物。我曾认为我所奋斗的一切都是对的……是你证明了我大错特错。如果不是你，我可能就会带着灵魂上的污点而死去，甚至可能会永远成为梅丽珊的傀儡。"
+"我简直不知该如何感谢你，<CHARNAME>。你给了我最珍贵的礼物。我曾经为自己认为正确的事付出了一切……但你证明了我其实大错特错。如果不是你，我可能就会带着这个污点死去，甚至会永远成为梅丽珊的一个傀儡。"
 
 #: balth_finsol.tra:1013
 msgid ""
@@ -1346,7 +1338,7 @@ msgid ""
 "<PRO_MANWOMAN> such as yourself towards evil. Perhaps you would overcome "
 "that taint and be a good god, I cannot say."
 msgstr ""
-"我的确不知道你在想什么，现在，你必须做出决定。我也不确定这种秽魂是否会把像你这样的<PRO_MANWOMAN>带向邪恶。也许你会克服这种秽魂而成为一位善良的神，我不知道。"
+"我的确无法装作理解你真正的内心所想。现在，这是你必须做出的决定。这种巴尔血脉会把你引向邪恶吗？也许你会克服那污秽而成为一名善良的神祇，我不知道。"
 
 #: balth_finsol.tra:1014
 msgid ""
@@ -1355,22 +1347,23 @@ msgid ""
 "wishes to become a god? Sarevok? Irenicus? Melissan? Even if your intentions"
 " are good, what of an eternity being chained to such power?"
 msgstr ""
-"我只是请你考虑一下，巴尔的秽魂是如何影响你的生活的。你真的想接受所有的秽魂吗？什么样的人才想登神？沙洛弗克？艾瑞尼卡斯？梅丽珊？即使你的本意是好的，但永远被束缚在这样的力量上又会变成怎样？"
+"我只想说再仔细考虑一下巴尔的血脉为你的人生所带来的影响。你真的愿意接受所有的神性能量么？你要知道什么样的人才会想去成为神？沙洛佛克？艾瑞尼卡斯？梅丽珊？即使你的本意是善良的，但这种永恒生命又会带来什么呢？"
 
 #: balth_finsol.tra:1015
 msgid ""
 "The choice is your own. You know yourself better than I. I simply ask that "
 "you consider the life you might have led, the mortal life, had the taint "
 "never visited itself upon you back at Candlekeep. I look forward to my own."
-msgstr "这是你自己的选择。你比我了解你自己。我只想请你回忆一下原先的生活，那平凡的生活，秽魂觉醒前在烛堡的生活。我一直向往着那样的生活。"
+msgstr ""
+"这是你自己的选择，你比我更了解你自己。我只希望你能回忆一下那过去的日子，那平凡美好的生活，没有被巴尔的血脉所打扰的生活，那在烛堡里悠然自得的日子。我一直渴望那样的生活。"
 
 #: balth_finsol.tra:1016
-#, fuzzy
 msgid ""
 "And so it is done. I believe you have made the right choice. I look forward "
 "to meeting you again on Faerun, <CHARNAME>... as a mortal and a true "
 "<PRO_BROTHERSISTER>."
-msgstr "一切都结束了，我相信你的选择是正确的。费仑再见，<CHARNAME>......我的凡人兄弟！"
+msgstr ""
+"一切都结束了，我相信你的选择是正确的。我期待着与你再次在费伦相见，<CHARNAME>_……我真诚的凡人<PRO_BROTHERSISTER>_！"
 
 #: balth_finsol.tra:1017
 msgid ""
@@ -1379,14 +1372,15 @@ msgid ""
 "look up at the heavens and see the brightest star in the sky, I shall think "
 "of you and offer a prayer."
 msgstr ""
-"所以你选择了这条少有人走的路，<CHARNAME>。我不能说我羡慕你。我希望这力量能带给你所期望和渴望的东西，朋友。当我仰望天空，看到天上最亮的星星时，我会想起你并祈祷。"
+"如此你选择了这条路，<CHARNAME>。虽然那并不是我会愿意做出的选择，但我希望那力量能带给你所期望的一切，朋友。当我仰望天空看到最亮的那颗星星时，我会为你祈祷。"
 
 #: bodhi_solar.tra:72
 msgid ""
 "I require satisfaction before the Child of Bhaal makes any sort of decision,"
 " creature. Both my brother and this... Melissan, lie dead. Your hunt has "
 "been delightfully successful, <CHARNAME>."
-msgstr "在巴尔之子做出任何决定前，我来索取我的报酬，生物。我弟弟和这个……梅丽珊，都死了。你的狩猎非常成功，<CHARNAME>。"
+msgstr ""
+"在这位巴尔之子做出任何决定以前，我想要先兑现我的报酬，生物。我弟弟和这位……梅丽珊都已经死去，看上去你成为了这场游戏的胜利者，<CHARNAME>。"
 
 #: bodhi_solar.tra:73
 msgid ""
@@ -1395,85 +1389,85 @@ msgid ""
 "place. Give me what I want so I may leave... we need not meet each other "
 "again, unless you wish it."
 msgstr ""
-"但别忘了我们的交易。我在耐心地等待着你允诺的那部分灵魂。我很享受我们的舞蹈，巴尔之子，但我厌倦了这个地方。给我我想要的，这样我就可以离开了……我们不没必要再见面了，除非你希望这样。"
+"但别忘了我们之间的交易，我已等不及想要得到你承诺的灵魂。我已经在这场舞蹈中尽情投入了，巴尔之子。我对此处已感到无比厌倦。把你灵魂的一部分赋予我，我会离开这里……从此不再出现在你面前，除非你希望那样。"
 
 #: bodhi_solar.tra:74
 msgid ""
 "It was a pleasure to have you fight by my side, Bodhi. You have earned this "
 "reward."
-msgstr "很高兴你在我这边作战，芭荻。这是你的酬劳。"
+msgstr "你能站在我这边让我很满意，芭荻。这酬劳现在属于你了。"
 
 #: bodhi_solar.tra:75
 msgid ""
 "You shall have nothing. Your use to me is at an end. I shall enjoy sending "
 "you screaming back into the abyss."
-msgstr "你什么也得不到。你已经没用了。我很高兴一边看你尖叫一边把你送回深渊。"
+msgstr "你什么也得不到，你已对我毫无用处了，我很高兴能送你回深渊去。"
 
 #: bodhi_solar.tra:76
 msgid ""
 "Hmmm, I could kill you... no, I have better things to do. Take these scraps "
 "of my essence and depart."
-msgstr "嗯，我可以杀了你……不，我还有更重要的事去做。拿着我精华的碎屑滚吧。"
+msgstr "哼，我本可以杀了你……但我还有更重要的事去做，拿着这些灵魂给我滚吧。"
 
 #: bodhi_solar.tra:77
 msgid ""
 "No Bodhi, I think I will keep all of my soul. You will fall back into the "
 "abyss. Give Bhaal my regards."
-msgstr "不，芭荻，我要保留我的灵魂。滚回深渊去吧。顺便帮我向巴尔问好。"
+msgstr "不，芭荻，我想要保留我灵魂的整全，滚回深渊去吧，顺便帮我向巴尔问好。"
 
 #: bodhi_solar.tra:78
 msgid ""
 "Fool! You think to betray me, Child of Bhaal? I refuse to return to the "
 "abyss. I shall rip every shred of that soul from your body! Let the dance "
 "end here!"
-msgstr "蠢货！你想背叛我，巴尔之子？我不会回深渊去的。我要把你的灵魂撕成碎片！让舞会就此结束吧！"
+msgstr "蠢货，你要背叛我么？巴尔之子，我绝不会回深渊去，我要把你的灵魂一片片撕碎！就让这场舞会以此结束吧！"
 
 #: bodhi_solar.tra:79
 msgid ""
 "This is my realm, Bodhi. I control everything here. It is time for you to "
 "join your brother."
-msgstr "这是我的地盘，芭荻。我操控着一切。去跟你的弟弟见面吧。"
+msgstr "这是属于我的领域，芭荻。我操控着这里的一切，是时候送你去跟你的弟弟相见了。"
 
 #: bodhi_solar.tra:80
 msgid ""
 "Enough talk! The dance has come to an end, Bodhi, and so has your part in "
 "it."
-msgstr "说得够多了！舞会结束了，芭荻，你也该退场了。"
+msgstr "说得够多了！戏剧即将落幕，芭荻，包括你在内。"
 
 #: bodhi_solar.tra:81
 msgid "Die! Witness my power, insect!"
-msgstr "死吧！看看我的力量吧，蛆虫！"
+msgstr "死吧，见证我的力量。杂碎！"
 
 #: bodhi_solar.tra:82
 msgid ""
 "Oh Bodhi, you should have begged. I would have liked to see that. Too late "
 "now."
-msgstr "哦，芭荻，你应该哀求我的。我很想看到。但是现在太晚了。"
+msgstr "喔！芭荻，你应该乞求于我的，也许我就会心软的。但现在已经太晚了。"
 
 #: bodhi_solar.tra:83
 msgid ""
 "So you have betrayed me, <CHARNAME>. It would seem that working together was"
 " never our true calling."
-msgstr "你背叛了我，<CHARNAME>。看起来我们永远不会真正的合作。"
+msgstr "那么你背叛了我，<CHARNAME>。看起来我们永远也不会真正并肩作战。"
 
 #: bodhi_solar.tra:84
 msgid ""
 "Ahhhhh, such feeling. I feel the life flow through me! Such a gift you carry"
 " Child of Bhaal... such power... such strength. Oh this is simply divine!"
-msgstr "啊－－这种感觉。我感到生命流回了我的身体！你有这样的天赋，巴尔之子……这种能力……这种力量。哦，这是神格的力量！"
+msgstr "啊啊啊……这种感觉，我感到生命回到了我的身体！巴尔之子，你竟然一直拥有这样的力量。如此强大！这是神性的力量！"
 
 #: bodhi_solar.tra:85
 msgid ""
 "Such an ungrateful <PRO_MANWOMAN> you are. Still, I have life once more, and"
 " I intend to enjoy it. Perhaps the wizards of Spellhold still wish to play?"
-msgstr "你可真是个讨厌的<PRO_MANWOMAN>。不过，我再次拥有了生命了，我打算去享受它。也许禁魔监狱的法师们还想再玩玩？"
+msgstr "你还真是个忘恩负义之人。尽管如此，我还是再次拥有了生命，这让我如此愉悦。也许是时候去找禁魔监狱的法师们来分享一下了。"
 
 #: bodhi_solar.tra:86
 msgid ""
 "Well, Child of Bhaal, it would seem that our time together is at an end. I "
 "shall enjoy carrying this piece of you with me. Perhaps we shall meet again,"
 " you and I..."
-msgstr "好吧，巴尔之子，看来我们在一起的时间已经结束了。我很高兴带走你的这块碎片的。也许我们还会再见面的，你和我……"
+msgstr "好吧，巴尔之子，看来我们在一起的时间走到尽头了。能够拥有你灵魂的一部分令我感到十分愉悦。也许我们还会再见面，只是你和我……"
 
 #: bodhi_solar.tra:586
 msgid ""
@@ -1483,10 +1477,9 @@ msgid ""
 " while I would rather destroy this undead thing, it now falls on me to "
 "enforce the promise you have made."
 msgstr ""
-"你竟然把这样邪恶的东西带到了我面前，神之子，虽然这使我厌恶至极，但你要知道，无论你在这里说了什么，你都必须履行这个誓言。你还不是神呢……虽然我宁愿摧毁这个不死生物，但我必须让你完成你的承诺。"
+"你竟然把如此邪恶的东西带到了我面前，神之子。你必须要记住，无论你在这里说了什么，你都必须去履行那誓言。你还不是神呢……虽然我可以立刻摧毁这只不死生物，但现在我情愿让你完成自己的承诺。"
 
 #: description.tra:1
-#, fuzzy
 msgid ""
 "Ethereal\n"
 "\n"
@@ -1494,11 +1487,9 @@ msgid ""
 "\n"
 "For another two rounds afterwards, Imoen remains 'half-phased'... she is partially ethereal and partially in this plane. She is still invisible, but takes half damage from all sources. In this state, there is a small chance (10%) that she will miscast a spell. For all three rounds, she is able to see any invisible targets."
 msgstr ""
+"虚无灵体\n"
 "\n"
-"爱蒙复活\n"
-"爱蒙解除了梅丽珊造成的杀戮者状态，不过看起来爱蒙的天赋力量也因此而增强，她现在可以像我在禁魔监狱里那样随心转变成杀戮者形态，而且获的了新能力“虚无灵体”，使得她可以进入灵界一段时间。\n"
-"爱蒙的新能力“虚无灵体”\n"
-"爱蒙现在可以在短期内进入灵界，每十轮可以使用一次此能力，并且在十轮内爱蒙无法变成杀戮者。使用后在开始的一轮内，爱蒙处于隐形状态并免疫一切伤害，但无法使用任何法术及特殊能力。接下来的两轮内，爱蒙处于半位移状态，一半处于主物质界，一半处于灵界，隐形且对所有伤害都有一半的免疫能力，但有十分之一的施法失败几率。在这三轮内，她能看到所有隐形的目标。"
+"爱蒙的“虚无灵体”能力现在可以让她短时间内进入灵界。每回合可以使用1次该能力，在该回合内爱蒙将无法变成杀戮者形态。在能力启动后的第一轮内，爱蒙处于隐形状态并免疫本位面的一切伤害，但无法使用任何法术及特殊能力。在接下来的两轮内，爱蒙处于半位移状态：一半位于主物质界，一半位于灵界。此时爱蒙仍处于隐形状态且对所有伤害具有一半的免疫能力。但其自身却因此承受10%的施法失败惩罚。在以上所有的三轮内，爱蒙还具有发现一切隐形目标的能力。"
 
 #: description.tra:6
 msgid ""
@@ -1506,9 +1497,9 @@ msgid ""
 "\n"
 "This ability allows Imoen to cancel her transformation and return to her usual form."
 msgstr ""
-"停止变身杀戮者\n"
+"结束杀戮者\n"
 "\n"
-"该能力使得爱蒙能停止她的杀戮者化身并变回人形。"
+"这个能力可以使爱蒙取消她的杀戮者变形，并返回到她的正常状态。"
 
 #: description.tra:7
 msgid ""
@@ -1522,15 +1513,15 @@ msgid ""
 "\n"
 "This powerful ability enables the Bhaalspawn to imbue 1 creature with the ability to regenerate. This regeneration will heal any wounds and even regenerate lost limbs. The creature affected will regain 3 hit points per second. The effect lasts for 1 round per every 2 levels of the caster or until dispelled. For example, a 14th level character would regenerate 18 hit points per round for 7 rounds."
 msgstr ""
-"再生术\n"
+"再生\n"
 "\n"
 "有效距离：碰触\n"
-"持续时间：1轮/2级\n"
+"持续时间：1轮每2等级\n"
 "施法时间：7\n"
 "影响范围：1个生物\n"
 "豁免检定：无\n"
 "\n"
-"这个超强的能力允许巴尔后裔为一个目标生物灌输再生的能力，受术者的伤势会自动复原，甚至连残肢都可以再生。受术者每秒可以恢复3点的生命值，效果可持续1轮/每2等级的时间，或是直到被解除为止。举例而言，十四级的牧师所施展的再生术，每轮可恢复18点生命值，持续7轮的时间。"
+"这个超强的能力允许巴尔之子为一个目标生物灌输再生的能力，受术者的伤势会自动复原，甚至连残肢断臂都可以再生。受术者每秒恢复3点生命值，效果持续1轮每2等级的时间，或者直到被解除魔法为止。举例来讲，14级的角色施展再生能力的效果是7轮内每轮恢复18点生命。"
 
 #: description.tra:8
 msgid ""
@@ -1544,15 +1535,15 @@ msgid ""
 "\n"
 "Like the 5th level spell Raise Dead, Resurrection will return a character back to life. However, Resurrection also heals the character so that they are ready for the adventuring life once more."
 msgstr ""
-"复生大法\n"
+"起死回生\n"
 "\n"
 "有效距离：碰触\n"
 "持续时间：永久\n"
 "施法时间：1\n"
-"影响范围：被碰触的生物\n"
+"影响范围：被碰触生物\n"
 "豁免检定：无\n"
 "\n"
-"就像是五级的死者复生，复生大法能使角色起死回生。复生大法也会治愈这名角色的伤害，所以他们已准备好再次冒险。"
+"就像五级的法术复活死者，起死回生可以使角色找回他们的生命。同时起死回生还将治愈该角色受到的所有伤害。因此受术者可以瞬间恢复至生前的最佳状态。"
 
 #: description.tra:9
 msgid ""
@@ -1573,22 +1564,22 @@ msgid ""
 "\n"
 "The Slayer can be difficult to control: after the first round, you have a 10% cumulative chance per round of losing control of yourself for a round."
 msgstr ""
-"化身杀戮者\n"
+"变身杀戮者\n"
 "\n"
-"当你使用这个能力的时候，你会显现出巴尔的残忍本质：一只狂暴、强大的生物，满是利爪和尖牙。使用这个能力会降低你的声望1点，因为即使是没有亲眼目睹这情况的人也能感受到把你自己交给杀戮本能的堕落。\n"
+"当你使用这项能力的时候，你会显现出巴尔的残忍本质：一只狂暴、强大的生物，满是利爪和尖牙。使用这项能力会降低你的声望1点，因为即使是没有亲眼目睹这种情况的人也能感受到你把自己交付杀戮本能的堕落。\n"
 "\n"
-"杀戮者形态获得下列优势：\n"
+"杀戮者形态将获得下列优势：\n"
 "\n"
 "–力量和敏捷设为25\n"
 "–有效防御等级设为-9\n"
-"–魔法抗力设为40％\n"
+"–魔法抗力设为40%\n"
 "–豁免值设为2\n"
-"–攻击次数设为4（1d8点挥砍伤害，2点寒冷伤害）\n"
+"–攻击次数设为4（1D8点粉碎伤害，2点寒冷伤害）\n"
 "–零级命中值设为0\n"
-"–PLUS_SIGN_PLACEHOLDER 100点生命值\n"
-"–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠和远程攻击\n"
+"–增加100点生命值\n"
+"–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、催眠和远程攻击\n"
 "\n"
-"杀戮者形态难以控制：在变身的第一轮之后，每轮你都会有几率失去自我一轮，每轮递增10％。"
+"杀戮者形态非常难以控制，在第一轮结束后，你将累积10%的几率失去对自身的控制长达一轮。"
 
 #: description.tra:10
 msgid ""
@@ -1611,24 +1602,24 @@ msgid ""
 "- Immunity to imprisonment, level drain, stun, fear, charm, confusion, sleep, and missile attacks\n"
 "- Chance of losing control: 10%, plus a cumulative 5% per round\n"
 msgstr ""
-"化身杀戮者\n"
+"变身杀戮者\n"
 "\n"
-"当你使用这个能力的时候，你会显现出巴尔的残忍本质：一只狂暴、强大的生物，满是利爪和尖牙。使用这个能力会降低你的声望2点，因为即使是没有亲眼目睹这情况的人也能感受到把你自己交给杀戮本能的堕落。\n"
+"当你使用这项能力的时候，你会显现出巴尔的残忍本质：一只狂暴、强大的生物，满是利爪和尖牙。使用这项能力会降低你的声望1点，因为即使是没有亲眼目睹这种情况的人也能感受到你把自己交付杀戮本能的堕落。\n"
 "\n"
-"杀戮者形态已随你内在的力量而强化，现在将获得下列优势：\n"
+"杀戮者形态由于你自身的力量而得到了增强，现在该形态将获得下列优势：\n"
 "\n"
 "–力量和敏捷设为25\n"
 "–有效防御等级设为-9\n"
-"–魔法抗力设为50％\n"
-"–物理伤害抗性设为15％\n"
-"–元素伤害抗性设为30％\n"
+"–魔法抗力设为50%\n"
+"–物理伤害抗力设为15%\n"
+"–元素伤害抗力设为30%\n"
 "–豁免值设为2\n"
-"–攻击次数设为4（2d6钝击伤害，4点寒冷伤害）\n"
+"–攻击次数设为4（2D6点粉碎伤害，4点寒冷伤害）\n"
 "–零级命中值设为-4\n"
-"–PLUS_SIGN_PLACEHOLDER 150点生命值\n"
+"–增加150点生命值\n"
 "–每秒回复2点生命值\n"
-"–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠和远程攻击\n"
-"–失控几率：10％，每轮递增5％\n"
+"–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、催眠和远程攻击\n"
+"–基本失控几率10%，累积失控几率5%每轮"
 
 #: description.tra:11
 msgid ""
@@ -1653,26 +1644,26 @@ msgid ""
 "- Free action\n"
 "- Chance of losing control: a cumulative 5% per two rounds"
 msgstr ""
-"化身杀戮者\n"
+"变身杀戮者\n"
 "\n"
-"当你使用这个能力的时候，你会显现出巴尔的残忍本质：一只狂暴、强大的生物，满是利爪和尖牙。使用这个能力会降低你的声望2点，因为即使是没有亲眼目睹这情况的人也能感受到把你自己交给杀戮本能的堕落。\n"
+"当你使用这项能力的时候，你会显现出巴尔的残忍本质：一只狂暴、强大的生物，满是利爪和尖牙。使用这项能力会降低你的声望1点，因为即使是没有亲眼目睹这种情况的人也能感受到你把自己交付杀戮本能的堕落。\n"
 "\n"
-"杀戮者形态已随你内在的力量而强化，现在将获得下列优势：\n"
+"杀戮者形态由于你自身的力量而得到了增强，现在该形态将获得下列优势：\n"
 "\n"
 "–力量和敏捷设为25\n"
 "–有效防御等级设为-9\n"
-"–魔法抗力设为60％\n"
-"–物理伤害抗性设为30％\n"
-"–元素伤害抗性设为40％\n"
+"–魔法抗力设为60%\n"
+"–物理伤害抗力设为30%\n"
+"–元素伤害抗力设为40%\n"
 "–豁免值设为2\n"
-"–攻击次数设为4（2d8钝击伤害，8点寒冷伤害）\n"
-"–每次命中时有10％的几率对目标施展解除魔法并降低其魔法抗力\n"
-"–零级命中值设为-4\n"
-"–PLUS_SIGN_PLACEHOLDER 200点生命值\n"
+"–攻击次数设为4（2D8点粉碎伤害，8点寒冷伤害）\n"
+"–每次击中有10%几率施放解除魔法和降低魔法抗力\n"
+"–零级命中值设为-8\n"
+"–增加200点生命值\n"
 "–每秒回复3点生命值\n"
-"–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠、患病、中毒和远程攻击\n"
+"–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、催眠、疾病、毒素和远程攻击\n"
 "–自由行动\n"
-"–失控几率：每2轮递增5％"
+"–累积失控几率5%每两轮"
 
 #: description.tra:12
 msgid ""
@@ -1710,39 +1701,40 @@ msgid ""
 "- Regenerate 5 Hit Points per second\n"
 "- Chance of losing control increases to 40% plus a cumulative 10% chance per round"
 msgstr ""
-"化身破坏者\n"
+"变身毁灭者\n"
 "\n"
-"现在你可以选择化身为杀戮者形态，或者是破坏者形态－－巴尔的一种狰狞神相。使用这个能力化身为杀戮者会降低你的声望2点，化身为破坏者则会降低你的声望3点。\n"
+"你现在拥有新的能力可以选择变身杀戮者或者毁灭者——巴尔的恐怖化身。使用这项能力变身杀戮者会降低你的声望2点，变身毁灭者会降低你的声望3点。\n"
 "\n"
-"化身为杀戮者，你将获得下列优势：\n"
+"杀戮者形态将获得下列优势：\n"
 "\n"
 "–力量和敏捷设为25\n"
 "–有效防御等级设为-9\n"
-"–魔法抗力设为60％\n"
-"–物理伤害抗性设为30％\n"
-"–元素伤害抗性设为50％\n"
+"–魔法抗力设为60%\n"
+"–物理伤害抗力设为30%\n"
+"–元素伤害抗力设为50%\n"
 "–豁免值设为2\n"
-"–攻击次数设为4（2d8钝击伤害，8点寒冷伤害）\n"
-"–每次命中时有10％的几率对目标施展解除魔法并降低其魔法抗力\n"
+"–攻击次数设为4（2D8点粉碎伤害，8点寒冷伤害）\n"
+"–每次击中有10%几率施放解除魔法和降低魔法抗力\n"
 "–零级命中值设为-8\n"
-"–PLUS_SIGN_PLACEHOLDER 200点生命值\n"
+"–增加200点生命值\n"
 "–每秒回复3点生命值\n"
-"–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠、患病、中毒和远程攻击\n"
+"–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、催眠、疾病、毒素和远程攻击\n"
 "–自由行动\n"
-"–失控几率：每2轮递增5％\n"
+"–累积失控几率5%每两轮\n"
 "\n"
-"化身为破坏者，你将额外获得下列优势：\n"
+"毁灭者形态将获得下列优势：\n"
 "\n"
-"–魔法抗力设为75％\n"
-"–物理伤害抗性设为50％\n"
-"–元素伤害抗性设为50％\n"
-"–魔法伤害抗性设为50％\n"
-"–攻击次数设为5（3d8钝击伤害，8点寒冷伤害）\n"
-"–解除魔法的几率提升至20％\n"
+"–魔法抗力设为75%\n"
+"–物理伤害抗力设为50%\n"
+"–元素伤害抗力设为50%\n"
+"–魔法伤害抗力设为50%\n"
+"–豁免值设为2\n"
+"–攻击次数设为5（3D8点粉碎伤害，8点寒冷伤害）\n"
+"–每次击中有20%几率施放解除魔法和降低魔法抗力\n"
 "–零级命中值设为-12\n"
-"–PLUS_SIGN_PLACEHOLDER 250点生命值\n"
+"–增加250点生命值\n"
 "–每秒回复5点生命值\n"
-"–失控几率：提升至40％，每轮递增10％"
+"–基本失控几率40%，累积失控几率10%每轮"
 
 #: description.tra:13
 msgid ""
@@ -1763,32 +1755,32 @@ msgid ""
 "\n"
 "Perhaps because Imoen has less of Bhaal's essence than <CHARNAME> - or perhaps because of what she learned after Melissan called forth her essence - she is more able to contain the Slayer's power, and has no chance of losing control while in Slayer form."
 msgstr ""
-"化身杀戮者\n"
+"变身杀戮者\n"
 "\n"
-"当爱蒙使用这个能力的时候，你会显现出巴尔的残忍本质：一只狂暴、强大的生物，满是利爪和尖牙。\n"
+"当爱蒙使用这项能力的时候，她会显现出巴尔的残忍本质：一只狂暴、强大的生物，满是利爪和尖牙。\n"
 "\n"
-"杀戮者形态获得下列优势：\n"
+"杀戮者形态将获得下列优势：\n"
 "\n"
 "–力量和敏捷设为25\n"
 "–有效防御等级设为-9\n"
-"–魔法抗力设为40％\n"
+"–魔法抗力设为40%\n"
 "–豁免值设为2\n"
-"–攻击次数设为4（1d8点挥砍伤害，2点寒冷伤害）\n"
+"–攻击次数设为4（1D8点粉碎伤害，2点寒冷伤害）\n"
 "–零级命中值设为0\n"
-"–PLUS_SIGN_PLACEHOLDER 100点生命值\n"
-"–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠和远程攻击\n"
+"–增加100点生命值\n"
+"–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、催眠和远程攻击\n"
 "\n"
-"或许是因为爱蒙拥有的巴尔本质比<CHARNAME>的少－－又或许是在梅丽珊强行唤起她的本质后，爱蒙从中学到了什么－－她能更好地控制杀戮者的力量，在杀戮者形态下她不会失去自我。"
+"或许由于爱蒙拥有的巴尔神性并不及<CHARNAME>充分，也或许她在梅丽珊唤起神性的过程中学到很多。总之她更懂得掌控杀戮者的力量，在该形态下永远也不会失去对自身的控制。"
 
 #: description.tra:14 imoen_after.tra:1000
 msgid "Bhaalspawn powers granted"
-msgstr "获得巴尔后裔的力量"
+msgstr "获得巴尔神力"
 
 #: description.tra:15
 msgid ""
 "Imoen can now change into the Slayer at will, and can enter the Ethereal "
 "plane once per minute"
-msgstr "爱蒙现在可以随时化身为杀戮者形态，也可以每分钟进入一次灵界。"
+msgstr "爱蒙现在不仅可以自由转变为杀戮者形态，而且可以每回合使用“虚无灵体”进入灵界1次。"
 
 #: description.tra:16
 msgid ""
@@ -1807,10 +1799,10 @@ msgstr ""
 "有效距离：施法者视线所及\n"
 "持续时间：特殊\n"
 "施法时间：1\n"
-"影响范围：1个恶魔\n"
+"影响范围：1只恶魔\n"
 "豁免检定：无\n"
 "\n"
-"该能力允许巴尔后裔从梅丽珊手中夺取一个恶魔的控制权，并使其成为盟友。在使用后，巴尔后裔必须与该恶魔做DURATION_PLACEHOLDER秒的思想斗争，之后恶魔有SUCCESS_CHANCE_PLACEHOLDER％的机会成为盟友。（无需豁免检定，魔法抗性无效。）恶魔并不受巴尔后裔的直接控制。此能力每3轮可以使用一次。"
+"这项能力允许巴尔之子尝试抢夺一只梅丽珊的恶魔并令其成为自己的盟友。巴尔之子将与恶魔进行DURATION_PLACEHOLDER秒的意志对抗，最终恶魔将有SUCCESS_CHANCE_PLACEHOLDER%几率成为盟友，该过程不需要进行豁免检定，也没有魔法抗力的影响。被控制的恶魔不会在巴尔之子的直接操控之下，而且这项能力每三轮只可使用1次。"
 
 #: description.tra:17
 msgid ""
@@ -1824,15 +1816,15 @@ msgid ""
 "\n"
 "The \"Unleash\" ability releases your inner power upon a target that is within melee range, hitting them for DICENUMBER_PLACEHOLDERd12 magic damage (half on a successful save vs. Death at -4) and sending them flying back and perhaps unconscious for a short period. This ability may only be used once ever thirty seconds... and after using it the Bhaalspawn will be incredibly fatigued, and have a 25% miscast chance on all spells, for 2 rounds. Due to the amount of divine essence used, the Slayer form will also not be available for thirty seconds."
 msgstr ""
-"神性释放\n"
+"能量释放\n"
 "\n"
-"有效距离：5呎\n"
+"有效距离：5尺\n"
 "持续时间：立即\n"
 "施法时间：1\n"
 "影响范围：1个生物\n"
-"豁免检定：1/2\n"
+"豁免检定：特殊\n"
 "\n"
-"“神性释放”将你的内在力量倾泻在一个近战范围的目标身上，对其造成DICENUMBER_PLACEHOLDERd12点魔法伤害（以-2不利通过对死亡的豁免检定则伤害减半），将其击飞并使其在昏迷一小段时间。该能力每30秒可以使用一次，并且在使用后，巴尔后裔会非常疲劳，并有25％的几率会施法失败，持续2轮。由于释放了大量的神性本质，在接下来的30秒中无法化身杀戮者形态。"
+"“能量释放”可以将你的内在能量施放于任何近战武器范围内的敌人，对他们造成DICENUMBER_PLACEHOLDERD12点魔法伤害（以-4不利通过对死亡的豁免检定则减半）。同时令对手飞出去且昏迷一段时间。这项能力被30秒可以使用1次，而且在使用后巴尔之子会变得非常虚弱，遭受25%几率施法失败的惩罚，持续两轮。另外由于使用了神性能量，巴尔之子也在此后的30秒内无法变形为杀戮者。"
 
 #: description.tra:18
 msgid ""
@@ -1846,7 +1838,7 @@ msgid ""
 "\n"
 "This ability allows the Bhaalspawn to focus <PRO_HISHER> energy within <PRO_HIMHER> to resist spell effects from without. For a 30-second duration, the Bhaalspawn becomes immune to the spells Flesh to Stone, Disintegration and Time Stop. All minor spells of 1st through 3rd level will also not affect the Bhaalspawn. This ability is useable once per minute."
 msgstr ""
-"神性聚集\n"
+"能量聚焦\n"
 "\n"
 "有效距离：0\n"
 "持续时间：5轮\n"
@@ -1854,7 +1846,7 @@ msgstr ""
 "影响范围：施法者\n"
 "豁免检定：无\n"
 "\n"
-"该能力可以让巴尔后裔聚集<PRO_HIMHER>内在的能量，以抵抗外来的法术效果。在使用后的30秒内，巴尔后裔将免疫石化，解离和时间停止。所有一到三级的法术也对巴尔后裔无效。该能力每分钟可以使用一次。"
+"这项能力可以令巴尔之子将能量聚集于自己体内，以对抗外界的法术效果。在30秒钟内，巴尔之子将免疫石化术、解离术与时间停止的影响。同时任何一至三级的次级法术也在此时间内无法影响巴尔之子。这项能力每分钟可以使用1次。"
 
 #: description.tra:19
 msgid ""
@@ -1868,7 +1860,7 @@ msgid ""
 "\n"
 "The Bhaalspawn may now move freely through space and the planes. This teleportation power is useable once per round."
 msgstr ""
-"任意门\n"
+"时空之门\n"
 "\n"
 "有效距离：无限\n"
 "持续时间：立即\n"
@@ -1876,7 +1868,7 @@ msgstr ""
 "影响范围：施法者\n"
 "豁免检定：无\n"
 "\n"
-"巴尔后裔可以自由的穿越空间和位面。这项传送能力每轮可以使用一次。"
+"巴尔之子现在可以自由穿梭于时间与位面之中。这项传送能力每轮可以使用1次。"
 
 #: description.tra:20
 msgid ""
@@ -1884,9 +1876,9 @@ msgid ""
 "\n"
 "This ability allows Bodhi to shapeshift into bat form."
 msgstr ""
-"形体变化：蝙蝠\n"
+"变形：蝙蝠\n"
 "\n"
-"该能力使芭荻变形成为蝙蝠形态。"
+"这项能力允许芭荻变身为蝙蝠形态。"
 
 #: description.tra:21
 msgid ""
@@ -1901,16 +1893,15 @@ msgid ""
 "\n"
 "The Bhaalspawn calls upon the might of <PRO_HISHER> blood to grant <PRO_HIMHER> power for a short period. When <PRO_HESHE> does this, <PRO_HISHER> Strength, Constitution, and Dexterity all are raised to 25."
 msgstr ""
-"神性天赋\n"
-"（聚能/塑能系）\n"
+"神圣天赋（塑能系）\n"
 "\n"
 "有效距离：0\n"
 "持续时间：1回合\n"
 "施法时间：1\n"
-"有效范围：施法者\n"
-"豁免鉴定：无\n"
+"影响范围：施法者\n"
+"豁免检定：无\n"
 "\n"
-"巴尔后裔呼唤<PRO_HISHER>血液中的力量使自己在短时间内变得强大。当<PRO_HESHE>使用这个能力后，<PRO_HISHER>力量、体质和敏捷都提升至25。"
+"巴尔之子可以唤醒来自血脉中的神力，在短期内给予其巨大的力量。当<PRO_HESHE>试图这么做时，其力量、体制与敏捷都会提高到25。"
 
 #: description.tra:22
 msgid ""
@@ -1926,17 +1917,17 @@ msgid ""
 "\n"
 "Balthazar may flip his resistances at will."
 msgstr ""
-"翻转抗性\n"
+"反转抗力\n"
 "\n"
 "有效距离：0\n"
 "持续时间：永久\n"
 "施法时间：1\n"
-"有效范围：巴萨札\n"
-"豁免鉴定：无\n"
+"影响范围：巴萨札\n"
+"豁免检定：无\n"
 "\n"
-"巴萨札可以通过这个能力来翻转他天生的抗性。他的物理伤害抗性由通常状态下的10％提升至90％；他的魔法抗性、魔法伤害抗性和元素伤害抗性由通常状态下的90％下降至10％。\n"
+"使用这项能力时，巴萨札将会反转他的先天抗力。他的物理伤害抗力将从通常的10%上升到90%；他的魔法、魔法伤害与元素伤害抗力将从通常的90%下降到10%。\n"
 "\n"
-"巴萨札可随时翻转抗性。"
+"巴萨札可以随意反转自身的抗力。"
 
 #: description.tra:23
 msgid ""
@@ -1952,17 +1943,17 @@ msgid ""
 "\n"
 "Balthazar may flip his resistances at will."
 msgstr ""
-"翻转抗性\n"
+"反转抗力\n"
 "\n"
 "有效距离：0\n"
 "持续时间：永久\n"
 "施法时间：1\n"
-"有效范围：巴萨札\n"
-"豁免鉴定：无\n"
+"影响范围：巴萨札\n"
+"豁免检定：无\n"
 "\n"
-"巴萨札可以通过这个能力来翻转他天生的抗性。他的物理伤害抗性恢复至通常状态下的10％；他的魔法抗性、魔法伤害抗性和元素伤害抗性也恢复至通常状态下的90％。\n"
+"使用这项能力时，巴萨札将会反转他的先天抗力。他的物理伤害抗力将恢复到通常的10%；他的魔法、魔法伤害与元素伤害抗力将恢复到通常的90%\n"
 "\n"
-"巴萨札可随时翻转抗性。"
+"巴萨札可以随意反转自身的抗力。"
 
 #: description.tra:24
 msgid ""
@@ -1983,12 +1974,12 @@ msgstr ""
 "有效距离：0\n"
 "持续时间：3小时\n"
 "施法时间：1\n"
-"有效范围：巴萨札，及其30呎内的所有生物\n"
-"豁免鉴定：无\n"
+"影响范围：巴萨札以及30尺内的所有生物\n"
+"豁免检定：无\n"
 "\n"
-"通过进入炎阳势，巴萨札呼唤太阳的力量来增强他的神秘能力。他将获得127％的火焰抗性（即便是已经使用了翻转抗性），他所有的攻击将造成额外1d10点火焰伤害，该伤害也会治疗他自己。在进入炎阳势时，巴萨札释放出一团爆炸性的火焰，对30呎内的所有生物造成12d6点火焰伤害（通过对法术的豁免检定则伤害减半）和1d8点钝击伤害，并吹飞身边的所有生物。\n"
+"当进入炎阳势时，巴萨札将召唤太阳的能量以增强他的神秘能力。他的火焰抗力提升到127%，即使在同时使用反转抗力时也是如此。另外他的所有攻击都会造成额外1D10点火焰伤害，这种伤害会同时治愈巴萨札。在激活炎阳势时，巴萨札将施放火焰爆发，对所有30尺范围内的敌人造成12D6点火焰伤害（通过对法术的豁免检定则减半），以及1D8点粉碎伤害。\n"
 "\n"
-"巴萨札同一时间内只能启用1个姿态，进入炎阳势将取消其他姿态。炎阳势可以被破解术等解除。"
+"巴萨札可以随时激活炎阳势，这么做会取消其他已激活的姿势。另外炎阳势可以被破解术之类的法术所破解。"
 
 #: description.tra:25
 msgid ""
@@ -2009,12 +2000,12 @@ msgstr ""
 "有效距离：0\n"
 "持续时间：3小时\n"
 "施法时间：1\n"
-"有效范围：巴萨札\n"
-"豁免鉴定：无\n"
+"影响范围：巴萨札\n"
+"豁免检定：无\n"
 "\n"
-"通过进入月阴势，巴萨札呼唤月亮的力量来增强他的神秘能力。进入月阴势后，巴萨札将免疫石化，解离和时间停止，并可使用一次月阴毒咒。在进入月阴势时，巴萨札附近的所有敌人将目盲4轮（通过对法术的豁免检定则无效）。\n"
+"当进入月阴势时，巴萨札将召唤月亮的能量以增强他的神秘能力。他将免疫能量吸取、禁锢与时间停止，而且还会获得月阴诅咒的额外能力。当激活月阴势时，所有巴萨札附近的敌人都会陷入目盲四轮（通过对法术的豁免检定则无效）。\n"
 "\n"
-"巴萨札同一时间内只能启用1个姿态，进入月阴势将取消其他姿态。月阴势可以被破解术等解除。"
+"巴萨札可以随时激活月阴势，这么做会取消其他已激活的姿势。另外月阴势可以被破解术之类的法术所破解。"
 
 #: description.tra:26
 msgid ""
@@ -2035,12 +2026,12 @@ msgstr ""
 "有效距离：0\n"
 "持续时间：3小时\n"
 "施法时间：1\n"
-"有效范围：巴萨札\n"
-"豁免鉴定：无\n"
+"影响范围：巴萨札\n"
+"豁免检定：无\n"
 "\n"
-"通过进入影之姿，巴萨札呼唤幽影位面的力量来增强他的神秘能力。进入影之姿后，巴萨札将受高等隐形术保护（在最初的15秒内完全隐形，直到他攻击为止）。除了高等隐形术带来的非常显着的防御优势以外，暗影斗篷还给巴萨札带来了防御等级+6的额外加成。\n"
+"当进入影之姿时，巴萨札将召唤暗影位面的能量以增强他的神秘能力。他将被高等隐形术保护，在15秒内完全隐身，除非主动发出攻击。除了高等隐形术已经能够提供的显著防御之外，阴影斗篷还会额外令巴萨札的防御等级+4改善。\n"
 "\n"
-"巴萨札同一时间内只能启用1个姿态，进入影之姿将取消其他姿态。影之姿可以被谕言术或真实视域等解除。"
+"巴萨札可以随时激活影之姿，这么做会取消其他已激活的姿势。另外炎阳势可以被预言术或真实视域之类的法术所破解。"
 
 #: description.tra:27
 msgid ""
@@ -2058,15 +2049,15 @@ msgid ""
 msgstr ""
 "眼难及\n"
 "\n"
-"有效距离：视线范围\n"
+"有效距离：施法者视线所及\n"
 "持续时间：立即\n"
 "施法时间：0\n"
-"有效范围：巴萨札\n"
-"豁免鉴定：无\n"
+"影响范围：巴萨札\n"
+"豁免检定：无\n"
 "\n"
-"眨眼之间，巴萨札就能将自己传送到视线范围内的任何地方。\n"
+"当使用眼难及时，巴萨札可以将自己传送到视线所及的任何区域。\n"
 "\n"
-"该能力每2轮可使用一次。"
+"该项能力每两轮可以使用1次。"
 
 #: description.tra:28
 msgid ""
@@ -2087,12 +2078,12 @@ msgstr ""
 "有效距离：触碰\n"
 "持续时间：特殊\n"
 "施法时间：0\n"
-"有效范围：1个生物\n"
-"豁免鉴定：无\n"
+"影响范围：被击中的生物\n"
+"豁免检定：无\n"
 "\n"
-"通过将气能量引导到攻击中，巴萨札可以撕碎对手的魔法防御。升龙拳有25％的几率解除9级以下所有的战斗防护和增益效果，25％的几率解除9级以下的魔法防护效果，以及50％的几率都解除。它还会使目标缓慢（带来防御等级+4不利，攻击检定则-4不利），持续2轮。\n"
+"通过将气的能量激发出去，巴萨札可以撕裂对手的魔法防御。升龙拳有25%几率摧毁所有九级以下的战斗防护或增强法术，有25%几率摧毁所有九级以下的抗魔法术，以及50%几率同时实现上述两种效果。此外升龙拳还会使对手缓慢，令其防御等级和攻击掷骰-4不利两轮。\n"
 "\n"
-"该能力每3轮可使用一次。"
+"该项能力每三轮可以使用1次。"
 
 #: description.tra:29
 msgid ""
@@ -2113,12 +2104,12 @@ msgstr ""
 "有效距离：0\n"
 "持续时间：2轮\n"
 "施法时间：1\n"
-"有效范围：巴萨札\n"
-"豁免鉴定：无\n"
+"影响范围：巴萨札\n"
+"豁免检定：无\n"
 "\n"
-"使用猛虎出柙时，巴萨札有50％的几率造成致命一击；除此之外，还可以击飞对手，并使其震慑1轮。\n"
+"当激活猛虎出柙时，巴萨札每次击中都有50%几率造成致命一击。另外任何被击中的对手都会飞出去，并且被震慑一轮。\n"
 "\n"
-"该能力每4轮可使用一次。"
+"该项能力每四轮可以使用1次。"
 
 #: description.tra:30
 msgid ""
@@ -2139,12 +2130,12 @@ msgstr ""
 "有效距离：0\n"
 "持续时间：1轮\n"
 "施法时间：1\n"
-"有效范围：巴萨札\n"
-"豁免鉴定：特殊\n"
+"影响范围：巴萨札\n"
+"豁免检定：特殊\n"
 "\n"
-"通过将气与巴尔后裔的本质结合，在接下来的一轮内，巴萨札的所有攻击都自动成为致命一击。在使用能力后的前3秒内，被击中的目标将立即死亡（通过对法术的豁免检定则无效）。\n"
+"通过结合巴尔神性与来自气的能量，所有巴萨札的攻击在一轮内都会造成最大伤害。在激活该项能力的前三秒内，任何被击中的人都会死，除非通过对法术的豁免检定。\n"
 "\n"
-"该能力每3轮可使用一次。"
+"该项能力每三轮可以使用1次。"
 
 #: description.tra:31
 msgid ""
@@ -2165,12 +2156,12 @@ msgstr ""
 "有效距离：触碰\n"
 "持续时间：4秒\n"
 "施法时间：0\n"
-"有效范围：1个生物\n"
-"豁免鉴定：无\n"
+"影响范围：被击中的生物\n"
+"豁免检定：无\n"
 "\n"
-"巴萨札将强有力的一脚踢向对手，将其踢飞；被踢飞的对手将因为冲击而受到4d8点伤害，并昏迷几秒。\n"
+"巴萨札可以使用强力的踢技击退他的对手，让他们飞翔于半空中。被击中者将受到4D8点伤害，而且会昏迷几秒钟的时间。\n"
 "\n"
-"该能力每2轮可使用一次。"
+"这项能力每两轮可以使用1次。"
 
 #: description.tra:32
 msgid ""
@@ -2186,55 +2177,55 @@ msgid ""
 "\n"
 "Balthazar receives one use of this ability whenever he enters the Lunar Stance."
 msgstr ""
-"月阴毒咒\n"
+"月阴诅咒\n"
 "\n"
-"有效距离：30呎\n"
+"有效距离：30尺\n"
 "持续时间：特殊\n"
 "施法时间：1\n"
-"有效范围：1个生物\n"
-"豁免鉴定：特殊\n"
+"影响范围：1个生物\n"
+"豁免检定：特殊\n"
 "\n"
-"受到月阴毒咒影响的生物的所有豁免检定都会受到-4的不利影响，持续40轮。除此之外，还必须以-2不利通过对法术的豁免检定，否则将被缓慢（防御等级+4不利，攻击检定则-4不利）2轮。\n"
+"受阴性诅咒影响的生物会在豁免检定上遭受-4不利的惩罚，持续40轮。另外它们必须以-2不利通过对法术的豁免检定，否则就会被缓慢2轮，同时防御等级和攻击掷骰-4不利。\n"
 "\n"
-"巴萨札每次进入月阴势时便能使用一次此能力。"
+"巴萨札每次进入月阴势都会获得使用该项能力的机会1次。"
 
 #: dream_mel.tra:419
 msgid ""
 "Oh, please. I saw you coming from a mile away. I just played along because I"
 " had no choice."
-msgstr "哦，拜托。我大老远就看见你了。我刚刚只能自娱自乐，因为没人来陪我。"
+msgstr "喔，拜托。我很远就看见你过来了。由于没有别的事情可干，所以我一直在等你。"
 
 #: dream_mel.tra:420
 msgid ""
 "Well, your plan didn't work out quite like you thought. Balthazar is still "
 "alive."
-msgstr "哎，你的计划并没有按照你设想的发展。巴萨札还活的好好的。"
+msgstr "好吧，事情并没有完全按照你的计划进行，巴萨札仍然活下来了。"
 
 #: dream_mel.tra:422
 msgid ""
 "Do you dare come and face me there? Or shall I have to hunt you down like "
 "the sorry dog that you are? Because make no mistake... one way or another, "
 "every last drop of that divine essence will be *mine*."
-msgstr "你敢过来直面我么？还是你要像丧家犬一样被我追的到处跑？万事俱备，只欠东风……不管怎样，剩下的所有神性本质终将是*我的*东西。"
+msgstr "你胆敢来此面对我吗？还是说我要永远像追一只丧家犬一样和你玩捉迷藏的游戏？最好给我小心点！不过无论如何，那些神性能量终将全部属于我。"
 
 #: dream_mel.tra:433
 msgid ""
 "As long as you did what you were required to and kill the Five, then I care "
 "little for what you think you know, fool."
-msgstr "只要你按照我说的做了并杀掉了五裔，那么我并不关心你以为你知道了什么，蠢货。"
+msgstr "只要你完成了我的要求并除掉五裔，我就不会再关心你自以为知道的东西，蠢货。"
 
 #: dream_mel.tra:434
 msgid ""
 "So you managed to corral Balthazar into co-operating with you? I'm "
 "surprised. In the end, however, the essence of one or two of Bhaal's get "
 "means very little."
-msgstr "所以你设法说服了巴萨札与你合作？真令人惊讶。不过说到底，少一两个巴尔本质也不会有多少影响。"
+msgstr "所以你试图说服巴萨札与你合作？这真令人惊讶。不过那对我来说已经不重要了，缺少一、两份神性能量并不会造成任何改变！"
 
 #: dream_solar.tra:230
 msgid ""
 "The one you know as Melissan was never a true member of the Five, godchild. "
 "She is no child of Bhaal."
-msgstr "你所知道的那个梅丽珊，她从来不是五裔的一员，神之子。她也不是巴尔之子。"
+msgstr "你所知道的梅丽珊并不是五裔的成员，神之子，而且她也不是巴尔的子嗣。"
 
 #: dream_solar.tra:231
 msgid ""
@@ -2242,19 +2233,19 @@ msgid ""
 " must understand what awaits you now at the end of your journey, godchild..."
 " and for this, the one you know as Melissan will explain for herself."
 msgstr ""
-"那个死去的神，巴尔，还没有复活，而且实际上，永远也不可能。你必须明白在旅途终点等你的是什么，神之子……为此，你所知道的那个梅丽珊将解释这一切。"
+"那位已殁之神，巴尔，还没有复活，也许他永远不会。但你必须理解是什么在你的旅途终点处等候着你，神之子……对于此事，那位被你称为梅丽珊的人将会向你说明一切。"
 
 #: dream_solar.tra:239
 msgid ""
 "You have parleyed with Balthazar, the greatest of the Bhaalspawn besides "
 "yourself, god-child. You are to be commended. Your journey is nearly at its "
 "end."
-msgstr "你已与巴萨札进行过了谈判，他是除你之外最强的巴尔后裔，神之子。很值得赞赏。你的旅途已接近尾声了。"
+msgstr "你已与巴萨札进行过谈判了，那位除你之外最强的巴尔之子。这值得受到褒奖。你的旅途就要接近尾声了。"
 
 #: dream_solar.tra:240
 msgid ""
 "Wait... what is Balthazar's part in all this? You knew I wouldn't fight him?"
-msgstr "等等……巴萨札究竟扮演了怎样一个角色？你早就知道我不会与他战斗？"
+msgstr "等等……巴萨札要在其中扮演怎样一个角色？你知道我不会杀死他？"
 
 #: dream_solar.tra:241
 msgid ""
@@ -2263,31 +2254,31 @@ msgid ""
 "returned to its source, and Melissan will seek to collect it. This is the "
 "challenge that awaits you."
 msgstr ""
-"你不需要和他战斗。其余的五裔都已经被击败了。只要巴萨札和你都活着，巴尔的神性本质就没有全部返回源头，那么梅丽珊一定会设法得到它们。这就是等待着你的挑战。"
+"你不需要和他战斗，其余的五裔都已经被击败了，但巴萨札和你还都活着。因此并非所有巴尔的神性能量都回归到了其源头。梅丽珊一定会试图得到这些神性能量，而这就是你最后的挑战。"
 
 #: dream_solar.tra:242
 msgid "But... Melissan is part of the Five, isn't she?"
-msgstr "但是……梅丽珊是五裔的一员，不是吗？"
+msgstr "但是……梅丽珊也是五裔的一员，不是么？"
 
 #: dream_solar.tra:243
 msgid ""
 "So Melissan has not collected enough of the essence, yet, to resurrect "
 "Bhaal, right?"
-msgstr "所以梅丽珊还没有收集到足够的神性本质，用来复活巴尔，对吗？"
+msgstr "这么说梅丽珊还没有得到全部的神性能量来复活巴尔，对吗？"
 
 #: dream_solar.tra:244
 msgid ""
 "So, Melissan seeks to be the last of the Bhaalspawn. Does she even plan on "
 "resurrecting Bhaal?"
-msgstr "那么说，梅丽珊寻求成为最后的巴尔后裔。她甚至打算复活巴尔吗？"
+msgstr "也就是说，梅丽珊想要成为最后一位巴尔之子，难道她还打算复活巴尔吗？"
 
 #: dream_solar.tra:245
 msgid "Another challenge. Alright, alright... let's just get this over with."
-msgstr "另外一个挑战。好吧，好吧……让我们快点结束这一切吧。"
+msgstr "又一个挑战。好吧，好吧……让我们快点结束。"
 
 #: dream_solar.tra:246
 msgid "You do not yet understand. But all shall become clear."
-msgstr "你还是不明白。但很快，事情就要明了了。"
+msgstr "你尚不明白，但事情很快就会清楚。"
 
 #: epilogues.tra:4001
 msgid ""
@@ -2313,9 +2304,7 @@ msgid ""
 "hoped her friend had been fortunate enough to find the peace that she had..."
 " for without <CHARNAME>, it would never have been possible."
 msgstr ""
-"艾黎在离开<CHARNAME>的队伍后继续冒险，通常她都是跟随大规模的队伍一同旅行，但有时也独自出击，用自身强大的力量去对抗被遗忘的国度中的奴隶制度。然而，她的同情心渐渐被复仇所污染，为她被监禁时所失去的、并且永远无法复原的东西而复仇。如果命运女神没有对她微笑，她可能会在复仇中完全失去自我。传说中，怀着正义怒火的艾黎，单枪匹马地摧毁了科米尔北部山区的一个奴隶飞地。在那里，她惊讶地发现了一群被俘虏的翼精灵，并马上释放了他们，作为回报，那群翼精灵邀请艾黎返回了她久违的家——芬雅-"
-"戴尔。而她在那里学到许多事。最重要的是，她认识到了自己已经不再是翼精灵族真正的一员，而且不再执着于她早已失去的翅膀。芬雅-"
-"戴尔已不再是她的家，艾黎怀着复杂的心情告别了那里。据说艾黎最后来到了地石城－－她的导师奎里有时会提到的一个侏儒村庄落，并担任了那里的高阶女祭司。奎里早已成为她真正的家人，并且正是在他的同胞中，她终于找到了幸福，以及她一直渴望的家人。也有传闻说，在每个繁星点点的夜晚，艾黎都在为她的老朋友<CHARNAME>祈祷。她真诚地希望她的朋友有幸找到她所拥有的平静……因为没有<CHARNAME>，现在的一切都是不可能的。"
+"离开<CHARNAME>_的队伍以后，艾黎继续着自己的冒险。在旅途中，尽管她竭尽全力对抗奴隶制度，但强烈的复仇心终究还是玷污了她的那份同情心。艾黎为了她自被捕而成为奴隶起所失去的一切而展开报复。若不是因为在科米尔偶然遇到一群同样被捕捉的翼精灵，艾黎可能已经因复仇的意志而完全丧失了自我。之后那群翼精灵把艾黎送回了芬雅·戴尔，那是艾黎被掠夺以后离开了很久很久的家。在那里艾黎学到了很多，但最重要的是，她终于清醒地认识到自己已经不再是翼精灵中的一员，她也不再怀念曾经失去的那对翅膀。最后，艾黎来到了石下城——她的导师奎里过去经常提起的一座侏儒城市，并在那里成为了一名高级牧师。在这座城市里，艾黎感觉她找到了真正属于自己的家，她再次寻回了那份心灵的平静。之后的日子里，每当夜里繁星点点闪亮的时候，艾黎都会为<CHARNAME>_真诚地祈福，希望他能早日找到属于自己的归宿……毕竟没有<CHARNAME>_，就没有现在的她。"
 
 #: epilogues.tra:4002
 msgid ""
@@ -2339,11 +2328,9 @@ msgid ""
 "<CHARNAME> and Aerie, tutored by two of the Realm's most powerful beings, "
 "their own destiny would be a tale to rival their father's..."
 msgstr ""
-"艾黎和<CHARNAME>会证明是他们两人是不可分离的，他们在随后的许多年里仍在继续他们的冒险。艾黎对旅行的热情使他们俩人走遍了费伦的各个角落，甚至是更远的地方。他们年幼的儿子总是紧随其后，每当他睁大了眼睛、对这个世界上的种种奇观充满敬畏时，总使<CHARNAME>露出会心的微笑。最终，这对夫妇安定下来，随后又生下了一个漂亮的女儿，这成为了他们生命中的第二个喜悦。尽管没有多少麻烦需要<CHARNAME>和艾黎用他们强大的力量去对抗世界的邪恶，但每一次这样的战斗都会成为传奇。他们晚年时进行了最后一次伟大的旅程，因为艾黎仍然为她被奴役的时光和失去的翅膀而感到悲伤。她和<CHARNAME>一起追寻芬雅-"
-"戴尔的翼精灵，很久以前她从那些翼精灵里被拐走。他们不仅找到了她的同胞，还有花费许多年去找寻他们遗失女儿的亲爱父母。艾黎终于找到了她的家人。在那里，在那云雾中，再也没有秘密和迷惑会让他们的生活蒙上阴影，艾黎和<CHARNAME>终于可以成婚。据说，他们的结合受到了爱尔德莉·菲恩雅和贝尔凡·野地漫游者二者的目光所祝福。作为<CHARNAME>与艾黎的孩子，由被遗忘的国度里最强大的两个人抚养，他们今后的命运一定是可与其父亲相匹敌的传说……"
+"事实证明，艾黎与<CHARNAME>_是不可分割的，艾黎对冒险的热衷驱使二人走遍了费伦的所有角落。每当看到随行的小儿子睁大双眼看着这个世界上的各种奇观时，<CHARNAME>_和艾黎总是共同发出会心的微笑。当这一对坚贞的伴侣安顿下来后，随后到来的小女儿成了他们生命中的第二个惊喜。在以后的生活中，尽管没有多少麻烦需要<CHARNAME>_和艾黎动用他们强大的力量，但每一次这样的战斗都会成为一段被人津津乐道的传奇。不过，惊喜之余，艾黎偶尔还是会对曾经被捕成为奴隶并失去翅膀而感到伤心。因此他们又进行了最后一次艰辛的冒险，这一次艾黎与<CHARNAME>_决心要找到他们真正的归宿——居住着翼精灵的芬雅·戴尔——那个很久以前艾黎被掠夺的地方。最后，他们终于来到了这里，不仅找到了艾黎的同族，而且还见到了那对正在苦苦搜寻自己失踪女儿的夫妇——艾黎的父母。没有任何难以理解的神秘与困惑，但艾黎与<CHARNAME>_的确就在云雾之中举行了婚礼。他们的结合，据说得到了圣洁女神爱尔德莉·菲恩雅以及侏儒之神贝尔凡·野游者共同的祝福。作为<CHARNAME>_与艾黎的孩子，被这座国度里最强大的两位人物所抚养长大，他们今后的命运一定是可与其父亲相匹敌的传说……"
 
 #: epilogues.tra:4003
-#, fuzzy
 msgid ""
 "Eventually parting ways with his companions, Anomen would enter the "
 "hierarchy of Helm's church, over time rising to the rank of High Watcher. He"
@@ -2368,9 +2355,7 @@ msgid ""
 "be regarded as a hero, inspiring the creation of a protective order of "
 "knights in his name. A new order for a new land."
 msgstr ""
-"阿诺门与他的朋友们分开后，继续侍奉海姆，并成为教廷的高级守望者。每当阿诺门回忆起与<CHARNAME>冒险的日子，都觉得热血沸腾，尽管朋友们常常开导他，但阿诺门从未感觉教堂是自己真正的归宿，直到有一天他意识到了自己应该有所改变。于是，他离开了教廷的工作，以一个传教士的身份去探索遗忘国度，不过他仍然是一个麻烦的种子。他强大的能力为他赢得了很多新朋友的尊敬，他仍不感觉满足。在强大的邪恶牧师亚马斯聚集了一批恶魔想要毁灭马兹提卡时，阿诺门终于找到了他的人生目标：他自己担负起了组织军队的任务，在聚集了当地土人与所有可利用的资源后，"
-" "
-"阿诺门平静的加入了战斗，尽管没有<CHARNAME>和其他的战友陪伴，但他勇敢的独自面对了这邪恶的狂潮。据后来者说，在战斗中他流出了喜悦的眼泪，当他最后面对亚马斯时，大声呼唤海姆的名字，并引导了一束眩目的光柱照在两人中间。当能看清东西时，亚马斯和阿诺门都消失了，阿诺门以自己的牺牲换来了这场战斗的胜利，马兹提卡获救了，而阿诺门被永远尊崇为一个英雄，他的精神被灌输给一个以他的名字命名的骑士团――这块土地的新秩序。"
+"阿诺门与他的朋友们分开后，继续侍奉着海姆，随着时间流逝终于升为了总督察者。每当阿诺门回忆起与<CHARNAME>_冒险的日子，总觉得热血沸腾……尽管朋友们常常开导他，但阿诺门从未感觉神殿是自己真正的归宿，直到有一天他意识到了自己一定要有所改变。于是，他放弃了神殿的工作，以一个传教士的身份开始在整个国度里漫游，不过他仍然是一颗麻烦的种子。他强大的能力为他赢得了很多新朋友的尊敬，但这仍不能让他感到满足。而当恐怖的邪恶牧师亚马斯聚集了一批恶魔想要毁灭玛兹提卡时，阿诺门终于找到了他的人生目标。他一个人担负起了组织军队的任务，聚集了当地的原住民和所有可利用的战略资源后，阿诺门镇定地加入了战斗。尽管没有<CHARNAME>_和其他的战友们陪伴身旁，但他仍然勇敢地独自抵挡了这次邪恶的冲击。据说，在战斗中他流出了喜悦的眼泪。当他最后面对亚马斯时，阿诺门大声地呼唤了海姆的名字，之后一束眩目的圣光突然闪现，照耀在二人中间。当一切尘埃落定后，亚马斯和阿诺门都消失了。阿诺门牺牲了自己的性命换来了这场战斗的胜利，玛兹提卡获救了，而阿诺门被永远尊崇为一个传奇。他的精神被灌注给了一个以他的名字命名的骑士团——维护着这块土地的新秩序。"
 
 #: epilogues.tra:4004
 msgid ""
@@ -2394,7 +2379,7 @@ msgid ""
 "tutored by two of the greatest heroes in the Realms, forge a legend to rival"
 " that of her mother's. That, however, is another story completely..."
 msgstr ""
-"阿诺门和<CHARNAME>继续着他们的冒险，所到之处都把他们视为英雄。有很多宏伟的故事都与这位闪光骑士和他全心全意奉献的那位伟大女士有关。因为新的事迹取代了旧的传说，<CHARNAME>作为可怕的巴尔后裔的过去被永远遗忘了，而他们所创造的传奇故事远远超过了神的血统所赋予的任何东西。他们的事业是如此成功，以至于他们预定的婚期一再延后，有时是为了应对一场迫近的危机，或者是为了进行一次有意义的冒险。最后，<CHARNAME>和她的爱人决定相守一生的日子终于来临了，而这件被广为宣传的消息吸引来了费伦大陆的许多英雄及政要。这一对新人遇到了许多客人，他们都见证了伊尔明斯特亲自以博德之门有史以来最华丽的仪式为两人所主持的婚礼。阿诺门和<CHARNAME>在庆祝他们女儿出生的不久之后，很快便从公众视线中消失了，但如果传说是真的，那么他们的冒险从未真正结束。阿诺门在教会里晋升了高位，而<CHARNAME>仍是他们一生中奇怪事件的中心。当然，作为他们的女儿，由被遗忘的国度里最强大的两个英雄抚养，她铸就了一个可以与她母亲相媲美的传奇。然而，这完全就是另一个故事了……"
+"在巴尔事件结束之后，阿诺门和<CHARNAME>_继续着属于他们的冒险，直到二人所去的各处都有认识他们的故人。很多传说都是关于这位忠贞的骑士和他所为之奉献的女士。当他们的新事迹代替了从前的旧传说时，<CHARNAME>_作为巴尔之子的黑暗往事永远地被人们遗忘了。由于各种原因，以至于他们预定的婚期一再延后，其中要么是为了应付一场突如其来的危险，要么就是因为两人中的一个坚持要完成一次有意义的冒险。最后，<CHARNAME>_与阿诺门终于定下了婚期，这个消息引来了费伦大陆的许多政界要人还有四方的英雄参加。这对新婚夫妇遇到了许多令人尊敬的客人，而这些客人们也有幸见到了伊尔明斯特为<CHARNAME>_和阿诺门所亲自主持的这个博德之门有史以来最大的婚礼。在阿诺门和<CHARNAME>_为他们的女儿出生庆祝后，二人便从公众的瞩目中隐退了。阿诺门在海姆神殿里成为了总督察者，而<CHARNAME>_则继续扮演各种奇怪事件的中心人物。当然，作为<CHARNAME>_与阿诺门的孩子，被这座国度里最有力量的两个人抚养，他今后也一定会创造一个可与其母亲相匹敌的传说，不过那是另一个故事了……"
 
 #: epilogues.tra:4005
 msgid ""
@@ -2423,7 +2408,7 @@ msgid ""
 "the grove around it would turn the grimmest shade of red, a reminder that "
 "even the most flawed amongst us may eventually find their balance."
 msgstr ""
-"瑟恩在告别了冒险生涯后回到了他在泰瑟尔的丛林中，承担起抚养他的儿子阿斯戴尔的责任，这是他认为作为一个父亲所应做的。瑟恩最终成为了大德鲁依，他不仅为维持自己丛林的平衡而战，而且为保护被遗忘的国度内所有种族的生命尊严而战，因此他的名声响彻了被遗忘的国度。后来瑟恩懊悔地发现，在他专注于自己的职责时，他忘记了对阿斯戴尔的承诺。此时阿斯戴尔已经离开丛林很久了，瑟恩打听到，他的儿子已成为了一个邪恶而扭曲的巫师，并且并领导一支军队威胁着剑湾。在决定了独自一人承担这个责任后，瑟恩郑重地辞去了大德鲁依的职务，并踏上了搜寻他儿子的道路。他驱使着极其猛烈的自然力量与儿子的军队进行了多场战斗，所有亲眼目睹过的人都认为是这是传奇。瑟恩终于在泰瑟尔森林的深处直面阿斯戴尔，并做了最后一次努力去劝说他远离歧途。阿斯戴尔拒绝了，瑟恩与他唯一的儿子进行了一场漫长而可怕的战斗，最终两人都死了。在瑟恩一息尚存时，泪水从他的脸上流了下来，他爬到阿斯戴尔的尸体旁边握住他的手，乞求儿子的原谅。瑟恩的灵魂溶入了森林中的一棵大橡树，人们相信这棵不朽的橡树将永远屹立不倒，在它的周围还长出了一片美丽到令人叹为观止的丛林，这片丛林成为了被遗忘的国度中最稀有的魔法生物的家园。每年秋天，大橡树和它周围的丛林都会变成阴郁的暗红色，这提醒着人们，即使是我们当中最有缺陷的人，也能最终找到平衡。"
+"瑟恩在完成冒险后回到了他在泰斯尔森林的家，尝试承担起一位父亲所应履行的义务——抚养他的儿子阿斯戴尔。此后瑟恩不只为自己的森林维护平衡，还帮助整个费伦国度的人们开迷解惑，这使他终于成为了大德鲁伊。可是当瑟恩最终发现，由于他的精力过多地放在对于维护平衡的责任上，而忘记了对阿斯戴尔的承诺时，阿斯戴尔已经离开森林很久了。瑟恩的儿子最终成为了一位掌握着纠缠符记会的强大邪恶巫师，并且领导着一支威胁着剑湾的恐怖军队。瑟恩觉得这一切都是自己的错，于是他庄重地辞去了大德鲁伊的职务。并开始踏上了追寻阿斯戴尔的旅途。瑟恩与他儿子的恐怖军队进行了多场殊死的战斗，其中他所驱使的强大自然力量被目睹的人们称为“奇迹”。终于瑟恩在泰斯尔森林深处见到了阿斯戴尔，并在那里做了劝说阿斯戴尔改变心意的最后一次努力，然而阿斯戴尔毫不犹豫地拒绝了他的父亲。在接下来的惨烈战斗中瑟恩选择与他唯一的孩子同归于尽。当瑟恩在最后的弥留之际时，一息尚存的他流着泪爬到阿斯戴尔身边握住他的手，乞求儿子的原谅。在瑟恩死后，他的精神溶入了森林中一棵古老的橡树，在这棵橡树的周围形成了一团奇迹般的树丛，如今这片树丛已经成为国度里最珍罕的魔法生物们的家园。每年秋天，这团树丛的周围都会变成令人心碎的深红色，使人禁不住为瑟恩心中那个最大的遗憾而惋惜。"
 
 #. LEAVE empty space in translation
 #: epilogues.tra:4006 epilogues.tra:4011 epilogues.tra:4012 epilogues.tra:4013
@@ -2432,7 +2417,6 @@ msgid " "
 msgstr " "
 
 #: epilogues.tra:4007
-#, fuzzy
 msgid ""
 "Haer'Dalis found traveling with <CHARNAME> a fine introduction to the "
 "Realms, and once they parted company he was eager to see more. He visited "
@@ -2456,23 +2440,21 @@ msgid ""
 "finally settle down for once. Until the next misunderstanding occurred, of "
 "course."
 msgstr ""
-"海尔达利发现与<CHARNAME>在一起的冒险旅程是对遗忘国土的人们吟唱的最好故事题材了，而在离开<CHARNAME>所率领的队伍后他还想见识更大的世界。他旅行经过了许多的地方，包括深水城，无冬城，还有萨尔，旅途中他传诵着<CHARNAME>的传奇故事...然而不知何故他总是处在传奇的中心位置．而每次旅行的结果几乎都是无端卷入当地的风波然后仓皇出逃。尽管说这位吟游诗人承认他只是了解一小部分其他位面居民的怪癖，但他还是渴望去其他位面旅游。后来他遇上了一位女性黑暗骑士，并与她一起回到了深渊，并因无意间领导了地狱中的几场叛乱而结束地狱之旅。后来，在谈到这件事时他常常会笑起来：他强迫恶魔领主格拉兹特坐到谈判桌前，这对恶魔来说这是一个滑稽且尴尬的位置，然而他从未就此事给过一个肯定或否定的回答。尽管他是多个位面的通缉犯，但敌人的愤怒追捕丝毫没有减少他对于流浪生活的爱好，最后他终于毫发无伤地回到了印记城。在那里他又加入了瑞伊斯的剧团，并从此安顿下来，当然可能的话，他还是盼望着能有下一次“不幸的旅行”。"
+"海尔达利发现与<CHARNAME>_在一起的冒险旅程是能够对国度的人们所吟唱的最好的故事题材了，而在离开<CHARNAME>_所率领的队伍后他还想见识更广阔的世界。他旅行经历过了许多地方，包括深水城、无冬城、还有塞恩。旅途中他传诵着<CHARNAME>_的传奇故事……然而不知何故在故事里他却总是超越后者而处在传奇的中心位置。不用说每次旅行的结果几乎都是被无端卷入当地的风波然后仓皇出逃。尽管这位吟游诗人承认他只是了解一小部分其他位面居民的怪癖，但他还是渴望能去更多的位面进行旅游。他遇上了一位女性黑暗骑士，并与她一起回到了深渊，又因无意间领导了地狱中的几场叛乱而结束了地狱之旅。后来，在谈到这件事时他常常会大笑起来：他强迫恶魔领主格拉兹特坐到谈判桌前，这对恶魔来说真是个相当滑稽且尴尬的位置。同样他也从未就此事的真实性给予过任何肯定或否定的答复。尽管他是多个位面的通缉犯，但敌人的愤怒追捕丝毫没有减少他对于流浪生活的爱好，最后他终于毫发无损地回到了印记城。在那里他又加入了瑞伊斯的剧团，并从此安顿了下来。当然可能的话，他还是盼望着能有下一次“不幸的旅程”。"
 
 #: epilogues.tra:4008
 msgid ""
 "And what of Imoen, the eternal child? She had been through much during her travels with <CHARNAME>, things that she would refuse to discuss later in life, but her spirit had never been broken. She parted ways from her companions to seek her own destiny, out from under the shadow of her <PRO_BROTHERSISTER>. She returned to Candlekeep for a short time, her formidable skill in magic granting her a greater appreciation for its tomes. Here she could remember simpler times with <CHARNAME> and Gorion, and feel glad that she had followed in her foster-father's footsteps. Though asked to remain, Imoen eventually decided that Candlekeep was much smaller than she remembered and left to pursue adventures abroad.\n"
 "Many are the tales of the archmage that Imoen became. She wore many other names throughout her life, some mysterious and foreboding while others odd and quirky considering the power this great woman possessed. Anyone who had known Imoen in her youth would immediately recognize her despite any name, however... no amount of age or wisdom could disguise the mischievious twinkle in her eyes or the ready grin to greet a friend. She became the confidante of Khelben \"Blackstaff\" Arunsun and was oft-associated with a tale involving the great Elminster, supposedly picking the sage's pocket one day and then leading him on a merry magical chase across Faerun for four months. The exact truth of the tale is unknown... though it's certainly not unlike Imoen to encourage an old codger to not be such a stick-in-the-mud, and her later friendship with Elminster is well-documented. Later tales say Imoen founded a thieves guild that operated all the way to Neverwinter, sparred with the Shadow Thieves and the Zhentarim and even duelled a dragon because (so the story goes) \"he was rude\". At times, Imoen was known to think back on her old friend, <CHARNAME>, and smile sadly... and then immediately be possessed with a wickedly funny thought that would propel her onto her next scheme. It seems that some people, thankfully, will never change."
 msgstr ""
-"至于爱蒙，那个长不大的女孩呢？在爱蒙与<CHARNAME>旅行的过程中，尽管她所经历的很多事后来她都拒绝讨论，但她的乐观精神始终没被破坏。她离开了同伴去寻找自己的命运，也为了走出她<PRO_BROTHERSISTER>的阴影。她回到烛堡住了一小段时间，她在魔法上令人敬佩的技巧应当归功于烛堡的藏书。在这里，她可以回忆起与<CHARNAME>和葛立安一起度过的简单时光，并为自己追随养父的脚步而感到高兴。爱蒙发现烛堡比她记忆中渺小，尽管烛堡的人一再挽留，她还是决定离开烛堡，去外面追寻冒险。\n"
-"爱蒙后来成为了大法师，有很多关于她的传说。鉴于她所拥有的力量，这位伟大的女人在一生中使用了许多其他的名字，有些名字神秘而不祥，而另一些则奇怪而诡异。然而无论她用什么名字，任何在爱蒙小时候就认识的她的人都会立刻认出她来……无论多大的年纪和智慧，都无法掩饰她眼中顽皮的闪烁或准备迎接朋友的笑容。她成为凯尔本·“黑杖”·奥罗桑的红颜知己，并且常常牵扯进一个与伟大的伊尔明斯特有关的传说，据说有一天她偷了那位贤者的口袋，然后牵着他在费伦进行了四个月的快乐魔法追逐战。没人知道这个故事的确切真相……但鼓励一个怪老头放弃顽固保守的态度像是爱蒙的作风，她和伊尔明斯特的友谊也有据可查。后来的传说表明，爱蒙建立了一个操纵着无冬城的盗贼公会，并与影贼和散塔林会对峙，甚至与龙决斗，因为（传说是这样说的）它“太无礼了”。有时，爱蒙会回想起她的老朋友，<CHARNAME>，并悲伤地笑起来……然后立刻着手于一个调皮有趣的想法来推进她的下一个计划。谢天谢地，看起来有些人永远不会改变。"
+"爱蒙怎么样了？那个永远顽皮的小女孩？在爱蒙与<CHARNAME>_旅行的过程中，爱蒙经历了许多自己都设想不到的事情。尽管在之后的日子里她总是拒绝公开谈论这些经历，但她的乐观精神始终一如既往。在她离开了她的同伴后，她走出了失去<CHARNAME>_的阴影，并开始寻找属于她自己的真正命运。爱蒙回到烛堡待了一段时间，其渊博的知识让烛堡的藏书都相形见绌。在这里她可以回忆与<CHARNAME>_和葛立安一同度过的短暂而美好的时光，并且为自己走上了与养父相同的道路而感到高兴。尽管烛堡的人们一再挽留，最后她还是决定离开并继续属于自己的冒险。虽然爱蒙一生中使用过许多化名，有些很神秘，有些则很离奇甚至荒诞，然而从小就认识爱蒙的人都会立刻认出她。因为无论她用什么名字，无论多大年龄或是展现出多少智慧，都无法掩饰她眼中顽皮的闪光或是友善而天真的微笑。在关于她的传说中，爱蒙成为了凯尔本·黑杖的朋友，并且经常出现在有关伊尔明斯特的传言中：偷走那位贤者的东西，然后和他展开长达四个月的贯穿整个费伦的魔法追逐。当然确切的事实无人知晓……尽管捉弄这位老法师不像是爱蒙的风格，但她和伊尔明斯特的良好关系的确是众所周知。后来的传说表明，爱蒙建立了一个盗贼工会，只身同影贼和散塔林会较量并最终控制了无冬城的商路。她甚至单独击败了一头巨龙，因为它（传说中如此）“实在太傲慢了”。有时，爱蒙会回想起她的老朋友——<CHARNAME>_，并悲伤地付之一笑，然后立刻带着顽皮的想法继续实施她的下一个计划。感谢上天，让有些人看起来永远不会改变。"
 
 #: epilogues.tra:4009
 msgid ""
 "The events of the Bhaalspawn saga affected Jaheira deeply. It was her duty to protect the greater balance of things, but in the years to come she found an increased portion of that fight occurring within her own mind. Witness to great change while in <CHARNAME>'s company, she had become acutely aware of how fleeting life was, and how the loss of those she held dear ate away at her thoughts. In time she would be known as a tireless champion of balance, one that sometimes acted in concert with the Harpers and sometimes did not. Jaheira operated quietly, appearing when needed and moving on when not. Many called out to her for leadership, but always Jaheira would deny that she was capable of such and say that there was somewhere else that needed her aid more. She remained distant and guarded, never staying long in any one place. It is said that she crossed the Forgotten Realms thrice over, always wandering and always searching... until finally she began to wonder what it was, in truth, that she was searching for.\n"
 "What happened to Jaheira later in life is not well-known. Some say that Elminster eventually came to her and convinced her to take her place amongst the greatest commanders of the mysterious Harpers. Some say that she fell in battle against a great lich that threatened to defile the northern forests. Some also say that she went in search of <CHARNAME>, traveling to lands far beyond our own. Whatever happened to her, Jaheira never did return to either the Sword Coast or Tethyr ever again."
 msgstr ""
-"巴尔后裔的传奇深深地影响了贾希拉。尽可能保持事物的平衡是她的责任，但随着时间的流逝，她发现她内心的交战不断增加。在与<CHARNAME>旅行时她目睹了巨大的变化，她敏锐的意识到了生命是多么短暂，而她又失去了多少珍视的事物。最后，她成为了永不疲倦的平衡守护者，有时会和竖琴手一起行动而有时候不会。贾希拉总是默默地行动，当需要时她就出现，不需要时她就离开。许多人呼吁她担任领导职务，但贾希拉总是否认她有这样的能力，并说还有其他地方更需要她的帮助。她保持着距离与警惕，从不在某个地方作长期停留。据说贾希拉曾经三次横穿被遗忘的国度，一直在徘徊，一直在寻找……直到她最后开始思考她究竟在寻找什么。\n"
-"很多人都不知道贾希拉晚年发生的事情。有人说伊尔明斯特最终找到了她，并说服她成为了神秘的竖琴手同盟的最高领导人之一。也有人说她是在与一个危及北方森林安的强大巫妖战斗时战死的。还有人说她踏入了遥远的土地去寻找<CHARNAME>。但无论发生了什么，贾希拉再也没有回到过泰斯尔和剑湾。"
+"跟随巴尔之子的传奇旅行对贾希拉产生了深远的影响。维护万物的平衡是她的职责，然而随着时间的推移，她也逐渐发现自己的思想正在与这种职责进行着斗争。在与<CHARNAME>_的旅程中她目睹了许多巨变，感觉到生命是如此的短暂，而她又失去了多少值得珍爱的美好事物。但时间会证明，她将会成为一名永不疲倦的平衡守护者，她有时会与竖琴手同盟成员行动且保持协调一致，而有时又选择脱离他们。许多人希望她能出面承担领袖的职责，但她却总是推辞说不适合这样的位置，并以其他地方还有人需要自己为由而拒绝。贾希拉总是与人群保持着距离与警惕感，从不在任何一个地方逗留很久。据说她曾经三次穿越被遗忘的国度，总是在寻觅与彷徨中追寻着，直到有一天她开始思考自己究竟在寻找什么。很多人都不知道她最后发生了什么，有人说伊尔明斯特终于劝说她来领导神秘的竖琴手同盟；也有人说她在对抗一个威胁北方森林安全的强大巫妖时战死了；还有人说她最后走上了寻觅<CHARNAME>_的道路。但无论发生了什么，贾希拉都再也没有回到过剑湾或是泰斯尔森林。"
 
 #: epilogues.tra:4010
 msgid ""
@@ -2500,7 +2482,7 @@ msgid ""
 "would grow to forge a destiny of his own to rival his father's. That, "
 "however, is another tale..."
 msgstr ""
-"在巴尔后裔传奇结束后的这几年，贾希拉的生活还算不错。虽然他们之间并非毫无摩擦，但无论如何她和<CHARNAME>的亲密关系总能将之化解。两人的结合是坚定不移的，即使责任或冒险可能会使他们暂时分开一段时间甚至是几年，但最后总会回到彼此的身边。贾希拉的朋友们惊讶于她是如此地信任<CHARNAME>，特别是想到她最开始的拒绝，每当回想起最初那些犹豫不决的日子时，她只是付之一笑。毕竟，她和<CHARNAME>一起去过地狱又回来了，即使是神也不能分开这二人，单纯的时间和距离又算得了什么呢？贾希拉在竖琴手同盟里升到了很高的级别，她常常在组织里发出智慧和理智的声音。她成为了广为人知女英雄和调解人，虽然她会长期离开，并与<CHARNAME>一起前往被遗忘的国度的某个遥远角落，也没有人感到惊讶。有人看到他们出现于无冬城、拉西曼、南部大草原，甚至邱尔特丛林。最后贾希拉因为争吵而离开了竖琴手组织，并为与他们分道扬镳而松了一口气，随后她致力于抚养<CHARNAME>的新儿子。<CHARNAME>经常来看他们，并陶醉在做父亲的喜悦中……但他的旅行欲望常常又把他带回到路上。虽然贾希拉并不总陪伴在<CHARNAME>的身边，也不常分享他的胜利和成就，但她从未真正地离开过他。而<CHARNAME>的儿子呢？由被遗忘的国度里最强大的两个人抚养，他当然会铸就一个与其父亲相匹敌的命运。不过，这就是另一个传说了……"
+"在与巴尔有关的那段旅途结束后的几年里，<CHARNAME>_与贾希拉是恩爱的。虽然并非没有摩擦，但他们亲密的感情很快就将之淡化了。他们的结合是无法撼动的，虽然任务或探险活动可能将两人暂时分开一段时间，有时甚至是几年，但是最后他们还是会再度相聚到一起。贾希拉对<CHARNAME>_所表现出的坚定信任使她的朋友们感到非常惊讶，尤其是他们考虑到起初贾希拉对<CHARNAME>_的拒绝时。每当回想起曾经那些小心翼翼的日子时，她总会对之轻轻一笑。毕竟，她与<CHARNAME>_一起去过地狱而又一起回来了，神也不能将他俩分开，更何况是这区区一点时间和距离上的分别？贾希拉在竖琴手同盟里升到了很高的级别，常常作为组织里智慧与理性的发言人．她成了广为人知的仲裁者。她与<CHARNAME>_经常进行长时间的旅行。他们出现在无冬城、拉夏蒙、南部大草原甚至邱尔特丛林。但最终贾希拉还是因为意见不合而离开了竖琴手同盟，全身心致力于抚养她与<CHARNAME>_所生的儿子。<CHARNAME>_常常来探望母子二人，并因为孩子的降临而狂喜不已。然而<CHARNAME>_不息的冒险精神又常常把他带回到前进的路上。虽然贾希拉并不总是陪伴在<CHARNAME>_身边，也因此不能分享他胜利的喜悦，但她从未真正离开过他。至于那位孩子，那个被国度中最强大的两位人物所抚养长大的人会怎样？他当然会铸就一段与其父亲匹敌的传奇，不过，这是另外一个故事了……"
 
 #: epilogues.tra:4014
 msgid ""
@@ -2527,15 +2509,14 @@ msgid ""
 "settled down and had no children, but her legacy was one that would go on to"
 " inspire her people for generations to come."
 msgstr ""
-"玛兹·芬顿和<CHARNAME>一起面对的危险并没有阻止她对于冒险的渴望。事实上，在泰斯尔的事件结束后不久她就组建了芬顿骑士团，一支在国度上创造了许多英勇事绩的坚毅队伍。在鼓励她的伙伴们要勇敢时，或者当他们与怀疑和诱惑作斗争时，玛兹总是会提到<CHARNAME>的名字。<CHARNAME>是玛兹所知道的最高尚的<PRO_MANWOMAN>，而这个半身人骑士感到，努力不辜负她老朋友的传说是她的职责。芬顿骑士团和巨魔战斗并拯救了陷入危险的城镇，击退潮水般的兽人以保护古老的森林，在一只恶龙的巢穴面对它只为了使世界更安全。他们的传奇比生命更有意义，对玛兹而言更是如此。有人说如果勇气可以用尺寸来丈量的话，那么她就有二十尺高。众所周知，玛兹的最高成就是她在至热之心骑士团的大厅中接受名誉圣骑士的称号。她是第一个获此殊荣的半身人，确切来说是非人类种族，当年迈的团长将骑士团的最高荣誉放在她的肩膀上时，玛兹自豪的泪水平静地从脸上流了下来。据说玛兹在仪式期间常常扫视人群，在所有能够出席的老朋友之中，她最想看到的还是<CHARNAME>的脸。尽管经历过种种危险，直到晚年玛兹仍安然无恙。她从未定居也没有子女，但她的传说将在她的人民中代代相传下去。"
+"与<CHARNAME>_在一起的冒险旅程中所碰到的危险根本没有阻止玛兹对于探索的渴望，事实上，当玛兹在泰斯尔组成芬顿骑士团后不久，他们的英勇故事就开始在国度中流传。玛兹常常用<CHARNAME>_的事迹来激励她身边的伙伴，为他们注入勇气，或是驱除他们的疑虑。<CHARNAME>_是玛兹所知道的最高尚之人，而这位半身人骑士也深刻地感到继续她朋友的传奇故事是她职责的一部分。玛兹曾与她的骑士团在对抗巨魔时挽救了深陷危难的村镇；击退了浪水般的兽人大军而保护了古老的森林；在龙的巢穴战胜了一条恶龙从而使世界更加和平与安宁。他们的故事总是令人印象深刻，尤其是玛兹。有人说，如果勇气可以用尺寸来衡量的话，那玛兹就有二十尺高。众所周知，玛兹的最高成就是在至热之心骑士团接受名誉圣武士的称号——从来没有半身人，甚至非人类种族获得过这个称号。在接受年迈的高阶导师所颁发的勋章时，玛兹自豪的眼泪平静地从脸上流下。在为玛兹庆祝的人群中，所有的老朋友都到场了，但她最想看到的还是<CHARNAME>_的面孔。经历了一生的风风雨雨后玛兹平静地活到了晚年。出于某些原因，她从未成家，也并未有过子女。但玛兹的传奇事迹将永远流传在她的人民心中。"
 
 #: epilogues.tra:4016
 msgid ""
 "Nalia grew quite powerful after her association with <CHARNAME>. Initially she traveled, slaking her thirst for magical lore by associating with some of the greatest wizards across the Realms. She sought to use her great power to bring justice to the land, but over time found that if her time with <CHARNAME> had taught her anything, it is that such power must be tempered with wisdom or it is useless. She could strike out at evil as she wished... it did not always help the needy, as she thought it would, and after a year of travel she remembered that there was a far better way that she could be of service to her people.\n"
 "Nalia returned to Amn and her family home of de'Arnise Hold. She found it in the control of none other than Isaea Roenal, but she was no longer the wayward child that he expected, and single-handedly brought him to justice for his indiscretions. She declared herself the inheritor of her father's ducal title, and for once there was no argument from the local nobility. They snubbed her and her magic, and initially rejoiced when the Cowled Wizards sought to remove her from power. Nalia demonstrated to them all that she was no-one to trifle with, however, and the Cowled Wizards learned to fear her name. Over time Nalia became a beloved ruler, respected archmage, and eventually earned a seat on the Amnish Council of Six itself. The nobility grew to rely on Nalia's leadership, and she would become a prominent figure in Amn for many years, constantly fighting for the good of the common folk and making many frustrated enemies among the nobility and Cowled Wizards both. Nalia would die many years later, surrounded by a loving family... her last words would be to thank <CHARNAME> for so long ago showing her the true path she needed to walk."
 msgstr ""
-"娜里亚在与<CHARNAME>共同冒险后成长了许多。她开始去旅行，与被遗忘的国度中一些最伟大的法师来往，用以满足她对魔法知识的渴望。她寻求用她的强大力量为这片土地伸张正义，但随着时间的推移她发现，如果说与<CHARNAME>相处的时间教会了她什么，那就是这种力量必须用智慧来锻炼，否则它毫无用处。她可以随心所欲地打击邪恶……但这并不是一直如她所想的那样帮助有需要的人，经过一年的旅行，她想到了有一种更好的方法可以为她的人民服务。\n"
-"娜里亚回到了安姆和在德阿尼斯堡的家。她发现那里正被伊赛亚·罗诺尔所控制。但娜里亚不再是他眼中那个任性无知的孩子了，她亲手使他为他的行为受到了制裁。她同时宣布自己是父亲公爵称号的继承人，这一次没有来自当地贵族的反对。起初他们怠慢她而且轻视她的魔法，并且很高兴蒙面法师会试图解除她的力量。然而，娜里亚向他们展示了她并不是浪得虚名，蒙面法师会开始畏惧她的名字。随着时间的推移，娜里亚成为了一位受人爱戴的统治者和令人尊敬的大法师，最后她还在安姆的六团评议会中赢得了一个席位。许多年来娜里亚一直是安姆的知名人物，不断地为普通民众争取权益并挫败贵族和蒙面法师会之中的敌人的阴谋。许多年后，娜里亚在一个充满爱的家庭的陪伴中离开了人世……她在弥留之际的最后的一句话是感谢<CHARNAME>很久以前为她指明了需要走的真正道路。"
+"娜里亚在跟随<CHARNAME>_的日子里变得非常强大。最初她到处旅行，从国度最强的法师们那里学习魔法技巧。她寻找利用魔法给人民带来正义的方法，但后来她发现与<CHARNAME>_的旅行已经教会了她一切值得掌握的东西。尽管她可以利用这种力量打击邪恶，但却不能解决贫困与人民的痛苦。一段时间后，她想到了更好的办法来为人民服务。娜里亚返回了安姆，回到了她从前的家——德阿尼斯堡。她看到这里早已被伊赛亚·罗诺尔控制，但她却再也不是罗诺尔以为的那个任性的小女孩了，她独力让他为自己有失公正的行为遭受了法律的制裁。娜里亚宣布自己是她父亲公爵称号的唯一合法继承人。如今的贵族们对此事已经毫无争议了，可在刚开始他们却怠慢且轻视她的魔法，并且支持蒙面法师会解除她的权力。不过在娜里亚展示了她强大的力量后，蒙面法师会开始畏惧她的名字。几年以后，她成为了一个受人爱戴的统治者，一个令人敬畏的大法师。最后她还成为了安姆六人议会中的一员。多年来，娜里亚一直是安姆的著名人物，她不断地为一般民众争取权益并且让贵族及蒙面法师会中的对手尝尽苦头。许多年后，娜里亚在一个温暖的大家族的陪伴中离开了人世，在弥留之际她的最后一句话是感谢<CHARNAME>_在很久以来为她展示的正确道路。"
 
 #: epilogues.tra:4017
 msgid ""
@@ -2543,9 +2524,7 @@ msgid ""
 "The first victims of his terrible army fell easily, and Sarevok's power grew. The warrior was maddened, however, to find that the victories gave him no thrill. The power tasted as ashes, though Sarevok tried many times to drive himself into a frenzy of delight at his achievements. In the end, his throne grew heavy, and it was with dread acceptance that he greeted the arrival of the inevitable heroes to displace him not a year after his return.\n"
 "Sarevok fled into the night, abandoning Baldur's Gate and his dreams of power both. He became a man haunted by his second chance, hunted by a former life that never was and a possible life that never could be. Without a destiny and or a true soul of his own, he wandered the Realms... sometimes he brought terror and sometimes he brought nothing but his tired heart, and before long he was gone forever. Some say that he found his purpose in the great desert, forging a kingdom to last an age. Some say he traveled to the planes, launching a campaign against the great Mount Celestia. The truth is unknown, though the tales still persist."
 msgstr ""
-"与<CHARNAME>分道扬镳后，重生的沙洛弗克做到了他的承诺。他回到了他熟悉的土地，而现在比以前强大得多。旧敌对他的到来感到惊愕，没过多久，甚至还不到几个月后，沙洛弗克在博德之门开始了恐怖统治，他完全掌控了这座城市。沙洛佛克以他自己的名义举兵征战四方，粉碎了所有的抵抗力量。即便是他不再拥有父亲的神力，他拥有的凡人力量也足以满足他的胃口了。沙洛佛克随心所欲地侵占女性，他的名字成了剑湾每一位市民口中苦涩的绰号。\n"
-"他可怕军队的牺牲品犹如摧枯拉朽般倒下，沙洛佛克的势力也越来越大。然而，这位战士却发现胜利并没有给他带来任何快感，这让他发狂了。尽管沙洛佛克多次试图让自己对自己的成就感到欣喜若狂，但这力量却索然无味。最后，他的王座愈发沉重，在他回来后不到一年，他怀着恐惧的心情迎来了注定会出现的英雄。\n"
-"沙洛佛克逃到了黑夜之中，遗弃了博德之门和他的权力之梦。他成了一个被第二次机会所追扰的人，被一个从未有过的过往、一个永远不会拥有的的未来所追扰。没有自己的宿命和真正的灵魂，他在被遗忘的国度中游荡……有时他带来了恐惧，有时则只有自己疲惫的心，不久他就永远消失了。有人说，他在大沙漠中找到了自己的目标，建立了一个可以延续一个时代的王国。有人说他去了其他位面，发起了一场反对伟大的“天界山”的运动。尽管故事流传了下来，但真相无人知晓。"
+"与<CHARNAME>_分开后，重生的沙洛佛克做到了他所承诺的，回到了他成长的地方，但比以前强大得多。从前的敌人对他的回归感到震惊，没过多长时间，甚至只有几个月，沙洛佛克就在博德之门开始了他的恐怖统治。他完全控制了这座城市，当沙洛佛克准备组织起以他名字命名的军队时，所有的抵抗都已经被碾碎了。即使他不能拥有他父亲的神力，他现在拥有的力量也足够满足他的欲望了。沙洛佛克的疯狂也使他的名字成了恐怖的代名词。他的军队毫不费力地摧毁了挡在面前的第一位牺牲者，沙洛佛克的力量增长了，这位战士陷入了疯狂。然而这位发狂的战士却无法再用任何办法来让自己感到快乐，目睹牺牲者一个又一个倒下，只让他感到生命如死灰般毫无意义。获得再强大的力量对他来说也总是索然无味。最后，他在深夜离开了他的王座，遗弃了博德之门与他的权力之梦。在<CHARNAME>_给予沙洛佛克的第二次重生中，缺失了属于沙洛佛克自己的宿命和真正忠于他的灵魂，这使他成了一个饱受折磨的人。他徘徊于对过去的回忆和对未来的迷茫中。在国度游荡的岁月里，有时他带来恐惧，有时则带来一颗疲倦的心。在他永远消失之前，有人说他在沙漠建立了一个王国来度过余生，还有人说他去了其他位面，准备发起一次对天界山的进攻，但是没有任何人确切地知道他真正的归宿。"
 
 #: epilogues.tra:4018
 msgid ""
@@ -2566,7 +2545,7 @@ msgid ""
 "own life. In truth, he journeyed to Kara-Tur to bury his one true love, the "
 "warrior Tamoko. He never returned, though the stories endure."
 msgstr ""
-"在被<CHARNAME>复活之后的几年里，沙洛佛克徘徊于被遗忘的国度的各个地方，很少在同一个地方停留很久。据说他曾在波达斯克击溃一支入侵的半兽人军队，但展现的如此惊人的力量和狂怒让受惊的当地居民不确定到底该害怕谁……然后他只是默默地消失了，不期待回报。他如征服者般到达西门，冷酷地厉行他的意志，但几个月后却神秘消失，留下了自己惊愕的手下向愤怒的民众求饶。他的举止像是一个不了解自己的人，所有的故事都同意沙洛佛克是个饱受折磨的灵魂，在生死之间徘徊，但从未达到任何一边。那些少数真正了解沙洛弗克的人说，这位饱受折磨的战士会先诅咒传奇的<CHARNAME>给了他第二次机会……然后再感谢<PRO_HIMHER>。最后他从整个被遗忘的国度中消失了，据说他曾攻击无底深渊，甚至送掉了自己的性命。事实上，他旅行到卡拉图去埋葬他的真爱，战士妲摩可。他再也没有回来过，但他的故事却永远流传。"
+"在被<CHARNAME>_复活之后的几年里，沙洛佛克从未在任一地方长期定居。据说他曾经在波达斯克击溃了一支入侵的半兽人军队，之后分文不取便安静地离开了。但其展现出的惊人力量和狂野怒火却让受惊的当地居民不确定到底该害怕哪一方。他曾如征服者般抵达西门城，冷酷地厉行自己的意志，但几个月后却又神秘消失，只留下他的人民独自回味那难以言喻的怜悯。他就像一个永远也不知归处在何方的迷失之人，所有故事都同意沙洛佛克是个饱受折磨的灵魂，在生死之间徘徊，但从未达到任何一边。那些极少数理解他的人曾坦言，这位痛苦的战士只是活在被<CHARNAME>_所剥夺和赐予的生命轮回之中。而最后他消失了，据说他曾攻打过无底深渊，甚至送掉了自己的性命。然而事实上，他旅行到卡拉图去埋葬他的真爱，战士妲摩可。他再也没有回来过，但他的故事却永远流传。"
 
 #: epilogues.tra:4019
 msgid ""
@@ -2591,7 +2570,7 @@ msgid ""
 "history into the deepest woods of Amn, the ranger would be thankful that "
 "<CHARNAME> had entered his life and forever wish his old friend well."
 msgstr ""
-"与<CHARNAME>分道扬镳后，瓦里格继续冒险了几年，他在费伦北部的荒野之中旅行，也常常出现在深水城地区。后来他终于在回到阿斯卡特拉后引退，满足于在自家宅邸安静的隐居，这是他一直向往的生活。迫于崇拜他的当地贵族们的压力，他担任了检察总长的职务，这是一份他从未期望过的职务，而他心甘情愿地与城市内日益严重的腐败作斗争。多年来，瓦里格成为了每个敢于踏入城市的罪犯或奴隶贩子都要唾弃的名字。瓦里格不屈不挠，将城市警备变成了一支强大的力量，即使是最自信的小偷也不得不有所收敛。瓦里格与影贼经过多次较量，最终达到了一个相互尊重的平衡点……尽管多数人认为这位游侠更胜一筹。即使他自己也很惊讶，瓦里格最终在阿斯卡特拉恢复了寇萨拉家族的良好名誉，并且他也结婚了。他唯一的儿子－－他一生的骄傲，将父亲的教诲铭记在心。瓦里格看着他成为了蒙面法师会的领袖、该组织改革的最伟大的实施人，瓦里格在一生中只有这一次感到了自豪。每当记起自己过去曾逃避家世、躲进安姆最深处的森林的时候，这位游侠都会衷心地感谢<CHARNAME>走进了他的生命，并永远祝福他的老朋友一切安好。"
+"与<CHARNAME>_分开后，瓦里格又继续在荒野中旅行了很多年。他在费伦北部的荒野中漫游，也经常在深水城附近出现。瓦里格之后就隐居到了阿斯卡特拉，在他位于那里的家族宅邸中安享归隐的生活。但是崇拜他的贵族们还是没有让他过早退休，迫于公众的压力瓦里格担当了检察长的职务，一个他本不愿承担的责任。就职不久瓦里格就难以忍受弥散在各个统治阶层中的腐败风气，最终城市中的腐朽激起了瓦里格的愤怒。在这些年里，瓦里格使外来的罪犯和奴隶贩子不敢迈进城市一步，让最有自信的窃贼也不敢轻举妄动。在瓦里格与影贼工会的多次较量后，政府最终与影贼们达成了一个互相制约的平衡协议。不过仍有很多人认为那位游侠才是最后的胜利者，因为瓦里格以此为契机成为了一名出色的领袖，这也让他自己感到颇为惊讶。正是瓦里格在政府部门工作的这段日子，真正地恢复了寇萨拉家族往日的名誉。他最终结了婚，并有了他唯一的儿子，那是瓦里格一生的骄傲，而他的儿子也始终以自己的父亲为榜样。瓦里格看护着他直到他成为蒙面法师会的领袖，并促成了这个组织的最大变革。在瓦里格的晚年，他在安姆的一处森林中隐居了起来。每当回忆起他曾遇见的那个人——这个游侠都会衷心地感谢<CHARNAME>_并祝这位老朋友安好。"
 
 #: epilogues.tra:4020
 msgid ""
@@ -2619,17 +2598,14 @@ msgid ""
 " shrouded in rumor... but it is said that even the great Spider Queen does "
 "not rest easily any more."
 msgstr ""
-"在和<CHARNAME>分开后，维康妮亚只旅行了一小段时间，随后她在巨大的深水城中建立了一个信仰莎尔的教派。后来因为一个信徒的背叛，维康妮亚一怒之下亲自动手屠尽了整个教会。莎尔没有原谅维康妮亚的罪过，并移除了她的能力。然而维康妮亚固执地拒绝赎罪，并且离开了深水城，继续在被遗忘的国度中游荡。随着她的故事流传开来，人们认为这位黑暗精灵是不可捉摸而力量强大的人物……众所周知，虽然她不再信仰莎尔，但她的牧师力量仍然很强大。至于这位黑暗女士现在信仰的是谁，着是她自己要保守的秘密。据说，她曾组建军队去对抗瓦萨巫妖王，恶意地企图颠覆他对王国的统治，在几次军事失败后她才勉强败退。维康妮亚曾经阻止了坚盾骑士夺取卡林港的企图……只不过几天之后，她自己接管了这座城市并实施了恐怖和残酷的统治，甚至若干年后人们还在用颤抖的音调说起这件事。后来维康妮亚遗弃了卡林港，据说她又回到了她的出身地幽暗地域。然而，这不是一次平和的返乡，维康妮亚用力量征服了卓尔，甚至让罗丝都踌躇了。维康妮亚说，她的勇气经受了两个世界的考验，这证明自己这么做是值得的。虽然卓尔现在很弱小，但她将使他们变得强大起来。维康妮亚最终的结局无人知晓，并且笼罩在谣言之中……但是，据说就连强大的蜘蛛女王也睡不安稳了。"
+"离开了<CHARNAME>_的队伍后，维康妮亚继续着她的旅行。之后的日子里她在深水城找到了一个信仰午夜女神莎尔的教派。但其中的一个教徒却出卖了她，于是维康妮亚一怒之下屠杀了当地的所有莎尔教徒。为此她受到了莎尔的严厉惩罚，但是维康妮亚并没有悔过，继续着她在国度上的亡命之旅。这位黑暗精灵在关于她的传说中，仍然是一个神秘且强大的角色。但有一点是可以肯定的：最终维康妮亚不再崇拜莎尔了。不过她的牧师力量还是异常强大，可是她究竟信奉谁，这是属于她自己的秘密。据说她曾经聚集起了一支军队对抗巫王，试图推翻他的王国统治，不过在几次军事失败后就垮台了。她还阻止了钢盾骑士团试图恢复卡林港秩序的行动，并最终由她自己控制了整座城市，并建立起一段恐怖的统治。甚至在若干年后，那里的人们提起此事时还带着恐惧的声调。据说在维康妮亚离开卡林港之后的时间里，她又回到了幽暗地域，当然，那不会是一次友善的回归。以征服者的姿态出现在她的同胞面前的维康妮亚，甚至也给了罗丝一次巨大的震撼。维康妮亚说，现在两个世界都认可了她的强大力量，她将带领黑暗精灵走向富强。维康妮亚最终的结局无人知晓，据说就连强大的蜘蛛女王也因她而辗转难眠。"
 
 #: epilogues.tra:4021
-#, fuzzy
 msgid ""
 "Upon parting paths with <CHARNAME>, Viconia wandered for a great deal of time. She still met with ignorance and hatred from those who knew of her kind, but Viconia was determined now more than ever to establish herself as seperate from the legacy of the dark elves. She had been to the deepest planes of hell and fought side-by-side with <CHARNAME> as <PRO_HESHE> became a God... and she would hide her face from the surface lands no longer. Even when Shar, her goddess of darkness and loss, abandoned her completely Viconia was unrepetant. Tales of her grew as she made her presence felt in one land after another... often as a savior, only to be thanklessly driven out by suspicion and fear. Still Viconia traveled on, refusing the company of fellow travelers and adventurers and never finding anywhere that she could truly name a home. Her destiny was her own, and she would seek it on her own terms.\n"
 "What eventually become of Viconia is unknown. Her greatest legend is also the most unlikely, although its persistence gives it some credit. It is said that Viconia saved the elves of Suldanessellar from a Zhentarim plot, fighting valiantly against the organization's agents... and in the end placing herself in harm's way to save Queen Ellesime from a deadly arrow. Upon being revived, Viconia was surprised to discover that this last act had prompted the Suldanessellar elves to finally accept and forgive their drow sister. Queen Ellesime granted the highest honors of the Seldarine to Viconia, the first drow ever honored so, and even invited Viconia to find a home in the Tree of Life once again. Viconia was obviously moved by the gesture... and while she considered the Queen's offer, it is said she eventually merely bowed deeply to Ellesime and silently left Suldanessellar forever. Viconia was never reported seen again..."
 msgstr ""
-"与主角分开后。维康尼亚彷徨了很长一段时间，她仍常常见到那些憎恨他们种族的无知的人，但维康尼亚比以往更加坚定的要把自己和黑暗精灵的传说分开。当她游走于遗忘国度的各个角落时，她常常是以救星的身份出现，然而人们给她的仍然只是猜忌与恐惧。在旅途中，维康尼亚拒绝了很多旅行者和冒险者的邀请，并始终如一的寻找着自己的归宿，没人知道她的最终结局究竟怎样。她最大的传奇可能不太真实，但这个故事仍然在为维康尼亚赢得荣誉：维康尼亚把索丹尼斯拉的精灵从散塔林会的阴谋中拯救了出来，并勇猛的与这个组织的成员搏斗，最后舍身为女王艾丽希挡住了一支致命的箭。在复活以后维康尼亚惊奇的发现自己因此赢得了索丹尼斯拉精灵们的宽恕与接受。女王艾丽希赐予了维康尼亚精灵族的最高荣誉"
-"----"
-"她是第一个获此殊荣的黑暗精灵，并邀请维康尼亚在生命之树里再找一个家，尽管维康尼亚明显的被女王的真诚所感动，但是她只是深深的鞠了一个躬，平静的离开了索丹尼斯拉，从此再没有人见过维康尼亚。"
+"在与<CHARNAME>_分开后，维康妮亚彷徨了许久。她仍不断忍受着来自族人们的冷漠和憎恨，但这一次她比以往更加坚决地想要与黑暗精灵的血统划清界限。这位卓尔曾与<CHARNAME>_并肩奋战在地狱的最深处，伴随后者完成了封神之旅。此后她继续隐姓埋名地游走于地表的各个角落，直到彻底被莎尔——那位黑暗之神所抛弃。但她对此依然无怨无悔。之后的岁月里维康妮亚光顾了众多不同的大陆，传说她常常成为解救当地人民于水火的救星，但回报给她的依然是怀疑的眼神与无情的驱逐。维康妮亚孤身行走于自己的旅途，她拒绝了很多旅行者和冒险者的邀请，始终如一地追寻着属于自己的归宿，那是需要她本人才能掌握的命运。关于维康妮亚生命的最后故事一度众说纷纭，即使是她最伟大的传奇也至今没有确凿的证据，人们只能从口耳相传中寻找它的线索。那说的是维康妮亚曾把索丹尼斯拉的精灵们从散塔林会的阴谋中拯救了出来，并勇猛地与这个组织的成员殊死抗争，最后舍身为女王艾丽星挡住了一支致命的箭矢。在复活以后维康妮亚惊讶地发现自己因此赢得了索丹尼斯拉精灵们的宽恕与接受。女王艾丽星邀请维康妮亚在生命之树里建立了一个新家，并赐予了她精灵族的最高荣誉——她是第一个获此殊荣的黑暗精灵。尽管维康妮亚深深地被女王的真诚所打动，但她只是由衷地向艾丽星鞠了一躬，然后平静地离开了索丹尼斯拉，从此再没有人见过她。"
 
 #: epilogues.tra:4022
 msgid ""
@@ -2664,7 +2640,7 @@ msgid ""
 " on to forge a legend that would rival that of his father. That, however, is"
 " a different story..."
 msgstr ""
-"维康妮亚和<CHARNAME>继续了几年他们的冒险生涯，他们被卷入了两场震撼剑湾的战争，他们在战争中担任了核心角色因而名声大噪。<CHARNAME>的地位在被遗忘的国度中与日俱增，他的黑色少女总是在他身边。终于，维康妮亚怀上了<CHARNAME>的孩子，这件事在这对夫妻之间引起了很多争吵和冲突，导致了他们短暂地分开。然而，<CHARNAME>儿子的出生永远地改变了维康妮亚。她回到了<CHARNAME>身边并说服他最终在博德之门安顿下来，然后全身心地投入于抚养他们的儿子，同时教导他卓尔和<CHARNAME>的同胞的行事风格，并惊讶于这孩子所展现出来的力量。尽管她为这孩子眼神中所流露出的领悟力而感到欣喜，但她没能活着看到孩子长大成人。虽然维康妮亚作为一个强大的牧师，基本上能免疫一切毒素，但蜘蛛女王的复仇剧毒难以轻易抵抗，远不是她所能防范的。维康妮亚被一个罗丝的仆人下了毒，当发现即使是最强大的魔法也无法对治疗他日渐衰弱的妻子起作用时，<CHARNAME>怒不可遏。没人知道维康妮亚临终前在<CHARNAME>耳边留下的遗言……但是传说明确地描述了<CHARNAME>紧紧地抱着他的黑色少女的尸体痛哭，同时整个城市的人们也与他一同痛哭，仿佛他们也因失去宝贵事物而痛苦，一种他们一直拥有却毫无自知的宝贵事物。满腔怒火的<CHARNAME>离开了博德之门，并在遥远的地方秘密地养育了他的儿子。关于他有不同的传言，有人说他向幽暗地域的卓尔发动了一场复仇的圣战，有人声称他在遥远的北地成为了一位英雄……甚至有人信誓旦旦地说，<CHARNAME>在无底深渊的深坑魔网中发起了针对罗丝本人的战争……但所有传说都同意的是，这位昔日的巴尔之子因他对黑色少女的爱而永远地改变了。而那个由被遗忘的国度里最强大的两个人抚养的孩子呢？他当然会铸就一个与其父亲相匹敌的传说。不过，这就是另一个故事了……"
+"维康妮亚和<CHARNAME>_继续着属于他们两人的冒险生涯。他们曾以核心人物的身份参与了震惊整个剑湾的两次战争，并因此在人群中积累了极高的威望。<CHARNAME>_逐渐在国度内问鼎了自己事业的巅峰，而他的黑暗夫人则一直陪伴在他的身旁。终于维康妮亚怀上了<CHARNAME>_的孩子，但两人也因此发生了许多的争吵和分歧，这最终导致了两人的短暂分手。然而，<CHARNAME>_孩子的出生，永远地改变了维康妮亚，她决定返回<CHARNAME>_身边并说服他定居在博德之门，而她自己则完全投身于抚养孩子的事业中，并同时以属于黑暗精灵和<CHARNAME>_的方式教导他们的孩子。结果他们的孩子展现出十分惊人的力量与理解力，这使他的母亲感到颇为欣喜。另一方面，那位黑暗的蜘蛛女神仍然不断索求着维康尼亚的生命。在进行了几次暗杀和挫败之后，两位传说级别的冒险者决定对其还以颜色。他们谋划了一场贯穿整个幽暗地域和诸位面的追杀行动，向邪恶女神的权威发起了挑战。但除了对最亲近的家人和朋友们，他们从未透露过任何获胜的具体情况。不过此后他们再也没被幽暗地域的居民们或者那位邪恶女神打扰过，这一点是确定无疑的。甚至还有小道消息说，蜘蛛女神被整件事搞得心烦意乱甚至大发雷霆。据说她曾小声咕哝道：其他神祇协助一个她从前的信徒来和她对着干，是有失公允的。整个宇宙都因她不朽的面容上仍未消褪的怒火而沸腾着。至于<CHARNAME>_和他那位黑暗夫人的孩子，那个被国度中最强大的两位人物所抚养长大的人会怎样？他当然会铸就一段与其父亲相匹敌的传奇，不过，这是另外一个故事了……"
 
 #: epilogues.tra:4023
 msgid ""
@@ -2684,7 +2660,7 @@ msgid ""
 "to Candlekeep... to give a final thanks for the peace he had found and to "
 "see for himself the humble beginnings of a legend."
 msgstr ""
-"回到安姆克萨蓝后，巴萨札开始为改善而实施改革。他从他的朋友和<PRO_BROTHERSISTER>那里学到了“善良”的意义。他总是带着愧疚，提醒自己不要再犯同样的错误。残留的犯罪分子被很快地从他的管辖区域中赶了出去，而后吸引来了新的移民和商人。多年过去，安姆克萨蓝发展成为一座繁荣的城市，并成为了整个地区的文化中心，以其和平与慈悲而闻名遐尔。巴萨札也一手创建了“修道御林军”－－一个由圣武士和武僧组成的精英团体，他们宣誓保护平民免受任何形式的暴政。他的事迹很快为他赢得了人民的尊重和信任。在巴萨札晚年，他的工作已经完成，据说他经常凝视夜空并想起<CHARNAME>。后来，巴萨札永远地离开了安姆克萨蓝，开始了前往烛堡的朝圣之旅……为他找到的平静去做最后的感谢，也为亲眼看看这段传奇不起眼的开端。"
+"回到安姆克萨蓝后，巴萨札开始有了好的转变。他从昔日的朋友和同为巴尔之子的<PRO_BROTHERSISTER>_那里真正认识了什么是所谓的“善良”。尽管这段经历让他感到愧疚，但那段回忆也同样时刻提醒着他不要再犯类似的错误。在安姆克萨蓝要塞中的残存部下不久也纷纷被巴萨札赶了出去，取而代之的是一批新的居民还有商人。许多年过去了，安姆克萨蓝已经变为了一座繁华的大都市，也成为了附近周边地区的文化中心，以其和平与繁荣而闻名于世。与此同时巴萨札也着手创建了“修道御林军”，这是一个由杰出的圣武士与武僧共同组成的誓死保护平民免受暴政侵害的组织。巴萨札和队中圣武士们的行为很快赢得了安姆克萨蓝民众的竭尽爱戴与信任。据说，在巴萨札的晚年，人们经常能在夜晚看到他凝神注视星空，似乎在回忆曾经与<CHARNAME>_相处的那段难忘历程。后来，巴萨札跟随一批朝圣队伍去了烛堡，并再也没有回到安姆克萨蓝……在那里，他终于为自己获得了心灵的安宁而欣慰。而在安姆克萨蓝，关于巴萨札那坎坷的传奇故事也将永远流传下去。"
 
 #: epilogues.tra:4024
 msgid ""
@@ -2709,39 +2685,39 @@ msgid ""
 "stake pierced the still black heart of Bodhi, one who was as damned in life "
 "as she was in death."
 msgstr ""
-"芭荻以<CHARNAME>灵魂的形式尝到了神一般的力量。当最后的一丝残留力量随着随着时间消退后，她开始渴望更多力量，再次达到这样的巅峰成了她的执念，这使她陷入了痛苦和憎恨。剑湾各地的居民都陷入了恐慌，因为芭荻用他们的鲜血沐浴，这满足了她对混乱于死亡的饥渴。一些村子开始将人们绑在路边，作为对夜行者的祭品。远近的神殿都试图去追捕她却徒劳无功，她的名字成了恐怖的代名词。许多强大的牧师都被吸干了血，他们苍白的面容上刻满了极度的痛苦。随着时间的推移，芭荻感觉到诅咒的冰冷之攫紧紧握住了她。绝望夹杂着恐惧在不断抓挠着她身体的每一根神经。对混乱的渴望消退了，她要再一次为生存而战。曾经让她在弟弟耳边低声诉说权力梦想的野心，现在把她带回了她很久以前称之为家的地方－－索丹尼斯拉。她在门口遇到了艾丽星。在那里芭荻跳了最后一支舞。复仇在他们两个人身上燃烧着，呼唤着鲜血。芭荻觊觎着生命之树的力量，而对强那雷斯的回忆涌上了艾丽星心头。两人纠缠在一起，而复仇注定是胜者，就像一根木桩刺穿了芭荻依然漆黑的心，终结了她罪恶的一生。"
+"芭荻终于品尝到了以<CHARNAME>的灵魂形成的神性之力，然而在这种力量的痕迹随着时间消逝以后，芭荻开始沉浸于那不属于自己的神性。那种执意要再次获得那份力量的执着，使她又一次陷入了痛苦与憎恨之中。芭荻为了满足对混乱与死亡的饥渴，开始用剑湾人民的鲜血沐浴，这造成了人们极大的恐慌，有些村落甚至把人绑在路边作为对黑暗的祭品。在由各种神殿组织的多次徒劳无功的追捕中，许多前往的高级牧师都被吸干了血，极度的恐惧和痛苦的表情凝固在他们没有血色的脸上。芭荻的名字也因此成了恐怖与死亡的代名词。但是，随着时间的推移，她感觉到冰冷的诅咒日渐加强，这种绝望与恐惧使她对混乱的渴望变得麻木，同时使她求生的欲望变得更加强烈。这种对力量渴求的野心，曾经促使她引诱艾瑞尼卡斯堕落，如今又驱使她回到了很久以前称之为家的地方：索丹尼斯拉。在精灵国度的入口，芭荻遇到了精灵女王艾丽星。但是，生命之树的能量与艾丽星对艾瑞尼卡斯的回忆交织在一起构成了正义的复仇：当最后一根木桩插入那颗死后仍遭天谴的黑心时，芭荻的生命终于走到了尽头。"
 
 #: imoen_after.tra:477
 msgid ""
 "It... it's gone... I'm human again. Ohhhh, now I know what you went through,"
 " <CHARNAME>! I don't know if I ever want to go through that again!"
-msgstr "结、结束了……我变回人了。哦……现在我知道你曾经历什么了，<CHARNAME>！我不知道我是否还想再经历一次！"
+msgstr "全都……过去了……我又是人类了。喔，我现在知道你的感受了，<CHARNAME>！但我可不想再经历一回！"
 
 #: imoen_after.tra:478
 msgid ""
 "And I can't believe what you said, either! 'Go ahead and kill her'? After "
 "all we've been through, that's what you say in my defense?!"
-msgstr "我也不敢相信你说了什么！“去杀了她吧”？我们在一起经历了这么多，你就这么保护我？！"
+msgstr "我简直不敢相信自己的耳朵！“要杀就杀吧”？我们一起走过了这么多的路，你就是这样保护我的？！"
 
 #: imoen_after.tra:479
 msgid "I was trying to convince Melissan to leave you alone, Imoen!"
-msgstr "我在尝试让梅丽珊把你丢到一旁不管，爱蒙！"
+msgstr "我在试图说服梅丽珊放弃伤害你，爱蒙！"
 
 #: imoen_after.tra:480
 msgid "Get over yourself, little girl. I never asked you to come, did I?"
-msgstr "克制一下自己，小女孩。我从来没有叫你跟过来，不是吗？"
+msgstr "别自以为是了，小女孩，我从没让你跟着我，不是么？"
 
 #: imoen_after.tra:481
 msgid ""
 "We don't have time for this chat, Imoen! This is the middle of a fight!"
-msgstr "我们没时间讨论这个，爱蒙！现在正在战斗中！"
+msgstr "我们现在没时间讨论这个，爱蒙，眼下还有一场硬仗要打呢。"
 
 #: imoen_after.tra:482
 msgid ""
 "Well... I suppose. You convinced me more than her, obviously. I... I'm just "
 "glad I didn't do more damage as the Slayer. I don't know how you handled it."
 " Thank you for... for not killing me."
-msgstr "嗯……我想也是。很明显，比起她来我更相信你。我、我只是庆幸我没在杀戮者形态下造成更多伤害。我不知道你是怎么掌控它的。谢谢你……没有杀了我。"
+msgstr "好吧……我想。显然你比她更能说服我。我……很高兴自己没有在杀戮者状态下造成过多的伤害。我不知道你是怎么做到的，不过非常感谢你没有杀了我。"
 
 #: imoen_after.tra:483
 msgid ""
@@ -2749,17 +2725,16 @@ msgid ""
 "well, <CHARNAME>, and I hope I'll see you again. Maybe back at Candlekeep, "
 "huh? Anyway... good luck..."
 msgstr ""
-"不过，我、我不能留在这里了。我要离开队伍。祝你一切顺利，<CHARNAME>，希望我能再见到你。也许你会回到烛堡，对吧？总之……祝你好运……"
+"我……我不能再留在这里了……我实在不擅长处理眼前的状况。祝你好运，<CHARNAME>，希望我能再次见到你。你还会回到烛堡么？无论如何……祝你好运……"
 
 #: imoen_after.tra:484
 msgid ""
 "Do you need me to join back up with you? I could... leave the Throne, I "
 "think... I think I have that power, now, same as you. But I'll fight by your"
 " side again, if you want me to."
-msgstr "你需要我加入队伍里支援你吗？我可以……离开这个王座，我想……我想我现在也有了那种力量，和你一样。但如果你愿意，我会再次与你并肩作战。"
+msgstr "你需要我再次加入队伍吗？我会……全身而退的。我相信……自己有这个实力，就像你一样。我想再次与你并肩作战，如果你愿意的话。"
 
 #: imoen_after.tra:485
-#, fuzzy
 msgid ""
 "Imoen Has Survived\n"
 "\n"
@@ -2770,83 +2745,83 @@ msgid ""
 "Imoen is now able to enter the Ethereal Plane for brief periods of time. The ability is useable once every minute, and its use prevents her from assuming the Slayer form for a minute, as well. Imoen can remain fully ethereal and intangible to forces on this plane for a full round... during which she is invisible and completely immune to harm. During that round, she also cannot cast spells or use abilities.\n"
 "For another two rounds afterwards, Imoen can remain 'half-phased'... she is partially ethereal and partially in this plane. She is still invisible, but takes half damage from all sources. In this state, there is a small chance (10%) that she will miscast a spell. For all three rounds, she is able to see any invisible targets."
 msgstr ""
+"爱蒙活了下来。\n"
 "\n"
-"爱蒙复活\n"
-"爱蒙解除了梅丽珊造成的杀戮者状态，不过看起来爱蒙的天赋力量也因此而增强，她现在可以像我在禁魔监狱里那样随心转变成杀戮者形态，而且获的了新能力“虚无灵体”，使得她可以进入灵界一段时间。\n"
-"爱蒙的新能力“虚无灵体”\n"
-"爱蒙现在可以在短期内进入灵界，每十轮可以使用一次此能力，并且在十轮内爱蒙无法变成杀戮者。使用后在开始的一轮内，爱蒙处于隐形状态并免疫一切伤害，但无法使用任何法术及特殊能力。接下来的两轮内，爱蒙处于半位移状态，一半处于主物质界，一半处于灵界，隐形且对所有伤害都有一半的免疫能力，但有十分之一的施法失败几率。在这三轮内，她能看到所有隐形的目标。"
+"爱蒙解除了梅丽珊强迫其引导的杀戮者状态。而且看起来爱蒙那污秽的天赋力量也因此得到了增强。她现在不仅可以像我在禁魔监狱里那样自由转变为杀戮者形态，而且获得了新的能力“虚无灵体”，这使她可以进入灵界一段时间。\n"
+"\n"
+"爱蒙的“虚无灵体”能力现在可以让她短时间内进入灵界。每回合可以使用一次该能力，在该回合内爱蒙将无法变成杀戮者形态。在能力启动后的第一轮内，爱蒙处于隐形状态并免疫本位面的一切伤害，但无法使用任何法术及特殊能力。在接下来的两轮内，爱蒙处于半位移状态：一半位于主物质界，一半位于灵界。此时爱蒙仍处于隐形状态且对所有伤害具有一半的免疫能力。但其自身却因此承受10%的施法失败惩罚。在以上所有的三轮内，爱蒙还具有发现一切隐形目标的能力。"
 
 #: imoen_after.tra:486
 msgid "Sure. Let's join up again."
-msgstr "当然。让我们再一次携手并进吧。"
+msgstr "当然，让我们再一次并肩作战吧。"
 
 #: imoen_after.tra:487
 msgid "No... get out of here while you can, Imoen."
-msgstr "不……趁现在能走赶紧走吧，爱蒙。"
+msgstr "不……如果你能的话，赶快离开这里，爱蒙……"
 
 #: imoen_after.tra:488
 msgid ""
 "I wish you well, <CHARNAME>, and I hope I'll see you again. Maybe back at "
 "Candlekeep, huh? Anyway... good luck..."
-msgstr "祝你一切顺利，<CHARNAME>，希望我能再见到你。也许你会回到烛堡，对吧？总之……祝你好运……"
+msgstr "祝你好运，<CHARNAME>，希望我能再次见到你。你还会回到烛堡么？无论如何……祝你好运……"
 
 #: imoen_after.tra:489
 msgid ""
 "Yeah, right. You do whatever you have to, <CHARNAME>. Me... I'm getting as "
 "far away from here as possible. Good-bye!"
-msgstr "对，没错。你要做你该做的事情，<CHARNAME>。至于我……我要尽可能地远离这里。再见！"
+msgstr "是，好吧。去做你该做的事情吧，<CHARNAME>。我会尽可能躲远些的，再见！"
 
 #: imoen_after.tra:490
 msgid ""
 "Nope, you sure didn't. Thanks for nothing, I guess. You do whatever you have"
 " to, <CHARNAME>. Me... I'm getting as far away from here as possible. Good-"
 "bye!"
-msgstr "不，你肯定没有。我想，没什么可感谢的。你要做你该做的事情，<CHARNAME>。至于我……我要尽可能地远离这里。再见！"
+msgstr "不，你当然不是。不用费心了，我想。去做你该做的事情吧，<CHARNAME>，我会尽可能躲远些的，再见！"
 
 #: imoen_after.tra:491
 msgid ""
 "I'm... just glad I didn't do anything worse while I was... when I... oh, I "
 "just don't know how you handled it back in Spellhold. Thank you for... not "
 "killing me, okay?"
-msgstr "我……我刚才没造成太大的伤害真是太好了……那时我……哦，我不知道你在禁魔监狱是怎么掌控它的。谢谢你……没有杀了我，好吗？"
+msgstr "我……很高兴自己没有在那种状态下造成过大的……破坏。我真不知道在禁魔监狱时你是怎么做到的。不过非常感谢你……没有杀了我。"
 
 #: imoen_after.tra:492
 msgid ""
 "Oh, so it is! Do you need me back in the party? I could... leave the Throne,"
 " I think... I think I have that power, now, same as you. But I'll fight by "
 "your side again, if you want me to."
-msgstr ""
-"哦，是这样啊！ 你需要我回到队伍里吗？我可以……离开这个王座，我想……我想我现在也有了那种力量，和你一样。但如果你愿意，我会再次与你并肩作战。"
+msgstr "喔，确实如此！你需要我再次加入队伍么？我会……全身而退的。我相信……自己有这个实力，就像你一样。我想再次与你并肩作战，如果你愿意的话。"
 
 #: imoen_after.tra:493
 msgid ""
 "I see the fight's still going on. Do you need me back in the party? I "
 "could... leave the Throne, I think... I think I have that power, now, same "
 "as you. But I'd like to see this through, same as you."
-msgstr "我看到战斗还在进行。你需要我回到队伍里吗？我可以……离开这个王座，我想……我想我现在也有了那种力量，和你一样。但是我也想把这一切都结束。"
+msgstr ""
+"我发现战斗还在继续。你需要我再次加入队伍么？我会……全身而退的。我相信……自己有这个实力，就像你一样。而且我也想亲眼目睹这一切都结束，也像你一样。"
 
 #: imoen_after.tra:494
 msgid ""
 "Stop distracting me in the middle of combat, already! Get back in the party!"
-msgstr "别再让我在战斗中分心了！赶快归队！"
+msgstr "别在战斗中分散我的注意力了，赶快归队！"
 
 #: imoen_after.tra:495
 msgid ""
 "Yes <PRO_SIRMAAM>! (giggle!) Time to kick a certain someone's butt, right?"
-msgstr "是的，<PRO_SIRMAAM>！（咯咯地笑！）是时候去踢某人的屁股了，对吧？"
+msgstr "是的，<PRO_SIRMAAM>！（偷笑）是时候挨个踢他们的屁股了！不是吗？"
 
 #: iren_bodhi.tra:33
 msgid ""
 "Ahhh... my dear brother calls me at last, does he? I knew you would not be "
 "able to live without my assistance for long."
-msgstr "啊……我亲爱的弟弟最后还是叫我了，不是吗？我就知道，没有我的协助你是活不久的。"
+msgstr "啊……我亲爱的弟弟终究还是召唤了我，不是么？我就知道没有我的协助你是活不长的。"
 
 #: iren_bodhi.tra:34
 msgid ""
 "(chuckle) How very like you to blame me for your own failings. Poor, poor "
 "Irenicus... always so very, very close to getting what he wants and yet "
 "always so very, very far."
-msgstr "（轻笑）你多么喜欢把自己的失败归咎于我。可怜，可怜的艾瑞尼卡斯……总是及其，及其接近得到他想要的，而又总是非常，非常遥远。"
+msgstr "（窃笑）你怎能因自己的失败而责备我呢？可怜，可怜的艾瑞尼卡斯啊……总离他想要的一切是如此的近，又是如此的远。"
 
 #: iren_bodhi.tra:35
 msgid ""
@@ -2854,453 +2829,418 @@ msgid ""
 " Bhaalspawn again, brother dear. And how are you, <CHARNAME>? I do so hope "
 "you are as... healthy... as I remember. Shall we continue our merry dance?"
 msgstr ""
-"哦，我明白了。亲爱的兄弟，让我再次参与你与巴尔后裔的小游戏真是太棒了。你还好吗，<CHARNAME>？我真的希望你像我记得的那样……健康。要继续我们的快乐舞蹈吗？"
+"我明白了，亲爱的弟弟。再次加入这场巴尔之子的“游戏”是多么令人愉悦啊！还有你，<CHARNAME>。希望你仍如我印象中那般……强壮。我们可以继续这场优雅的舞蹈了吗？"
 
 #: iren_bodhi.tra:36
 msgid ""
 "Still trapped in servitude to Irenicus? Do you have no will of your own, "
 "Bodhi?"
-msgstr "你仍陷于艾瑞尼卡斯的奴役之中？ 你就没有自己的意志吗，芭荻？"
+msgstr "你仍然要受艾瑞尼卡斯的奴役吗？芭荻，你就没有任何自己的意志吗？"
 
 #: iren_bodhi.tra:37
 msgid ""
 "Why don't you go jump on a stake and spare us both the tedium of battle?"
-msgstr "你为什么不跳上木桩，让我们俩免于单调乏味的战斗呢？"
+msgstr "你为什么不直接找根木桩跳上去，也好缓解一下这里的沉闷气氛。"
 
 #: iren_bodhi.tra:38
 msgid ""
 "Best hike up your skirts and run, Bodhi. The time when I found vampires "
 "remotely threatening is long past!"
-msgstr "你最好提起裙子跑路吧，芭荻。吸血鬼对我构成威胁的日子早就过去了！"
+msgstr "赶快卷起裙子逃跑吧，芭荻。吸血鬼对我来说早已是无足轻重的对手。"
 
 #: iren_bodhi.tra:39
 msgid ""
 "Do I have to suffer your prattle again? I shall stamp out your evil presence"
 " once and for all!"
-msgstr "难道我又得忍受你的胡话了吗？我要彻底铲除你的邪恶存在！"
+msgstr "我还要再次忍受你那呓语吗？这次我要彻底消灭你这恶鬼！"
 
 #: iren_bodhi.tra:41
 msgid ""
 "Oh Child of Bhaal, so serious and grim! Do you not enjoy that our paths have"
 " crossed again? Does your blood not rejoice?"
-msgstr "哦，巴尔之子，如此的严肃和冷酷！我们的道路再次交错，你不觉得高兴吗？你没感觉热血沸腾吗？"
+msgstr "喔，巴尔之子，如此严肃，如此冷酷！你难道不为我们的再次会面而感到愉悦么？你难道生来就不懂得欣喜么？"
 
 #: iren_bodhi.tra:42
 msgid ""
 "You are weak, Bodhi, while the blood of a god flows within me. I shall enjoy"
 " your death... again."
-msgstr "你太弱了，芭荻，而神的血液在我身体里流淌。我要再次享受……你的死亡。"
+msgstr "你太软弱了，芭荻。当神的血液在我身体里流淌时，我会欣喜地看到你再一次死亡！"
 
 #: iren_bodhi.tra:43
 msgid "Enough of this! You will fall before me, undead thing."
-msgstr "够了！你将在我面前倒下，不死的怪物。"
+msgstr "够了！你就要完蛋了，你这肮脏的吸血鬼。"
 
 #: iren_bodhi.tra:44
 msgid ""
 "You have nothing to gain from this fight. Will you sacrifice yourself out of"
 " sibling loyalty? Do not make that mistake again."
-msgstr "你从这场战斗中得不到任何好处。你会为了姐弟间的忠诚而牺牲自己吗？不要再犯这样的错误了。"
+msgstr "这场战斗对你来说毫无意义。你难道真要为你的兄弟牺牲一切吗？不要再犯同样的错误了。"
 
 #: iren_bodhi.tra:45
 msgid ""
 "Stand aside Bodhi. Your brother is blinded by his lust for vengance. He's "
 "prepared to fight me to the death, but you don't need to die at his side. "
 "There is no need for you to die at all."
-msgstr "闪开，芭荻。你的弟弟被复仇的欲望蒙蔽了双眼。他准备与我决一死战，但你不需要死在他身边。你根本没有死的必要。"
+msgstr "离这里远一点，芭荻。你弟弟已经被复仇的意志蒙蔽了双眼，准备与我以死相拼。但你并没有必要为他送命，你甚至没有理由去死。"
 
 #: iren_bodhi.tra:46
 msgid ""
 "You may be strong, <CHARNAME>, but you are indeed a fool to think us weak. I"
 " shall take your soul for my own, I swear it!"
-msgstr "你或许很强大，<CHARNAME>，但你的确是个低估我们的蠢货。我要把你的灵魂据为己有，我发誓！"
+msgstr "你也许很强大，<CHARNAME>，但却是个低估我们的蠢货。我会把你的灵魂据为己有，我发誓！"
 
 #: iren_bodhi.tra:47
-#, fuzzy
 msgid ""
 "You had your chance, brother. Your plans failed, as I recall, and brought "
 "about my death. No, you are weak and <CHARNAME> is strong and it is "
 "<PRO_HESHE> that shall give me what I need. I look forward to bathing in "
 "your blood, dear brother... a suitable reward for your utter failure."
 msgstr ""
-"你曾经有过机会，弟弟，可是你的计划一再失败。不，你跟<CHARNAME>比起来太弱了，<PRO_HESHE>会给我我需要的，我要用你的鲜血来洗浴......这是对你失败的惩罚。"
+"你曾经有过机会，弟弟。可是你的计划一再失败，甚至我也因此而死。不，你和<CHARNAME>_比起来太弱了，只有<PRO_HESHE>_能带给我想要的一切。我要沐浴在你的鲜血中，亲爱的弟弟……这是对你彻底失败的惩罚。"
 
 #: iren_bodhi.tra:48
-#, fuzzy
 msgid ""
 "Oh Child of Bhaal, you do bore me so with your talk. Come to me and embrace "
 "death as I have. Let the dance begin again!"
-msgstr "噢，巴尔之子，跟你谈话让我感到厌倦。来拥抱死亡吧，狂欢开始了！"
+msgstr "喔，巴尔之子，与你交谈已令我感到厌倦。来此与我共同拥抱死亡吧。让我们再次舞蹈起来！"
 
 #: iren_bodhi.tra:49
-#, fuzzy
 msgid ""
 "Indeed, I have no intention of dying at all. I fight with my brother because"
 " I have no choice... or would you offer me one now?"
-msgstr "事实上，我也不想死。因为没别的选择，我才为他卖命，也许你可以给我提供一条出路？"
+msgstr "事实上，我也不想如此死去。我之所以为他卖命是因为自己没有别的选择……也许你可以为我提供一条出路？"
 
 #: iren_bodhi.tra:50
-#, fuzzy
 msgid ""
 "My brother believes he can offer me your soul, yet I see that you too can "
 "raise others from the abyss, one who opposed you, no less! How intriguing. "
 "Perhaps I do not need to taste your blood..."
-msgstr "我的弟弟相信他能给我灵魂，而我看到你也能从深渊里复活别人！很有趣，看来我没必要杀了你。"
+msgstr "我的弟弟相信他能把你的灵魂赋予我，而我看到你也能从地狱的深渊里复活别人！即使对方曾经与你敌对，真是有趣！也许我并没有必要品尝你的鲜血……"
 
 #: iren_bodhi.tra:51
-#, fuzzy
 msgid ""
 "I would make you an offer <CHARNAME>. Promise me a piece of your soul and I "
 "shall fight as a sister to you."
-msgstr "我想和你做个交易，给我你灵魂的一部分我会站到你这一边。"
+msgstr "我想为你提供一项协议，<CHARNAME>。只要你承诺把灵魂的一部分赋予我，我就会像你的姐姐一样为你而战。"
 
 #: iren_bodhi.tra:52
-#, fuzzy
 msgid ""
 "I require a soul <CHARNAME>, as well you know. I could tear it from young "
 "Imoen once again, but she seems... indisposed. Yet perhaps there is another "
 "way..."
-msgstr "我需要巴尔之子的一部分灵魂，你知道的，我也可以从小爱蒙那里抢一部分，但是她看起来......不太对劲，也许还有别的办法......"
+msgstr "我想要你的一部分灵魂，<CHARNAME>。你知道我也可以从爱蒙那里抢一部分，但她毕竟看起来……不太适合，也许还有别的办法……"
 
 #: iren_bodhi.tra:53
-#, fuzzy
 msgid ""
 "I am doomed whether or not I fight. My stay in the Abyss was not a pleasant "
 "one, but since I must return, I shall not pass up a chance to feast on such "
 "a fine morsel."
-msgstr "我的命运注定毁灭了。在深渊里的那段时间并不很令人愉快，但我毕竟回来了，我怎么能错过这样的美味呢？"
+msgstr "无论我战斗与否，自己都早已死去。在深渊里的那段时间并不很令人愉快，但我毕竟回来了，我怎能放过如此的机会呢？"
 
 #: iren_bodhi.tra:54
-#, fuzzy
 msgid ""
 "I have power beyond your brother's. Join with me and I shall grant the "
 "reward he shall not live to bestow, a soul."
-msgstr "我的力量超越了你的弟弟，站到我这边我会给你一部分灵魂的。"
+msgstr "我的力量已凌驾于你的兄弟之上。站到我这边，我可以赐予你他永远也无法给你的，那就是我灵魂的一部分。"
 
 #: iren_bodhi.tra:55
-#, fuzzy
 msgid ""
 "I have changed since our last encounter, Bodhi. I am above you and your "
 "pitiful games. They bore me and I shall put an end to them!"
-msgstr "自从上次见面后我的变化很大，而且也厌倦了你的游戏，这是结束的时候了。"
+msgstr "从上次见面后我已经历了许多变化，芭荻。现在我已然厌倦了你可悲的游戏，是时候结束这无聊的一切了。"
 
 #: iren_bodhi.tra:56
-#, fuzzy
 msgid ""
 "So much talk from your brother, Bodhi, yet actions speak louder than words. "
 "How many deaths has your brother granted me? Do you truly believe you can "
 "win? Take the portion of soul I offer and live again."
-msgstr "干吗要你的弟弟说这么多话？怎么不放马过来？你的弟弟认为我“注定”死了多少次？你认为你真的能赢么？拿着我给你的灵魂然后为我而战吧。"
+msgstr ""
+"你的弟弟真是费劲了口舌，芭荻。但行动永远比语言更有说服力。你的弟弟有哪一次真正威胁到我？你真以为自己会有赢的机会吗？攫取我给你的灵魂然后为我而战吧。"
 
 #: iren_bodhi.tra:57
-#, fuzzy
 msgid ""
 "Such a delicious offer you make... though I must wonder if you are telling "
 "the truth. Are my chances of survival really any better with you...?"
-msgstr "真是个不错的提议......但我不得不怀疑它的真实性，我跟着你能好到哪儿去？"
+msgstr "真是个不错的提议……但我不得不对它的可靠程度表示怀疑，站在你这边真的能提升我幸存下来的几率吗？"
 
 #: iren_bodhi.tra:58
-#, fuzzy
 msgid ""
 "So <CHARNAME>, the creature of darkness that rests within you has also "
 "stolen your wit. Such a shame for one with the divine essence. It will "
 "almost be a mercy to end your existence."
-msgstr "唉......你的天赋削弱了你的智慧，真是个巴尔之子的耻辱，送你上路也许是件好事。"
+msgstr "看来<CHARNAME>，居于你体内的黑暗生物不仅占据了你的身体，还夺走了你的才智。这真是巴尔之子的耻辱，杀死你对你来说简直是一种仁慈。"
 
 #: iren_bodhi.tra:59
-#, fuzzy
 msgid ""
 "An opportunity to feast on the blood of a God, and yet you think I will "
 "stand aside? (chuckle) You know me no better than my dear brother here."
-msgstr "有机会享用巴尔之子的鲜血，你认为我会闪开么？（咯咯）你可没有我弟弟了解我。"
+msgstr "好不容易有机会享用巴尔之子的鲜血，你以为我会对此无动于衷么？（窃笑）你确实没有我弟弟了解我。"
 
 #: iren_bodhi.tra:60
-#, fuzzy
 msgid ""
 "Nor would I care to. Soon enough you will return to the torment you deserve."
-msgstr "我也不关心，很快你就会得到你应得的报应了。"
+msgstr "我也本不关心。很快你就要回去继续忍受自己的折磨了。"
 
 #: iren_bodhi.tra:61
-#, fuzzy
 msgid ""
 "Well, well, well... if the Child of Bhaal hasn't gone and found "
 "<PRO_HIMHER>self a sense of humour. Did <PRO_HESHE> dig it up all by "
 "<PRO_HIMHER>self, dear brother, or did you implant it in <PRO_HIMHER> in one"
 " of your more bizarre experiments?"
-msgstr "噢，噢，噢......巴尔之子觉得他自己很幽默，这是他自己培养的性格，还是你在那一次奇怪的试验中灌输进去的？"
+msgstr ""
+"喔，喔，喔……看来这位巴尔之子还很有幽默感。这是<PRO_HESHE>本身的性格使然吗，我亲爱的弟弟？还是被你通过那一系列离奇的试验灌输进去的？"
 
 #: iren_bodhi.tra:62
-#, fuzzy
 msgid ""
 "I see you are now more Slayer than <PRO_MANWOMAN>. How dull. You provided "
 "such small amusement last time, I doubt that this will be different."
-msgstr "我看到你更加杀戮者化了，真可怜，上次很有趣，但是这次恐怕不同了。"
+msgstr "我看到你陷入了更深的杀戮状态，真是无趣。你上次发生这种变化的样子还颇具娱乐性。但这次看上去恐怕不同了。"
 
 #: iren_bodhi.tra:63
-#, fuzzy
 msgid ""
 "No, <CHARNAME>. Sadly, I do not think we are destined to work together "
 "again. I am content to fight by my brother and revel in your blood and that "
 "of those that follow at your heel."
-msgstr "不，<CHARNAME>，很遗憾，看来我们注定无法并肩作战了，我对我弟弟和你的鲜血很满意。"
+msgstr "不，<CHARNAME>。很遗憾，我不认为我们可以再次合作。我会站在我弟弟这边，痛饮你和你那些跟班的鲜血。"
 
 #: iren_bodhi.tra:64
-#, fuzzy
 msgid ""
 "Oh Child of Bhaal, such a game you play. You think to trick me, but I shall "
 "not be fooled so easily. I know you to be ever so desperate to do 'good' and"
 " this would not bode well for me. No, this ends here."
 msgstr ""
-"哦，巴尔之子，你在玩这样的一个游戏，你认为你能骗过我，但我不是这么容易上当的。你总是作一些正义的事，可这对我来说很难忍受。来吧，让一切都结束吧。"
+"喔，巴尔之子，瞧你耍的这些小把戏。你以为这样就能骗过我，但我不会如此轻易上当。你总是沉湎于那些令人作呕的善行之中，那对我来说真是难以忍受。不，这件事到此结束。"
 
 #: iren_bodhi.tra:65
-#, fuzzy
 msgid ""
 "Oh Child of Bhaal, such a game you play. I fight with my 'dear' brother for "
 "your soul, yet you would offer it willingly? Promise me a piece of your "
 "essence and I will join you... for now."
-msgstr "哦，巴尔之子，你在玩这样的一个游戏，我为了你的灵魂而来，现在你竟然主动把他献出来？给我一部分你的灵魂，我就会加入你。"
+msgstr ""
+"喔，巴尔之子，瞧你耍的这些小把戏。我本为夺取你的灵魂而来，现在你竟主动把它奉献于我？如果你承诺会把自己灵魂的一部分赋予我，我可以加入你……至少是现在。"
 
 #: iren_bodhi.tra:66
 msgid ""
 "I swear to you Bodhi, fight by my side, kill my enemies, and you shall have "
 "the soul you desire."
-msgstr "我发誓，为我而战你会得到我的一部分灵魂。"
+msgstr "我向你发誓，芭荻，为我而战，抗击我的敌人，你会得到我灵魂的一部分。"
 
 #: iren_bodhi.tra:67
 msgid ""
 "You have my word Bodhi that when this is done, you shall have a piece of my "
 "essence."
-msgstr "我说话算话，完事后，你会得到我的一部分灵魂。"
+msgstr "我说到做到。芭荻，等一切结束后，你会得到我灵魂的一部分。"
 
 #: iren_bodhi.tra:68
-#, fuzzy
 msgid ""
 "Actually Bodhi, I have changed my mind. I enjoy watching you die too much, "
 "to pass up an opportunity to see it again."
-msgstr "事实上，我改变主意了，我非常想看到你的死亡。"
+msgstr "事实上，芭荻，我改变主意了，欣赏你的死亡能给我带来巨大的愉悦，我现在迫不及待想要再享受一次。"
 
 #: iren_bodhi.tra:69
 msgid "Bodhi, when this is over, I swear that you will be fittingly rewarded."
-msgstr "一切结束后，我发誓你会得到你应得的。"
+msgstr "芭荻，等一切结束后，我保证你会得到你想要的。"
 
 #: iren_bodhi.tra:70
-#, fuzzy
 msgid ""
 "Pray that you hold to your word, failure to do so would be... unpleasant for"
 " you. Now to finalize matters..."
-msgstr "记住你的话，否则事情会很不愉快，现在把一切都结束吧。"
+msgstr "但愿你能记得自己的承诺，否则事情会变得……很不愉快。现在让这一切都结束吧……"
 
 #: iren_bodhi.tra:71
-#, fuzzy
 msgid ""
 "No, <CHARNAME>. Sadly, I do not think we are destined to work together "
 "again. Despite the attractiveness of what you offer, your words ring more "
 "hollow than my brother's. Far better to rip your soul from your living "
 "breast than beg for it at your side."
 msgstr ""
-"不，<CHARNAME>，很遗憾，我不认为我们可以一起作战，尽管这个条件很有诱惑力，但是你的话听起来比我弟弟的还要空洞，毕竟把你的灵魂从你身体里扯出来比向你苦苦哀求强。"
+"不，<CHARNAME>，很遗憾，我不认为我们可以再次合作，尽管这个条件很有诱惑力，但你的话听起来比我弟弟的还要空洞，毕竟直接撕裂你的灵魂比向你苦苦哀求要好得多。"
 
 #: iren_bodhi.tra:87
-#, fuzzy
 msgid ""
 "Now, now, <CHARNAME>... there is no need to look at me so. A tiny piece of "
 "your soul would give me all I require and more. Decide quickly, for I doubt "
 "my dear brother will be content with merely withering me with his own "
 "delightfully evil glare."
-msgstr "现在，<CHARNAME>，别用那种眼神看着我，我只要一小点灵魂，快点决定吧。我正在想我那个弟弟是否会每天晚上都诅咒我。"
+msgstr ""
+"就是现在，<CHARNAME>。你无需用这种眼神看着我。只要一小块灵魂碎片就能满足我的全部需要。快点决定，否则我就会伴随我弟弟已死双眼的邪恶凝视而逐渐枯萎。"
 
 #: iren_bodhi.tra:88
-#, fuzzy
 msgid ""
 "Why you assumed I would even be interested in your allegiance, Bodhi, I have"
 " no idea. I shall be pleased to know that you both die again just as you "
 "lived: without a single redeeming or worthwhile quality."
-msgstr "我不知道你是怎么想的，竟然答应和我联盟，你们两个死后的生活，跟你们生前一样：不值得救赎。"
+msgstr "为什么你认为我会兑现自己的承诺呢？芭荻，我不知道。我很愿意看到你们两人再次共同毁灭。就像你们生前一样：永远得不到宽恕，永远得不到回报。"
 
 #: iren_bodhi.tra:452
-#, fuzzy
 msgid ""
 "Do not overestimate your usefulness to me, 'dear' sister... nor the extent "
 "of my non-existent affection. Or do you truly think I had forgotten your "
 "whispered urgings which had led me down the path of my exile?"
-msgstr "别把你自己看得太高，亲爱的妹妹，也别以为我真的不存在过，你以为我真的忘了你是如何引诱我走到放逐这一步的么？"
+msgstr "不要高估自己的用处，我“亲爱”的姐姐……也不要高估我从未存在过的“感情”。你以为我真忘了当初就是你引诱我走到如今这一步的吗？"
 
 #: iren_bodhi.tra:453
-#, fuzzy
 msgid ""
 "Enough, sister. We do as Melissan bids, with her servants at our side. Take "
 "delight, if you will, at the revenge we shall now taste. Let us see, "
 "<CHARNAME>, if I can rip that soul out of you once more. I would so delight "
 "in stealing your proud destiny a second time."
-msgstr "够了，妹妹，梅丽珊作的够多的了，高兴点，马上就可以报仇了。我们走着瞧，如果我能把你的灵魂再夺走的话，我会很高兴的继承你那骄傲的宿命。"
+msgstr ""
+"够了，姐姐，我们要听从梅丽珊的命令，正如她的其他仆人那样。高兴点，这不是我们一直在期待的复仇吗？让我们看看现在还能否把你的灵魂再撕裂一次，<CHARNAME>。我会很乐意再次替你继承那光辉的命运。"
 
 #: iren_bodhi.tra:454
-#, fuzzy
 msgid ""
 "You over-step your bounds, as always. I did not call you here to rejoice in "
 "your venom, Bodhi. Do you not notice where we are? Whom we face?"
-msgstr "你过线了，跟以前一样，我叫你来不是让你嬉皮笑脸的，你知道我们在哪儿么？我们面对的是谁？"
+msgstr "你再次越界了，一如往常。我召你来此不是让你享受自己的毒汁，芭荻。你难道还没意识到这是哪里？没意识到我们在面对谁吗？"
 
 #: iren_bodhi.tra:455
-#, fuzzy
 msgid ""
 "You think to betray me, Bodhi? Foolish girl. Melissan is the one who holds "
 "power here, and you hope to find succor at the feet of this fool "
 "<PRO_GIRLBOY>? Stand by me or die with <PRO_HIMHER>!"
-msgstr "你想背叛我？傻女孩，梅丽珊控制着这里，而你想从这个傻<PRO_GIRLBOY>那里找机会？这到这边否则就跟<PRO_HIMHER>一起死！"
+msgstr ""
+"你想背叛我，芭荻？愚蠢的女人。梅丽珊才是掌控这里一切的人。而你想把希望寄托在这个愚蠢的<PRO_GIRLBOY>_身上？为我而战否则就跟<PRO_HIMHER>_一起死！"
 
 #: iren_bodhi.tra:456
-#, fuzzy
 msgid ""
 "So my ungrateful sister, you finally stand by my side. I shall deal with "
 "your treachery afterwards. As for you, <CHARNAME>, Melissan has granted me "
 "the power to rip the divinity from your body. The first thing I shall feel "
 "in an eon shall be pleasure as I watch your corpse turn to dust."
 msgstr ""
-"我的不领情的妹妹，你终于回来了，等我回过头再收拾你，至于你，<CHARNAME>，梅丽珊给了我夺取你灵魂的机会，我不会忘记你变成飞灰的那一刻。"
+"那么我忘恩负义的姐姐，你终究选择了站在我这边，等我回头再处理你的背叛行为。至于你，<CHARNAME>，梅丽珊给了我夺取你灵魂的机会，往后的日子里我一定不会忘记你那尸体化为尘土的样子。"
 
 #: iren_bodhi.tra:457
-#, fuzzy
 msgid "I see. So you leave me, sister, just as *she* left me."
-msgstr "我明白了，你也离开了我，就跟“她”那时一样。"
+msgstr "我明白了，连你也要离开我，姐姐。就和“她”当初一样。"
 
 #: iren_bodhi.tra:458
-#, fuzzy
 msgid ""
 "It is no matter. Melissan has given me power enough, and her own servants "
 "shall teach you the error of your ways. I shall strip the divinity from "
 "<CHARNAME>'s soul and you, *dear* sister, shall be nothing but dust beside "
 "<PRO_HIMHER>."
 msgstr ""
-"没关系，梅丽珊给了我足够的能力来告诉你什么是错的，我会夺走他的灵魂和你的，“亲爱的”妹妹，你最后只能是<PRO_HIMHER>旁边的一股飞灰。"
+"这一切都无所谓了。梅丽珊已经赐予了我足够强大的能力，我要让你意识到自己是如何的一败涂地，<CHARNAME>。我要夺走你的灵魂。还有你，我“亲爱”的姐姐。马上这里的一切就将荡然无存！"
 
 #: iren_sarev.tra:277
-#, fuzzy
 msgid ""
 "This is the Irenicus I have been told of? I was expecting more intensity and"
 " power from one who hounded <CHARNAME> so, and not simply... *another*... "
 "wizard."
-msgstr "这就是传说中的艾瑞尼卡斯？我原来以为追杀<CHARNAME>的人会是个强大的家伙，但......却又是个......法师。"
+msgstr "这就是一直被提到的那个艾瑞尼卡斯？我原本以为能够追杀<CHARNAME>的人一定会是个强大的家伙，而不是……又一个……法师。"
 
 #: iren_sarev.tra:278
-#, fuzzy
 msgid ""
 "Yet I certainly would not have allowed <CHARNAME> to escape from me, had "
 "<PRO_HESHE> been within my power not once but twice, even. But, then, I "
 "imagine you were too busy taking control of insane asylums and making "
 "thieves out of vampires for absolutely no reason."
-msgstr "我当然不会再让<CHARNAME>从我的手心中跑出去，但你处理那疯狂的避难所，才导致吸血鬼栽在影贼手中。"
+msgstr ""
+"我当然不会再让<CHARNAME>_从我的手心里溜走，<PRO_HESHE>_已经被我抓住过不止一次了。但是，我想你太急于去控制那座精神病院了，而且又毫无缘由地指使吸血鬼去当窃贼。"
 
 #: iren_sarev.tra:440
-#, fuzzy
 msgid ""
 "So, <CHARNAME>... it is now just you and I, once again. At odds in the "
 "bowels of Hell and preparing to do combat. How very fitting."
-msgstr "现在，<CHARNAME>......只剩下你跟我了，在地狱的底层作战，很不错么。"
+msgstr "现在，<CHARNAME>，再一次……只剩下你和我了。在地狱的深层争吵与准备战斗……还真是应景。"
 
 #: iren_sarev.tra:441
-#, fuzzy
 msgid ""
 "This fight is mine, Irenicus. While you stewed in Hell, my power has "
 "multiplied."
-msgstr "我是必胜的，艾瑞尼卡斯，你在地狱里的那段时间，我的力量增长了很多。"
+msgstr "这场战斗的胜利必将属于我，艾瑞尼卡斯。你在地狱里苟延残喘的那段时间，我的力量增长了很多。"
 
 #: iren_sarev.tra:442
-#, fuzzy
 msgid ""
 "You actually think you'll stop me? It appears your delusions have survived "
 "the many beatings at my hand."
-msgstr "你真认为你能阻止我么？看来你在地狱的这段时间并没有让你的错觉消失。"
+msgstr "你真认为自己能阻止我么？看来即使无数次失败也不会让你从妄想中醒来。"
 
 #: iren_sarev.tra:443
-#, fuzzy
 msgid ""
 "So you're actually willing to serve as Melissan's little lackey? I would "
 "expect more from the great elven magician. Ellesime would be sad to see you "
 "reduced to this."
-msgstr "你愿意为梅里珊跑龙套了？我原以为你很有骨气呢，强大的精灵法师，艾丽星看到你这个样子会难过的。"
+msgstr "你真打算去做梅丽珊的马前卒了？我原以为一位强大的精灵法师会更有骨气些。艾丽星肯定不忍看到你沦为现在这副模样。"
 
 #: iren_sarev.tra:444
-#, fuzzy
 msgid ""
 "Don't you ever tire of that bravado? Haven't you received enough spankings "
 "upon my knee?"
-msgstr "你还没装够么？你还没挨够打么？"
+msgstr "你永远要这样虚张声势吗？还是说你仍然没挨够我的打？"
 
 #: iren_sarev.tra:445
-#, fuzzy
 msgid "You won't stop me, Irenicus. Nobody can. My destiny is at hand."
-msgstr "你阻止不了我，艾瑞尼卡斯，没人能够，事情会因我而改变。"
+msgstr "你阻止不了我，艾瑞尼卡斯，没人可以，属于我的命运就要实现了。"
 
 #: iren_sarev.tra:446
-#, fuzzy
 msgid ""
 "It appears you have been the beneficiary of low expectations, but even I "
 "have learned from my mistakes. Here, I have nothing to lose, not even my "
 "life. Thanks to Melissan, I still have time to snuff out your divine "
 "ascencion personally. We will be even!"
-msgstr "看来你并没有太失望，但是我也认识到了我的失误之处，现在我没有什么可输的了，甚至我的生命，还得谢谢梅丽珊，我可以亲手杀掉你！"
+msgstr ""
+"看来最终是你成了那个因低调而获胜的人。我已经认识到了自己的失误之处。如今我已再无牵挂，即使是我自己的生命。感谢梅丽珊，让我还能获得一次亲手扼杀你的机会，我要血债血偿！"
 
 #: iren_sarev.tra:447
-#, fuzzy
 msgid ""
 "You may have gained some crude and rudimentary control over your abilities "
 "in the interim, but even I have learned a thing or two... delusions or no. "
 "And Melissan has given me the opportunity to personally see an end to your "
 "ascension... consider it a favor returned."
-msgstr "在这段时间里，你可能学到了几样东西，我也认识到了几样你所谓的“幻觉”，现在梅里珊又给了我亲手阻止你登神的机会，就当是我还你的人情吧。"
+msgstr ""
+"也许这段时间你确实获得了某些连自己都难以掌控的力量。但拜你所赐我也同样领悟颇多……无论那是妄想与否。现在梅里珊又给了我亲手阻止你登神的机会，你就把这当作是我还你的“人情”吧"
 
 #: iren_sarev.tra:448
-#, fuzzy
 msgid ""
 "Do not speak her name, dog. Ellesime will understand the fullness of her "
 "regret soon enough. As for you... Melissan has given me the opportunity to "
 "return an old favor. One ascension for another... it rings with universal "
 "justice."
-msgstr "你不配提她的名字，混蛋。艾丽星很快就会后悔之极了，至于你，梅丽珊给了我还你这个人情的机会，"
+msgstr ""
+"你不配提她的名字，杂碎！艾丽星很快就会为此后悔了。至于你，梅丽珊给了我一个还你“人情”的机会。凡人晋升为超凡者……必须经得住世间一切的考量。"
 
 #: iren_sarev.tra:449
-#, fuzzy
 msgid ""
 "How very glib and typical. How far the expectations of the universe must "
 "have lowered to allow a gnat like you to even come this far. It is fortunate"
 " that I have an opportunity, then, to repay your termination of my own "
 "ascension in kind."
-msgstr "说得很不错，看来登神的标准为你降低了很多呢，我很幸运有了这个机会，报答你阻止我登神的机会。"
+msgstr "真是伶牙俐齿。世间居然会容忍像你这样的废物胡闹到这种地步。我很庆幸能有这个机会来“报答”你当初毁了我自己登神的机会。"
 
 #: iren_sarev.tra:450
-#, fuzzy
 msgid ""
 "Ah, yes. Familiar words. Similar to the ones I spoke at the cusp of my own "
 "ascension. How I would enjoy to repay that favor in kind and show the "
 "universe what an unworthy gnat you truly are."
-msgstr "是啊，听起来很耳熟，就像我在登神的时候别人对我说的那样，我会很高兴回报你的这个人情，并向世界证明你什么也不是。"
+msgstr "啊，是的，听起来很耳熟，就像我在登神的时候别人对我说的那样。我会很高兴回报你这个人情，并向世间证明你是如此一无是处。"
 
 #: iren_sarev.tra:451
-#, fuzzy
 msgid ""
 "But enough of this. Though I would dearly love to let my sister rot in her "
 "own Hell for eternity, it would not be a true and fitting re-union if I did "
 "not use my new power to send her an invitation."
-msgstr "够了，我本想让我的妹妹永远待在地狱里了，但在这种情况下，我只好对她来一次非正式的邀请了。"
+msgstr "够了，我是如此想让我的姐姐永远烂在地狱里。但事已至此，如果不把她邀请过来又怎能算得上是一场真正的团圆呢？"
 
 #: iren_sarev.tra:459
-#, fuzzy
 msgid ""
 "Better that than a laughable fool whose most promising idea to dominate the "
 "Sword Coast was to 'poison' its supply of iron. I discarded you as a "
 "candidate long before <CHARNAME> soundly defeated you merely for fear of "
 "losing all common sense merely by association with your pathetic soul."
-msgstr "看来我要靠垄断钢铁来支配剑湾的想法并不是那么可笑，在你被<CHARNAME>打败以前，我还比较看好你，但是现在看来你十分缺乏常识。"
+msgstr ""
+"总比某个以为靠污染铁矿就能统治剑湾的可笑傻瓜要好得多。我在你被<CHARNAME>摧毁之前就早已认定你没有资格继承巴尔的血统。你以为只凭借你那可悲的灵魂就能驾驭一切吗。"
 
 #: iren_sarev.tra:460
-#, fuzzy
 msgid ""
 "Bark if you wish, mongrel. Whatever dull fangs you might have possessed have"
 " long since been pulled. If a has-been wishes to ride <CHARNAME>'s coat-"
 "tails it makes no difference to me... but you'll be disintegrated right "
 "along with <PRO_HIMHER>."
-msgstr "想叫就叫吧，混蛋，你的牙早就被拔光了。你跟我没什么区别，只是......你马上就要变成灰尘了！"
+msgstr ""
+"想吠就吠吧，杂种。你的獠牙早已失去了往日的锐利。你是否想做<CHARNAME>的丧家犬对我来说毫无意义。只是在你主人灰飞烟灭之时，你也要一起陪葬！"
 
 #: items-ee.tra:3001
 msgid ""
@@ -3326,19 +3266,20 @@ msgid ""
 "\n"
 "Weight: 10"
 msgstr ""
-"沙洛弗克的混乱之剑\n"
-"<CHARNAME>的兄弟，沙洛弗克的兵器。在博得之门发生的最后一战中，沙洛弗克被<CHARNAME>击败，他想在剑湾发起战争的计划也随之破产。现在沙洛弗克加入了<CHARNAME>的队伍，并使这把剑恢复了原来的一些能力。然而没有了巴尔之子的灵魂，沙洛弗克的剑无法达到像原来的那样强大，但它仍是一件可怕的武器。沙洛弗克说不是死亡使者的人最好不要碰这把剑。\n"
+"这把剑是<CHARNAME>的兄弟，沙洛佛克的武器。在博德之门发生的最后一战中，沙洛佛克被<CHARNAME>击败，他计划在剑湾发动战争的阴谋也随之破产。现在沙洛佛克加入了<CHARNAME>的队伍，这把剑也被归还到他的手中。沙洛佛克把这件武器称为死亡使者的剑刃，并使它恢复了原有的一些能力。虽然失去巴尔之子的灵魂已经使沙洛佛克的剑无法达到原来那般强大。但它仍然是一件可怕的武器……就像沙洛佛克所说的那样，不具备死亡使者资质的人会越来越难以运用它。\n"
 "\n"
-"状态：\n"
-"能力：每级吸取一到五点生命，吸取的生命不会超过生命最大值。持用者获得10%魔法防御。\n"
+"特殊能力：\n"
+"每次击中吸取敌人1-5点生命值治疗自己\n"
+"魔法抗力+10%\n"
 "\n"
-"伤害：1d10 + 4\n"
-"命中：+ 4有利\n"
+"数据资料：\n"
+"伤害力：1D10+4（挥砍）\n"
+"零级命中值：+4改善\n"
+"武器速度：8\n"
 "重量：10\n"
-"速度因素：8\n"
-"武器种类：双手剑\n"
-"持用方式：双手\n"
-"属性需求：14强壮，18体质"
+"武器特长类别：双手剑\n"
+"使用类别：双手\n"
+"需求：力量14，体质18"
 
 #: items-ee.tra:3003
 msgid ""
@@ -3348,33 +3289,35 @@ msgid ""
 "\n"
 "Weight: 1"
 msgstr ""
+"这瓶药可能是仙黛自己配制的药剂，它具有相当强大的治疗效果，任何人喝了它都会完全恢复健康。\n"
+"\n"
+"数据资料：\n"
+"重量：1"
 
 #: items-ee.tra:3004
 msgid ""
 "Still, however, it is a formidable weapon... and one that Sarevok warns "
 "would become increasingly difficult to wield in the hands of one who was not"
 " a Deathbringer, if they could use it at all."
-msgstr "沙洛弗克说不是死亡使者的人最好不要碰这把剑。"
+msgstr "但它仍然是一件可怕的武器……就像沙洛佛克所说的那样，不具备死亡使者资质的人会越来越难以运用它。"
 
 #: items-ee.tra:3005
 msgid ""
 "Still, however, it is a formidable weapon... and one that only a "
 "Deathbringer of Sarevok's skill and power can wield."
-msgstr "然而，它仍然是一件令人生畏的武器……而且只有拥有沙洛佛克技能和力量的死亡使者才能使用。"
+msgstr "但它仍然是一件可怕的武器……只有如死亡使者沙洛佛克这般力量和技术的人才可以运用它。"
 
 #: items-ee.tra:3006
 msgid "Only Sarevok can use this weapon."
-msgstr "只有沙洛佛克可以使用这把武器。"
+msgstr "这件武器只能被沙洛佛克使用。"
 
 #: mel_balth.tra:591
-#, fuzzy
 msgid ""
 "You don't have all the essence of Bhaal... not by far. And I rule here, as "
 "well... you know that."
-msgstr "你并没有取得巴尔的全部天赋，而且，这里马上就会是我的地盘了。"
+msgstr "你还没有掌握全部的巴尔神性……至少现在还没有。我依然统治着这里，你清楚这一点。"
 
 #: mel_balth.tra:605
-#, fuzzy
 msgid ""
 "True. More insightful than I would have expected from you, <CHARNAME>. And "
 "far more clever for you to have denied me Balthazar's essence... although, "
@@ -3382,139 +3325,123 @@ msgid ""
 "Unlikely as that was, considering the pathetic monk could barely see the "
 "forest for the trees."
 msgstr ""
-"的确，你比我想象的要聪明的多，<CHARNAME>，而且更令我惊叹的是你竟然阻止了我得到巴尔撒扎的天赋......不过，说实话，我的确很希望他能把你击败。"
+"的确，你比我想像的要聪明得多，<CHARNAME>。而且更令我惊叹的是你竟然阻止了我汲取巴萨札的神性能量……不过，说实话，我的确很希望他可以把你击败。尽管这看上去没有什么希望。那可悲的武僧永远只见树木不见森林。"
 
 #: mel_balth.tra:613
-#, fuzzy
 msgid ""
 "Ahhhh, Balthazar is here as well. How clever to deny me his essence, "
 "<CHARNAME>. Still blinded by your devotion to destiny, Balthazar? Or have "
 "you abandoned your faith so quickly?"
 msgstr ""
-"啊......巴尔撒扎也来了。阻止我得到他的天赋的确是个很聪明的主意，<CHARNAME>。你怎么不坚定于自己的信念了？巴尔撒扎，你可太容易动摇了。"
+"啊啊……巴萨札也来了？让他的神性主动拒绝我确实很聪明，<CHARNAME>。你还在为献身于命运而感到盲目吗，巴萨札？还是说你这么快就放弃了自己的信仰？"
 
 #: mel_balth.tra:614
-#, fuzzy
 msgid ""
 "Oh no? Perhaps you do not understand. This... this place, here, is the "
 "Source. This is where the essence of all of Bhaal's children returns when "
 "they die, hidden away. Did you never wonder, dear Balthazar, what killing "
 "all the other spawn of Bhaal was *for*?"
-msgstr "噢，不，你还没明白。这个地方，就是发源地，所有巴尔之子死时，他们天赋回归的地方，你想过么？亲爱的巴尔撒扎，屠杀这些巴尔的后裔是为了什么？"
+msgstr ""
+"喔，没有？也许你还不理解。这里……这个地方，就是源头。所有巴尔之子死后，他们的神性都会汇集到这里，弥散开来。难道你就没有想过吗，亲爱的巴萨札，杀死其他巴尔之子究竟是为了什么？"
 
 #: mel_balth.tra:615
-#, fuzzy
 msgid ""
 "And well you should not have, though you aided me regardless. Bhaal may, "
 "indeed, be... somewhere. But not here. Here I have locked these essences "
 "away and drank heartily of their power. The Source, the Throne, all are "
 "mine... and god-hood is but one simple step away."
 msgstr ""
-"你在无意中也帮了我一把，尽管你没有意识到。至于巴尔本人，事实上他的确在一个地方，但不是这里，我已经把他和这些天赋隔绝开来了，并且全部联系到了自己身上，这个源头，这个王座，全都是我的了......只差最后的登神了。"
+"你当然不会，尽管你还是在无意间帮助了我。至于巴尔本人，其实……他早就不在此间了。我已经把他和这些神性能量隔绝开来，并将它们全部汲取到自己身上。这个源头，这个王座，全都是我的了……我离封神只差最后一步了。"
 
 #: mel_balth.tra:1002
-#, fuzzy
 msgid ""
 "<CHARNAME> does not stand alone, Melissan. It is time that this is ended."
-msgstr "梅丽珊，<CHARNAME>并不是独自一人，这一切该结束了。"
+msgstr "<CHARNAME>绝不会孤军奋战，梅丽珊。这一切该结束了。"
 
 #: mel_balth.tra:1003
-#, fuzzy
 msgid ""
 "I see well enough now, priestess. Speak clever wit if you wish, you cannot "
 "hope to defeat us."
-msgstr "我已经明白了，女祭祀，说点有建设性的话吧，不然你以后没机会了。"
+msgstr "我已经看得很明白了，女牧师。和你说得更明确点，你没有机会战胜我们。"
 
 #: mel_balth.tra:1004
-#, fuzzy
 msgid ""
 "To return the essence to our father. And great bloodshed in his name to call"
 " him forth. And I never believed it."
-msgstr "把天赋归还给我们的父亲，以他的名义制造屠杀，他就会因此复活？我可不信。"
+msgstr "把神性能量奉献给我们的父亲，以他的名义制造屠杀，他就会因此再次复活？这对我来说简直是痴人说梦。"
 
 #: mel_banter.tra:630
-#, fuzzy
 msgid ""
 "What? Mortal! No, it can't be! I am nearly mortal once again! I have lost "
 "too much power! You shall pay for this!"
-msgstr "什么？凡人！不，不可能！我又快变成凡人了！我的能量失去太多了！你要为此付出代价！"
+msgstr "什么？凡人！不，这不可能！我又快要变回凡人了！我失去了太多的能量！你要为此付出代价！"
 
 #: mel_immortal.tra:274
-#, fuzzy
 msgid ""
 "Blast! The wench returns to Bhaal's essence like a coward, healing herself! "
 "There must be a way to weaken her further, or we will never defeat her!"
-msgstr "混蛋！这个婊子用巴尔的天赋来增强自己，我们必须找个办法来削弱她，否则我们根本赢不了！"
+msgstr "呸！那个女巫又返回了巴尔的能量中，就像一个胆小鬼一样治疗她自己！一定要找到削弱她的办法，否则我们永远也无法打败她！"
 
 #: mel_immortal.tra:398
-#, fuzzy
 msgid ""
 "Melissan continues to restore her divine energies at the fountain, keeping "
 "her immortality intact. There must be a way to weaken her further, or you "
 "will never be able to defeat her."
-msgstr "梅丽珊继续从王座中吸取着能量，保持着她的力量，必须找办法削弱她，否则，你不可能击败她。"
+msgstr "梅丽珊继续从王座中汲取着神性能量，维持着她不破的身形。一定要找到削弱她的办法，否则你将永远也无法打败她。"
 
 #: mel_immortal.tra:1018
-#, fuzzy
 msgid ""
 "Melissan keeps restoring her immortal energies at the fount! There must be a"
 " way to weaken her further, or we will never defeat her!"
-msgstr "梅丽珊在王座中补充能量！必须找办法削弱她，否则我们不可能击败她!"
+msgstr "梅丽珊继续从王座中汲取着无敌的能量！一定要找到削弱她的办法，否则我们将永远也无法打败她！"
 
 #: mel_initial.tra:604
-#, fuzzy
 msgid ""
 "You do not believe in my power, I can see that much. You have fought "
 "terrible foes in your past and have always managed to succeed. Why... you "
 "leave a trail of felled opponents littered about even here in the Abyss. "
 "Such as this one I found, discarded..."
-msgstr "你不了解我的力量，我看得出来。你在过去的生活中击败了很多强敌，他们都被被抛入了深渊，四处散落。就像我找到的这个，被遗弃的......"
+msgstr ""
+"你并不了解我的力量，我看得出来。你在过去的战斗中总是设法取胜，击败了很多强敌，他们全都被抛入了深渊，四处散落。就像我找到的这个，被遗弃的……"
 
 #: mel_initial.tra:606
-#, fuzzy
 msgid ""
 "I am disappointed in you, <CHARNAME>. So much bluster, so much force. So "
 "much power and wisdom locked into such a fragile form. I suppose you "
 "actually believe you have a hope in opposing me, in seizing the Throne for "
 "yourself. Such delusions."
 msgstr ""
-"你真让我失望，<CHARNAME>，你很粗暴，也很强大，但是你的力量和智慧却被你那脆弱的肉体所局限，因此你会觉得有可能战胜我，这是个可悲的错觉。"
+"你真让我失望，<CHARNAME>。如此狂言，如此威慑。你具有强大的力量和智慧，但可悲的是这些天赋却被你那脆弱的肉体所局限。我猜你肯定相信自己能够战胜我，能够取得杀戮之神的王座。但这只是个愚蠢的幻觉。"
 
 #: mel_iren_imoen.tra:435
-#, fuzzy
 msgid "Indeed. We meet once again."
-msgstr "确实，我们又见面了。"
+msgstr "的确，我们又见面了。"
 
 #: mel_iren_imoen.tra:436
-#, fuzzy
 msgid ""
 "That's okay. If Sarevok can turn up like a bad penny, then you're allowed "
 "to, as well."
-msgstr "也好，如果沙洛弗克都能复活，那你也可以。"
+msgstr "好吧，如果沙洛佛克都能如此一再出现，那么你也理应可以。"
 
 #: mel_iren_imoen.tra:437
-#, fuzzy
 msgid ""
 "You told her how to influence me, didn't you? And you told her I was in "
 "Suldanessellar."
-msgstr "你告诉她如何影响我？不是么？你还告诉她我在索丹尼斯拉。"
+msgstr "是你告诉她如何影响我的？不是吗？你还告诉她我会在索丹尼斯拉。"
 
 #: mel_iren_imoen.tra:438
-#, fuzzy
 msgid ""
 "You're a pathetic excuse for an elf, Irenicus. If you wish to die again, "
 "I'll happily oblige."
-msgstr "作为一个精灵，你活的可够惨的，如果需要我帮你一把，我会很乐意的。"
+msgstr "你真是精灵族的悲哀，艾瑞尼卡斯。如果你想再死一次的话，我很乐意帮助你。"
 
 #: mel_iren_imoen.tra:439
-#, fuzzy
 msgid "You're collecting my leavings, Melissan? How very sad for you."
-msgstr "你是在收集我打过的残渣么？梅丽珊，你太让我失望了。"
+msgstr "你一直在收集我的渣滓？梅丽珊，你太让我失望了。"
 
 #: mel_iren_imoen.tra:470
-#, fuzzy
 msgid "Nnngh! Ah, it hurts! <CHARNAME>, stop her... it... it hurts!"
-msgstr "啊！好痛啊！<CHARNAME>，阻止她......好痛啊！"
+msgstr "啊啊！好痛！<CHARNAME>，快阻止她……好痛啊！"
 
 #: mel_iren_imoen.tra:471
 #, fuzzy
@@ -3522,98 +3449,88 @@ msgid "What are you doing to her?! Stop it, I demand it!"
 msgstr "你对她做了什么？赶快停下，我命令你！"
 
 #: mel_iren_imoen.tra:472
-#, fuzzy
 msgid "I'm the one you're after, Melissan! Leave her alone!"
-msgstr "我是你要对付的人，梅丽珊！离开她！"
+msgstr "我才是你要找的人，梅丽珊！离开她！"
 
 #: mel_iren_imoen.tra:473
-#, fuzzy
 msgid "Pull yourself together, Imoen! Attack!"
-msgstr "集中注意力，爱蒙！"
+msgstr "振作起来，爱蒙！进攻啊！！"
 
 #: mel_iren_imoen.tra:474
-#, fuzzy
 msgid "So what do I care about Imoen? Kill her, Melissan."
-msgstr "你让我怎么对待爱蒙？要杀她就杀吧，梅丽珊。"
+msgstr "你以为我会在乎爱蒙？要杀就杀吧，梅丽珊。"
 
 #: mel_iren_imoen.tra:475
-#, fuzzy
 msgid "Wh-what... where am I? What's going on? <CHARNAME>?"
-msgstr "什么......我在哪儿？发生什么事了？<CHARNAME>？"
+msgstr "什么……我在哪儿？发生了什么事？<CHARNAME>？"
 
 #: mel_iren_imoen.tra:476
-#, fuzzy
 msgid ""
 "I'm not going anywhere with you! And nobody's touching my soul! Not again!"
-msgstr "我哪儿也不去！我不会让别人再碰我的灵魂了！"
+msgstr "我哪里也不去！我不会让别人再碰触我的灵魂！绝不！"
 
 #: mel_iren_imoen.tra:597
-#, fuzzy
 msgid ""
 "Bah! I should not be wasting time on you. I still have to absorb the "
 "Bhaalspawn essences... and there is more than enough power in this plane to "
 "keep you busy. Irenicus... Imoen... show <CHARNAME> the power <PRO_HESHE> "
 "dares to oppose while I take what is mine!"
 msgstr ""
-"哼！我不跟你浪费时间了，我还要去吸收巴尔的天赋......而且我这里有足够多的手下让你疲于奔命，艾瑞尼卡斯......爱蒙......让<CHARNAME><PRO_HESHE>看看敢于对抗我的下场。"
+"呸！我不想再跟你浪费时间了，我还要去吸收巴尔之子的神性能量……而且这里已经有足够多的手下来让你对付了。艾瑞尼卡斯……爱蒙……让<CHARNAME>看看敢于与我对抗的下场吧！"
 
 #: mel_iren_imoen.tra:607
-#, fuzzy
 msgid ""
 "Irenicus, I believe you called him. So easily culled as my own, since you "
 "abandoned him here recently... and such a valuable source of information on "
 "you, <CHARNAME>. After all... I believe you did share a soul, once, no? Say "
 "hello to the dear <PRO_MANWOMAN>, Irenicus."
 msgstr ""
-"艾瑞尼卡斯，你是这么叫他的吧，自从你把他放逐到这里以后，我立刻收留了他......而且他提供了很多关于你的信息，<CHARNAME>。毕竟，我想你们还是分享过灵魂的吧？向这位可敬的<PRO_MANWOMAN>问好吧，艾瑞尼卡斯。"
+"艾瑞尼卡斯，你是这么称呼他的吧，自从你把他放逐到这里以后，我就立刻收留了他……而且他提供了很多关于你的信息，<CHARNAME>。毕竟，我想你们过去还是彼此分享过灵魂的吧，不是吗？向这位可敬的对手问好吧，艾瑞尼卡斯。"
 
 #: mel_iren_imoen.tra:608
 msgid ""
 "Of course, if you truly desire a demonstration of my influence over the "
 "essence, that can be provided as well."
-msgstr "当然，如果你真想亲眼看看我天赋的影响力有多大，那这的确是个不错的例子。"
+msgstr "当然，如果你真想亲眼目睹我获取的神性力量有多么强大的话，那这的确是个不错的展示机会。"
 
 #: mel_iren_imoen.tra:609
-#, fuzzy
 msgid ""
 "Come, Imoen. I command the essence within you. You are not ready to be "
 "here... and yet here you are. Let's see just how much of my power is "
 "contained in your young little soul, hmm?"
-msgstr "来吧，爱蒙，我能直接控制你身体里的天赋，你并没有做好到这里的准备......可是你到底是来了。那就让我们看看你的天赋力量有多强大？"
+msgstr ""
+"来吧，爱蒙，我能直接控制你身体里的神性能量。你并没有做好到这里来的准备……可你还是来了。就让我们看看你年轻的灵魂中潜藏的神性力量有多么强大吧。"
 
 #: mel_iren_imoen.tra:610
-#, fuzzy
 msgid ""
 "It seems you've misplaced your darling little Imoen, haven't you? But her "
 "essence is easy enough to command. Let's see what she has to say, shall we?"
-msgstr "看来你把她带错地方了，不是么？她的天赋太容易控制了，来看看她想说点什么。"
+msgstr "看来你把我们可爱的爱蒙带错地方了，不是么？她的神性能量太容易被控制了，让我们来看看她想说点什么吧。"
 
 #: mel_iren_imoen.tra:611
-#, fuzzy
 msgid ""
 "You don't have to go anywhere, little one. I'm not calling you, after all..."
 " I'm merely coaxing forth your essence."
-msgstr "你哪儿也去不了，小不点，我要的不是你，而是你身体里的天赋。"
+msgstr "你哪里也去不了，小家伙，我要的不是你……而是你身体里的神性能量。"
 
 #: mel_iren_imoen.tra:612
-#, fuzzy
 msgid ""
 "There, there, Imoen. I command the essence within you. Let's see just how "
 "much of my power you have within you, yes?"
-msgstr "嘿，爱蒙，我控制了你身体里的天赋，让我们看看你的天赋力量有多强大？"
+msgstr "这里，爱蒙，我控制了你身体里的神性能量。就让我们看看你所潜藏的神性力量究竟有多么强大吧。"
 
 #: pool_banter.tra:91
 msgid ""
 "Goodbye, brother. Your self-destructive ways have cost you dearly. You were "
 "a fool to oppose such power and I will not suffer in the Abyss with you this"
 " time."
-msgstr ""
+msgstr "再见了，我的弟弟。你的自毁之路深深地吞噬了你。你妄图对抗这样的力量是如此的愚蠢，这一次我不会和你一起在地狱里忍受折磨了。"
 
 #: pool_banter.tra:92
 msgid ""
 "It would seem our prey intends to cower inside the magics of this place, "
 "<CHARNAME>. I have no patience for her games. I will have my soul!"
-msgstr ""
+msgstr "看上去我们的猎物正打算要退缩到这个地方的魔法里去，<CHARNAME>。我已经对她的游戏没有耐心了。我要拿回自己的灵魂！"
 
 #: pool_banter.tra:93
 msgid ""
@@ -3621,61 +3538,57 @@ msgid ""
 " to Melissan she will be forced to confront us. This is the realm of all "
 "Bhaalspawn, <CHARNAME> - your blood will serve you well."
 msgstr ""
+"围绕着我们的那些能量池散发着魔法的臭气，如果我们切断它们与梅丽珊的连接就能逼迫她面对我们。这里是所有巴尔之子的领域，<CHARNAME>。你的血脉将会很好地服从于你。"
 
 #: pool_banter.tra:396
-#, fuzzy
 msgid ""
 "With the initial battle now over, you consider your options. In the stream "
 "of energy within the center of the Throne, Melissan appears to be "
 "invulnerable to harm... and growing in power every second. She must be drawn"
 " out willingly in order to defeat her."
 msgstr ""
-"从战斗一开始，你就在思考着你的对策。在能量流向中央巴尔王座的时候，梅丽珊看起来是无法伤害的......而且她的力量在快速增长着......必须用某种办法逼她出来。"
+"从战斗的一开始你就在思考着自己的对策。在能量流向中央的巴尔王座时，梅丽珊看起来是无法被伤害的……而且她的力量在迅速增长着。你必须用某种办法逼她现身来击败她。"
 
 #: pool_banter.tra:397
-#, fuzzy
 msgid ""
 "The only option you can think of seem to be regarding the three 'essence "
 "pools' that adjoin the Throne. Your own link to the essence might allow you "
 "to cut off the flow of energy to Melissan from these pools, forcing her to "
 "fight. The pools are, however, likely to be guarded..."
-msgstr "唯一的对策是从王座周围的能量池入手，你内在的天赋使得你能够切断能量池与梅丽珊的联系，强迫她出来战斗，然而，这些池子似乎都被严密守卫着。"
+msgstr ""
+"你能想到的唯一对策就是从王座周围的三座神性能量池入手。与巴尔神性的联结使你能够切断梅丽珊与能量池之间的联系，强迫她现身战斗。然而，这些能量池似乎都被严防死守着。"
 
 #: pool_banter.tra:1005
-#, fuzzy
 msgid ""
 "We must be careful now, <CHARNAME>. Within that stream of energy, Melissan "
 "is invulnerable to harm... and I doubt she will come out of it willingly to "
 "face us."
-msgstr "我们必须谨慎些，<CHARNAME>。在能量流中的梅丽珊是无法伤害的......而且她也不可能主动来面对我们。"
+msgstr "我们必须更加谨慎，<CHARNAME>。身处能量流中的梅丽珊是无法被伤害的……而且我怀疑她不会自愿出来主动面对我们。"
 
 #: pool_banter.tra:1006
-#, fuzzy
 msgid ""
 "I think the essence pools that adjoin the Throne might be divertable by "
 "someone with a connection to the essence. A Bhaalspawn, one of us. If all "
 "three were cut off from her stream, Melissan might be forced to deal with us"
 " rather than soak up even more power."
-msgstr "我想王座与周围能量池的联系应该可以被巴尔之子所切断，我们中的一个。如果三个全被切断的话，梅丽珊应该会被逼出来。"
+msgstr ""
+"我想王座与周围能量池的联系可以被能够与神性能量接触的人切断。毫无疑问那就是我们之中的巴尔之子。如果三股能量流全部被切断的话，梅丽珊就不得不放弃继续汲取能量而出来面对我们。"
 
 #: pool_banter.tra:1007
-#, fuzzy
 msgid ""
 "She has, no doubt, guarded the pools in some fashion... but it is the only "
 "way to continue that I can think of. Short of standing here and watching her"
 " become a goddess, that is."
-msgstr "那些能量池周围必然有她的守卫......但这是我能想到的唯一办法，否则就得看着她登神。"
+msgstr "她毫无疑问……会对那些能量池严加看守……但这是我能想到的唯一办法了，否则我们就要眼睁睁地看着她晋升为神了。"
 
 #: pool_powers.tra:1
-#, fuzzy
 msgid ""
 "You interpose your hand in the swirl of energy within the pool, but its "
 "power is obviously too much for you. You do not interrupt its flow and, "
 "instead, the energy leaps out and damages you."
-msgstr "你将手放进能量池内，但是里面的能量太强了，你无法干扰里面能量的流动，相反里面的热量灼伤了你。"
+msgstr "你将双手放进能量池内，但显然里面的能量太强了。你无法干扰其中的能量流动，相反却令这些能量灼伤了你。"
 
 #: pool_powers.tra:2
-#, fuzzy
 msgid ""
 "You place your hand within the energies of the pool and draw the essence "
 "into yourself, diverting it away from Melissan. Boundless power fills you "
@@ -3684,21 +3597,19 @@ msgid ""
 "also gained the ability to unleash the power within you as a short burst of "
 "destructive power. The energies also restore the powers of all present."
 msgstr ""
-"你将手放进能量池内，并将里面的能量从梅丽珊那里引向自己。强大的能量不仅治愈了你的伤痛，恢复了你的所有力量，而且还让你免疫即死魔法，免疫斩首效果并赋予了你新的能力“能量释放”。"
+"你将双手放进能量池内，并将其中的能量从梅丽珊那里引向自己。无尽的能量立刻充满了你的全身。在能量通过后，其中一部分仍然弥散在你的体内。这不仅治愈了你的伤痛，恢复了所有力量，而且还让你获得了免疫即死魔法和斩首伤害的效果。同时赋予了你新的能力：“能量释放”。"
 
 #: pool_powers.tra:3 pool_powers.tra:4
-#, fuzzy
 msgid ""
 "New power gained: \"Unleash\"\n"
 "\n"
 "The \"Unleash\" ability releases your inner power upon a target that is within melee range, hitting them for 10d12 magic damage (half on a successful save vs. Death) and sending them flying back and perhaps unconscious for a short period. This ability may only be used once ever thirty seconds... and after using it the Bhaalspawn will be incredibly fatigued and have a 25% miscast chance on all spells for 2 rounds. Due to the amount of divine essence used, the Slayer form will also not be available for thirty seconds."
 msgstr ""
+"获得新能力：“能量释放”。\n"
 "\n"
-"获得新能力：“能量释放”\n"
-"“能量释放”这个能力能够将你内在的能量在短程内释放出来，目标会受到10d12魔法能量伤害（通过死亡豁免则伤害减半），并被推开一段距离，每五轮可使用这个能力一次......在使用后，会造成二轮的自身的疲倦以及施法失败。由于内在的天赋被释放，在使用此能力后，无论内无法变身杀戮者。"
+"“能量释放”能够将你的内在能量在短时间内释放出来，使目标受到10D12点魔法能量伤害（通过对死亡的豁免检定则伤害减半），并被推开一段距离。每五轮可使用此能力1次……但使用后，会造成自身疲倦两轮以及25％的施法失败惩罚。由于内在的神性被释放，在使用此能力后，五轮内无法变身为杀戮者。"
 
 #: pool_powers.tra:5
-#, fuzzy
 msgid ""
 "You place your hand within the energies of the pool and draw the essence "
 "into yourself, diverting it away from Melissan. Boundless power fills you, "
@@ -3709,10 +3620,9 @@ msgid ""
 " immune to the spells Maze and Imprisonment. The energies also restore the "
 "powers of all present."
 msgstr ""
-"你将手放进能量池内，并将里面的能量从梅丽珊那里引向自己。强大的能量不仅治愈了你的伤痛，恢复了你的所有力量，而且还让你免疫禁锢，迷宫，并赋予你新的能力“时空门”和“控制恶魔”。"
+"你将双手放进能量池内，并将其中的能量从梅丽珊那里引向自己。无尽的能量立刻充满了你的全身。在能量通过后，你获得了更多的巴尔神性。这不仅治愈了你的伤痛，恢复了所有力量，而且还让你获得了免疫禁锢与迷宫的效果。同时赋予了你新的能力：“控制恶魔”和“时空之门”。"
 
 #: pool_powers.tra:6
-#, fuzzy
 msgid ""
 "New power gained: \"Control Demon\"\n"
 "\n"
@@ -3722,14 +3632,13 @@ msgid ""
 "\n"
 "The Bhaalspawn may now move freely through space and the planes. This teleportation power is useable once per round."
 msgstr ""
+"获得新能力：“控制恶魔”和“时空之门”。\n"
 "\n"
-"获得新能力：“控制恶魔”\n"
-"这个能力允许巴尔之子从梅丽珊的控制下夺取一个恶魔的控制权，在使用后，巴尔之子必须和目标恶魔做一轮的思想斗争，成功后恶魔会成为巴尔之子的同盟，但并不受其直接控制，每三轮可以使用此能力一次。\n"
-"获得新能力：“时空门”\n"
-"这个能力允许巴尔之子自由的穿越时空的限制，每轮可以使用一次。"
+"“控制恶魔”允许巴尔之子从梅丽珊手下夺取一只恶魔的控制权，在使用后，巴尔之子必须和目标恶魔做一轮的意志对抗，成功后恶魔会成为巴尔之子的同盟，但并不受其直接控制，每三轮可以使用此能力1次。\n"
+"\n"
+"“时空之门”允许巴尔之子自由地穿越时空的界限，每轮可以使用此能力1次。"
 
 #: pool_powers.tra:7
-#, fuzzy
 msgid ""
 "You place your hand within the energies of the pool and draw the essence "
 "into yourself, diverting it away from Melissan. You are filled with "
@@ -3739,189 +3648,185 @@ msgid ""
 "magics as Time Stop, Disintegrate and Flesh to Stone for a short period. The"
 " energies also restore the powers of all present."
 msgstr ""
-"\n"
-"你将手放进能量池内，并将里面的能量从梅丽珊那里引向自己。强大的能量不仅治愈了你的伤痛，恢复了你的所有力量，而且还让你获得了最后的能力“能量聚焦”。"
+"你将双手放进能量池内，并将其中的能量从梅丽珊那里引向自己。无尽的能量立刻充满了你的全身，并最终流入了寰宇之中。然而其中一部分仍然弥散在你的体内，这不仅治愈了你的伤痛，恢复了所有力量，而且赋予了你新的能力：“能量聚焦”。"
 
 #: pool_powers.tra:9
-#, fuzzy
 msgid ""
 "New power gained: \"Focus\"\n"
 "\n"
 "This ability allows the Bhaalspawn to focus his energy within <PRO_HIMHER> to resist spell effects from without. For a 30-second duration, the Bhaalspawn becomes immune to the spells Flesh to Stone, Disintegration and Time Stop. All minor spells of 1st through 3rd level will also not affect the Bhaalspawn. This ability is useable once per minute."
 msgstr ""
+"获得新能力：“能量聚焦”。\n"
 "\n"
-"获得新能力：“能量聚焦”\n"
-"这个能力允许巴尔之子将内在的能量聚集起来以抵抗外来的法术攻击，使用后在五轮之内，巴尔之子免疫石化，解离，时间暂停以及所有一到三级法术，每十轮可以使用一次这个能力。"
+"“能量聚焦”允许巴尔之子将内在的能量聚集起来以抵抗外来的法术攻击。在该能力启动后的五轮之内，巴尔之子将免疫石化，解离，时间停止以及所有一到三级的法术。每十轮可以使用1次该能力。"
 
 #: pool_powers.tra:10
-#, fuzzy
 msgid ""
 "The final pool has been stilled. The light of the energy column has begun to"
 " ebb. You have only moments to prepare for what is surely the final "
 "confrontation..."
-msgstr "最后的能量池也已经被清空，巴尔王座的能量柱正在消散，你没有多少时间可以准备了......"
+msgstr "最后的能量池已经被清空，巴尔王座的能量柱正在消散，最终的决战就要到来，你没有多少时间准备了……"
 
 #: pool_powers.tra:11
-#, fuzzy
 msgid ""
 "Already Melissan begins to stir within the stream of divine energies. Once "
 "the last pool is stilled, there will be very little time before she reacts."
-msgstr "梅丽珊已经在能量柱内开始活动了，一旦这个能量池被吸干，最后的决战就要开始了。"
+msgstr "梅丽珊已经开始在能量柱内活动了，一旦这座能量池被吸干，最终的决战就要到来了。"
 
 #: sarevok_sword.tra:275
-#, fuzzy
 msgid ""
 "My blade, is it? I had thought this lost forever. It is good to have it "
 "back. While I no longer have the essence to channel through it, it is still "
 "a Deathbringer's weapon and I can restore much of its power. I would not "
 "suggest you attempt to use it yourself, now."
 msgstr ""
-"我心爱的剑，不是么？我以为它永远离开了我。太好了，即使现在我没有原来的天赋来跟它沟通，他仍旧是一把死亡使者的武器，我仍旧可以恢复它的大部分力量，不过我建议你以后不要试图使用它。"
+"我的剑，是它吗？我还以为自己永远失去了它。能拿回它实在是件幸事。尽管我不再有神性可以引导它，但它始终是一把属于死亡使者的武器，而且我可以恢复它大部分的力量。现在，我并不建议你私自使用它。"
 
 #: sarevok_sword.tra:276
-#, fuzzy
 msgid ""
 "You wouldn't have my armor, too, hidden about somewhere within your packs? "
 "Hmph. I suppose some things are too much to hope for."
-msgstr "你没找到我的装甲，还是把它藏在你的行李中？嗯，我可能期望太高了"
+msgstr "你亦无法占有我的装备，把它藏在你包裹里的某处吗？哼，我猜有些事情并不会像你想象的那样。"
 
 #: setup.tra:101000
 msgid "Ascension"
-msgstr ""
+msgstr "颠峰之战"
 
 #: setup.tra:101001
 msgid ""
 "You must have ToB installed or use Enhanced Edition to install the Ascension"
 " mod."
-msgstr ""
+msgstr "你必须在原版巴尔王座或增强版的游戏中安装巅峰之战。"
 
 #: setup.tra:101002
 msgid "Cannot install without Ascension main component."
-msgstr ""
+msgstr "无法安装，因为缺乏巅峰之战的主要组件。"
 
 #: setup.tra:101003
 msgid ""
 "You must have BG2Fixpack installed or use Enhanced Edition to install this "
 "version of the Ascension mod."
-msgstr ""
+msgstr "你必须在安装了 BG2 Fixpack 或使用增强版的游戏中安装该版本的巅峰之战。"
 
 #: setup.tra:101004 setup.tra:101008
 msgid ""
 "Ascension must be installed BEFORE Spell Revisions. Uninstall Spell "
 "Revisions, install Ascension, then reinstall Spell Revisions."
-msgstr ""
+msgstr "巅峰之战必须在 Spell Revisions 之前安装。请先删除 Spell Revisions，在安装巅峰之战后重新安装。"
 
 #: setup.tra:101005
 msgid ""
 "Ascension must be installed BEFORE Sword Coast Stratagems. Uninstall Sword "
 "Coast Stratagems, install Ascension, then reinstall Sword Coast Stratagems."
 msgstr ""
+"巅峰之战必须在 Sword Coast Stratagems 之前安装。请先删除 Sword Coast "
+"Stratagems，在安装巅峰之战后重新安装。"
 
 #: setup.tra:101006
 msgid ""
 "Ascension must be installed BEFORE Wheels of Prophecy. Uninstall Wheels of "
 "Prophecy, install Ascension, then reinstall Wheels of Prophecy."
-msgstr ""
+msgstr "巅峰之战必须在 Wheels of Prophecy 之前安装。请先删除 Wheels of Prophecy，在安装巅峰之战后重新安装。"
 
 #: setup.tra:101007
 msgid ""
 "Ascension must be installed BEFORE Iylos. Uninstall Iylos, install "
 "Ascension, then reinstall Iylos."
-msgstr ""
+msgstr "巅峰之战必须在 Iylos 之前安装。请先删除 Iylos，在安装巅峰之战后重新安装。"
 
 #: setup.tra:102000
 msgid "Tougher Throne of Bhaal battles"
-msgstr ""
+msgstr "更强的巴尔王座战斗"
 
 #: setup.tra:102100
 msgid "Tougher Abazigal"
-msgstr ""
+msgstr "更强的阿巴济戈"
 
 #: setup.tra:102200
 msgid "Tougher Demogorgon"
-msgstr ""
+msgstr "更强的狄摩高根"
 
 #: setup.tra:102300
 msgid "Tougher Gromnir"
-msgstr ""
+msgstr "更强的葛罗姆尼尔"
 
 #: setup.tra:102400
 msgid "Tougher Illasera"
-msgstr ""
+msgstr "更强的伊菈赛菈"
 
 #: setup.tra:102500
 msgid "Tougher Yaga-Shura"
-msgstr ""
+msgstr "更强的雅加苏拉"
 
 #: setup.tra:102600
 msgid "Tougher Balthazar"
-msgstr ""
+msgstr "更强的巴萨札"
 
 #: setup.tra:103000
 msgid "Additional Content (not part of original Ascension mod)"
-msgstr ""
+msgstr "额外的补充内容（之前版本不包含的内容）"
 
 #: setup.tra:103010
 msgid "Full-body portrait for Bodhi"
-msgstr ""
+msgstr "颠覆之战肖像：芭荻"
 
 #: setup.tra:103020
 msgid "Alternate Balthazar portrait, by Cuv"
-msgstr ""
+msgstr "颠覆之战肖像：巴萨札"
 
 #: setup.tra:104000
 msgid "Restored Bhaalspawn Powers"
-msgstr ""
+msgstr "还原巴尔之子的能力"
 
 #: setup.tra:104001
 msgid "Rewritten Final Chapter of Throne of Bhaal"
-msgstr ""
+msgstr "重写巴尔王座的最终章"
 
 #: setup.tra:104002
 msgid "Improved Sarevok-Player Interactions"
-msgstr ""
+msgstr "增强沙洛佛克与玩家的互动"
 
 #: setup.tra:104003
 msgid "Improved Imoen-Player Interactions in Throne of Bhaal"
-msgstr ""
+msgstr "增强爱蒙在巴尔王座中与玩家的互动"
 
 #: setup.tra:104004
 msgid "Expanded Epilogues for Bioware NPCs"
-msgstr ""
+msgstr "扩展原版 Bioware NPC 的结局"
 
 #: setup.tra:104005
 msgid "David Gaider's expanded epilogues for Bioware NPCs"
-msgstr ""
+msgstr "David Gaider 的原版 Bioware NPC 结局"
 
 #: setup.tra:104006
 msgid "Alternate epilogues by Shawne"
-msgstr ""
+msgstr "Shawne 的原版 Bioware NPC 结局"
 
 #: setup.tra:104009
 msgid "Balthazar can be redeemed"
-msgstr ""
+msgstr "巴萨札可以被救赎"
 
 #: setup.tra:104010
 msgid "Improved Slayer Transformation"
-msgstr ""
+msgstr "增强杀戮者的变形"
 
 #: setup.tra:105200
 msgid "Extended Epilogues for additional Beamdog NPCs, by shawne"
-msgstr ""
+msgstr "Shawne 的增强版 Beamdog NPC 结局"
 
 #: setup.tra:105210
 msgid ""
 "Sharper portraits of Abazigal and Gromnir for the Enhanced Edition, by "
 "DavidW"
-msgstr ""
+msgstr "为增强版提供更清晰的格罗姆尼尔与阿巴济戈头像"
 
 #: setup.tra:105220
 msgid "This component is only for BG2:EE or EET"
-msgstr ""
+msgstr "该组件只适用于 BG2EE 或 EET"
 
 #: setup.tra:105230
 msgid "Slightly improved cutscenes, by DavidW"
-msgstr ""
+msgstr "稍微增强过场动画"
 
 #: shawnesepilogues.tra:4001
 msgid ""
@@ -4334,6 +4239,7 @@ msgid ""
 "parents with unruly children in need of discipline and by those vile men and"
 " women who admired the half-orc's deeds."
 msgstr ""
+"由于没人能够抑制他的狂怒，多恩无法避免地不得善终。虽然他逃脱了诸神的愤怒，但还有其他人的报复是他逃不过的。多恩被一位“自由法官”仁慈白鸽追捕并抓获，带回了陆斯坎接受审判。他因在一个叫做巴罗的村庄对每个男人、女人和孩子的大屠杀被判决有罪，那是他黑暗之路的起点。多恩被判处死刑，并且在判决执行前三次试图越狱。其中有两次，他被白鸽追踪并抓回。在他们最后一次会面时，多恩决定不再被生擒。在这一点上他成功了。为了保住自己的性命，白鸽被迫杀死了所谓的“巴罗屠夫”。几十年后，多恩的可怕故事仍然被广为流传，被那些缺少管教的任性孩子的父母，与那些崇拜半兽人所作所为的邪恶男女讲述。"
 
 #: shawnesepilogues_eenpc.tra:5002
 msgid ""
@@ -4352,6 +4258,7 @@ msgid ""
 " exploits would inspire others to try their hand at infernal pacts. It never"
 " ended well for them."
 msgstr ""
+"由于没人能够抑制他的狂怒，多恩无法避免地不得善终。虽然他逃脱了诸神的愤怒，但还有其他人的报复是他逃不过的。多恩被一位“自由法官”仁慈白鸽追捕并抓获，带回了陆斯坎接受审判。他因在一个叫做巴罗的村庄对每个男人、女人和孩子的大屠杀被判决有罪，那是他黑暗之路的起点。多恩被判处死刑，并且在判决执行前三次试图越狱。其中有两次，他被白鸽追踪并抓回。为了避免第三次被白鸽捕获，这位半兽人逃到了世界之脊。虽然他已经数年没有回到自己的家乡了，但多恩却发现自己比白鸽更加擅长穿越这些白雪荒原。此后他便再也没来到过世界之脊以南的地方。尽管多恩的传说故事会激励起很多人违反那恶魔般的契约，但这对任何人来讲都不会有好下场。"
 
 #: shawnesepilogues_eenpc.tra:5003
 msgid ""
@@ -4369,6 +4276,7 @@ msgid ""
 "between the two finally erupted into violence. Left with little choice, "
 "<CHARNAME> slew Dorn and disappeared into the shadows of history."
 msgstr ""
+"直到今天，关于多恩和<CHARNAME>的故事，还同时被缺少管教的任性孩子的父母，与那些崇拜这对凶残伴侣所作所为的邪恶男女讲述。多恩和<CHARNAME>的关系是狂暴的，其中一方每次都极力试图控制另一方。尽管多恩和<CHARNAME>成功躲开了诸神的愤怒，但他们发现想要逃脱凡间的制裁更难。多恩被一位“自由法官”仁慈白鸽追捕并抓获，带回了陆斯坎接受审判。因为他曾经对一个叫做巴罗的村庄犯下了大屠杀的罪行。<CHARNAME>促成了多恩大胆而血腥的越狱，之后他们又花了几年躲避白鸽和其他赏金猎人。考虑到他们的激烈性情，多恩和<CHARNAME>间关系的结局或许是不可避免的。在无数次逃离不依不饶的白鸽后，他们之间的紧张关系发展成暴力。<CHARNAME>别无选择，他杀死了多恩，从此消失进历史的阴影。"
 
 #: shawnesepilogues_eenpc.tra:5004
 msgid ""
@@ -4385,6 +4293,7 @@ msgid ""
 "Radiant Heart. But it is said that since that day, a dark shadow stands "
 "vigilant beside the Throne of Blood..."
 msgstr ""
+"在<CHARNAME>超升的六天之后。多恩愤怒地穿过了泰斯尔的南部，他确认自己的爱人背叛了自己。但就在第七个黎明的时候，多恩却发现自己在一场大屠杀的现场醒来。这位半兽人感到有一种力量在体内燃烧，连他自己也从不知晓这是什么：那位新晋的谋杀之神已经选取了自己的第一位代理者。多恩马上开始召集自己的追随者，并发动了对抗希瑞克教堂的战争。他从米尔直到冰风谷，沿路无情屠戮着那位疯狂之神的信徒。每完成一次杀戮，他对<CHARNAME>的膜拜都更增添了一份力量和恶名。最终，骄傲与神圣的狂热吞噬了多恩。在一次极不可能的联手之下，希瑞克不顾一切的信徒们和至热之心骑士团共同讨伐了多恩。但传说从此之后，在巴尔王座旁边便聚集起一团警觉的黑色暗影。"
 
 #: shawnesepilogues_eenpc.tra:5005
 msgid ""
@@ -4398,6 +4307,7 @@ msgid ""
 "long-forgotten Chultan traditions, Hexxat came to be revered as queen of the"
 " city's underworld."
 msgstr ""
+"在与拉洛克和<CHARNAME>的契约被履行后，赫克赛特开始了一个人的游荡。她丧失了重返人性的最后一次机会，但她却开始对另一件事产生了新的兴趣：见证在与巴尔之子经历了这一切之后，世界将会给予她什么。赫克赛特最终回到了阿斯卡特拉，重新建立起芭荻那已经破损不堪的组织。就像她本人一样，残存的吸血鬼们也在渴望新的目标，而在她们看来，赫克赛特是一位并不只把她们当作工具的领袖。在将自身的不死之力与那久远的邱尔特传统相结合之后，赫克赛特终于被尊为了这座城市中地下世界的女王。"
 
 #: shawnesepilogues_eenpc.tra:5006
 msgid ""
@@ -4412,6 +4322,7 @@ msgid ""
 "a scarf or high collar, and that she and Hexxat would stalk the night "
 "together, for all eternity."
 msgstr ""
+"尽管赫克赛特和<CHARNAME>很可能在巴尔之子的传说结束之后，还一同经历了很多冒险，但关于这些故事的传说却鲜为流传，其中可信的内容更是少之又少。她们的所到之处总是充满了无尽的流言，其中大部分是由卡宾娜散播的：那对恋人已经去到了深水城，成为了当地贵族兄弟会的核心成员。她们创下了本世纪最大的一起抢劫活动，把魔索布莱城中布瑞切之阶的宝库洗劫一空。她们甚至收养了一群地精，教会了它们开锁的技巧。而其中最狂野的说法是，<CHARNAME>从此便一直围着围巾或竖起高领，这样她就可以与赫克赛特一同游荡在夜晚中，永远相互陪伴。"
 
 #: shawnesepilogues_eenpc.tra:5007
 msgid ""
@@ -4431,6 +4342,7 @@ msgid ""
 " wild magic, one thing was certain: Neera would live a very interesting "
 "life."
 msgstr ""
+"涅拉旅行返回北地，一路上在诸多旅馆和酒店中停留，总是开心地聆听诗人们吟唱关于她和<CHARNAME>或真或假的冒险故事。当她抵达至高森林时，她受到了英雄般的欢迎和树人图琅的亲自接待。但几天之后涅拉就再次感到无聊了，她动身返回了安姆，与秘密避难所中幸存的狂法师们重聚，希望能够再次寻回他们幸福的陪伴。但涅拉现在变得不知疲倦而力量强大。她很快便再次离开，前往了月之海。在一两次狂乱波动的帮助下，她只手便弄沉了三艘进港的塞恩贩奴船，将红袍法师们赶出了梅尔沃特城。这引起了塞恩的注意，涅拉发现自己再次被红袍法师所追捕。有段时间，她甚至乐在其中，一度发现自己又一次和萨扎斯·坦达成权宜联盟；但她冒险的回报就像自己的狂乱魔法一样不可预知，只有一件事情是确定的：涅拉的一生是极其有趣的。"
 
 #: shawnesepilogues_eenpc.tra:5008
 msgid ""
@@ -4445,6 +4357,7 @@ msgid ""
 " restless wanderings would take her, he knew they would find each other "
 "again."
 msgstr ""
+"有了<CHARNAME>在她的身边，涅拉看上去似乎想要安定下来，或许可以返回至高森林。但很快事情就变得清楚了：他们二人谁都不想要一个平常的生活。尽管八杖团已经不复存在，但塞尔的阴谋仍然笼罩着大地。在<CHARNAME>的鼓励下，涅拉使用自己的狂乱魔法轻易地摧毁了梅尔沃特城的三艘塞恩贩奴船。整座城市因而为他们英雄般的壮举一直庆祝到黎明。但在<CHARNAME>醒后，涅拉却不见了。她没有留下任何字条，也没有她要往哪儿去的线索。可<CHARNAME>只是微笑，他知道无论那焦躁不安的心情会将涅拉带向何处，他们总会在某一天再度相见。"
 
 #: shawnesepilogues_eenpc.tra:5009
 msgid ""
@@ -4460,6 +4373,7 @@ msgid ""
 "those present were shocked to realize that not one of his opponents had been"
 " killed. He had remained true to Selune's ways until his dying breath."
 msgstr ""
+"在巴尔之子的传奇故事结束后，拉萨德也不再满足于过逃亡者的生活。在深石矿井的战斗之后，拉萨德迫使阿罗戈斯过上了终日隐遁的日子。在此之后他返回了卡丽杉，决心在日魂修士会面前证明自己的忠诚。但拉萨德却无法说服日魂的统治阶级自己仍然遵循着日魂的教诲，然后就被对方草率地驱逐了。拉萨德公开谴责这一审判，宣告自己的清白并拒绝离开。故事中说他击倒了数百位日魂武僧，直到被迫向高层人士屈服。正是哈曼·六道本人给了他最后一击。在拉萨德去世之后，那次事件的亲历者惊奇地发现被他攻击的人都没有死亡。在他弥留之际，这位武僧仍然保持着对苏伦的真诚信仰。"
 
 #: shawnesepilogues_eenpc.tra:5010
 msgid ""
@@ -4472,6 +4386,7 @@ msgid ""
 "monastery in the Cloud Peak mountain, where he would live out his life in "
 "quiet contemplation."
 msgstr ""
+"尽管阿罗戈斯在深石矿井的战斗后再次浮出了水面，但拉萨德已经没有兴趣向他的兄弟复仇了。在致力于寻求双圣真理的过程中，拉萨德找到了内心中的平静。他以更加耐心和更不教条的方式成为了一个对莎儿和苏伦更加清醒的信仰者。至少，这位牧师仍然声称自己代表他们制裁暴力。拉萨德最终和自己的追随者撤退到云雾峰上，并在那里建立起一座修道院。在那里他过上了终日沉思的宁静生活。"
 
 #: shawnesepilogues_eenpc.tra:5011
 msgid ""
@@ -4486,6 +4401,7 @@ msgid ""
 "trained by both parents, the Seven launched a holy crusade from which the "
 "Dark Moon would never fully recover."
 msgstr ""
+"尽管有来自<CHARNAME>的证言，但拉萨德仍然无法说服日魂武僧认定他是无辜的。但他被放逐的痛苦命运马上被与<CHARNAME>另组家庭的逾越所冲淡。而他们的七个孩子都在日魂武僧的哲学训诫中成长，这是他们的父亲始终不曾忘记的教诲。但那黑暗的折磨再度侵袭巴希尔家族只是时间上的问题：在一个令人愉悦的春季傍晚，拉萨德和<CHARNAME>一起遭遇了来自苏伦刺杀者的埋伏，并死在了这场袭击中。尽管阿罗戈斯将此视为一场重大胜利，但这也令他付出了巨大的代价：受这两位父母训练长大的七个孩子向暗月武僧发起了神圣的远征，从此后者就再也没能恢复元气。"
 
 #: shawnesepilogues_eenpc.tra:5012
 msgid ""
@@ -4501,317 +4417,284 @@ msgid ""
 "steadfast members of the wild. He died peacefully during hibernation at the "
 "age of thirty-seven, surrounded by family and friends."
 msgstr ""
+"在那些说动物语言的朋友中间，威尔逊的名字不仅广为所知而且广受喜爱。它是弱者的保护者，也是在暴力世界中孜孜不倦捍卫和平的战士。威尔逊英勇的正义行为也在动物王国中激起了不少义士跟随它的脚步。每个时代都广泛流传着有关它们的传说。在制止了它自己种族对鱼类的狂暴杀害之后，威尔逊第一次成为了受鲑鱼膜拜的圣人。而它最重要的成就还是调停了猫与狗之间长达数世纪之久的冲突。所有这些功绩加在一起，威尔逊被森林世界中所有善良和坚定的伙伴所铭记。在达到三十七岁高龄的时候，它在一次冬眠中平静地离开了这个世界。所有朋友和家人都在当时围在它身边，为其送行。"
 
 #: slayer_dialog.tra:314
-#, fuzzy
 msgid ""
 "Slayer Ability Changed\n"
 "\n"
 "It appears my ability to control the transformation to the Slayer has increased. The Slayer form itself is stronger, deadlier... and I am able to maintain it for longer. The chances of going berserk while in the form have also decreased."
 msgstr ""
+"杀戮者形态增强。\n"
 "\n"
-"杀戮者能力增强\n"
-"看起来我对变形杀戮者的控制能力增强了，这个形态变得更加强壮，致命了，而且我可以保持这个状态更长时间，更不容易失去理智了。"
+"看起来我对杀戮者形态的控制能力增强了。这个形态变得更加强壮与致命……而且我还可以保持这个形态更长时间，也更不容易失去理智了。"
 
 #: slayer_dialog.tra:315
-#, fuzzy
 msgid ""
 "Slayer Ability Changed Again\n"
 "\n"
 "My control over the Slayer transformation continues to increase. The Slayer has become incredibly immune to harm and most magics, and it appears it is now immune to most diseases, poisons as well as any slow or hasting effects. Even the Slayer's claws now sometimes rip through magical effects and defenses."
 msgstr ""
+"杀戮者形态再次增强。\n"
 "\n"
-"杀戮者能力再次增强\n"
-"我这种形态的掌握又进了一步，现在的形态对绝大多数伤害，魔法都有一定的免疫能力，并且完全免疫疾病，毒素以及影响行动速度的效果，爪子上还附带了更强的魔法效果。"
+"我对这种形态的掌握能力又增进了一步，现在的形态对绝大多数伤害与魔法都有一定的免疫能力，并且完全免疫疾病，毒素以及影响行动速度的效果。同时杀戮者的爪子还附带有一定的魔法穿透效果。"
 
 #: slayer_dialog.tra:316
-#, fuzzy
 msgid ""
 "The Ravager Form\n"
 "\n"
 "I am not sure if this is a good thing or not... but my ability to control my transformation has progressed to the point where I can now become the Ravager... optionally. Although incredibly powerful... the Ravager receives half damage from most attacks, is immune to any kind of immobilization or buffeting attack... the Ravager is difficult for me to control and may be a danger to those nearby."
 msgstr ""
+"毁灭者形态。\n"
 "\n"
-"终结者形态\n"
-"我不知道这是好事还是坏事......但是我的变形能力已经超过了原来的极限，我可以按照自己的意愿变形成终结者了。对所有的攻击都只受一半伤害，并且获得自由行动的能力。然而这个形态非常难以控制，对周围的人是极大的危险。"
+"我不知道这是件好事还是坏事……但我的变形能力已经超越了原有的极限，我可以按照自己的意愿变形成毁灭者了。这种形态对大多数攻击都只承受一半的伤害，并且免疫任何种类的行动限制与致命一击效果……然而这个形态非常难以控制，对周围的人来说也是极大的危险。"
 
 #: slayer_dialog.tra:317
-#, fuzzy
 msgid "I choose to turn into the Ravager."
-msgstr "我决定变成终结者."
+msgstr "我决定变形为毁灭者。"
 
 #: the_five.tra:26
-#, fuzzy
 msgid ""
 "Who? Melissan. And <CHARNAME>, no less. And to think that I had resigned "
 "myself to not being a part of this little play. Who brought me here? And why"
 " am I in my old armor?"
-msgstr "谁？梅丽珊，还有<CHARNAME>，人真齐呀，我原想我赶不上着最后一幕了。谁送我来的？我怎么穿上了原来的盔甲？"
+msgstr "是谁？梅丽珊，还有<CHARNAME>，果然如此。我以为自己不会再参与这最后一幕了。是谁召唤我来此的？我为何还穿戴着原来的盔甲？"
 
 #: the_five.tra:27
-#, fuzzy
 msgid "Fight <CHARNAME>? Aye... I will do that."
-msgstr "跟<CHARNAME>战斗？嗯......我当然会的。"
+msgstr "与<CHARNAME>战斗？嗯……我想我会的。"
 
 #: the_five.tra:28
-#, fuzzy
 msgid "So you die again, as well. It's all good."
-msgstr "那你就会再死一次，很不错。"
+msgstr "那你就会再死一次，很好。这太棒了。"
 
 #: the_five.tra:29
 msgid "You're a fool, Sarevok, if you think you'll make any difference."
-msgstr "你是个笨蛋，沙洛弗克，你认为你能造成什么区别么."
+msgstr "你实在太愚蠢了，沙洛佛克。你以为自己能带来任何改变吗？"
 
 #: the_five.tra:30
-#, fuzzy
 msgid "You're willing to become Melissan's servant, now? I'm disappointed."
-msgstr "你要为梅里珊卖命？太让我失望了。"
+msgstr "现在你要为梅丽珊卖命了？真是太让我失望了。"
 
 #: the_five.tra:31
-#, fuzzy
 msgid ""
 "Then you'll die. I gave you life again, and I can take it away... for the "
 "third time."
-msgstr "那你就死吧，我能给你生命，我也能夺走它......这将会是第三次。"
+msgstr "那你就去死吧，我能赋予你生命，就能再次夺走它……这将是第三次。"
 
 #: the_five.tra:32
-#, fuzzy
 msgid ""
 "It is true. I may die again at your hand, <CHARNAME>. But better that than "
 "sit in your shadow and taste the bile in my heart while you take what was "
 "once rightfully mine. Better to fight for Melissan than suffer that."
-msgstr "没错，我可能再一次死在你的手里，<CHARNAME>，但看着你夺取原本属于我的东西要比为梅里珊卖命痛苦的多。"
+msgstr ""
+"没错，我可能再一次死在你手里，<CHARNAME>。但比起永远躲在你的阴影下，尝尽我内心中的苦楚，亲眼目睹你夺取原本属于我的东西……这一切都要比为梅丽珊卖命痛苦得多。"
 
 #: the_five.tra:262
-#, fuzzy
 msgid "What do you mean, wench? We've no business, you and I."
-msgstr "你什么意思？婊子，你我之间没有交易。"
+msgstr "你是什么意思？婊子！你和我之间没有任何关系。"
 
 #: the_five.tra:263
-#, fuzzy
 msgid ""
 "Even if cared to consider your offer, I cannot. <CHARNAME> has bound me with"
 " a vow."
-msgstr "即使我想考虑你的交易，我也不能，<CHARNAME>用誓约束缚住了我。"
+msgstr "我根本都不想考虑你的任何提议。<CHARNAME>已经与我结成了誓约。"
 
 #: the_five.tra:264
-#, fuzzy
 msgid ""
 "I see. And you believe your offer interests me? <CHARNAME> has done well "
 "enough against you so far."
-msgstr "我明白了，你认为你能激起我的兴趣？不过迄今为止<CHARNAME>干得比你强多了。"
+msgstr "我明白，但你认为我会感兴趣吗？迄今为止<CHARNAME>干得比你强多了。"
 
 #: the_five.tra:265
-#, fuzzy
 msgid ""
 "Serve you? You made me that offer once, as I recall. I strung up your "
 "messenger atop the spires of my tower and allowed the crows to feed upon his"
 " innards. I desired to rule, not to serve. And I will not serve you, wench. "
 "My answer is no."
 msgstr ""
-"为你服务？我想起来了，以前你是送来过一个信使，我把他吊在了我的塔顶，然后让乌鸦把他的内脏清理了。我要的是支配，不是服从！我也不会服从你的，婊子，我的回答是不！"
+"为你服务？我想起来了，你曾经向我如此提议过。但我把你送来的信使吊在了我的塔顶上，任由乌鸦把他的内脏吃了个干干净净。我只要支配，不要服从！我也不会服从你的，婊子，我的回答是不！"
 
 #: the_five.tra:266
-#, fuzzy
 msgid ""
 "I tire of <CHARNAME> and <PRO_HISHER> foolish morals. I tire of tagging "
 "along as a servant to the one who halted my own plans long before yours came"
 " to fruition, priestess. Aye... I will be your general."
-msgstr "我厌倦了<CHARNAME>和他愚蠢的说教，我厌倦了为我的敌人服务，女祭祀。啊......我要当你的指挥官。"
+msgstr "我厌倦了<CHARNAME>_和<PRO_HISHER>_愚蠢的说教，我厌倦了对曾经阻挠我计划的人俯首称臣。女牧师。啊……我愿意为你而战。"
 
 #: the_five.tra:267
-#, fuzzy
 msgid "No, Sarevok! You traitorous bastard!"
-msgstr "不，沙洛弗克！你个混蛋背叛者！"
+msgstr "不，沙洛佛克！你这个叛节的混蛋！"
 
 #: the_five.tra:268
-#, fuzzy
 msgid "That is a mistake, Sarevok. You'll just die along with her this way."
-msgstr "这是个错误，沙洛弗克，这条路只会导致死亡。"
+msgstr "这是个错误，沙洛佛克，你只会和她一起走向死亡。"
 
 #: the_five.tra:269
-#, fuzzy
 msgid ""
 "I expected as much. So I get to kill you again, as well. It's all good."
-msgstr "这正是我所希望的，我可以再杀你一次了，太好了。"
+msgstr "这正是我所希望的，可以像过去一样再杀你一次，太好了。"
 
 #: the_five.tra:270
-#, fuzzy
 msgid ""
 "Become the demon I once was? I am no longer that man, nor do I wish to be. "
 "If <CHARNAME> has shown me anything, it is that I am better off untouched by"
 " the madness that once swallowed me whole. Wallow in your delusion if you "
 "will, woman... I remember it well. And I will not join you in it."
 msgstr ""
-"变成原来的那个恶魔？我不是原来的那个人了，我也不想成为那个人。如果说<CHARNAME>教会了我什么，那就是我不能再被疯狂所吞噬。沉溺于你的幻想那是你的事，我不会加入你的。"
+"变成我曾是的那个恶魔？我已经不再是原来的自己了，也不再想成为那个人。如果说<CHARNAME>教会了我什么，那就是不能再任由自己被疯狂所吞噬。想要沉溺于妄想那是你的事，女人。我非常清楚，自己不会加入你的。"
 
 #: the_five.tra:271
-#, fuzzy
 msgid ""
 "My nature has not changed, <CHARNAME>. Did you truly expect otherwise? "
 "Better to fight for Melissan than sit in your shadow and watch you take what"
 " was once mine."
-msgstr "我的本性还没变，<CHARNAME>，你认为呢？为梅丽珊而战总比待在你的阴影下看你拿走本来属于我的东西要好。"
+msgstr "我的本性始终未改，<CHARNAME>。你还期待我能重塑自我吗？为梅丽珊而战总比活在你的阴影里，看你恣意取走本属于我的东西要好。"
 
 #: the_five.tra:272
-#, fuzzy
 msgid ""
 "Perhaps. But I will not sit in your shadow and simply watch you take what "
 "was once mine. You do not deserve power, <CHARNAME>. Even if it means "
 "fighting for Melissan, I will do what I must."
 msgstr ""
-"也许吧，但是我也不愿意待在你的阴影下看你拿走本来属于我的东西，你不配拥有这种力量，<CHARNAME>，即使这意味着为梅丽珊而战，我也要这样做。"
+"也许吧，但是我也不愿意活在你的阴影里，看你恣意取走本属于我的东西。你不配拥有这力量，<CHARNAME>。即使这意味着要为梅丽珊而战，我也绝不会成全你。"
 
 #: the_five.tra:273
-#, fuzzy
 msgid ""
 "A typical boast. And perhaps you will even win, but I will not sit idly by "
 "as you take what was once mine. You don't deserve power, <CHARNAME>, and "
 "even if it means fighting for Melissan I will do what I must."
 msgstr ""
-"典型的自夸，也许你会赢的，但我不会眼睁睁的看着你拿走本来属于我的东西，你不配拥有这种力量，<CHARNAME>，即使这意味着为梅丽珊而战，我也要这样做。"
+"少虚张声势了。即使你真的会胜，我也不会再像上次那样眼睁睁地看着你拿走本属于我的东西。你不配拥有这力量，<CHARNAME>。即使这意味着要为梅丽珊而战，我也绝不会成全你。"
 
 #: the_five.tra:616
-#, fuzzy
 msgid ""
 "I was going to resurrect them anyway, to serve as my conquering avatars. And"
 " I prefer them far better this way... completely servile, obeying every "
 "order without question."
-msgstr "我已经把他们全部复活了，作为我征服力量的化身，而且我很欣赏他们的态度......完全的服从，不会有任何的疑问。"
+msgstr "我已经把他们全部复活了，作为我征服力量的化身。而且我很欣赏他们现在的态度……完全的服从，执行命令而不会有任何的疑问。"
 
 #: the_five.tra:617
-#, fuzzy
 msgid ""
 "And since you recruited Balthazar to your side, I've decided on the "
 "delicious irony of re-creating poor, pathetic Gromnir as well. It delights "
 "me to no end to know that he was right about me all along... and yet it made"
 " no difference. You murdered him still, as I knew you would."
-msgstr "而现在你把巴尔撒扎拉到了你那边，我只好把可怜的格洛姆复活了，我很高兴他也是你杀的，这就没有什么区别了。你最后还是杀了他，我知道你一定会的。"
+msgstr ""
+"而现在你把巴萨札拉到了你那边，我只好把可怜的葛罗姆尼尔复活了，一想到他是那么忠诚于我就令我感到十分愉悦。可你最后还是杀死了他，我知道你一定会的。"
 
 #: the_five.tra:618
-#, fuzzy
 msgid ""
 "You should have kept your energies to yourself, Melissan. Spending them on "
 "re-creating the Five will cost you... and cost you dearly."
-msgstr "你应该把这些能量全留给自己，梅丽珊，重塑这五人组对你的消耗非常大。"
+msgstr "你应该把这些能量全部留给自己，梅丽珊，重塑五裔对你的消耗非常巨大。"
 
 #: the_five.tra:619
-#, fuzzy
 msgid ""
 "Perhaps. But already I am immortal, which means I cannot be killed even by "
 "you. And there is still more of your father's essence for me to take."
-msgstr "也许吧，但我已经不是凡人了，你杀不掉我的，而且那里还有不少你父亲的天赋等着我去吸收呢。"
+msgstr "也许吧，但我已经不再是凡人了，你杀不掉我的。而且那里仍然还有不少你父亲的能量等着我去汲取呢。"
 
 #: the_five.tra:620
-#, fuzzy
 msgid ""
 "They provided a considerable challenge for you individually, <CHARNAME>. I "
 "wonder how you will fare against them all?"
-msgstr "这对你算是个挑战吧，<CHARNAME>？我想看看你怎么把他们全击败？"
+msgstr "他们对你来说是个相当有难度的考验，<CHARNAME>。我真想看看你是怎么把他们全部击败的？"
 
 #: the_five.tra:621
-#, fuzzy
 msgid "So come, <CHARNAME>... kill your siblings once again. If you can."
-msgstr "来吧，<CHARNAME>，再杀一次你的兄弟姐妹......如果你能的话。"
+msgstr "来吧，<CHARNAME>，再一次面对你的兄弟姐妹们吧……如果你还有胆量的话。"
 
 #: the_five.tra:622
 msgid "There is enough essence, in fact, even for you... Sarevok."
-msgstr "实际上，这里有足够多的神性本质，甚至还有你的份……沙洛佛克。"
+msgstr "这里有足够的神性能量，事实上，甚至包括你的……沙洛佛克。"
 
 #: the_five.tra:623
-#, fuzzy
 msgid ""
 "But... we don't have all your siblings accounted for just quite yet, do we? "
 "Haven't you forgotten someone?"
-msgstr "但我们还没有把所有的主要当事人请来吧？我们是不是忘了谁呢？"
+msgstr "但是……我们还没有把所有的当事人都请来吧？我们是不是还忘了谁呢？"
 
 #: the_five.tra:624
-#, fuzzy
 msgid ""
 "Oh, but we do, Sarevok. I made you an offer once before, and that offer "
 "still stands. Join me now, abandon this pathetic whelp, and take your place "
 "at my side."
-msgstr "噢，沙洛弗克，我以前跟你提过这个交易，现在仍然有效，加入我吧，离开这个没有前途的笨蛋，你会得到你应有的位置的。"
+msgstr "喔，沙洛佛克，但我们确实。我曾跟你提过这个建议，现在它仍然有效。加入我吧，离开那个没有前途的蠢货，站在我这边才是你最正确的选择。"
 
 #: the_five.tra:625
-#, fuzzy
 msgid ""
 "The geas the fool placed on your heart is nothing. I could easily remove it."
 " In fact, I do so now. There... act as you will."
-msgstr "那个笨蛋的誓约没什么用，我可以轻易移除它，事实上，我已经这么做了。现在......就看你怎么想了。"
+msgstr "与那个蠢货的誓约没有任何意义，我可以轻易解除它，事实上，我已经这么做了。现在……就看你怎么想了。"
 
 #: the_five.tra:626
-#, fuzzy
 msgid ""
 "Perhaps. But you are a great warrior... and could be a fine general to lead "
 "my earthly armies. Power, riches, respect... all you desire. Including the "
 "return of the Bhaalspawn essence you lost. Come, Sarevok... be the demon you"
 " once were. Serve me."
 msgstr ""
-"也许吧，但你是个强大的战士......也会是我地面部队的优秀指挥官。你可以得到权力，财富，尊敬......所有你想要的，甚至包括你曾经失去的巴尔天赋。来吧，沙洛弗克......变回你原来的那个恶魔吧，为我效劳。"
+"也许吧，但你是个强大的战士……也会是我地面部队的优秀将军。你可以得到权力，财富，尊敬……所有你想要的，甚至包括你曾经失去的。来吧，沙洛佛克……变回你曾是的那个恶魔，为我效劳吧。"
 
 #: the_five.tra:627
-#, fuzzy
 msgid ""
 "Then fight for me you shall! And your first victim will be the "
 "<PRO_BROTHERSISTER> upon whom vengeance is so richly deserved!"
-msgstr "那就为我效劳吧！你的第一个目标就是那个杀过你的人！"
+msgstr "那就为我而战吧！你的第一个目标就是向那个杀死过你的<PRO_BROTHERSISTER>复仇！"
 
 #: the_five.tra:628
-#, fuzzy
 msgid ""
 "Then die with your fool <PRO_BROTHERSISTER>, if that is your wish! The Five "
 "shall be the end of you both!"
-msgstr "那就跟你的<PRO_BROTHERSISTER>一齐死吧，如果这是你要的！五人组就是你的末日！"
+msgstr "那就和你愚蠢的<PRO_BROTHERSISTER>一起去死吧，如果这就是你想要的！五裔会把你们两人统统击败！"
 
 #: the_five.tra:629
-#, fuzzy
 msgid ""
 "I brought you here, Sarevok. To give you a second chance. Join me and fight "
 "against <CHARNAME> and I will return the power you lost, the power you crave"
 " so much. I will make you the man you once were."
 msgstr ""
-"我把你带到了这里，并给你第二次机会。跟我一起对付<CHARNAME>，你就会得到你失去的力量，你渴求的力量，我会让你成为原来的那个沙洛弗克。"
+"是我把你带至此地的，沙洛佛克。为了给你第二次机会。协助我一起对抗<CHARNAME>，我会为此把你失去的力量都还给你，那些你渴求已久的力量。我会让你成为原来的那个沙洛佛克。"
 
 #: the_five.tra:1008
-#, fuzzy
 msgid ""
 "You are a fool, Melissan. You should have kept what divine energy you had "
 "for yourself and not spread it amongst such servants. It will prove your "
 "doom."
-msgstr "你是个笨蛋，梅丽珊，你应该把这些能量都留给自己，分给其他人就注定了你的灭亡。"
+msgstr "你真是愚蠢，梅丽珊。你应该把这些神性能量全都留给自己。分给其他仆从就注定了你的灭亡。"
 
 #: tougher.tra:1
 msgid "Minotaur Battle Priest"
-msgstr ""
+msgstr "牛头人战斗牧师"
 
 #: tougher.tra:2
 msgid "Il-Khan Medusa"
-msgstr ""
+msgstr "伊尔可汗美杜莎"
 
 #: tougher.tra:3
 msgid "Fire Drake"
-msgstr ""
+msgstr "火蜥蜴"
 
 #: tougher.tra:4
 msgid "Shadow Drake"
-msgstr ""
+msgstr "影蜥蜴"
 
 #: tougher.tra:5
 msgid "Ice Drake"
-msgstr ""
+msgstr "冰蜥蜴"
 
 #: tougher.tra:6
 msgid "Earth Drake"
-msgstr ""
+msgstr "土蜥蜴"
 
 #: tougher.tra:7
 msgid "Summon the Abyssal Host"
-msgstr ""
+msgstr "召唤深渊之主"
 
 #: tougher.tra:11
 msgid "Yaga-Shura Cleric"
-msgstr ""
+msgstr "雅加苏拉牧师"
 
 #, fuzzy
 #~ msgid "Symbol: Slow"
