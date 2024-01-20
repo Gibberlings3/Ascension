@@ -79,23 +79,26 @@ DEFINE_ACTION_FUNCTION handle_charsets_immutably
                base_language=english
                iconv_path=""
        RET     scs_tra_loc
-BEGIN
-   // do conversions (ee only)
-   ACTION_IF enhanced_edition BEGIN
-       OUTER_INNER_PATCH_SAVE versionstring "%MOD_VERSION%" BEGIN
-          REPLACE_TEXTUALLY " " ""
-       END
-       OUTER_SPRINT scs_tra_loc "%ext_lang_loc%"
-       OUTER_SPRINT marker_name "%marker_loc%/dw#%scsroot%_%versionstring%_languages_installed.mrk"
-       ACTION_IF (!FILE_EXISTS "%marker_name%"  || force_tra_rebuild) BEGIN
-          COPY ".../stratagems-inline/blank" "%marker_name%"
-          MKDIR "%scs_tra_loc%/%LANGUAGE%"
-          ACTION_BASH_FOR "%scsroot%/%tra_base%/%LANGUAGE%" ".*\.tra" BEGIN
-             COPY "%BASH_FOR_FILESPEC%" "%scs_tra_loc%/%LANGUAGE%"
-          END
-          ACTION_MATCH "%LANGUAGE%" WITH
-          "%base_language%" BEGIN END
-          DEFAULT
+    BEGIN
+        ACTION_IF enhanced_edition BEGIN
+            // on EE, just set the tra loc
+            OUTER_SPRINT scs_tra_loc "%scsroot%/%tra_base%"
+        END ELSE BEGIN
+            // do conversions (classic only)
+            OUTER_INNER_PATCH_SAVE versionstring "%MOD_VERSION%" BEGIN
+            REPLACE_TEXTUALLY " " ""
+        END
+        OUTER_SPRINT scs_tra_loc "%ext_lang_loc%"
+        OUTER_SPRINT marker_name "%marker_loc%/dw#%scsroot%_%versionstring%_languages_installed.mrk"
+        ACTION_IF (!FILE_EXISTS "%marker_name%" || force_tra_rebuild) BEGIN
+            COPY ".../stratagems-inline/blank" "%marker_name%"
+            MKDIR "%scs_tra_loc%/%LANGUAGE%"
+            ACTION_BASH_FOR "%scsroot%/%tra_base%/%LANGUAGE%" ".*\.tra" BEGIN
+                COPY "%BASH_FOR_FILESPEC%" "%scs_tra_loc%/%LANGUAGE%"
+            END
+            ACTION_MATCH "%LANGUAGE%" WITH
+            "%base_language%" BEGIN END
+            DEFAULT
             MKDIR "%scs_tra_loc%/%base_language%"
             ACTION_BASH_FOR "%scsroot%/%tra_base%/%base_language%" ".*\.tra" BEGIN
                 COPY "%BASH_FOR_FILESPEC%" "%scs_tra_loc%/%base_language%"
@@ -121,8 +124,6 @@ BEGIN
               swedish    => cp1252
               tchinese   => cp950
           END
-          
-          // when using HANDLE_CHARSETS with from_utf8 = 1, first remove all lines from the .gitattributes  that contain 'working-tree-encoding=xxxxx'
           LAF HANDLE_CHARSETS 
             INT_VAR
                 from_utf8 = 1
@@ -130,12 +131,9 @@ BEGIN
             STR_VAR 
                 iconv_path tra_path = ~%scs_tra_loc%~
                 charset_table = charset_table
-          END
-       END
-   END ELSE BEGIN
-      // on non-EE, just set the tra loc
-      OUTER_SPRINT scs_tra_loc "%scsroot%/%tra_base%"
-   END
+            END
+        END
+    END
 END
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
