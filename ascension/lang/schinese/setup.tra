@@ -1,32 +1,40 @@
-@101000 = ~Ascension~
-@101001 = ~You must have ToB installed or use Enhanced Edition to install the Ascension mod.~
-@101002 = ~Cannot install without Ascension main component.~
-@101003 = ~You must have BG2Fixpack installed or use Enhanced Edition to install this version of the Ascension mod.~
-@101004 = ~Ascension must be installed BEFORE Spell Revisions. Uninstall Spell Revisions, install Ascension, then reinstall Spell Revisions.~
-@101005 = ~Ascension must be installed BEFORE Sword Coast Stratagems. Uninstall Sword Coast Stratagems, install Ascension, then reinstall Sword Coast Stratagems.~
-@101006 = ~Ascension must be installed BEFORE Wheels of Prophecy. Uninstall Wheels of Prophecy, install Ascension, then reinstall Wheels of Prophecy.~
-@101007 = ~Ascension must be installed BEFORE Iylos. Uninstall Iylos, install Ascension, then reinstall Iylos.~
-@101008 = ~Ascension must be installed BEFORE Spell Revisions. Uninstall Spell Revisions, install Ascension, then reinstall Spell Revisions.~
-@102000 = ~Tougher Throne of Bhaal battles~
-@102100 = ~Tougher Abazigal~
-@102200 = ~Tougher Demogorgon~
-@102300 = ~Tougher Gromnir~
-@102400 = ~Tougher Illasera~
-@102500 = ~Tougher Yaga-Shura~
-@102600 = ~Tougher Balthazar~
-@103000 = ~Additional Content (not part of original Ascension mod)~
-@103010 = ~Full-body portrait for Bodhi~
-@103020 = ~Alternate Balthazar portrait, by Cuv~
-@104000 = ~Restored Bhaalspawn Powers~
-@104001 = ~Rewritten Final Chapter of Throne of Bhaal~
-@104002 = ~Improved Sarevok-Player Interactions~
-@104003 = ~Improved Imoen-Player Interactions in Throne of Bhaal~
-@104004 = ~Expanded Epilogues for Bioware NPCs~
-@104005 = ~David Gaider's expanded epilogues for Bioware NPCs~
-@104006 = ~Alternate epilogues by Shawne~
-@104009 = ~Balthazar can be redeemed~
-@104010 = ~Improved Slayer Transformation~
-@105200 = ~Extended Epilogues for additional Beamdog NPCs, by shawne~
-@105210 = ~Sharper portraits of Abazigal and Gromnir for the Enhanced Edition, by DavidW~
-@105220 = ~This component is only for BG2:EE or EET~
-@105230 = ~Slightly improved cutscenes, by DavidW~
+/////////////////////////////////////////////////////////////////////////
+// Setup Options
+/////////////////////////////////////////////////////////////////////////
+
+@101000 = ~颠峰之战~
+@101001 = ~你必须在原版巴尔王座或增强版的游戏中安装巅峰之战。~
+@101002 = ~无法安装，因为缺乏巅峰之战的主要组件。~
+@101003 = ~你必须在安装了 BG2 Fixpack 或使用增强版的游戏中安装该版本的巅峰之战。~
+@101004 = ~巅峰之战必须在 Spell Revisions 之前安装。请先删除 Spell Revisions，在安装巅峰之战后重新安装。~
+@101005 = ~巅峰之战必须在 Sword Coast Stratagems 之前安装。请先删除 Sword Coast Stratagems，在安装巅峰之战后重新安装。~
+@101006 = ~巅峰之战必须在 Wheels of Prophecy 之前安装。请先删除 Wheels of Prophecy，在安装巅峰之战后重新安装。~
+@101007 = ~巅峰之战必须在 Iylos 之前安装。请先删除 Iylos，在安装巅峰之战后重新安装。~
+@101008 = ~巅峰之战必须在 Spell Revisions 之前安装。请先删除 Spell Revisions，在安装巅峰之战后重新安装。~
+
+@102000 = ~更强的巴尔王座战斗~
+@102100 = ~更强的阿巴济戈~
+@102200 = ~更强的狄摩高根~
+@102300 = ~更强的葛罗姆尼尔~
+@102400 = ~更强的伊菈赛菈~
+@102500 = ~更强的雅加苏拉~
+@102600 = ~更强的巴萨札~
+
+@103000 = ~额外的补充内容（之前版本不包含的内容）~
+@103010 = ~颠覆之战肖像：芭荻~
+@103020 = ~颠覆之战肖像：巴萨札~
+
+@104000 = ~还原巴尔之子的能力~
+@104001 = ~重写巴尔王座的最终章~
+@104002 = ~增强沙洛佛克与玩家的互动~
+@104003 = ~增强爱蒙在巴尔王座中与玩家的互动~
+@104004 = ~扩展原版 Bioware NPC 的结局~
+@104005 = ~David Gaider 的原版 Bioware NPC 结局~
+@104006 = ~Shawne 的原版 Bioware NPC 结局~
+@104009 = ~巴萨札可以被救赎~
+@104010 = ~增强杀戮者的变形~
+
+@105200 = ~Shawne 的增强版 Beamdog NPC 结局~
+@105210 = ~为增强版提供更清晰的格罗姆尼尔与阿巴济戈头像~
+@105220 = ~该组件只适用于 BG2EE 或 EET~
+@105230 = ~稍微增强过场动画~
