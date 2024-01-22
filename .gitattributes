@@ -3,7 +3,7 @@
 *.pot text eol=lf
 
 # Use export-ignore to skip files when downloading
-**/.* export-ignore
+.* export-ignore
 *.gitignore text eol=crlf
 *.gitattributes text eol=crlf
 
@@ -25,7 +25,8 @@
 *.ps1 text eol=crlf
 *.sh text eol=lf
 *.txt text eol=crlf
-*.y[a]ml text eol=crlf
+*.y[a]ml text eol=lf
+*.zip binary
 
 # WeiDU/IE
 *.2da text
