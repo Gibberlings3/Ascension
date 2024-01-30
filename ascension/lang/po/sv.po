@@ -76,7 +76,7 @@ msgstr "Återkoppling"
 
 #: ascension.tra:1025
 msgid "Divine Restoration"
-msgstr ""
+msgstr "Gudomlig återupprättelse"
 
 #: ascension.tra:1026
 msgid "Divine Cleansing"
