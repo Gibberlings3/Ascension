@@ -1,5 +1,5 @@
 @101000 = ~Ascension~
-@101001 = ~Ta modyfikacja wymaga uprzedniego zainstalowania BG2: ToB lub BG2:EE.~
+@101001 = ~Ta modyfikacja wymaga uprzedniego zainstalowania BG2:ToB lub BG2:EE.~
 @101002 = ~Nie można zainstalować bez uprzedniej instalacji komponentu głównego.~
 @101003 = ~Musisz zainstalować BG2Fixpack lub korzystać z wersji Enhanced Edition, aby zainstalować tę wersję moda Ascension.~
 @101004 = ~Ascension musi być zainstalowane PRZED Spell revisions. Odinstaluj Spell revisions, zainstaluj Ascension, a potem zainstaluj ponownie Spell Revisions.~

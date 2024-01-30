@@ -68,6 +68,11 @@ LANGUAGE ~Portuguese (Ecthelion)~
          ~portuguese~
          ~ascension/lang/portuguese/setup.tra~ 
 
+LANGUAGE ~Swedish~
+         ~swedish~
+         ~ascension/lang/swedish/setup.tra~ 
+
+
 // test component
 
 // BEGIN test DESIGNATED 99
