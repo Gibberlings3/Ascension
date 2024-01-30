@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Poify/Unpoify
-        uses: BGforgeNet/msg2po@master
+        uses: ALIENQuake/msg2po@master
         with:
           poify: true
           unpoify: true
