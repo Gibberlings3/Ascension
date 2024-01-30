@@ -4689,7 +4689,7 @@ msgstr "Ascension"
 msgid ""
 "You must have ToB installed or use Enhanced Edition to install the Ascension"
 " mod."
-msgstr "Ta modyfikacja wymaga uprzedniego zainstalowania BG2: ToB lub BG2:EE."
+msgstr "Ta modyfikacja wymaga uprzedniego zainstalowania BG2:ToB lub BG2:EE."
 
 #: setup.tra:101002
 msgid "Cannot install without Ascension main component."
