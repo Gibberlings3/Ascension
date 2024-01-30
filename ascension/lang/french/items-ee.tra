@@ -1,29 +1,29 @@
-@3001 = ~Il s'agit de l'arme de Sarevok, frère de <CHARNAME>, qui fut utilisée dans la bataille de la Porte de Baldur. <CHARNAME> a gagné, ruinant ainsi les plans de Sarevok, et sauvant la Côte des Épées de la guerre. Maintenant, Sarevok s'est joint à la cause de <CHARNAME> et son épée lui a été rendue. Sarevok décrit cette arme comme une lame de semeur de mort et a restauré une partie des anciens pouvoirs de cet objet. Cependant, sans son essence d'enfant de Bhaal pour nourrir l'épée, il n'a pu lui rendre la totalité du pouvoir qu'elle possédait autrefois. Quoi qu'il en soit, elle reste une arme formidable... et Sarevok prévient qu'elle deviendrait très difficile (voire impossible) à utiliser dans les mains de quelqu'un qui ne fût pas un semeur de mort.
+@3001 = ~Il s'agit de l'arme de Sarevok, frÃ¨re de <CHARNAME>, qui fut utilisÃ©e dans la bataille de la Porte de Baldur. <CHARNAME> a gagnÃ©, ruinant ainsi les plans de Sarevok, et sauvant la CÃ´te des Ã‰pÃ©es de la guerre. Maintenant, Sarevok s'est joint Ã  la cause de <CHARNAME> et son Ã©pÃ©e lui a Ã©tÃ© rendue. Sarevok dÃ©crit cette arme comme une lame de semeur de mort et a restaurÃ© une partie des anciens pouvoirs de cet objet. Cependant, sans son essence d'enfant de Bhaal pour nourrir l'Ã©pÃ©e, il n'a pu lui rendre la totalitÃ© du pouvoir qu'elle possÃ©dait autrefois. Quoi qu'il en soit, elle reste une arme formidable... et Sarevok prÃ©vient qu'elle deviendrait trÃ¨s difficile (voire impossible) Ã  utiliser dans les mains de quelqu'un qui ne fÃ»t pas un semeur de mort.
 
-PARAMÈTRES :
+PARAMÃˆTRES :
 
-Capacités de combat :
-- Chaque coup porté draine 1 à 5 points de vie de la cible et les transfère au porteur (qui ne peut pas dépasser son maximum).
+CapacitÃ©s de combat :
+- Chaque coup portÃ© draine 1 Ã  5 points de vie de la cible et les transfÃ¨re au porteur (qui ne peut pas dÃ©passer son maximum).
 
-Capacités d'équipement :
-- Résistance à la magie : +10 %
+CapacitÃ©s d'Ã©quipement :
+- RÃ©sistance Ã  la magie : +10 %
 
 TAC0 : +4
-Dégâts : 1d10 +4 (tranchant)
+DÃ©gÃ¢ts : 1d10 +4 (tranchant)
 Facteur de vitesse : 8
-Type de compétence : épée à deux mains
-Type : armes à 2 mains
+Type de compÃ©tence : Ã©pÃ©e Ã  deux mains
+Type : armes Ã  2 mains
 
-Nécessite : 
+NÃ©cessite : 
  14 en Force
  18 en Constitution
  
 Poids : 10~
-@3003 = ~Certainement confectionnée par Sendai elle-même, c'est une potion de soin d'une incroyable puissance capable de restaurer complètement les points de vie de celui qui la boit.
+@3003 = ~Certainement confectionnÃ©e par Sendai elle-mÃªme, c'est une potion de soin d'une incroyable puissance capable de restaurer complÃ¨tement les points de vie de celui qui la boit.
 
-PARAMÈTRES :
+PARAMÃˆTRES :
 
 Poids : 1~
-@3004 = ~Quoi qu'il en soit, elle reste une arme formidable... et Sarevok prévient qu'elle deviendrait très difficile (voire impossible) à utiliser dans les mains de quelqu'un qui ne fût pas un semeur de mort.~
+@3004 = ~Quoi qu'il en soit, elle reste une arme formidable... et Sarevok prÃ©vient qu'elle deviendrait trÃ¨s difficile (voire impossible) Ã  utiliser dans les mains de quelqu'un qui ne fÃ»t pas un semeur de mort.~
 @3005 = ~Quoi qu'il en soit, elle reste une arme formidable... et que seul un semeur de mort de la trempe et de la puissance de Sarevok peut manier.~
 @3006 = ~Seul Sarevok peut utiliser cette arme.~

@@ -1,27 +1,27 @@
-@3001 = ~La spada di Sarevok, il fratello di <CHARNAME>, usata nella battaglia combattuta nella lontana Baldur's Gate. <CHARNAME> prevalse, distruggendo i piani di Sarevok e salvando la Costa della Spada dal baratro della guerra. Ora Sarevok si Ë unito alla causa di <CHARNAME> e la sua lama gli Ë stata riconsegnata. Sarevok la descrive come l'arma di un Latore di Morte e ha ripristinato alcuni dei precedenti poteri della spada. Tuttavia, senza la sua essenza di progenie di Bhaal che scorre nella lama, non puÚ raggiungere il potere che un tempo aveva. Resta comunque un'arma formidabile... una che secondo Sarevok sarebbe difficile da brandire da chi non Ë mai stato un Latore di Morte, se non del tutto impossibile.
+@3001 = ~La spada di Sarevok, il fratello di <CHARNAME>, usata nella battaglia combattuta nella lontana Baldur's Gate. <CHARNAME> prevalse, distruggendo i piani di Sarevok e salvando la Costa della Spada dal baratro della guerra. Ora Sarevok si √® unito alla causa di <CHARNAME> e la sua lama gli √® stata riconsegnata. Sarevok la descrive come l'arma di un Latore di Morte e ha ripristinato alcuni dei precedenti poteri della spada. Tuttavia, senza la sua essenza di progenie di Bhaal che scorre nella lama, non pu√≤ raggiungere il potere che un tempo aveva. Resta comunque un'arma formidabile... una che secondo Sarevok sarebbe difficile da brandire da chi non √® mai stato un Latore di Morte, se non del tutto impossibile.
 
 STATISTICHE:
 
-Abilit‡ in combattimento:
-- Ogni colpo messo a segno risucchia 1-5 Punti Ferita dal bersaglio e li trasferisce in chi brandisce l'arma. Non Ë possibile superare i Punti Ferita Massimi del personaggio.
+Abilit√† in combattimento:
+- Ogni colpo messo a segno risucchia 1-5 Punti Ferita dal bersaglio e li trasferisce in chi brandisce l'arma. Non √® possibile superare i Punti Ferita Massimi del personaggio.
 
-Abilit‡ durante l'uso:
+Abilit√† durante l'uso:
 - Resistenza alla Magia: +10%
 
 THAC0: +4
 Danno: 1d10+4 (tagliente)
-Fattore-velocit‡: 8
+Fattore-velocit√†: 8
 Tipo di Competenza: Spade a Due Mani
 Tipo: A due mani
 Richiede:
 Forza 14
 Costituzione 18
 Peso: 10~
-@3003 = ~Forse un infuso realizzato da Sendai in persona, questa Ë una pozione di guarigione incredibilmente potente capace di ripristinare i Punti Ferita di chi la usa.
+@3003 = ~Forse un infuso realizzato da Sendai in persona, questa √® una pozione di guarigione incredibilmente potente capace di ripristinare i Punti Ferita di chi la usa.
 
 STATISTICHE:
 
 Peso: 1~
-@3004 = ~Resta comunque un'arma formidabile... una che secondo Sarevok sarebbe difficile da brandire da chi non Ë mai stato un Latore di Morte, se non del tutto impossibile.~
-@3005 = ~Tuttavia, Ë un'arma formidabile... che solo un Portatore di Morte dell'abilit‡ e del potere di Sarevok'puÚ brandire.~
-@3006 = ~Solo Sarevok puÚ usare quest'arma.~
+@3004 = ~Resta comunque un'arma formidabile... una che secondo Sarevok sarebbe difficile da brandire da chi non √® mai stato un Latore di Morte, se non del tutto impossibile.~
+@3005 = ~Tuttavia, √® un'arma formidabile... che solo un Portatore di Morte dell'abilit√† e del potere di Sarevok'pu√≤ brandire.~
+@3006 = ~Solo Sarevok pu√≤ usare quest'arma.~

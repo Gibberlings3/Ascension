@@ -1,27 +1,27 @@
-@477 = ~Sumiu... eu sou humana novamente. Ohhhh, agora eu sei o que você passou, <CHARNAME>! Não sei se quero passar por isso de novo!~
-@478 = ~E não posso acreditar no que você disse! 'Vá em frente e a mate'? Depois de tudo o que passamos, é isso que você diz em minha defesa?!~
+@477 = ~Sumiu... eu sou humana novamente. Ohhhh, agora eu sei o que vocÃª passou, <CHARNAME>! NÃ£o sei se quero passar por isso de novo!~
+@478 = ~E nÃ£o posso acreditar no que vocÃª disse! 'VÃ¡ em frente e a mate'? Depois de tudo o que passamos, Ã© isso que vocÃª diz em minha defesa?!~
 @479 = ~Eu estava tentando convencer Melissan a te deixar em paz, Imoen!~
-@480 = ~Supere-se, garota. Eu nunca pedi para você vir, não é?~
-@481 = ~Não temos tempo para essa conversa, Imoen! Estamos no meio de uma luta!~
-@482 = ~Bem... eu suponho. Você me convenceu mais do que ela, obviamente. Eu... estou apenas feliz por não ter causado mais estragos como o Matador. Não sei como você aguentou. Obrigada por... por não me matar.~
-@483 = ~Mas... eu não posso ficar aqui. Isso está muito além das minhas capacidades. Desejo-lhe bem, <CHARNAME>, e espero te ver novamente. Talvez no Forte da Vela, huh? De qualquer forma... boa sorte...~
-@484 = ~Você precisa que eu me junte a você novamente? Eu poderia... deixar o Trono, acho... parece que tenho esse poder agora, assim como você. Mas lutarei ao seu lado novamente, se você quiser.~
+@480 = ~Supere-se, garota. Eu nunca pedi para vocÃª vir, nÃ£o Ã©?~
+@481 = ~NÃ£o temos tempo para essa conversa, Imoen! Estamos no meio de uma luta!~
+@482 = ~Bem... eu suponho. VocÃª me convenceu mais do que ela, obviamente. Eu... estou apenas feliz por nÃ£o ter causado mais estragos como o Matador. NÃ£o sei como vocÃª aguentou. Obrigada por... por nÃ£o me matar.~
+@483 = ~Mas... eu nÃ£o posso ficar aqui. Isso estÃ¡ muito alÃ©m das minhas capacidades. Desejo-lhe bem, <CHARNAME>, e espero te ver novamente. Talvez no Forte da Vela, huh? De qualquer forma... boa sorte...~
+@484 = ~VocÃª precisa que eu me junte a vocÃª novamente? Eu poderia... deixar o Trono, acho... parece que tenho esse poder agora, assim como vocÃª. Mas lutarei ao seu lado novamente, se vocÃª quiser.~
 @485 = ~Imoen Sobreviveu
 
-Imoen conseguiu sobreviver à tentativa de Melissan de forçá-la a se transformar no Matador enlouquecido. Parece que, ao fazer isso, Imoen avançou consideravelmente em seu próprio progresso contra a mácula. Agora, ela não apenas pode se transformar no mesmo estado do Matador que eu comecei a experimentar em Fortaleza do Feitiço... mas também adquiriu a habilidade de ficar etérea por breves períodos de tempo.
+Imoen conseguiu sobreviver Ã  tentativa de Melissan de forÃ§Ã¡-la a se transformar no Matador enlouquecido. Parece que, ao fazer isso, Imoen avanÃ§ou consideravelmente em seu prÃ³prio progresso contra a mÃ¡cula. Agora, ela nÃ£o apenas pode se transformar no mesmo estado do Matador que eu comecei a experimentar em Fortaleza do FeitiÃ§o... mas tambÃ©m adquiriu a habilidade de ficar etÃ©rea por breves perÃ­odos de tempo.
 
-Etéreo
+EtÃ©reo
 -------------
-Agora, Imoen é capaz de entrar no Plano Etéreo por curtos períodos de tempo. A habilidade pode ser usada uma vez a cada minuto e, ao utilizá-la, ela fica impossibilitada de assumir a forma do Matador por um minuto. Imoen pode permanecer completamente etérea e intangível às forças deste plano durante uma rodada completa... durante a qual ela fica invisível e completamente imune a danos. Nesse período, ela também não pode lançar feitiços ou usar habilidades.
-Durante mais duas rodadas após isso, Imoen pode permanecer 'parcialmente em fase'... ela está parcialmente etérea e parcialmente neste plano. Ela ainda está invisível, mas recebe apenas metade do dano de todas as fontes. Nesse estado, existe uma pequena chance (10%) de ela lançar um feitiço de forma errônea. Durante essas três rodadas, ela é capaz de enxergar alvos invisíveis.~
+Agora, Imoen Ã© capaz de entrar no Plano EtÃ©reo por curtos perÃ­odos de tempo. A habilidade pode ser usada uma vez a cada minuto e, ao utilizÃ¡-la, ela fica impossibilitada de assumir a forma do Matador por um minuto. Imoen pode permanecer completamente etÃ©rea e intangÃ­vel Ã s forÃ§as deste plano durante uma rodada completa... durante a qual ela fica invisÃ­vel e completamente imune a danos. Nesse perÃ­odo, ela tambÃ©m nÃ£o pode lanÃ§ar feitiÃ§os ou usar habilidades.
+Durante mais duas rodadas apÃ³s isso, Imoen pode permanecer 'parcialmente em fase'... ela estÃ¡ parcialmente etÃ©rea e parcialmente neste plano. Ela ainda estÃ¡ invisÃ­vel, mas recebe apenas metade do dano de todas as fontes. Nesse estado, existe uma pequena chance (10%) de ela lanÃ§ar um feitiÃ§o de forma errÃ´nea. Durante essas trÃªs rodadas, ela Ã© capaz de enxergar alvos invisÃ­veis.~
 @486 = ~Claro. Vamos nos juntar novamente.~
-@487 = ~Não... saia daqui enquanto ainda pode, Imoen.~
-@488 = ~Desejo tudo de bom para você, <CHARNAME>, e espero te ver de novo. Talvez no Forte da Vela, né? De qualquer forma... boa sorte...~
-@489 = ~Sim, claro. Faça o que precisar fazer, <CHARNAME>. Eu... estou indo o mais longe possível daqui. Adeus!~
-@490 = ~Não, realmente não fez. Obrigada por nada, eu acho. Faça o que precisar fazer, <CHARNAME>. Eu... estou indo o mais longe possível daqui. Adeus!~
-@491 = ~Eu... só estou feliz por não ter feito algo pior enquanto estava... quando eu... ah, eu simplesmente não sei como você lidou com isso na Fortaleza do Feitiço. Obrigada por... não me matar, tá?~
-@492 = ~Ah, é verdade! Você precisa que eu volte ao grupo? Acho que posso sair do Trono agora, eu acho... eu acredito que tenho esse poder, assim como você. Mas eu lutarei ao seu lado novamente, se você quiser.~
-@493 = ~Vejo que a luta ainda está acontecendo. Você precisa que eu volte ao grupo? Acho que posso sair do Trono agora, eu acho... eu acredito que tenho esse poder, assim como você. Mas eu gostaria de ver isso até o fim, assim como você.~
+@487 = ~NÃ£o... saia daqui enquanto ainda pode, Imoen.~
+@488 = ~Desejo tudo de bom para vocÃª, <CHARNAME>, e espero te ver de novo. Talvez no Forte da Vela, nÃ©? De qualquer forma... boa sorte...~
+@489 = ~Sim, claro. FaÃ§a o que precisar fazer, <CHARNAME>. Eu... estou indo o mais longe possÃ­vel daqui. Adeus!~
+@490 = ~NÃ£o, realmente nÃ£o fez. Obrigada por nada, eu acho. FaÃ§a o que precisar fazer, <CHARNAME>. Eu... estou indo o mais longe possÃ­vel daqui. Adeus!~
+@491 = ~Eu... sÃ³ estou feliz por nÃ£o ter feito algo pior enquanto estava... quando eu... ah, eu simplesmente nÃ£o sei como vocÃª lidou com isso na Fortaleza do FeitiÃ§o. Obrigada por... nÃ£o me matar, tÃ¡?~
+@492 = ~Ah, Ã© verdade! VocÃª precisa que eu volte ao grupo? Acho que posso sair do Trono agora, eu acho... eu acredito que tenho esse poder, assim como vocÃª. Mas eu lutarei ao seu lado novamente, se vocÃª quiser.~
+@493 = ~Vejo que a luta ainda estÃ¡ acontecendo. VocÃª precisa que eu volte ao grupo? Acho que posso sair do Trono agora, eu acho... eu acredito que tenho esse poder, assim como vocÃª. Mas eu gostaria de ver isso atÃ© o fim, assim como vocÃª.~
 @494 = ~Pare de me distrair no meio do combate! Volte para o grupo!~
 @495 = ~Sim, <PRO_SIRMAAM>! (risos!) Hora de dar uma surra em certa pessoa, certo?~
-@1000 = ~Poderes da Descendência de Bhaal concedidos ~
+@1000 = ~Poderes da DescendÃªncia de Bhaal concedidos ~

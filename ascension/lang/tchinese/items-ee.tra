@@ -1,21 +1,21 @@
-@3001 = ~�F�����J���V�ä��C
-<CHARNAME>���S�̡M�F�����J���L���C�b�ձo�����o�ͪ��̫�@�Ԥ��M�F�����J�Q<CHARNAME>���ѡM�L�Q�b�C�W�o�_�Ԫ����p���]�H���}���C�{�b�F�����J�[�J�F<CHARNAME>������M�èϳo��C��_�F��Ӫ��@�ǯ�O�C�M�ӨS���F�ں����l���F��M�F�����J���C�L�k�F�칳��Ӫ����˱j�j�M�������O�@��i�Ȫ��Z���C�F�����J�����O���`�Ϫ̪��H�̦n���n�I�o��C�C
+@3001 = ~沙洛弗克的混亂之劍
+<CHARNAME>的兄弟﹐沙洛弗克的兵器。在博得之門發生的最後一戰中﹐沙洛弗克被<CHARNAME>擊敗﹐他想在劍灣發起戰爭的計劃也隨之破產。現在沙洛弗克加入了<CHARNAME>的隊伍﹐並使這把劍恢復了原來的一些能力。然而沒有了巴爾之子的靈魂﹐沙洛弗克的劍無法達到像原來的那樣強大﹐但它仍是一件可怕的武器。沙洛弗克說不是死亡使者的人最好不要碰這把劍。
 
-���A�R
-��O�R�C�ŧl���@�줭�I�ͩR�M�l�����ͩR���|�W�L�ͩR�̤j�ȡC���Ϊ���o10%�]�k���m�C
+狀態﹕
+能力﹕每級吸取一到五點生命﹐吸取的生命不會超過生命最大值。持用者獲得10%魔法防禦。
 
-�ˮ`�R1d10 + 4
-�R���R+ 4���Q
-���q�R10
-�t�צ]���R8
-�Z�������R����C
-���Τ覡�R����
-�ݩʻݨD�R14�j���M18���~
+傷害﹕1d10 + 4
+命中﹕+ 4有利
+重量﹕10
+速度因素﹕8
+武器種類﹕雙手劍
+持用方式﹕雙手
+屬性需求﹕14強壯﹐18體質~
 @3003 = ~Possibly a brew of Sendai's own, this is an incredibly potent healing potion capable of fully restoring the hit points of any who use it.
 
 STATISTICS:
 
 Weight: 1~
-@3004 = ~�F�����J�����O���`�Ϫ̪��H�̦n���n�I�o��C�C~
-@3005 = ~�M�ӡA�����M�O�@��O�H�ͬȪ��Z���K�K�ӥB�u���֦��F����J�ޯ�M�O�q�����`�Ϫ̤~��ϥΡC~
-@3006 = ~�u���F����J�i�H�ϥγo��Z���C~
+@3004 = ~沙洛弗克說不是死亡使者的人最好不要碰這把劍。~
+@3005 = ~然而，它仍然是一件令人生畏的武器……而且只有擁有沙洛佛克技能和力量的死亡使者才能使用。~
+@3006 = ~只有沙洛佛克可以使用這把武器。~

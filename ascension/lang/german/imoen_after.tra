@@ -1,27 +1,27 @@
-@477 = ~Es... es ist vorbei. Ich bin wieder menschlich. Ohhh, jetzt weiß ich, was Ihr durchgemacht habt, <CHARNAME>! Ich bezweifle, dass ich das noch einmal erleben möchte!~
-@478 = ~Und ich kann nicht glauben, was Ihr gesagt habt! "Macht nur, tötet sie"? Nach allem, was wir durchgestanden haben, sagt Ihr das zu meiner Verteidigung?!~
-@479 = ~Ich habe versucht, Melissan zu überzeugen, Euch in Ruhe zu lassen, Imoen!~
+@477 = ~Es... es ist vorbei. Ich bin wieder menschlich. Ohhh, jetzt weiÃŸ ich, was Ihr durchgemacht habt, <CHARNAME>! Ich bezweifle, dass ich das noch einmal erleben mÃ¶chte!~
+@478 = ~Und ich kann nicht glauben, was Ihr gesagt habt! "Macht nur, tÃ¶tet sie"? Nach allem, was wir durchgestanden haben, sagt Ihr das zu meiner Verteidigung?!~
+@479 = ~Ich habe versucht, Melissan zu Ã¼berzeugen, Euch in Ruhe zu lassen, Imoen!~
 @480 = ~Kriegt Euch wieder ein, Kleine. Ich hab Euch nie darum gebeten mitzukommen.~
 @481 = ~Wir haben keine Zeit zum Plaudern, Imoen! Wir sind hier mitten in einem Kampf!~
-@482 = ~Nun... mag sein. Ihr habt mich offensichtlich mehr überzeugt als sie. Ich... ich bin nur froh, dass ich als Schlächter nicht mehr Schaden angerichtet habe. Ich weiß nicht, wie Ihr damit fertig geworden seid. Danke, dass Ihr mich nicht... nicht getötet habt.~
-@483 = ~Ich... ich kann jedoch nicht hier bleiben. Hier wird in einer höheren Liga gespielt. Ich wünsche Euch alles Gute, <CHARNAME>, und ich hoffe, ich sehe Euch wieder. Vielleicht in Kerzenburg, hmmm? Auf jeden Fall... viel Glück...~
-@484 = ~Braucht Ihr mich wieder, damit ich mich Euch anschließe? Ich könnte... den Thron verlassen, denke ich... Ich denke, ich habe die Macht jetzt, dieselbe wie Ihr. Aber ich kämpfe wieder an Eurer Seite, wenn Ihr das wollt.~
-@485 = ~Imoen hat überlebt
+@482 = ~Nun... mag sein. Ihr habt mich offensichtlich mehr Ã¼berzeugt als sie. Ich... ich bin nur froh, dass ich als SchlÃ¤chter nicht mehr Schaden angerichtet habe. Ich weiÃŸ nicht, wie Ihr damit fertig geworden seid. Danke, dass Ihr mich nicht... nicht getÃ¶tet habt.~
+@483 = ~Ich... ich kann jedoch nicht hier bleiben. Hier wird in einer hÃ¶heren Liga gespielt. Ich wÃ¼nsche Euch alles Gute, <CHARNAME>, und ich hoffe, ich sehe Euch wieder. Vielleicht in Kerzenburg, hmmm? Auf jeden Fall... viel GlÃ¼ck...~
+@484 = ~Braucht Ihr mich wieder, damit ich mich Euch anschlieÃŸe? Ich kÃ¶nnte... den Thron verlassen, denke ich... Ich denke, ich habe die Macht jetzt, dieselbe wie Ihr. Aber ich kÃ¤mpfe wieder an Eurer Seite, wenn Ihr das wollt.~
+@485 = ~Imoen hat Ã¼berlebt
 
-Imoen hat es geschafft zu überleben, als Melissan versuchte, sie in die Gestalt des Berserkerschlächters zu zwingen. Es scheint, als sei Imoen dadurch in ihrem Makel ein großes Stück vorangeschritten. Sie kann sich nicht nur in dieselbe Schlächtergestalt verwandeln, die bei mir damals in der Zauberfeste erschien... sondern sie erhielt auch die Fähigkeit, für kurze Zeit ätherisch zu werden.
+Imoen hat es geschafft zu Ã¼berleben, als Melissan versuchte, sie in die Gestalt des BerserkerschlÃ¤chters zu zwingen. Es scheint, als sei Imoen dadurch in ihrem Makel ein groÃŸes StÃ¼ck vorangeschritten. Sie kann sich nicht nur in dieselbe SchlÃ¤chtergestalt verwandeln, die bei mir damals in der Zauberfeste erschien... sondern sie erhielt auch die FÃ¤higkeit, fÃ¼r kurze Zeit Ã¤therisch zu werden.
 
-Ätherisch
+Ã„therisch
 -------------
-Imoen ist es nun möglich, für kurze Zeit die Ätherische Ebene zu betreten. Diese Fähigkeit kann einmal pro Minute benutzt werden, und sie wird dadurch ebenfalls für eine Minute daran gehindert, die Gestalt des Schlächters anzunehmen. Imoen kann für eine Runde völlig ätherisch und unerreichbar für Kräfte dieser Ebene werden. In dieser Zeit ist sie unsichtbar und vollständig immun gegenüber schädlichen Einflüssen; sie kann aber auch keine Zauber sprechen oder andere Fähigkeiten einsetzen.
-Für zwei weitere Runden danach kann Imoen "halbzerteilt" sein: sie ist teilweise ätherisch und teilweise auf dieser Ebene. Sie ist immer noch unsichtbar, erleidet aber halben Schaden von allen Angriffen. In diesem Zustand besteht eine geringe Chance (10%), dass ein von ihr gesprochener Zauber versagt. In allen drei Runden kann sie alle unsichtbaren Ziele sehen.~
+Imoen ist es nun mÃ¶glich, fÃ¼r kurze Zeit die Ã„therische Ebene zu betreten. Diese FÃ¤higkeit kann einmal pro Minute benutzt werden, und sie wird dadurch ebenfalls fÃ¼r eine Minute daran gehindert, die Gestalt des SchlÃ¤chters anzunehmen. Imoen kann fÃ¼r eine Runde vÃ¶llig Ã¤therisch und unerreichbar fÃ¼r KrÃ¤fte dieser Ebene werden. In dieser Zeit ist sie unsichtbar und vollstÃ¤ndig immun gegenÃ¼ber schÃ¤dlichen EinflÃ¼ssen; sie kann aber auch keine Zauber sprechen oder andere FÃ¤higkeiten einsetzen.
+FÃ¼r zwei weitere Runden danach kann Imoen "halbzerteilt" sein: sie ist teilweise Ã¤therisch und teilweise auf dieser Ebene. Sie ist immer noch unsichtbar, erleidet aber halben Schaden von allen Angriffen. In diesem Zustand besteht eine geringe Chance (10%), dass ein von ihr gesprochener Zauber versagt. In allen drei Runden kann sie alle unsichtbaren Ziele sehen.~
 @486 = ~Klar. Lasst uns gemeinsam weitermachen.~
-@487 = ~Nein... verschwindet von hier, solange Ihr könnt, Imoen.~
-@488 = ~Ich wünsche Euch alles Gute, <CHARNAME>, und ich hoffe, ich sehe Euch wieder. Vielleicht in Kerzenburg, hmmm? Auf jeden Fall... viel Glück...~
-@489 = ~Ja, richtig. Ihr tut, was Ihr tun müsst, <CHARNAME>. Ich... ich verschwinde so weit wie möglich von hier. Lebt wohl!~
-@490 = ~Nee! Klar habt Ihr nicht. Danke für nichts, nehme ich an. Ihr tut, was Ihr tun müsst, <CHARNAME>. Ich... ich verschwinde so weit wie möglich von hier. Lebt wohl!~
-@491 = ~Ich bin... einfach froh, dass ich nichts Schlimmeres getan habe, während ich... als ich... oh, ich weiß einfach nicht, wie Ihr damals in der Zauberfeste damit umgegangen seid. Danke, dass Ihr... mich nicht getötet habt, okay?~
-@492 = ~Oh, so ist das! Braucht Ihr mich wieder in der Gruppe? Ich könnte... den Thron verlassen, denke ich... Ich denke, ich habe die Macht jetzt, dieselbe wie Ihr. Aber ich kämpfe wieder an Eurer Seite, wenn Ihr das wollt.~
-@493 = ~Ich sehe, dass der Kampf noch nicht zu Ende ist. Braucht Ihr mich wieder in der Gruppe? Ich könnte... den Thron verlassen, denke ich... Ich denke, ich habe die Macht jetzt, dieselbe wie Ihr. Aber ich kämpfe wieder an Eurer Seite, wenn Ihr das wollt.~
-@494 = ~Hört schon auf, mich mitten im Kampf abzulenken! Geht zurück zur Gruppe!~
+@487 = ~Nein... verschwindet von hier, solange Ihr kÃ¶nnt, Imoen.~
+@488 = ~Ich wÃ¼nsche Euch alles Gute, <CHARNAME>, und ich hoffe, ich sehe Euch wieder. Vielleicht in Kerzenburg, hmmm? Auf jeden Fall... viel GlÃ¼ck...~
+@489 = ~Ja, richtig. Ihr tut, was Ihr tun mÃ¼sst, <CHARNAME>. Ich... ich verschwinde so weit wie mÃ¶glich von hier. Lebt wohl!~
+@490 = ~Nee! Klar habt Ihr nicht. Danke fÃ¼r nichts, nehme ich an. Ihr tut, was Ihr tun mÃ¼sst, <CHARNAME>. Ich... ich verschwinde so weit wie mÃ¶glich von hier. Lebt wohl!~
+@491 = ~Ich bin... einfach froh, dass ich nichts Schlimmeres getan habe, wÃ¤hrend ich... als ich... oh, ich weiÃŸ einfach nicht, wie Ihr damals in der Zauberfeste damit umgegangen seid. Danke, dass Ihr... mich nicht getÃ¶tet habt, okay?~
+@492 = ~Oh, so ist das! Braucht Ihr mich wieder in der Gruppe? Ich kÃ¶nnte... den Thron verlassen, denke ich... Ich denke, ich habe die Macht jetzt, dieselbe wie Ihr. Aber ich kÃ¤mpfe wieder an Eurer Seite, wenn Ihr das wollt.~
+@493 = ~Ich sehe, dass der Kampf noch nicht zu Ende ist. Braucht Ihr mich wieder in der Gruppe? Ich kÃ¶nnte... den Thron verlassen, denke ich... Ich denke, ich habe die Macht jetzt, dieselbe wie Ihr. Aber ich kÃ¤mpfe wieder an Eurer Seite, wenn Ihr das wollt.~
+@494 = ~HÃ¶rt schon auf, mich mitten im Kampf abzulenken! Geht zurÃ¼ck zur Gruppe!~
 @495 = ~Jawohl, <PRO_SIRMAAM>! (kichert) Zeit, jemandem in den Hintern zu treten, ja?~
-@1000 = ~Bhaalspawn-Fähigkeiten erhalten~
+@1000 = ~Bhaalspawn-FÃ¤higkeiten erhalten~
