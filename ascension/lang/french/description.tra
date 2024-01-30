@@ -1,302 +1,302 @@
-@1 = ~Ã‰thÃ©rÃ©e
+@1 = ~Éthérée
 
-Imoen peut Ã  prÃ©sent entrer dans le plan Ã©thÃ©rÃ© pour de brÃ¨ves pÃ©riodes. Cette capacitÃ© est utilisable une fois par minute, et son utilisation l'empÃªche de prendre la forme d'Ã‰corcheur pendant une minute Ã©galement. Imoen peut rester complÃ¨tement Ã©thÃ©rÃ©e et intangible sur ce plan pour un round complet... au cours duquel elle est invisible et complÃ¨tement immunisÃ©e aux dÃ©gÃ¢ts. Pendant ce round, elle est Ã©galement dans l'impossibilitÃ© de jeter des sorts ou d'utiliser d'autres capacitÃ©s.
+Imoen peut à présent entrer dans le plan éthéré pour de brèves périodes. Cette capacité est utilisable une fois par minute, et son utilisation l'empêche de prendre la forme d'Écorcheur pendant une minute également. Imoen peut rester complètement éthérée et intangible sur ce plan pour un round complet... au cours duquel elle est invisible et complètement immunisée aux dégâts. Pendant ce round, elle est également dans l'impossibilité de jeter des sorts ou d'utiliser d'autres capacités.
 
-Pour les deux rounds suivants, Imoen reste en Â« demi-phase Â»... partiellement Ã©thÃ©rÃ©e et partiellement dans ce plan. Elle est toujours invisible mais ne reÃ§oit que la moitiÃ© des dÃ©gÃ¢ts de n'importe quelle source. Dans cet Ã©tat, il y a une faible chance (10 %) qu'elle puisse rater un sort. Pour la totalitÃ© des trois rounds, elle est capable de voir les cibles invisibles.~
-@6 = ~ArrÃªt de la transformation en Ã‰corcheur
+Pour les deux rounds suivants, Imoen reste en « demi-phase »... partiellement éthérée et partiellement dans ce plan. Elle est toujours invisible mais ne reçoit que la moitié des dégâts de n'importe quelle source. Dans cet état, il y a une faible chance (10 %) qu'elle puisse rater un sort. Pour la totalité des trois rounds, elle est capable de voir les cibles invisibles.~
+@6 = ~Arrêt de la transformation en Écorcheur
 
-Cette capacitÃ© permet Ã  Imoen d'annuler sa transformation et de retrouver sa forme habituelle.~
-@7 = ~RÃ©gÃ©nÃ©ration
+Cette capacité permet à Imoen d'annuler sa transformation et de retrouver sa forme habituelle.~
+@7 = ~Régénération
 
-PortÃ©e : contact
-DurÃ©e : 1 round par tranche de 2 niveaux
+Portée : contact
+Durée : 1 round par tranche de 2 niveaux
 Temps d'incantation : 7
-Zone d'effet : 1 crÃ©ature
+Zone d'effet : 1 créature
 Jet de sauvegarde : aucun 
 
-Cette puissante capacitÃ© permet Ã  l'enfant de Bhaal de prodiguer Ã  une crÃ©ature la facultÃ© de rÃ©gÃ©nÃ©ration. Toutes ses blessures seront guÃ©ries et mÃªme les membres sectionnÃ©s repousseront grÃ¢ce Ã  ce sort. Le bÃ©nÃ©ficiaire rÃ©cupÃ©rera 3 points de vie par seconde. Les effets du sort durent un round par tranche de deux niveaux du lanceur ou jusqu'Ã  ce qu'ils soient dissipÃ©s par une source extÃ©rieure. Par exemple, un personnage de niveau 14 rÃ©gÃ©nÃ©rera ainsi 18 points de vie par round pendant 7 rounds.~
-@8 = ~RÃ©surrection
+Cette puissante capacité permet à l'enfant de Bhaal de prodiguer à une créature la faculté de régénération. Toutes ses blessures seront guéries et même les membres sectionnés repousseront grâce à ce sort. Le bénéficiaire récupérera 3 points de vie par seconde. Les effets du sort durent un round par tranche de deux niveaux du lanceur ou jusqu'à ce qu'ils soient dissipés par une source extérieure. Par exemple, un personnage de niveau 14 régénérera ainsi 18 points de vie par round pendant 7 rounds.~
+@8 = ~Résurrection
 
-PortÃ©e : contact
-DurÃ©e : permanente
+Portée : contact
+Durée : permanente
 Temps d'incantation : 1
-Zone d'effet : 1 crÃ©ature
+Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Tout comme le sort divin de 5Ã¨me niveau Rappel Ã  la vie, RÃ©surrection ramÃ¨ne un personnage Ã  la vie. Il est cependant ressuscitÃ© avec le maximum de ses points de vie, de maniÃ¨re Ã  ce qu'il soit de nouveau prÃªt pour la vie d'aventurier.~
-@9 = ~Transformation en Ã‰corcheur
+Tout comme le sort divin de 5ème niveau Rappel à la vie, Résurrection ramène un personnage à la vie. Il est cependant ressuscité avec le maximum de ses points de vie, de manière à ce qu'il soit de nouveau prêt pour la vie d'aventurier.~
+@9 = ~Transformation en Écorcheur
 
-Lorsque vous utilisez cette capacitÃ©, vous prenez la forme de l'essence brutale de Bhaal : une crÃ©ature violente et puissante faite de crocs et de griffes. L'utilisation de cette capacitÃ© rÃ©duit votre rÃ©putation d'un point, car mÃªme ceux qui ne sont pas tÃ©moins de l'Ã©vÃ©nement peuvent ressentir que vous avez succombÃ© Ã  votre instinct, et Ã  la corruption qui en rÃ©sulte.
+Lorsque vous utilisez cette capacité, vous prenez la forme de l'essence brutale de Bhaal : une créature violente et puissante faite de crocs et de griffes. L'utilisation de cette capacité réduit votre réputation d'un point, car même ceux qui ne sont pas témoins de l'événement peuvent ressentir que vous avez succombé à votre instinct, et à la corruption qui en résulte.
 
-La forme d'Ã‰corcheur confÃ¨re les avantages suivants :
+La forme d'Écorcheur confère les avantages suivants :
 
-- Force et DextÃ©ritÃ© fixÃ©es Ã  25
-- Classe d'armure effective fixÃ©e Ã  -9
-- RÃ©sistance Ã  la magie fixÃ©e Ã  40 %
-- Jets de sauvegarde fixÃ©s Ã  2
-- Attaques par round fixÃ©es Ã  4 (1d8 de dÃ©gÃ¢ts contondants +2 dÃ©gÃ¢ts de froid)
-- TAC0 fixÃ© Ã  0
+- Force et Dextérité fixées à 25
+- Classe d'armure effective fixée à -9
+- Résistance à la magie fixée à 40 %
+- Jets de sauvegarde fixés à 2
+- Attaques par round fixées à 4 (1d8 de dégâts contondants +2 dégâts de froid)
+- TAC0 fixé à 0
 - PLUS_SIGN_PLACEHOLDER 100 points de vie
-- ImmunitÃ© Ã  l'emprisonnement, au drain de niveau, Ã  l'Ã©tourdissement, Ã  la peur, au charme, Ã  la confusion, au sommeil et aux attaques de projectiles.
+- Immunité à l'emprisonnement, au drain de niveau, à l'étourdissement, à la peur, au charme, à la confusion, au sommeil et aux attaques de projectiles.
 
-L'Ã‰corcheur peut Ãªtre difficile Ã  contrÃ´ler : aprÃ¨s le premier round, il y a un risque cumulatif de 10 % par round de perdre le contrÃ´le de vous-mÃªme pendant un round.~
-@10 = ~Transformation en Ã‰corcheur
+L'Écorcheur peut être difficile à contrôler : après le premier round, il y a un risque cumulatif de 10 % par round de perdre le contrôle de vous-même pendant un round.~
+@10 = ~Transformation en Écorcheur
 
-Lorsque vous utilisez cette capacitÃ©, vous prenez la forme de l'essence brutale de Bhaal : une crÃ©ature violente et puissante faite de crocs et de griffes. L'utilisation de cette capacitÃ© rÃ©duit votre rÃ©putation d'un point, car mÃªme ceux qui ne sont pas tÃ©moins de l'Ã©vÃ©nement peuvent ressentir que vous avez succombÃ© Ã  votre instinct, et Ã  la corruption qui en rÃ©sulte.
+Lorsque vous utilisez cette capacité, vous prenez la forme de l'essence brutale de Bhaal : une créature violente et puissante faite de crocs et de griffes. L'utilisation de cette capacité réduit votre réputation d'un point, car même ceux qui ne sont pas témoins de l'événement peuvent ressentir que vous avez succombé à votre instinct, et à la corruption qui en résulte.
 
-La forme d'Ã‰corcheur a tout comme vous gagnÃ© en puissance et vous confÃ¨re les avantages suivants :
+La forme d'Écorcheur a tout comme vous gagné en puissance et vous confère les avantages suivants :
 
-- Force et DextÃ©ritÃ© fixÃ©es Ã  25
-- Classe d'armure effective fixÃ©e Ã  -9
-- RÃ©sistance Ã  la magie fixÃ©e Ã  50 %
-- RÃ©sistance aux dÃ©gÃ¢ts physiques fixÃ©e Ã  15 %
-- RÃ©sistance aux dÃ©gÃ¢ts Ã©lÃ©mentaires fixÃ©e Ã  30 %
-- Jets de sauvegarde fixÃ©s Ã  2
-- Attaques par round fixÃ©es Ã  4 (2d6 de dÃ©gÃ¢ts contondants +4 dÃ©gÃ¢ts de froid)
-- TAC0 fixÃ© Ã  -4
+- Force et Dextérité fixées à 25
+- Classe d'armure effective fixée à -9
+- Résistance à la magie fixée à 50 %
+- Résistance aux dégâts physiques fixée à 15 %
+- Résistance aux dégâts élémentaires fixée à 30 %
+- Jets de sauvegarde fixés à 2
+- Attaques par round fixées à 4 (2d6 de dégâts contondants +4 dégâts de froid)
+- TAC0 fixé à -4
 - PLUS_SIGN_PLACEHOLDER 150 points de vie
-- RÃ©gÃ©nÃ¨re 2 points de vie par seconde
-- ImmunitÃ© Ã  l'emprisonnement, au drain de niveau, Ã  l'Ã©tourdissement, Ã  la peur, au charme, Ã  la confusion, au sommeil et aux attaques de projectiles.
-- Risque de perdre le contrÃ´le : 10 %, plus un cumul de 5 % par round.
+- Régénère 2 points de vie par seconde
+- Immunité à l'emprisonnement, au drain de niveau, à l'étourdissement, à la peur, au charme, à la confusion, au sommeil et aux attaques de projectiles.
+- Risque de perdre le contrôle : 10 %, plus un cumul de 5 % par round.
 ~
-@11 = ~Transformation en Ã‰corcheur
+@11 = ~Transformation en Écorcheur
 
-Lorsque vous utilisez cette capacitÃ©, vous prenez la forme de l'essence brutale de Bhaal : une crÃ©ature violente et puissante faite de crocs et de griffes. L'utilisation de cette capacitÃ© rÃ©duit votre rÃ©putation de deux points, car mÃªme ceux qui ne sont pas tÃ©moins de l'Ã©vÃ©nement peuvent ressentir que vous avez succombÃ© Ã  votre instinct, et Ã  la corruption qui en rÃ©sulte.
+Lorsque vous utilisez cette capacité, vous prenez la forme de l'essence brutale de Bhaal : une créature violente et puissante faite de crocs et de griffes. L'utilisation de cette capacité réduit votre réputation de deux points, car même ceux qui ne sont pas témoins de l'événement peuvent ressentir que vous avez succombé à votre instinct, et à la corruption qui en résulte.
 
-La forme d'Ã‰corcheur a tout comme vous gagnÃ© en puissance et vous confÃ¨re les avantages suivants :
+La forme d'Écorcheur a tout comme vous gagné en puissance et vous confère les avantages suivants :
 
-- Force et DextÃ©ritÃ© fixÃ©es Ã  25
-- Classe d'armure effective fixÃ©e Ã  -9
-- RÃ©sistance Ã  la magie fixÃ©e Ã  60 %
-- RÃ©sistance aux dÃ©gÃ¢ts physiques fixÃ©e Ã  30 %
-- RÃ©sistance aux dÃ©gÃ¢ts Ã©lÃ©mentaires fixÃ©e Ã  40 %
-- Jets de sauvegarde fixÃ©s Ã  2
-- Attaques par round fixÃ©es Ã  4 (2d8 de dÃ©gÃ¢ts contondants +8 dÃ©gÃ¢ts de froid)
-- Les attaques ont 10 % de chances de lancer Dissipation de la magie et de rÃ©duire la rÃ©sistance Ã  la magie.
-- TAC0 fixÃ© Ã  -8
+- Force et Dextérité fixées à 25
+- Classe d'armure effective fixée à -9
+- Résistance à la magie fixée à 60 %
+- Résistance aux dégâts physiques fixée à 30 %
+- Résistance aux dégâts élémentaires fixée à 40 %
+- Jets de sauvegarde fixés à 2
+- Attaques par round fixées à 4 (2d8 de dégâts contondants +8 dégâts de froid)
+- Les attaques ont 10 % de chances de lancer Dissipation de la magie et de réduire la résistance à la magie.
+- TAC0 fixé à -8
 - PLUS_SIGN_PLACEHOLDER 200 points de vie
-- RÃ©gÃ©nÃ¨re 3 points de vie par seconde
-- ImmunitÃ© Ã  l'emprisonnement, au drain de niveau, Ã  l'Ã©tourdissement, Ã  la peur, au charme, Ã  la confusion, au sommeil, Ã  la maladie, aux poisons et aux attaques de projectiles.
+- Régénère 3 points de vie par seconde
+- Immunité à l'emprisonnement, au drain de niveau, à l'étourdissement, à la peur, au charme, à la confusion, au sommeil, à la maladie, aux poisons et aux attaques de projectiles.
 - Action libre
-- Risque de perdre le contrÃ´le : un cumul de 5 % tous les 2 rounds.~
+- Risque de perdre le contrôle : un cumul de 5 % tous les 2 rounds.~
 @12 = ~Transformation en Ravageur
 
-Vous avez maintenant la possibilitÃ© de prendre soit la forme de l'Ã‰corcheur, soit celle du Ravageur : une terrible manifestation de Bhaal. L'utilisation de cette capacitÃ© rÃ©duit votre rÃ©putation de deux points pour l'Ã‰corcheur, et de trois points pour le Ravageur.
+Vous avez maintenant la possibilité de prendre soit la forme de l'Écorcheur, soit celle du Ravageur : une terrible manifestation de Bhaal. L'utilisation de cette capacité réduit votre réputation de deux points pour l'Écorcheur, et de trois points pour le Ravageur.
 
-En tant qu'Ã‰corcheur, vous bÃ©nÃ©ficiez des avantages suivants :
+En tant qu'Écorcheur, vous bénéficiez des avantages suivants :
 
-- Force et DextÃ©ritÃ© fixÃ©es Ã  25
-- Classe d'armure effective fixÃ©e Ã  -9
-- RÃ©sistance Ã  la magie fixÃ©e Ã  60 %
-- RÃ©sistance aux dÃ©gÃ¢ts physiques fixÃ©e Ã  30 %
-- RÃ©sistance aux dÃ©gÃ¢ts Ã©lÃ©mentaires fixÃ©e Ã  50 %
-- Jets de sauvegarde fixÃ©s Ã  2
-- Attaques par round fixÃ©es Ã  4 (2d8 de dÃ©gÃ¢ts contondants +8 dÃ©gÃ¢ts de froid)
-- Les attaques ont 10 % de chances de lancer Dissipation de la magie et de rÃ©duire la rÃ©sistance Ã  la magie.
-- TAC0 fixÃ© Ã  -8
+- Force et Dextérité fixées à 25
+- Classe d'armure effective fixée à -9
+- Résistance à la magie fixée à 60 %
+- Résistance aux dégâts physiques fixée à 30 %
+- Résistance aux dégâts élémentaires fixée à 50 %
+- Jets de sauvegarde fixés à 2
+- Attaques par round fixées à 4 (2d8 de dégâts contondants +8 dégâts de froid)
+- Les attaques ont 10 % de chances de lancer Dissipation de la magie et de réduire la résistance à la magie.
+- TAC0 fixé à -8
 - PLUS_SIGN_PLACEHOLDER 200 points de vie
-- RÃ©gÃ©nÃ¨re 3 points de vie par seconde
-- ImmunitÃ© Ã  l'emprisonnement, au drain de niveau, Ã  l'Ã©tourdissement, Ã  la peur, au charme, Ã  la confusion, au sommeil, Ã  la maladie, aux poisons et aux attaques de projectiles.
+- Régénère 3 points de vie par seconde
+- Immunité à l'emprisonnement, au drain de niveau, à l'étourdissement, à la peur, au charme, à la confusion, au sommeil, à la maladie, aux poisons et aux attaques de projectiles.
 - Action libre
-- Risque de perdre le contrÃ´le : un cumul de 5 % tous les 2 rounds.
+- Risque de perdre le contrôle : un cumul de 5 % tous les 2 rounds.
 
-En tant que Ravageur, vous bÃ©nÃ©ficiez des avantages supplÃ©mentaires suivants :
+En tant que Ravageur, vous bénéficiez des avantages supplémentaires suivants :
 
-- RÃ©sistance Ã  la magie fixÃ©e Ã  75 %
-- RÃ©sistance aux dÃ©gÃ¢ts physiques fixÃ©e Ã  50 %
-- RÃ©sistance aux dÃ©gÃ¢ts Ã©lÃ©mentaires fixÃ©e Ã  50 %
-- RÃ©sistance aux dÃ©gÃ¢ts magiques fixÃ©e Ã  50 %
-- Attaques par round fixÃ©es Ã  5 (3d8 de dÃ©gÃ¢ts contondants +8 dÃ©gÃ¢ts de froid)
-- Les chances de lancer Dissipation de la magie au toucher passent Ã  20 %
-- TAC0 fixÃ© Ã  -12
+- Résistance à la magie fixée à 75 %
+- Résistance aux dégâts physiques fixée à 50 %
+- Résistance aux dégâts élémentaires fixée à 50 %
+- Résistance aux dégâts magiques fixée à 50 %
+- Attaques par round fixées à 5 (3d8 de dégâts contondants +8 dégâts de froid)
+- Les chances de lancer Dissipation de la magie au toucher passent à 20 %
+- TAC0 fixé à -12
 - PLUS_SIGN_PLACEHOLDER 250 points de vie
-- RÃ©gÃ©nÃ¨re 5 points de vie par seconde
-- Le risque de perdre le contrÃ´le passe Ã  40 %, plus un risque cumulatif de 10 % par round~
-@13 = ~Transformation en Ã‰corcheur
+- Régénère 5 points de vie par seconde
+- Le risque de perdre le contrôle passe à 40 %, plus un risque cumulatif de 10 % par round~
+@13 = ~Transformation en Écorcheur
 
-Quand Imoen utilise cette capacitÃ©, elle prend la forme de l'essence brutale de Bhaal : une crÃ©ature violente et puissante faite de crocs et de griffes.
+Quand Imoen utilise cette capacité, elle prend la forme de l'essence brutale de Bhaal : une créature violente et puissante faite de crocs et de griffes.
 
-La forme d'Ã‰corcheur confÃ¨re les avantages suivants :
+La forme d'Écorcheur confère les avantages suivants :
 
-- Force et DextÃ©ritÃ© fixÃ©es Ã  25
-- Classe d'armure effective fixÃ©e Ã  -9
-- RÃ©sistance Ã  la magie fixÃ©e Ã  40 %
-- Jets de sauvegarde fixÃ©s Ã  2
-- Attaques par round fixÃ©es Ã  4 (1d8 de dÃ©gÃ¢ts contondants +2 dÃ©gÃ¢ts de froid)
-- TAC0 fixÃ© Ã  0
+- Force et Dextérité fixées à 25
+- Classe d'armure effective fixée à -9
+- Résistance à la magie fixée à 40 %
+- Jets de sauvegarde fixés à 2
+- Attaques par round fixées à 4 (1d8 de dégâts contondants +2 dégâts de froid)
+- TAC0 fixé à 0
 - PLUS_SIGN_PLACEHOLDER 100 points de vie
-- ImmunitÃ© Ã  l'emprisonnement, au drain de niveau, Ã  l'Ã©tourdissement, Ã  la peur, au charme, Ã  la confusion, au sommeil et aux attaques de projectiles.
+- Immunité à l'emprisonnement, au drain de niveau, à l'étourdissement, à la peur, au charme, à la confusion, au sommeil et aux attaques de projectiles.
 
-Peut-Ãªtre parce qu'Imoen possÃ¨de moins d'essence de Bhaal que <CHARNAME>, ou peut-Ãªtre Ã  cause de ce qu'elle a appris aprÃ¨s que MÃ©lissanne ait fait appel Ã  son essence, elle est plus Ã  mÃªme de contenir le pouvoir de l'Ã‰corcheur, et n'a aucune chance de perdre le contrÃ´le lorsqu'elle est sous la forme d'Ã‰corcheur.~
-@14 = ~Pouvoirs de l'enfant de Bhaal octroyÃ©s~
-@15 = ~Imoen peut maintenant se transformer en Ã‰corcheur Ã  volontÃ©, et peut entrer dans le plan Ã©thÃ©rÃ© une fois par minute~
-@16 = ~ContrÃ´le des dÃ©mons
+Peut-être parce qu'Imoen possède moins d'essence de Bhaal que <CHARNAME>, ou peut-être à cause de ce qu'elle a appris après que Mélissanne ait fait appel à son essence, elle est plus à même de contenir le pouvoir de l'Écorcheur, et n'a aucune chance de perdre le contrôle lorsqu'elle est sous la forme d'Écorcheur.~
+@14 = ~Pouvoirs de l'enfant de Bhaal octroyés~
+@15 = ~Imoen peut maintenant se transformer en Écorcheur à volonté, et peut entrer dans le plan éthéré une fois par minute~
+@16 = ~Contrôle des démons
 
-PortÃ©e : champ visuel du lanceur
-DurÃ©e : spÃ©ciale
+Portée : champ visuel du lanceur
+Durée : spéciale
 Temps d'incantation : 1
-Zone d'effet : 1 dÃ©mon
+Zone d'effet : 1 démon
 Jet de sauvegarde : aucun
 
-Cette capacitÃ© permet Ã  l'enfant de Bhaal de disputer le contrÃ´le d'un dÃ©mon Ã  MÃ©lissanne et d'en faire son alliÃ©. L'enfant de Bhaal s'engage dans un combat mental avec le dÃ©mon pendant DURATION_PLACEHOLDER secondes, Ã  la fin duquel le dÃ©mon a SUCCESS_CHANCE_PLACEHOLDER % de chance de devenir son alliÃ© (il n'y a pas de jet de sauvegarde, et la rÃ©sistance Ã  la magie n'est pas prise en compte). Cependant, le dÃ©mon n'est pas sous le contrÃ´le direct de l'enfant de Bhaal. Cette capacitÃ© peut Ãªtre utilisÃ©e une fois tous les 3 rounds.~
-@17 = ~DÃ©charge
+Cette capacité permet à l'enfant de Bhaal de disputer le contrôle d'un démon à Mélissanne et d'en faire son allié. L'enfant de Bhaal s'engage dans un combat mental avec le démon pendant DURATION_PLACEHOLDER secondes, à la fin duquel le démon a SUCCESS_CHANCE_PLACEHOLDER % de chance de devenir son allié (il n'y a pas de jet de sauvegarde, et la résistance à la magie n'est pas prise en compte). Cependant, le démon n'est pas sous le contrôle direct de l'enfant de Bhaal. Cette capacité peut être utilisée une fois tous les 3 rounds.~
+@17 = ~Décharge
 
-PortÃ©e : 1,5 mÃ¨tre
-DurÃ©e : instantanÃ©e
+Portée : 1,5 mètre
+Durée : instantanée
 Temps d'incantation : 1
-Zone d'effet : 1 crÃ©ature
-Jet de sauvegarde : 1/2 plus spÃ©cial
+Zone d'effet : 1 créature
+Jet de sauvegarde : 1/2 plus spécial
 
-La capacitÃ© de Â« DÃ©charge Â» relÃ¢che vos pouvoirs intÃ©rieurs sur des cibles au corps Ã  corps, leur infligeant DICENUMBER_PLACEHOLDERd12 points de dÃ©gÃ¢ts magiques (la moitiÃ© seulement si un jet de sauvegarde contre la mort Ã  -4 est rÃ©ussi), les propulsant loin de vous et rendant parfois ces cibles inconscientes pour une courte durÃ©e. Cette capacitÃ© ne peut Ãªtre utilisÃ©e qu'une fois toutes les 30 secondes... et aprÃ¨s l'avoir utilisÃ©e, l'enfant de Bhaal sera incroyablement fatiguÃ© et aura 25 % de chance de rater tous ses sorts pendant 2 rounds. En raison de la quantitÃ© d'essence divine utilisÃ©e, la forme d'Ã‰corcheur sera inutilisable pendant 30 secondes.~
+La capacité de « Décharge » relâche vos pouvoirs intérieurs sur des cibles au corps à corps, leur infligeant DICENUMBER_PLACEHOLDERd12 points de dégâts magiques (la moitié seulement si un jet de sauvegarde contre la mort à -4 est réussi), les propulsant loin de vous et rendant parfois ces cibles inconscientes pour une courte durée. Cette capacité ne peut être utilisée qu'une fois toutes les 30 secondes... et après l'avoir utilisée, l'enfant de Bhaal sera incroyablement fatigué et aura 25 % de chance de rater tous ses sorts pendant 2 rounds. En raison de la quantité d'essence divine utilisée, la forme d'Écorcheur sera inutilisable pendant 30 secondes.~
 @18 = ~Focalisation
 
-PortÃ©e : 0
-DurÃ©e : 5 rounds
+Portée : 0
+Durée : 5 rounds
 Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Cette capacitÃ© permet Ã  l'enfant de Bhaal de focaliser son Ã©nergie en lui pour rÃ©sister aux sorts extÃ©rieurs. Pour une durÃ©e de 30 secondes, l'enfant de Bhaal devient immunisÃ© aux sorts Transmutation de la chair en pierre, DÃ©sintÃ©gration et ArrÃªt du temps. Les sorts de 1er, 2Ã¨me et 3Ã¨me niveau n'affecteront pas non plus l'enfant de Bhaal. Cette capacitÃ© est utilisable une fois par minute.~
+Cette capacité permet à l'enfant de Bhaal de focaliser son énergie en lui pour résister aux sorts extérieurs. Pour une durée de 30 secondes, l'enfant de Bhaal devient immunisé aux sorts Transmutation de la chair en pierre, Désintégration et Arrêt du temps. Les sorts de 1er, 2ème et 3ème niveau n'affecteront pas non plus l'enfant de Bhaal. Cette capacité est utilisable une fois par minute.~
 @19 = ~Porte dimensionnelle
 
-PortÃ©e : infinie
-DurÃ©e : instantanÃ©e
+Portée : infinie
+Durée : instantanée
 Temps d'incantation : 0
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-L'enfant de Bhaal peut dÃ©sormais se dÃ©placer librement Ã  travers l'espace et les plans. Ce pouvoir de tÃ©lÃ©portation est utilisable une fois par round.~
-@20 = ~MÃ©tamorphose : Chauve-souris
+L'enfant de Bhaal peut désormais se déplacer librement à travers l'espace et les plans. Ce pouvoir de téléportation est utilisable une fois par round.~
+@20 = ~Métamorphose : Chauve-souris
 
-Cette capacitÃ© permet Ã  Bodhi de se mÃ©tamorphoser en chauve-souris.~
+Cette capacité permet à Bodhi de se métamorphoser en chauve-souris.~
 @21 = ~Don divin
 (Invocation)
 
-PortÃ©e : 0 
-DurÃ©e : 1 tour
+Portée : 0 
+Durée : 1 tour
 Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-L'enfant de Bhaal puise dans le pouvoir de son essence divine pour augmenter ses caractÃ©ristiques pendant une courte durÃ©e. Lorsqu'il utilise cette facultÃ©, sa Force, sa Constitution et sa DextÃ©ritÃ© sont fixÃ©es Ã  25.~
-@22 = ~Inversion des rÃ©sistances
+L'enfant de Bhaal puise dans le pouvoir de son essence divine pour augmenter ses caractéristiques pendant une courte durée. Lorsqu'il utilise cette faculté, sa Force, sa Constitution et sa Dextérité sont fixées à 25.~
+@22 = ~Inversion des résistances
 
-PortÃ©e : 0
-DurÃ©e : permanente
+Portée : 0
+Durée : permanente
 Temps d'incantation : 1
 Zone d'effet : Balthazar
 Jet de sauvegarde : aucun
 
-Avec cette capacitÃ©, Balthazar inverse ses rÃ©sistances innÃ©es. Sa rÃ©sistance normale de 10 % aux dÃ©gÃ¢ts physiques passe Ã  90 % ; sa rÃ©sistance normale de 90 % Ã  la magie, aux dÃ©gÃ¢ts magiques et aux dÃ©gÃ¢ts Ã©lÃ©mentaires passe Ã  10 %.
+Avec cette capacité, Balthazar inverse ses résistances innées. Sa résistance normale de 10 % aux dégâts physiques passe à 90 % ; sa résistance normale de 90 % à la magie, aux dégâts magiques et aux dégâts élémentaires passe à 10 %.
 
-Balthazar peut inverser ses rÃ©sistances Ã  volontÃ©.~
-@23 = ~Inversion des rÃ©sistances
+Balthazar peut inverser ses résistances à volonté.~
+@23 = ~Inversion des résistances
 
-PortÃ©e : 0
-DurÃ©e : permanente
+Portée : 0
+Durée : permanente
 Temps d'incantation : 1
 Zone d'effet : Balthazar
 Jet de sauvegarde : aucun
 
-Avec cette capacitÃ©, Balthazar inverse ses rÃ©sistances innÃ©es. Sa rÃ©sistance normale de 10 % aux dÃ©gÃ¢ts physiques est restaurÃ©e, tout comme sa rÃ©sistance normale de 90 % Ã  la magie, aux dÃ©gÃ¢ts magiques et aux dÃ©gÃ¢ts Ã©lÃ©mentaires.
+Avec cette capacité, Balthazar inverse ses résistances innées. Sa résistance normale de 10 % aux dégâts physiques est restaurée, tout comme sa résistance normale de 90 % à la magie, aux dégâts magiques et aux dégâts élémentaires.
 
-Balthazar peut inverser ses rÃ©sistances Ã  volontÃ©.~
+Balthazar peut inverser ses résistances à volonté.~
 @24 = ~Posture solaire
 
-PortÃ©e : 0
-DurÃ©e : 3 heures
+Portée : 0
+Durée : 3 heures
 Temps d'incantation : 1
-Zone d'effet : Balthazar, plus toutes crÃ©atures Ã  moins de 9 mÃ¨tres
+Zone d'effet : Balthazar, plus toutes créatures à moins de 9 mètres
 Jet de sauvegarde : aucun
 
-En adoptant la posture solaire, Balthazar fait appel Ã  la puissance du soleil pour amÃ©liorer ses capacitÃ©s mystiques. Il gagne 127 % de rÃ©sistance au feu (mÃªme lorsqu'il utilise Inversion des rÃ©sistances) et toutes ses attaques infligent 1d10 points de dÃ©gÃ¢ts de feu supplÃ©mentaires ; ces dÃ©gÃ¢ts soignent Balthazar. En adoptant la posture solaire, Balthazar libÃ¨re un souffle de flammes qui inflige 12d6 points de dÃ©gÃ¢ts de feu (jet de sauvegarde contre les sorts pour la moitiÃ© des dÃ©gÃ¢ts) et 1d8 points de dÃ©gÃ¢ts contondants Ã  toutes les crÃ©atures situÃ©es dans un rayon de 9 mÃ¨tres, les propulsant tout autour de lui.
+En adoptant la posture solaire, Balthazar fait appel à la puissance du soleil pour améliorer ses capacités mystiques. Il gagne 127 % de résistance au feu (même lorsqu'il utilise Inversion des résistances) et toutes ses attaques infligent 1d10 points de dégâts de feu supplémentaires ; ces dégâts soignent Balthazar. En adoptant la posture solaire, Balthazar libère un souffle de flammes qui inflige 12d6 points de dégâts de feu (jet de sauvegarde contre les sorts pour la moitié des dégâts) et 1d8 points de dégâts contondants à toutes les créatures situées dans un rayon de 9 mètres, les propulsant tout autour de lui.
 
-Balthazar ne peut avoir qu'une seule posture active Ã  la fois : adopter la posture solaire annule toutes les autres. La posture solaire peut Ãªtre supprimÃ©e par des sorts tels que BrÃ¨che.~
+Balthazar ne peut avoir qu'une seule posture active à la fois : adopter la posture solaire annule toutes les autres. La posture solaire peut être supprimée par des sorts tels que Brèche.~
 @25 = ~Posture lunaire
 
-PortÃ©e : 0
-DurÃ©e : 3 heures
+Portée : 0
+Durée : 3 heures
 Temps d'incantation : 1
 Zone d'effet : Balthazar
 Jet de sauvegarde : aucun
 
-En adoptant la posture lunaire, Balthazar fait appel au pouvoir de la lune pour amÃ©liorer ses capacitÃ©s mystiques. Lorsqu'il est en posture lunaire, Balthazar est immunisÃ© contre le drain d'Ã©nergie, l'emprisonnement et l'arrÃªt du temps, et bÃ©nÃ©ficie d'une utilisation de la capacitÃ© Â« CalamitÃ© lunaire Â». En adoptant la posture lunaire, tous les ennemis adjacents Ã  Balthazar sont aveuglÃ©s pendant quatre rounds (Ã  moins de rÃ©ussir un jet de sauvegarde contre les sorts).
+En adoptant la posture lunaire, Balthazar fait appel au pouvoir de la lune pour améliorer ses capacités mystiques. Lorsqu'il est en posture lunaire, Balthazar est immunisé contre le drain d'énergie, l'emprisonnement et l'arrêt du temps, et bénéficie d'une utilisation de la capacité « Calamité lunaire ». En adoptant la posture lunaire, tous les ennemis adjacents à Balthazar sont aveuglés pendant quatre rounds (à moins de réussir un jet de sauvegarde contre les sorts).
 
-Balthazar ne peut avoir qu'une seule posture active Ã  la fois : adopter la posture lunaire annule toutes les autres. La posture lunaire peut Ãªtre supprimÃ©e par des sorts tels que BrÃ¨che.~
+Balthazar ne peut avoir qu'une seule posture active à la fois : adopter la posture lunaire annule toutes les autres. La posture lunaire peut être supprimée par des sorts tels que Brèche.~
 @26 = ~Posture de l'ombre
 
-PortÃ©e : 0
-DurÃ©e : 3 heures
+Portée : 0
+Durée : 3 heures
 Temps d'incantation : 1
 Zone d'effet : Balthazar
 Jet de sauvegarde : aucun
 
-En adoptant la posture de l'ombre, Balthazar fait appel au pouvoir du plan de l'ombre pour amÃ©liorer ses capacitÃ©s mystiques. Lorsqu'il se trouve dans la posture de l'ombre, Balthazar est protÃ©gÃ© par une InvisibilitÃ© majeure (et il est complÃ¨tement invisible pendant les 15 premiÃ¨res secondes, ou jusqu'Ã  ce qu'il attaque). En plus des avantages dÃ©fensifs dÃ©jÃ  significatifs de l'InvisibilitÃ© majeure, le camouflage de la posture de l'ombre accorde Ã  Balthazar un bonus supplÃ©mentaire de +6 Ã  la classe d'armure.
+En adoptant la posture de l'ombre, Balthazar fait appel au pouvoir du plan de l'ombre pour améliorer ses capacités mystiques. Lorsqu'il se trouve dans la posture de l'ombre, Balthazar est protégé par une Invisibilité majeure (et il est complètement invisible pendant les 15 premières secondes, ou jusqu'à ce qu'il attaque). En plus des avantages défensifs déjà significatifs de l'Invisibilité majeure, le camouflage de la posture de l'ombre accorde à Balthazar un bonus supplémentaire de +6 à la classe d'armure.
 
-Balthazar ne peut avoir qu'une seule posture active Ã  la fois : adopter la posture de l'ombre annule toutes les autres. La posture de l'ombre peut Ãªtre supprimÃ©e par des sorts tels que Â« Oracle Â» ou Â« Vision vÃ©ritable Â».~
-@27 = ~Plus rapide que l'Å“il
+Balthazar ne peut avoir qu'une seule posture active à la fois : adopter la posture de l'ombre annule toutes les autres. La posture de l'ombre peut être supprimée par des sorts tels que « Oracle » ou « Vision véritable ».~
+@27 = ~Plus rapide que l'œil
 
-PortÃ©e : champ visuel du lanceur
-DurÃ©e : instantanÃ©e
+Portée : champ visuel du lanceur
+Durée : instantanée
 Temps d'incantation : 0
 Zone d'effet : Balthazar
 Jet de sauvegarde : aucun
 
-En un clin d'Å“il, Balthazar se tÃ©lÃ©porte n'importe oÃ¹ dans son champ de vision.
+En un clin d'œil, Balthazar se téléporte n'importe où dans son champ de vision.
 
-Ce pouvoir peut Ãªtre utilisÃ© une fois tous les deux rounds.~
+Ce pouvoir peut être utilisé une fois tous les deux rounds.~
 @28 = ~Poing du dragon
 
-PortÃ©e : toucher
-DurÃ©e : spÃ©ciale
+Portée : toucher
+Durée : spéciale
 Temps d'incantation : 0
-Zone d'effet : crÃ©ature touchÃ©e
+Zone d'effet : créature touchée
 Jet de sauvegarde : aucun
 
-En canalisant son Ki dans un coup, Balthazar transperce les dÃ©fenses magiques de son adversaire. Le Poing du dragon a 25 % de chances de dÃ©truire toutes les sorts de protections et amÃ©liorations de combat infÃ©rieures au 9Ã¨me niveau, 25 % de chances de dÃ©truire tous les sorts de protection contre la magie infÃ©rieurs au 9Ã¨me niveau, et 50 % de chances de dÃ©truire les deux. Il ralentit Ã©galement sa cible (entraÃ®nant une pÃ©nalitÃ© de -4 Ã  la classe d'armure et aux jets d'attaque) pendant deux rounds.
+En canalisant son Ki dans un coup, Balthazar transperce les défenses magiques de son adversaire. Le Poing du dragon a 25 % de chances de détruire toutes les sorts de protections et améliorations de combat inférieures au 9ème niveau, 25 % de chances de détruire tous les sorts de protection contre la magie inférieurs au 9ème niveau, et 50 % de chances de détruire les deux. Il ralentit également sa cible (entraînant une pénalité de -4 à la classe d'armure et aux jets d'attaque) pendant deux rounds.
 
-Ce pouvoir peut Ãªtre utilisÃ© une fois tous les trois rounds.~
+Ce pouvoir peut être utilisé une fois tous les trois rounds.~
 @29 = ~Frappe du tigre
 
-PortÃ©e : 0
-DurÃ©e : 2 rounds
+Portée : 0
+Durée : 2 rounds
 Temps d'incantation : 1
 Zone d'effet : Balthazar
 Jet de sauvegarde : aucun
 
-Lorsque Frappe du tigre est actif, Balthazar a 50 % de chances par coup de rÃ©ussir un coup critique ; de plus, tout coup propulse sa victime en arriÃ¨re, l'Ã©tourdissant pendant 1 round.
+Lorsque Frappe du tigre est actif, Balthazar a 50 % de chances par coup de réussir un coup critique ; de plus, tout coup propulse sa victime en arrière, l'étourdissant pendant 1 round.
 
-Ce pouvoir peut Ãªtre utilisÃ© une fois tous les quatre rounds.~
+Ce pouvoir peut être utilisé une fois tous les quatre rounds.~
 @30 = ~Main du meurtre
 
-PortÃ©e : 0
-DurÃ©e : 1 round
+Portée : 0
+Durée : 1 round
 Temps d'incantation : 1
 Zone d'effet : Balthazar
-Jet de sauvegarde : spÃ©cial
+Jet de sauvegarde : spécial
 
-En combinant son Ki avec son essence d'enfant de Bhaal, toutes les attaques de Balthazar deviennent automatiquement des coups critiques durant un round. Pendant les trois premiÃ¨res secondes qui suivent l'activation de ce pouvoir, toute personne touchÃ©e tombe raide morte (jet de sauvegarde contre les sorts pour annuler).
+En combinant son Ki avec son essence d'enfant de Bhaal, toutes les attaques de Balthazar deviennent automatiquement des coups critiques durant un round. Pendant les trois premières secondes qui suivent l'activation de ce pouvoir, toute personne touchée tombe raide morte (jet de sauvegarde contre les sorts pour annuler).
 
-Ce pouvoir peut Ãªtre utilisÃ© une fois tous les trois rounds.~
-@31 = ~Coup de pied dissociÃ© de l'ombre
+Ce pouvoir peut être utilisé une fois tous les trois rounds.~
+@31 = ~Coup de pied dissocié de l'ombre
 
-PortÃ©e : toucher
-DurÃ©e : 4 secondes
+Portée : toucher
+Durée : 4 secondes
 Temps d'incantation : 0
-Zone d'effet : 1 crÃ©ature
+Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-D'un puissant coup de pied, Balthazar propulse son adversaire, l'envoyant voler ; celui-ci subit 4d8 points de dÃ©gÃ¢ts dus Ã  l'impact et reste inconscient pendant quelques secondes.
+D'un puissant coup de pied, Balthazar propulse son adversaire, l'envoyant voler ; celui-ci subit 4d8 points de dégâts dus à l'impact et reste inconscient pendant quelques secondes.
 
-Ce pouvoir peut Ãªtre utilisÃ© une fois tous les deux rounds.~
-@32 = ~CalamitÃ© lunaire
+Ce pouvoir peut être utilisé une fois tous les deux rounds.~
+@32 = ~Calamité lunaire
 
-PortÃ©e : 9 mÃ¨tres
-DurÃ©e : spÃ©ciale
+Portée : 9 mètres
+Durée : spéciale
 Temps d'incantation : 1
-Zone d'effet : 1 crÃ©ature
-Jet de sauvegarde : spÃ©cial
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
 
-La crÃ©ature affectÃ©e par CalamitÃ© lunaire subit un malus de -4 Ã  tous ses jets de sauvegarde pendant une pÃ©riode de 40 rounds. De plus, elle doit rÃ©ussir un jet de sauvegarde contre les sorts avec une pÃ©nalitÃ© de -2 ou Ãªtre ralentie (subissant alors une pÃ©nalitÃ© de -4 Ã  sa classe d'armure et Ã  ses jets d'attaque) pendant 2 rounds.
+La créature affectée par Calamité lunaire subit un malus de -4 à tous ses jets de sauvegarde pendant une période de 40 rounds. De plus, elle doit réussir un jet de sauvegarde contre les sorts avec une pénalité de -2 ou être ralentie (subissant alors une pénalité de -4 à sa classe d'armure et à ses jets d'attaque) pendant 2 rounds.
 
-Balthazar bÃ©nÃ©ficie d'une utilisation de cette capacitÃ© chaque fois qu'il adopte la posture lunaire.~
+Balthazar bénéficie d'une utilisation de cette capacité chaque fois qu'il adopte la posture lunaire.~

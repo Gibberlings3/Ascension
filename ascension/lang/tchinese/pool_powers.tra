@@ -1,10 +1,10 @@
-@1 = ~你將手放進能量池內﹐但是裡面的能量太強了﹐你無法干擾裡面能量的流動﹐相反裡面的熱量灼傷了你。~
-@2 = ~你將手放進能量池內﹐並將裡面的能量從梅麗珊那裡引向自己。強大的能量不僅治癒了你的傷痛﹐恢復了你的所有力量﹐而且還讓你免疫即死魔法﹐免疫斬首效果並賦予了你新的能力“能量釋放”。~
-@3 = ~獲得新能力﹕“能量釋放”
-“能量釋放”這個能力能夠將你內在的能量在短程內釋放出來﹐目標會受到10d12魔法能量傷害（通過死亡豁免則傷害減半）﹐並被推開一段距離﹐每五輪可使用這個能力一次......在使用後﹐會造成二輪的自身的疲倦以及施法失敗。由於內在的天賦被釋放﹐在使用此能力後﹐無論內無法變身殺戮者。~
-@4 = ~獲得新能力﹕“能量釋放”
-“能量釋放”這個能力能夠將你內在的能量在短程內釋放出來﹐目標會受到10d12魔法能量傷害（通過死亡豁免則傷害減半）﹐並被推開一段距離﹐每五輪可使用這個能力一次......在使用後﹐會造成二輪的自身的疲倦以及施法失敗。由於內在的天賦被釋放﹐在使用此能力後﹐無論內無法變身殺戮者。~
-@5 = ~你將手放進能量池內﹐並將裡面的能量從梅麗珊那裡引向自己。強大的能量不僅治癒了你的傷痛﹐恢復了你的所有力量﹐而且還讓你免疫即死魔法﹐免疫斬首效果並賦予了你新的能力“能量釋放”。~
+@1 = ~�A�N���i��q�����M���O�̭�����q�ӱj�F�M�A�L�k�z�Z�̭���q���y�ʡM�ۤϸ̭������q�`�ˤF�A�C~
+@2 = ~�A�N���i��q�����M�ñN�̭�����q�q���R�����̤ަV�ۤv�C�j�j����q���Ȫv¡�F�A���˵h�M��_�F�A���Ҧ��O�q�M�ӥB�����A�K�̧Y���]�k�M�K�̱٭��ĪG�ýᤩ�F�A�s����O����q���񡨡C~
+@3 = ~��o�s��O�R����q����
+����q���񡨳o�ӯ�O����N�A���b����q�b�u�{������X�ӡM�ؼз|����10d12�]�k��q�ˮ`�]�q�L���`�ŧK�h�ˮ`��b�^�M�óQ���}�@�q�Z���M�C�����i�ϥγo�ӯ�O�@��......�b�ϥΫ�M�|�y���G�����ۨ����h�¥H�άI�k���ѡC�ѩ󤺦b���ѽ�Q����M�b�ϥΦ���O��M�L�פ��L�k�ܨ������̡C~
+@4 = ~��o�s��O�R����q����
+����q���񡨳o�ӯ�O����N�A���b����q�b�u�{������X�ӡM�ؼз|����10d12�]�k��q�ˮ`�]�q�L���`�ŧK�h�ˮ`��b�^�M�óQ���}�@�q�Z���M�C�����i�ϥγo�ӯ�O�@��......�b�ϥΫ�M�|�y���G�����ۨ����h�¥H�άI�k���ѡC�ѩ󤺦b���ѽ�Q����M�b�ϥΦ���O��M�L�פ��L�k�ܨ������̡C~
+@5 = ~�A�N���i��q�����M�ñN�̭�����q�q���R�����̤ަV�ۤv�C�j�j����q���Ȫv¡�F�A���˵h�M��_�F�A���Ҧ��O�q�M�ӥB�����A�K�̧Y���]�k�M�K�̱٭��ĪG�ýᤩ�F�A�s����O����q���񡨡C~
 @6 = ~New power gained: "Control Demon"
 
 This ability allows the Bhaalspawn to attempt to wrest control of a demon away from Melissan and make them an ally. The Bhaalspawn engages the demon in mental combat for 1 round, at the end of which the demon has a chance of becoming an ally. The demon is not under the Bhaalspawn's direct control, however. This ability may be used once every 3 rounds.
@@ -12,9 +12,9 @@ This ability allows the Bhaalspawn to attempt to wrest control of a demon away f
 New power gained: "Dimension Door"
 
 The Bhaalspawn may now move freely through space and the planes. This teleportation power is useable once per round.~
-@7 = ~你將手放進能量池內﹐並將裡面的能量從梅麗珊那裡引向自己。強大的能量不僅治癒了你的傷痛﹐恢復了你的所有力量﹐而且還讓你免疫即死魔法﹐免疫斬首效果並賦予了你新的能力“能量釋放”。~
+@7 = ~�A�N���i��q�����M�ñN�̭�����q�q���R�����̤ަV�ۤv�C�j�j����q���Ȫv¡�F�A���˵h�M��_�F�A���Ҧ��O�q�M�ӥB�����A�K�̧Y���]�k�M�K�̱٭��ĪG�ýᤩ�F�A�s����O����q���񡨡C~
 @9 = ~New power gained: "Focus"
 
 This ability allows the Bhaalspawn to focus his energy within <PRO_HIMHER> to resist spell effects from without. For a 30-second duration, the Bhaalspawn becomes immune to the spells Flesh to Stone, Disintegration and Time Stop. All minor spells of 1st through 3rd level will also not affect the Bhaalspawn. This ability is useable once per minute.~
-@10 = ~最後的能量池也已經被清空﹐巴爾王座的能量柱正在消散﹐你沒有多少時間可以準備了......~
-@11 = ~梅麗珊已經在能量柱內開始活動了﹐一旦這個能量池被吸干﹐最後的決戰就要開始了。~
+@10 = ~�̫᪺��q���]�w�g�Q�M�šM�ں����y����q�W���b�����M�A�S���h�֮ɶ��i�H�ǳƤF......~
+@11 = ~���R���w�g�b��q�W���}�l���ʤF�M�@���o�ӯ�q���Q�l�z�M�̫᪺�M�ԴN�n�}�l�F�C~

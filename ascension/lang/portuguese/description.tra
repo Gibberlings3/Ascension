@@ -1,111 +1,111 @@
-@1 = ~EtÃ©reo
+@1 = ~Etéreo
 
-Imoen agora Ã© capaz de entrar no Plano EtÃ©reo por breves perÃ­odos de tempo. A habilidade Ã© utilizÃ¡vel uma vez a cada minuto, e seu uso a impede de assumir a forma do Matador por um minuto tambÃ©m. Imoen pode permanecer completamente etÃ©rea e intangÃ­vel a forÃ§as neste plano por um turno completo ... durante o qual ela Ã© invisÃ­vel e completamente imune a danos. Durante essa rodada, ela tambÃ©m nÃ£o pode conjurar mÃ¡gicas ou usar habilidades.
+Imoen agora é capaz de entrar no Plano Etéreo por breves períodos de tempo. A habilidade é utilizável uma vez a cada minuto, e seu uso a impede de assumir a forma do Matador por um minuto também. Imoen pode permanecer completamente etérea e intangível a forças neste plano por um turno completo ... durante o qual ela é invisível e completamente imune a danos. Durante essa rodada, ela também não pode conjurar mágicas ou usar habilidades.
 
-Por mais duas rodadas depois, Imoen permanecerÃ¡ como 'meio-etÃ©rea' ... ela Ã© parcialmente etÃ©rea e parcialmente nesse plano. Ela ainda Ã© invisÃ­vel, mas leva metade do dano de todas as fontes. Neste estado, hÃ¡ uma pequena chance (10%) de que ela irÃ¡ errar um feitiÃ§o. Para as trÃªs rodadas, ela Ã© capaz de ver quaisquer alvos invisÃ­veis.~
+Por mais duas rodadas depois, Imoen permanecerá como 'meio-etérea' ... ela é parcialmente etérea e parcialmente nesse plano. Ela ainda é invisível, mas leva metade do dano de todas as fontes. Neste estado, há uma pequena chance (10%) de que ela irá errar um feitiço. Para as três rodadas, ela é capaz de ver quaisquer alvos invisíveis.~
 @6 = ~Desfazer a Forma do Matador
 
-Essa habilidade permite que Imoen cancele sua transformaÃ§Ã£o e retorne Ã  sua forma usual.~
-@7 = ~RegeneraÃ§Ã£o
+Essa habilidade permite que Imoen cancele sua transformação e retorne à sua forma usual.~
+@7 = ~Regeneração
 
 Alcance: Toque
-DuraÃ§Ã£o: 1 rodada/2 nÃ­veis
-Tempo de LanÃ§amento: 7
-Ãrea de Efeito: Criatura alvo
+Duração: 1 rodada/2 níveis
+Tempo de Lançamento: 7
+Área de Efeito: Criatura alvo
 Salvaguarda: Nenhum
 
-Este poderoso feitiÃ§o permite que o filho de Bhaal dÃª a uma criatura a habilidade de regenerar. Esta regeneraÃ§Ã£o curarÃ¡ qualquer ferimento e atÃ© regenerarÃ¡ membros perdidos. A criatura afetada recuperarÃ¡ 3 pontos de vida por segundo. O efeito dura 1 rodada por cada 2 nÃ­veis do lanÃ§ador ou atÃ© que seja dissipado. Por exemplo, um sacerdote de nÃ­vel 14 regeneraria 18 pontos de vida por rodada durante 7 rodadas.~
-@8 = ~RessurreiÃ§Ã£o
+Este poderoso feitiço permite que o filho de Bhaal dê a uma criatura a habilidade de regenerar. Esta regeneração curará qualquer ferimento e até regenerará membros perdidos. A criatura afetada recuperará 3 pontos de vida por segundo. O efeito dura 1 rodada por cada 2 níveis do lançador ou até que seja dissipado. Por exemplo, um sacerdote de nível 14 regeneraria 18 pontos de vida por rodada durante 7 rodadas.~
+@8 = ~Ressurreição
 
 Alcance: Toque
-DuraÃ§Ã£o: Permanente
-Tempo de LanÃ§amento: 1 turno
-Ãrea de Efeito: Criatura tocada
+Duração: Permanente
+Tempo de Lançamento: 1 turno
+Área de Efeito: Criatura tocada
 Salvaguarda: Nenhuma
 
-Como o feitiÃ§o de nÃ­vel 5 Levantar os Mortos, o feitiÃ§o RessurreiÃ§Ã£o traz um personagem de volta a vida. AlÃ©m disso, ele tambÃ©m cura o personagem, para que ele esteja pronto para voltar Ã  vida de aventureiro.~
+Como o feitiço de nível 5 Levantar os Mortos, o feitiço Ressurreição traz um personagem de volta a vida. Além disso, ele também cura o personagem, para que ele esteja pronto para voltar à vida de aventureiro.~
 @9 = ~Forma do Matador
 
-Quando vocÃª usa esta habilidade, assume a forma da essÃªncia brutal de Bhaal: uma criatura violenta e poderosa feita de dentes e garras. Usar esta habilidade reduz sua reputaÃ§Ã£o em um ponto, pois mesmo aqueles que nÃ£o testemunham o evento podem sentir a corrupÃ§Ã£o causada ao se entregar ao instinto.
+Quando você usa esta habilidade, assume a forma da essência brutal de Bhaal: uma criatura violenta e poderosa feita de dentes e garras. Usar esta habilidade reduz sua reputação em um ponto, pois mesmo aqueles que não testemunham o evento podem sentir a corrupção causada ao se entregar ao instinto.
 
-A Forma do Matador concede os seguintes benefÃ­cios:
+A Forma do Matador concede os seguintes benefícios:
 
-- ForÃ§a e Destreza definidas em 25
+- Força e Destreza definidas em 25
 - Classe de armadura definida em -9
-- ResistÃªncia mÃ¡gica definida em 50%
+- Resistência mágica definida em 50%
 - Salvaguardas definidas para 2
 - Ataques por rodada definidos para 4 (1d8 esmagamento, 2 frio)
 - PACA0 definido para 0
 - PLUS_SIGN_PLACEHOLDER 100 pontos de vida adicionais
-- Imunidade a aprisionamento, drenagem de nÃ­vel, atordoamento, medo, encantamento, confusÃ£o, sono e ataques de projÃ©til
+- Imunidade a aprisionamento, drenagem de nível, atordoamento, medo, encantamento, confusão, sono e ataques de projétil
 
-O Matador pode ser difÃ­cil de controlar: apÃ³s a primeira rodada, vocÃª tem 10% de chance cumulativa por rodada de perder o controle de si mesmo por uma rodada.~
+O Matador pode ser difícil de controlar: após a primeira rodada, você tem 10% de chance cumulativa por rodada de perder o controle de si mesmo por uma rodada.~
 @10 = ~Forma do Matador
 
-Quando vocÃª usa esta habilidade, assume a forma da essÃªncia brutal de Bhaal: uma criatura violenta e poderosa feita de dentes e garras. Usar esta habilidade reduz sua reputaÃ§Ã£o em um ponto, pois mesmo aqueles que nÃ£o testemunham o evento podem sentir a corrupÃ§Ã£o causada ao se entregar ao instinto.
+Quando você usa esta habilidade, assume a forma da essência brutal de Bhaal: uma criatura violenta e poderosa feita de dentes e garras. Usar esta habilidade reduz sua reputação em um ponto, pois mesmo aqueles que não testemunham o evento podem sentir a corrupção causada ao se entregar ao instinto.
 
-A Forma do Matador ficou mais forte e agora concede os seguintes benefÃ­cios:
+A Forma do Matador ficou mais forte e agora concede os seguintes benefícios:
 
-- ForÃ§a e Destreza definidas em 25
+- Força e Destreza definidas em 25
 - Classe de armadura definida em -9
-- ResistÃªncia mÃ¡gica definida em 50%
-- ResistÃªncia a dano fÃ­sico definida em 15%
-- ResistÃªncia ao dano elementar definida em 30%
+- Resistência mágica definida em 50%
+- Resistência a dano físico definida em 15%
+- Resistência ao dano elementar definida em 30%
 - Salvaguardas definidas para 2
 - Ataques por rodada definidos para 4 (2d6 esmagamento, 4 frio)
 - PACA0 definido para -4
 - PLUS_SIGN_PLACEHOLDER 150 pontos de vida adicionais
 - Regenera 2 Pontos de Vida por segundo
-- Imunidade a aprisionamento, drenagem de nÃ­vel, atordoamento, medo, encantamento, confusÃ£o, sono e ataques de projÃ©til
+- Imunidade a aprisionamento, drenagem de nível, atordoamento, medo, encantamento, confusão, sono e ataques de projétil
 - Chance de perder o controle: 10%, mais um acumulado de 5% por rodada
 ~
 @11 = ~Forma do Matador
 
-Quando vocÃª usa esta habilidade, assume a forma da essÃªncia brutal de Bhaal: uma criatura violenta e poderosa feita de dentes e garras. Usar esta habilidade reduz sua reputaÃ§Ã£o em dois pontos, pois mesmo aqueles que nÃ£o testemunham o evento podem sentir a corrupÃ§Ã£o causada ao se entregar ao instinto.
+Quando você usa esta habilidade, assume a forma da essência brutal de Bhaal: uma criatura violenta e poderosa feita de dentes e garras. Usar esta habilidade reduz sua reputação em dois pontos, pois mesmo aqueles que não testemunham o evento podem sentir a corrupção causada ao se entregar ao instinto.
 
-A Forma do Matador ficou mais forte e agora concede os seguintes benefÃ­cios:
+A Forma do Matador ficou mais forte e agora concede os seguintes benefícios:
 
-- ForÃ§a e Destreza definidas em 25
+- Força e Destreza definidas em 25
 - Classe de armadura definida em -9
-- ResistÃªncia mÃ¡gica definida em 50%
-- ResistÃªncia a dano fÃ­sico definida em 15%
-- ResistÃªncia ao dano elementar definida em 30%
+- Resistência mágica definida em 50%
+- Resistência a dano físico definida em 15%
+- Resistência ao dano elementar definida em 30%
 - Salvaguardas definidas para 2
 - Ataques por rodada definidos para 4 (2d6 esmagamento, 4 frio)
-- Ataques tÃªm 10% de chance de conjurar Dissipar Magia e de diminuir a ResistÃªncia MÃ¡gica.
+- Ataques têm 10% de chance de conjurar Dissipar Magia e de diminuir a Resistência Mágica.
 - PACA0 definido para -8
 - PLUS_SIGN_PLACEHOLDER 200 pontos de vida adicionais
 - Regenera 3 Pontos de Vida por segundo
-- Imunidade a aprisionamento, drenagem de nÃ­vel, atordoamento, medo, encantamento, confusÃ£o, sono, doenÃ§as, ataques de veneno e ataques de projÃ©til
-- AÃ§Ã£o livre
+- Imunidade a aprisionamento, drenagem de nível, atordoamento, medo, encantamento, confusão, sono, doenças, ataques de veneno e ataques de projétil
+- Ação livre
 - Chance de perder o controle: um cumulativo de 5% por duas rodadas ~
 @12 = ~Forma do Devastador
 
-VocÃª agora tem a capacidade de assumir a forma do Matador ou do Devastador, uma terrÃ­vel manifestaÃ§Ã£o de Bhaal. Usar esta habilidade reduz sua reputaÃ§Ã£o em dois pontos para o Matador, ou trÃªs pontos para o Devastador.
+Você agora tem a capacidade de assumir a forma do Matador ou do Devastador, uma terrível manifestação de Bhaal. Usar esta habilidade reduz sua reputação em dois pontos para o Matador, ou três pontos para o Devastador.
 
-Como o Matador, vocÃª ganha os seguintes benefÃ­cios:
+Como o Matador, você ganha os seguintes benefícios:
 
-- ForÃ§a e Destreza definidas em 25
+- Força e Destreza definidas em 25
 - Classe de armadura definida em -9
-- ResistÃªncia mÃ¡gica definida em 60%
-- ResistÃªncia a dano fÃ­sico definida em 30%
-- ResistÃªncia ao dano elementar definida em 50%
+- Resistência mágica definida em 60%
+- Resistência a dano físico definida em 30%
+- Resistência ao dano elementar definida em 50%
 - Salvaguardas definidas para 2
 - Ataques por rodada definidos para 4 (2d8 esmagamento, 4 frio)
-- Ataques tÃªm 10% de chance de conjurar Dissipar Magia e de diminuir a ResistÃªncia MÃ¡gica.
+- Ataques têm 10% de chance de conjurar Dissipar Magia e de diminuir a Resistência Mágica.
 - PACA0 definido para -8
 - PLUS_SIGN_PLACEHOLDER 200 pontos de vida adicionais
 - Regenera 3 Pontos de Vida por segundo
-- Imunidade a aprisionamento, drenagem de nÃ­vel, atordoamento, medo, encantamento, confusÃ£o, sono, doenÃ§as, ataques de veneno e ataques de projÃ©til
-- AÃ§Ã£o livre
+- Imunidade a aprisionamento, drenagem de nível, atordoamento, medo, encantamento, confusão, sono, doenças, ataques de veneno e ataques de projétil
+- Ação livre
 - Chance de perder o controle: um cumulativo de 5% por duas rodadas 
 
-Como o Devastador, vocÃª ganha os seguintes benefÃ­cios adicionais:
+Como o Devastador, você ganha os seguintes benefícios adicionais:
 
-- ResistÃªncia mÃ¡gica definida em 75%
-- ResistÃªncia a dano fÃ­sico definida em 50%
-- ResistÃªncia ao dano elementar definida em 50%
-- ResistÃªncia ao dano mÃ¡gico definida em 50%
+- Resistência mágica definida em 75%
+- Resistência a dano físico definida em 50%
+- Resistência ao dano elementar definida em 50%
+- Resistência ao dano mágico definida em 50%
 - Ataques por rodada definidos para 5 (3d8 esmagamento, 8 frio)
 - A chance de Dissipar Magia por acerto aumenta para 20%
 - PACA0 definido para -12
@@ -114,189 +114,189 @@ Como o Devastador, vocÃª ganha os seguintes benefÃ­cios adicionais:
 - A chance de perder o controle aumenta para 40%, mais uma chance cumulativa de 10% por rodada~
 @13 = ~Forma do Matador
 
-Quando Imoen usa essa habilidade, ela assume a forma da essÃªncia brutal de Bhaal: uma criatura violenta e poderosa feita de dentes e garras.
+Quando Imoen usa essa habilidade, ela assume a forma da essência brutal de Bhaal: uma criatura violenta e poderosa feita de dentes e garras.
 
-A Forma do Matador concede os seguintes benefÃ­cios:
+A Forma do Matador concede os seguintes benefícios:
 
-- ForÃ§a e Destreza definidas em 25
+- Força e Destreza definidas em 25
 - Classe de armadura definida em -9
-- ResistÃªncia mÃ¡gica definida em 40%
+- Resistência mágica definida em 40%
 - Salvaguardas definidas para 2
 - Ataques por rodada definidos para 4 (1d8 esmagamento, 2 frio)
 - PACA0 definido para 0
 - PLUS_SIGN_PLACEHOLDER 100 pontos de vida adicionais
-- Imunidade a aprisionamento, drenagem de nÃ­vel, atordoamento, medo, encantamento, confusÃ£o, sono e ataques de projÃ©til
+- Imunidade a aprisionamento, drenagem de nível, atordoamento, medo, encantamento, confusão, sono e ataques de projétil
 
-Talvez porque Imoen tenha menos essÃªncia de Bhaal do que <CHARNAME>, ou talvez por causa do que ela aprendeu depois que Melissan invocou sua essÃªncia, ela Ã© mais capaz de conter o poder do Matador, e nÃ£o tem chance de perder o controle enquanto estÃ¡ nessa forma.~
-@14 = ~Poderes da DescendÃªncia de Bhaal concedidos ~
-@15 = ~Imoen agora pode se transformar no Matador Ã  vontade, e pode entrar no Plano EtÃ©reo uma vez por minuto ~
-@16 = ~Controle de DemÃ´nio
+Talvez porque Imoen tenha menos essência de Bhaal do que <CHARNAME>, ou talvez por causa do que ela aprendeu depois que Melissan invocou sua essência, ela é mais capaz de conter o poder do Matador, e não tem chance de perder o controle enquanto está nessa forma.~
+@14 = ~Poderes da Descendência de Bhaal concedidos ~
+@15 = ~Imoen agora pode se transformar no Matador à vontade, e pode entrar no Plano Etéreo uma vez por minuto ~
+@16 = ~Controle de Demônio
 
-Alcance: Alcance visual do lanÃ§ador
-DuraÃ§Ã£o: especial
-Tempo de LanÃ§amento: 1
-Ãrea de efeito: 1 demÃ´nio
+Alcance: Alcance visual do lançador
+Duração: especial
+Tempo de Lançamento: 1
+Área de efeito: 1 demônio
 Salvaguarda: Nenhuma
 
-Essa habilidade permite que o Filho de Bhaal tente arrancar o controle de um demÃ´nio de Melissan e tornÃ¡-lo um aliado. O Filho de Bhaal envolve o demÃ´nio em combate mental por DURATION_PLACEHOLDER segundos, ao final do qual o demÃ´nio tem SUCCESS_CHANCE_PLACEHOLDER% de chance de se tornar um aliado. (NÃ£o hÃ¡ mais salvaguarda, nem a resistÃªncia mÃ¡gica Ã© verificada.) O demÃ´nio nÃ£o estÃ¡ sob o controle direto do Filho de Bhaal, no entanto. Essa habilidade pode ser usada uma vez a cada trÃªs rodadas. ~
+Essa habilidade permite que o Filho de Bhaal tente arrancar o controle de um demônio de Melissan e torná-lo um aliado. O Filho de Bhaal envolve o demônio em combate mental por DURATION_PLACEHOLDER segundos, ao final do qual o demônio tem SUCCESS_CHANCE_PLACEHOLDER% de chance de se tornar um aliado. (Não há mais salvaguarda, nem a resistência mágica é verificada.) O demônio não está sob o controle direto do Filho de Bhaal, no entanto. Essa habilidade pode ser usada uma vez a cada três rodadas. ~
 @17 = ~Libertar
 
 Alcance: 1 metro e meio
-Tempo de LanÃ§amento: 1
-DuraÃ§Ã£o: InstantÃ¢neo
-Ãrea de efeito: 1 criatura
+Tempo de Lançamento: 1
+Duração: Instantâneo
+Área de efeito: 1 criatura
 Salvaguarda: 1/2 especial
 
-A habilidade "Libertar" libera seu poder interior sobre um alvo que esteja dentro do alcance do corpo a corpo, causando DICENUMBER_PLACEHOLDERd12 de Dano MÃ¡gico (salvaguarda contra morte -4 para anular a metade) e jogando-o para trÃ¡s e talvez inconsciente por um curto perÃ­odo. Esta habilidade sÃ³ pode ser usada uma vez a cada trinta segundos ... e depois de usÃ¡-la, o Filho de Bhaal ficarÃ¡ incrivelmente fatigado, e terÃ¡ 25% de chance de falha em todos os feitiÃ§os, por 2 rodadas. Devido Ã  quantidade de essÃªncia divina usada, a Forma do Matador tambÃ©m nÃ£o estarÃ¡ disponÃ­vel por trinta segundos.~
+A habilidade "Libertar" libera seu poder interior sobre um alvo que esteja dentro do alcance do corpo a corpo, causando DICENUMBER_PLACEHOLDERd12 de Dano Mágico (salvaguarda contra morte -4 para anular a metade) e jogando-o para trás e talvez inconsciente por um curto período. Esta habilidade só pode ser usada uma vez a cada trinta segundos ... e depois de usá-la, o Filho de Bhaal ficará incrivelmente fatigado, e terá 25% de chance de falha em todos os feitiços, por 2 rodadas. Devido à quantidade de essência divina usada, a Forma do Matador também não estará disponível por trinta segundos.~
 @18 = ~Foco
 
 Alcance: 0
-Tempo de LanÃ§amento: 1
-DuraÃ§Ã£o: 5 rodadas
-Ãrea de efeito: LanÃ§ador
+Tempo de Lançamento: 1
+Duração: 5 rodadas
+Área de efeito: Lançador
 Salvaguarda: Nenhuma
 
-Esta habilidade permite que o Filho de Bhaal concentre a energia dentro dele para resistir aos efeitos de magia de fora. Por uma duraÃ§Ã£o de 30 segundos, o Filho de Bhaal torna-se imune aos feitiÃ§os Carne para Pedra, DesintegraÃ§Ã£o e Parar o Tempo. Todas as magias menores do 1Âº ao 3Âº nÃ­vel tambÃ©m nÃ£o afetarÃ£o o Filho de Bhaal. Esta habilidade Ã© utilizÃ¡vel uma vez por minuto.~
+Esta habilidade permite que o Filho de Bhaal concentre a energia dentro dele para resistir aos efeitos de magia de fora. Por uma duração de 30 segundos, o Filho de Bhaal torna-se imune aos feitiços Carne para Pedra, Desintegração e Parar o Tempo. Todas as magias menores do 1º ao 3º nível também não afetarão o Filho de Bhaal. Esta habilidade é utilizável uma vez por minuto.~
 @19 = ~Porta Dimensional
 
 Alcance: Infinito
-Tempo de LanÃ§amento: 0
-DuraÃ§Ã£o: InstantÃ¢nea
-Ãrea de efeito: LanÃ§ador
+Tempo de Lançamento: 0
+Duração: Instantânea
+Área de efeito: Lançador
 Salvaguarda: Nenhuma
 
-O Filho de Bhaal pode agora se mover livremente atravÃ©s do espaÃ§o e dos planos. Esse poder de teletransporte Ã© utilizÃ¡vel uma vez por rodada.~
-@20 = ~MudanÃ§a de forma: Morcego
+O Filho de Bhaal pode agora se mover livremente através do espaço e dos planos. Esse poder de teletransporte é utilizável uma vez por rodada.~
+@20 = ~Mudança de forma: Morcego
 
 Essa habilidade permite que Bodhi se transforme em morcego.~
 @21 = ~Presente Divino
-(InvocaÃ§Ã£o)
+(Invocação)
 
 Alcance: 0
-DuraÃ§Ã£o: 1 turno
-Tempo de LanÃ§amento: 1
-Ãrea de efeito: LanÃ§ador
+Duração: 1 turno
+Tempo de Lançamento: 1
+Área de efeito: Lançador
 Salvaguarda: Nenhuma
 
-O Filho de Bhaal invoca a forÃ§a do seu sangue para aumentar seu poder por um curto perÃ­odo. Quando ele faz isto, sua ForÃ§a, ConstituiÃ§Ã£o e Destreza, sÃ£o aumentados para 25. ~
-@22 = ~Inverter ResistÃªncias
+O Filho de Bhaal invoca a força do seu sangue para aumentar seu poder por um curto período. Quando ele faz isto, sua Força, Constituição e Destreza, são aumentados para 25. ~
+@22 = ~Inverter Resistências
 
 Alcance: 0
-DuraÃ§Ã£o: Permanente
-Tempo de LanÃ§amento: 1
-Ãrea de Efeito: Balthazar
+Duração: Permanente
+Tempo de Lançamento: 1
+Área de Efeito: Balthazar
 Salvaguarda: Nenhuma
 
-Com essa habilidade, Balthazar inverte suas resistÃªncias inatas. Sua resistÃªncia normal de 10% ao dano fÃ­sico aumenta para 90%; sua resistÃªncia normal de 90% Ã  magia, dano mÃ¡gico e dano elemental cai para 10%.
+Com essa habilidade, Balthazar inverte suas resistências inatas. Sua resistência normal de 10% ao dano físico aumenta para 90%; sua resistência normal de 90% à magia, dano mágico e dano elemental cai para 10%.
 
-Balthazar pode inverter suas resistÃªncias Ã  vontade.~
-@23 = ~Inverter ResistÃªncias
+Balthazar pode inverter suas resistências à vontade.~
+@23 = ~Inverter Resistências
 
 Alcance: 0
-DuraÃ§Ã£o: Permanente
-Tempo de LanÃ§amento: 1
-Ãrea de Efeito: Balthazar
+Duração: Permanente
+Tempo de Lançamento: 1
+Área de Efeito: Balthazar
 Salvaguarda: Nenhuma
 
-Com essa habilidade, Balthazar inverte suas resistÃªncias inatas. Sua resistÃªncia normal de 10% ao dano fÃ­sico Ã© restaurada; assim como sua resistÃªncia normal de 90% Ã  magia, dano mÃ¡gico e dano elementar.
+Com essa habilidade, Balthazar inverte suas resistências inatas. Sua resistência normal de 10% ao dano físico é restaurada; assim como sua resistência normal de 90% à magia, dano mágico e dano elementar.
 
-Balthazar pode inverter suas resistÃªncias Ã  vontade.~
+Balthazar pode inverter suas resistências à vontade.~
 @24 = ~Postura Solar
 
 Alcance: 0
-DuraÃ§Ã£o: 3 horas
-Tempo de LanÃ§amento: 1
-Ãrea de Efeito: Balthazar, mais quaisquer criaturas no alcance de 10 metros
+Duração: 3 horas
+Tempo de Lançamento: 1
+Área de Efeito: Balthazar, mais quaisquer criaturas no alcance de 10 metros
 Salvaguarda: Nenhuma
 
-Ao entrar na Postura Solar, Balthazar invoca o poder do sol para melhorar suas habilidades mÃ­sticas. Ele ganha 127% de resistÃªncia ao fogo (mesmo quando usa Inverter ResistÃªncias) e todos os seus ataques causam mais 1d10 de dano por fogo; esse dano realmente cura Balthazar. Ao entrar na Postura Solar, Balthazar libera uma rajada de chamas que causa 12d6 de dano de fogo (salvaguarda contra feitiÃ§o para anular a metade) e 1d8 de dano contundente a todos no alcance de 10 metros, e afastando quaisquer criaturas prÃ³ximas dele.
+Ao entrar na Postura Solar, Balthazar invoca o poder do sol para melhorar suas habilidades místicas. Ele ganha 127% de resistência ao fogo (mesmo quando usa Inverter Resistências) e todos os seus ataques causam mais 1d10 de dano por fogo; esse dano realmente cura Balthazar. Ao entrar na Postura Solar, Balthazar libera uma rajada de chamas que causa 12d6 de dano de fogo (salvaguarda contra feitiço para anular a metade) e 1d8 de dano contundente a todos no alcance de 10 metros, e afastando quaisquer criaturas próximas dele.
 
-Balthazar pode ter apenas uma postura ativa de cada vez: entrar na Postura Solar cancela todas as outras posiÃ§Ãµes. A Postura Solar pode ser removida por magias como Fender.~
+Balthazar pode ter apenas uma postura ativa de cada vez: entrar na Postura Solar cancela todas as outras posições. A Postura Solar pode ser removida por magias como Fender.~
 @25 = ~Postura Lunar
 
 Alcance: 0
-DuraÃ§Ã£o: 3 horas
-Tempo de LanÃ§amento: 1
-Ãrea de Efeito: Balthazar
+Duração: 3 horas
+Tempo de Lançamento: 1
+Área de Efeito: Balthazar
 Salvaguarda: Nenhuma
 
-Ao entrar na Postura Lunar, Balthazar invoca o poder da lua para melhorar suas habilidades mÃ­sticas. Enquanto estiver na Postura Lunar, Balthazar Ã© imune a drenagem de nÃ­vel, Aprisionamento e Parar o Tempo, e recebe um uso da habilidade MaldiÃ§Ã£o Lunar. Ao entrar na Postura Lunar, todos os inimigos adjacentes ao Balthazar ficam cegos por quatro rodadas (salvamento contra feitiÃ§o para anular).
+Ao entrar na Postura Lunar, Balthazar invoca o poder da lua para melhorar suas habilidades místicas. Enquanto estiver na Postura Lunar, Balthazar é imune a drenagem de nível, Aprisionamento e Parar o Tempo, e recebe um uso da habilidade Maldição Lunar. Ao entrar na Postura Lunar, todos os inimigos adjacentes ao Balthazar ficam cegos por quatro rodadas (salvamento contra feitiço para anular).
 
-Balthazar pode ter apenas uma postura ativa de cada vez: entrar na Postura Lunar cancela todas as outras posiÃ§Ãµes. A Postura Lunar pode ser removida por magias como Fender.~
+Balthazar pode ter apenas uma postura ativa de cada vez: entrar na Postura Lunar cancela todas as outras posições. A Postura Lunar pode ser removida por magias como Fender.~
 @26 = ~Postura da Sombra
 
 Alcance: 0
-DuraÃ§Ã£o: 3 horas
-Tempo de LanÃ§amento: 1
-Ãrea de Efeito: Balthazar
+Duração: 3 horas
+Tempo de Lançamento: 1
+Área de Efeito: Balthazar
 Salvaguarda: Nenhuma
 
-Ao entrar na Postura da Sombra, Balthazar invoca o poder do Plano das Sombras para melhorar suas habilidades mÃ­sticas. Enquanto estiver na Postura da Sombra, Balthazar fica protegido por Invisibilidade Melhorada (e Ã© completamente invisÃ­vel pelos primeiros 15 segundos, ou atÃ© que ele ataque). AlÃ©m das vantagens defensivas jÃ¡ significativas da Invisibilidade Melhorada, o manto de sombras concede a Balthazar um bÃ´nus adicional de +6 na Classe de Armadura.
+Ao entrar na Postura da Sombra, Balthazar invoca o poder do Plano das Sombras para melhorar suas habilidades místicas. Enquanto estiver na Postura da Sombra, Balthazar fica protegido por Invisibilidade Melhorada (e é completamente invisível pelos primeiros 15 segundos, ou até que ele ataque). Além das vantagens defensivas já significativas da Invisibilidade Melhorada, o manto de sombras concede a Balthazar um bônus adicional de +6 na Classe de Armadura.
 
-Balthazar pode ter apenas uma postura ativa de cada vez: entrar na Postura da Sombra cancela todas as outras posiÃ§Ãµes. A Postura da Sombra pode ser removida por efeitos como OrÃ¡culo ou VisÃ£o Verdadeira.~
-@27 = ~Mais rÃ¡pido que o Olho
+Balthazar pode ter apenas uma postura ativa de cada vez: entrar na Postura da Sombra cancela todas as outras posições. A Postura da Sombra pode ser removida por efeitos como Oráculo ou Visão Verdadeira.~
+@27 = ~Mais rápido que o Olho
 
-Alcance: VisÃ£o
-DuraÃ§Ã£o: InstantÃ¢nea
-Tempo de LanÃ§amento: 0
-Ãrea de Efeito: Balthazar
+Alcance: Visão
+Duração: Instantânea
+Tempo de Lançamento: 0
+Área de Efeito: Balthazar
 Salvaguarda: Nenhuma
 
-Em um piscar de olhos, Balthazar se transporta para qualquer lugar Ã  vista.
+Em um piscar de olhos, Balthazar se transporta para qualquer lugar à vista.
 
 Este poder pode ser usado uma vez por duas rodadas.~
-@28 = ~Punho do DragÃ£o
+@28 = ~Punho do Dragão
 
 Alcance: Toque
-DuraÃ§Ã£o: Especial
-Tempo de LanÃ§amento: 0
-Ãrea de Efeito: Acerto de criatura
+Duração: Especial
+Tempo de Lançamento: 0
+Área de Efeito: Acerto de criatura
 Salvaguarda: Nenhuma
 
-Ao canalizar a energia ki em um golpe, Balthazar rasga as defesas mÃ¡gicas de seu oponente. O Punho do DragÃ£o tem 25% de chance de destruir todas as proteÃ§Ãµes de combate e aumenta abaixo do 9Âº nÃ­vel, 25% de chance de destruir todos os efeitos antimÃ¡gicos abaixo do 9Âº nÃ­vel, e 50% de chance de destruir ambos. TambÃ©m diminui o seu alvo (causando -4 de penalidade na CA e nas jogadas de ataque) por duas rodadas.
+Ao canalizar a energia ki em um golpe, Balthazar rasga as defesas mágicas de seu oponente. O Punho do Dragão tem 25% de chance de destruir todas as proteções de combate e aumenta abaixo do 9º nível, 25% de chance de destruir todos os efeitos antimágicos abaixo do 9º nível, e 50% de chance de destruir ambos. Também diminui o seu alvo (causando -4 de penalidade na CA e nas jogadas de ataque) por duas rodadas.
 
-Este poder pode ser usado uma vez por trÃªs rodadas.~
+Este poder pode ser usado uma vez por três rodadas.~
 @29 = ~Garras de Tigre
 
 Alcance: 0
-DuraÃ§Ã£o: 2 rodadas
-Tempo de LanÃ§amento: 1
-Ãrea de Efeito: Balthazar
+Duração: 2 rodadas
+Tempo de Lançamento: 1
+Área de Efeito: Balthazar
 Salvaguarda: Nenhuma
 
-Enquanto Garras de Tigre estiver ativo, Balthazar tem 50% de chance de causar um acerto crÃ­tico; AlÃ©m disso, qualquer golpe envia sua vÃ­tima para trÃ¡s, atordoando-a por 1 rodada.
+Enquanto Garras de Tigre estiver ativo, Balthazar tem 50% de chance de causar um acerto crítico; Além disso, qualquer golpe envia sua vítima para trás, atordoando-a por 1 rodada.
 
 Este poder pode ser usado uma vez por quatro rodadas.~
-@30 = ~MÃ£o do Assassino
+@30 = ~Mão do Assassino
 
 Alcance: 0
-DuraÃ§Ã£o: 1 rodada
-Tempo de LanÃ§amento: 1
-Ãrea de Efeito: Balthazar
+Duração: 1 rodada
+Tempo de Lançamento: 1
+Área de Efeito: Balthazar
 Salvaguarda: Especial
 
-AtravÃ©s da combinaÃ§Ã£o de seu ki com sua essÃªncia de Filho de Bhaal, todos os ataques de Balthazar por uma rodada sÃ£o ataques crÃ­ticos automÃ¡ticos. Nos primeiros trÃªs segundos depois que ele ativar o poder, qualquer um que ele acertar cairÃ¡ morto (salvaguarda contra feitiÃ§os para anular).
+Através da combinação de seu ki com sua essência de Filho de Bhaal, todos os ataques de Balthazar por uma rodada são ataques críticos automáticos. Nos primeiros três segundos depois que ele ativar o poder, qualquer um que ele acertar cairá morto (salvaguarda contra feitiços para anular).
 
-Este poder pode ser usado uma vez por trÃªs rodadas.~
+Este poder pode ser usado uma vez por três rodadas.~
 @31 = ~Chute sem Sombras
 
 Alcance: Toque
-DuraÃ§Ã£o: 4 segundos
-Tempo de LanÃ§amento: 0
-Ãrea de efeito: Criatura chutada
+Duração: 4 segundos
+Tempo de Lançamento: 0
+Área de efeito: Criatura chutada
 Salvaguarda: Nenhuma
 
 Com um poderoso chute, Balthazar derruba seu oponente, mandando-o longe; eles recebem 4d8 de dano do impacto e ficam inconscientes por alguns segundos.
 
 Este poder pode ser usado uma vez por duas rodadas.~
-@32 = ~MaldiÃ§Ã£o Lunar
+@32 = ~Maldição Lunar
 
 Alcance: 10 metros
-DuraÃ§Ã£o: Especial
-Tempo de LanÃ§amento: 1
-Ãrea de efeito: 1 criatura
+Duração: Especial
+Tempo de Lançamento: 1
+Área de efeito: 1 criatura
 Salvaguarda: Especial
 
-A criatura afetada pela MaldiÃ§Ã£o Lunar sofre -4 de penalidade em todos os testes de salvaguarda por um perÃ­odo de 40 rodadas. AlÃ©m disso, eles devem fazer uma dalvaguarda contra feitiÃ§os com uma penalidade de -2 ou serÃ£o retardados (recebendo -4 de penalidade nas jogadas de CA e ataque) por 2 rodadas.
+A criatura afetada pela Maldição Lunar sofre -4 de penalidade em todos os testes de salvaguarda por um período de 40 rodadas. Além disso, eles devem fazer uma dalvaguarda contra feitiços com uma penalidade de -2 ou serão retardados (recebendo -4 de penalidade nas jogadas de CA e ataque) por 2 rodadas.
 
 Balthazar pode usar essa habilidade sempre que ele entra na Postura Lunar.~

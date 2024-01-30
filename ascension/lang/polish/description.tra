@@ -1,303 +1,303 @@
 @1 = ~Eteryczna
 
-Imoen moÅ¼e teraz wchodziÄ‡ w SferÄ™ EterycznÄ… na krÃ³tkie chwile. Z tej zdolnoÅ›ci moÅ¼na korzystaÄ‡ raz na minutÄ™, a jej uÅ¼ycie uniemoÅ¼liwia Imoen przemianÄ™ w ZabÃ³jcÄ™, rÃ³wnieÅ¼ na minutÄ™. Imoen moÅ¼e pozostaÄ‡ caÅ‚kowicie eteryczna i nietykalna dla siÅ‚ z tej sfery przez peÅ‚nÄ… rundÄ™. W tym czasie jest takÅ¼e niewidzialna i caÅ‚kowicie niewraÅ¼liwa na ataki. Podczas tej rundy nie moÅ¼e ona rÃ³wnieÅ¼ rzucaÄ‡ czarÃ³w i uÅ¼ywaÄ‡ innych zdolnoÅ›ci.
+Imoen mo¿e teraz wchodziæ w Sferê Eteryczn¹ na krótkie chwile. Z tej zdolnoœci mo¿na korzystaæ raz na minutê, a jej u¿ycie uniemo¿liwia Imoen przemianê w Zabójcê, równie¿ na minutê. Imoen mo¿e pozostaæ ca³kowicie eteryczna i nietykalna dla si³ z tej sfery przez pe³n¹ rundê. W tym czasie jest tak¿e niewidzialna i ca³kowicie niewra¿liwa na ataki. Podczas tej rundy nie mo¿e ona równie¿ rzucaæ czarów i u¿ywaæ innych zdolnoœci.
 
-Przez kolejne dwie rundy Imoen pozostaje â€pÃ³Å‚-eterycznaâ€, czÄ™Å›ciowo znajdujÄ…c siÄ™ w jednej i drugiej sferze. WciÄ…Å¼ jest ona niewidzialna, ale moÅ¼e odnieÅ›Ä‡ poÅ‚owÄ™ obraÅ¼eÅ„ ze wszystkich ÅºrÃ³deÅ‚. W tym stanie istnieje teÅ¼ niewielka szansa (10%) na nieudane rzucenie czaru. Przez wszystkie trzy rundy Imoen jest w stanie wykryÄ‡ kaÅ¼dÄ… niewidzialnÄ… istotÄ™.~
-@6 = ~ZakoÅ„czenie przemiany w ZabÃ³jcÄ™
+Przez kolejne dwie rundy Imoen pozostaje „pó³-eteryczna”, czêœciowo znajduj¹c siê w jednej i drugiej sferze. Wci¹¿ jest ona niewidzialna, ale mo¿e odnieœæ po³owê obra¿eñ ze wszystkich Ÿróde³. W tym stanie istnieje te¿ niewielka szansa (10%) na nieudane rzucenie czaru. Przez wszystkie trzy rundy Imoen jest w stanie wykryæ ka¿d¹ niewidzialn¹ istotê.~
+@6 = ~Zakoñczenie przemiany w Zabójcê
 
-Ta zdolnoÅ›Ä‡ pozwala Imoen przerwaÄ‡ przemianÄ™ i powrÃ³ciÄ‡ do zwykÅ‚ej postaci.~
+Ta zdolnoœæ pozwala Imoen przerwaæ przemianê i powróciæ do zwyk³ej postaci.~
 @7 = ~Regeneracja
 
 Poziom: 7
-ZasiÄ™g: dotyk
-Czas dziaÅ‚ania: 1 runda/2 poziomy
+Zasiêg: dotyk
+Czas dzia³ania: 1 runda/2 poziomy
 Czas rzucania: 7
-Obszar dziaÅ‚ania: 1 istota
+Obszar dzia³ania: 1 istota
 Rzut obronny: brak
 
-Ten potÄ™Å¼ny czar umoÅ¼liwia osobie go rzucajÄ…cej nadanie wybranej istocie zdolnoÅ›ci regeneracyjnych, dziÄ™ki czemu moÅ¼e ona uleczyÄ‡ rany, a nawet zregenerowaÄ‡ utracone koÅ„czyny. Istota bÄ™dÄ…ca pod wpÅ‚ywem czaru odzyskuje 3 punkty Å¼ycia na sekundÄ™. Efekt ten utrzymuje siÄ™ przez jednÄ… rundÄ™ na kaÅ¼de dwa poziomy czarujÄ…cego lub do momentu jego rozproszenia. Dla przykÅ‚adu, kapÅ‚an 14. poziomu odzyskiwaÅ‚by 18 punktÃ³w Å¼ycia na rundÄ™ przez siedem rund.~
+Ten potê¿ny czar umo¿liwia osobie go rzucaj¹cej nadanie wybranej istocie zdolnoœci regeneracyjnych, dziêki czemu mo¿e ona uleczyæ rany, a nawet zregenerowaæ utracone koñczyny. Istota bêd¹ca pod wp³ywem czaru odzyskuje 3 punkty ¿ycia na sekundê. Efekt ten utrzymuje siê przez jedn¹ rundê na ka¿de dwa poziomy czaruj¹cego lub do momentu jego rozproszenia. Dla przyk³adu, kap³an 14. poziomu odzyskiwa³by 18 punktów ¿ycia na rundê przez siedem rund.~
 @8 = ~Zmartwychwstanie
 
-ZasiÄ™g: dotyk
-Czas dziaÅ‚ania: staÅ‚y
+Zasiêg: dotyk
+Czas dzia³ania: sta³y
 Czas rzucania: 1
-Obszar dziaÅ‚ania: dotkniÄ™ta istota
+Obszar dzia³ania: dotkniêta istota
 Rzut obronny: brak
 
-Podobnie jak czar 5. poziomu o nazwie Wskrzeszenie, zaklÄ™cie to moÅ¼e przywrÃ³ciÄ‡ danÄ… istotÄ™ do Å¼ycia, przy czym odzyskuje ona dodatkowo peÅ‚niÄ™ punktÃ³w Å¼ycia i gotowa jest natychmiast na dalsze przygody.~
-@9 = ~Przemiana w ZabÃ³jcÄ™
+Podobnie jak czar 5. poziomu o nazwie Wskrzeszenie, zaklêcie to mo¿e przywróciæ dan¹ istotê do ¿ycia, przy czym odzyskuje ona dodatkowo pe³niê punktów ¿ycia i gotowa jest natychmiast na dalsze przygody.~
+@9 = ~Przemiana w Zabójcê
 
-Po uÅ¼yciu tej zdolnoÅ›ci przyjmujesz postaÄ‡ potÄ™Å¼nej istoty posiadajÄ…cej niezliczonÄ… liczbÄ™ kÅ‚Ã³w i pazurÃ³w, stanowiÄ…cÄ… brutalnÄ… esencjÄ™ samego Bhaala. Przemiana obniÅ¼a twojÄ… reputacjÄ™ o jeden punkt, albowiem nawet ci, ktÃ³rzy nie byli Å›wiadkami tego zdarzenia, potrafiÄ… wyczuÄ‡ charakterystycznÄ… woÅ„ zepsucia, gdy poddajesz siÄ™ pierwotnym instynktom.
+Po u¿yciu tej zdolnoœci przyjmujesz postaæ potê¿nej istoty posiadaj¹cej niezliczon¹ liczbê k³ów i pazurów, stanowi¹c¹ brutaln¹ esencjê samego Bhaala. Przemiana obni¿a twoj¹ reputacjê o jeden punkt, albowiem nawet ci, którzy nie byli œwiadkami tego zdarzenia, potrafi¹ wyczuæ charakterystyczn¹ woñ zepsucia, gdy poddajesz siê pierwotnym instynktom.
 
-Przemiana w ZabÃ³jcÄ™ zapewnia nastÄ™pujÄ…ce korzyÅ›ci:
+Przemiana w Zabójcê zapewnia nastêpuj¹ce korzyœci:
 
-- SiÅ‚a i ZrÄ™cznoÅ›Ä‡ wzrastajÄ… do 25
-- Rzeczywista wartoÅ›Ä‡ KP wynosi -9
-- OdpornoÅ›Ä‡ na magiÄ™ wynosi 40%
-- Rzuty obronne wynoszÄ… 2
-- Liczba atakÃ³w na rundÄ™ wynosi 4 (1k8 obraÅ¼eÅ„ obuchowych, 2 obraÅ¼enia od zimna)
+- Si³a i Zrêcznoœæ wzrastaj¹ do 25
+- Rzeczywista wartoœæ KP wynosi -9
+- Odpornoœæ na magiê wynosi 40%
+- Rzuty obronne wynosz¹ 2
+- Liczba ataków na rundê wynosi 4 (1k8 obra¿eñ obuchowych, 2 obra¿enia od zimna)
 - TraK0 wynosi 0
-- PLUS_SIGN_PLACEHOLDER 100 punktÃ³w Å¼ycia
-- NiewraÅ¼liwoÅ›Ä‡ na uwiÄ™zienie, wyssanie poziomÃ³w, ogÅ‚uszenie, strach, zauroczenie, zamÄ™t, uÅ›pienie oraz pociski
+- PLUS_SIGN_PLACEHOLDER 100 punktów ¿ycia
+- Niewra¿liwoœæ na uwiêzienie, wyssanie poziomów, og³uszenie, strach, zauroczenie, zamêt, uœpienie oraz pociski
 
-ZabÃ³jcÄ™ moÅ¼e byÄ‡ trudno do kontrolowaÄ‡: po pierwszej rundzie masz Å‚Ä…cznie 10% szans na rundÄ™ na utratÄ™ panowania nad sobÄ… na jednÄ… rundÄ™.~
-@10 = ~Przemiana w ZabÃ³jcÄ™
+Zabójcê mo¿e byæ trudno do kontrolowaæ: po pierwszej rundzie masz ³¹cznie 10% szans na rundê na utratê panowania nad sob¹ na jedn¹ rundê.~
+@10 = ~Przemiana w Zabójcê
 
-Po uÅ¼yciu tej zdolnoÅ›ci przyjmujesz postaÄ‡ potÄ™Å¼nej istoty posiadajÄ…cej niezliczonÄ… liczbÄ™ kÅ‚Ã³w i pazurÃ³w, stanowiÄ…cÄ… brutalnÄ… esencjÄ™ samego Bhaala. Przemiana obniÅ¼a twojÄ… reputacjÄ™ o jeden punkt, albowiem nawet ci, ktÃ³rzy nie byli Å›wiadkami tego zdarzenia, potrafiÄ… wyczuÄ‡ charakterystycznÄ… woÅ„ zepsucia, gdy poddajesz siÄ™ pierwotnym instynktom.
+Po u¿yciu tej zdolnoœci przyjmujesz postaæ potê¿nej istoty posiadaj¹cej niezliczon¹ liczbê k³ów i pazurów, stanowi¹c¹ brutaln¹ esencjê samego Bhaala. Przemiana obni¿a twoj¹ reputacjê o jeden punkt, albowiem nawet ci, którzy nie byli œwiadkami tego zdarzenia, potrafi¹ wyczuæ charakterystyczn¹ woñ zepsucia, gdy poddajesz siê pierwotnym instynktom.
 
-PostaÄ‡ ZabÃ³jcy staje siÄ™ silniejsza wraz ze wzrostem twojej mocy i teraz zapewnia nastÄ™pujÄ…ce korzyÅ›ci:
+Postaæ Zabójcy staje siê silniejsza wraz ze wzrostem twojej mocy i teraz zapewnia nastêpuj¹ce korzyœci:
 
-- SiÅ‚a i ZrÄ™cznoÅ›Ä‡ wzrastajÄ… do 25
-- Rzeczywista wartoÅ›Ä‡ KP wynosi -9
-- OdpornoÅ›Ä‡ na magiÄ™ wynosi 50%
-- OdpornoÅ›Ä‡ na obraÅ¼enia fizyczne wynosi 15%
-- OdpornoÅ›Ä‡ na obraÅ¼enia od Å¼ywioÅ‚Ã³w wynosi 30% 
-- Rzuty obronne wynoszÄ… 2
-- Liczba atakÃ³w na rundÄ™ wynosi 4 (2k6 obraÅ¼eÅ„ obuchowych, 4 obraÅ¼enia od zimna)
+- Si³a i Zrêcznoœæ wzrastaj¹ do 25
+- Rzeczywista wartoœæ KP wynosi -9
+- Odpornoœæ na magiê wynosi 50%
+- Odpornoœæ na obra¿enia fizyczne wynosi 15%
+- Odpornoœæ na obra¿enia od ¿ywio³ów wynosi 30% 
+- Rzuty obronne wynosz¹ 2
+- Liczba ataków na rundê wynosi 4 (2k6 obra¿eñ obuchowych, 4 obra¿enia od zimna)
 - TraK0 wynosi -4
-- PLUS_SIGN_PLACEHOLDER 150 punktÃ³w Å¼ycia
-- Regeneracja 2 punktÃ³w Å¼ycia na sekundÄ™
-- NiewraÅ¼liwoÅ›Ä‡ na uwiÄ™zienie, wyssanie poziomÃ³w, ogÅ‚uszenie, strach, zauroczenie, zamÄ™t, uÅ›pienie oraz pociski
-- Szansa na utratÄ™ kontroli: 10%, plus Å‚Ä…cznie 5% na kaÅ¼dÄ… rundÄ™
+- PLUS_SIGN_PLACEHOLDER 150 punktów ¿ycia
+- Regeneracja 2 punktów ¿ycia na sekundê
+- Niewra¿liwoœæ na uwiêzienie, wyssanie poziomów, og³uszenie, strach, zauroczenie, zamêt, uœpienie oraz pociski
+- Szansa na utratê kontroli: 10%, plus ³¹cznie 5% na ka¿d¹ rundê
 ~
-@11 = ~Przemiana w ZabÃ³jcÄ™
+@11 = ~Przemiana w Zabójcê
 
-Po uÅ¼yciu tej zdolnoÅ›ci przyjmujesz postaÄ‡ potÄ™Å¼nej istoty posiadajÄ…cej niezliczonÄ… liczbÄ™ kÅ‚Ã³w i pazurÃ³w, stanowiÄ…cÄ… brutalnÄ… esencjÄ™ samego Bhaala. Przemiana obniÅ¼a twojÄ… reputacjÄ™ o dwa punkty, albowiem nawet ci, ktÃ³rzy nie byli Å›wiadkami tego zdarzenia, potrafiÄ… wyczuÄ‡ charakterystycznÄ… woÅ„ zepsucia, gdy poddajesz siÄ™ pierwotnym instynktom.
+Po u¿yciu tej zdolnoœci przyjmujesz postaæ potê¿nej istoty posiadaj¹cej niezliczon¹ liczbê k³ów i pazurów, stanowi¹c¹ brutaln¹ esencjê samego Bhaala. Przemiana obni¿a twoj¹ reputacjê o dwa punkty, albowiem nawet ci, którzy nie byli œwiadkami tego zdarzenia, potrafi¹ wyczuæ charakterystyczn¹ woñ zepsucia, gdy poddajesz siê pierwotnym instynktom.
 
-PostaÄ‡ ZabÃ³jcy staje siÄ™ silniejsza wraz ze wzrostem twojej mocy i teraz zapewnia nastÄ™pujÄ…ce korzyÅ›ci:
+Postaæ Zabójcy staje siê silniejsza wraz ze wzrostem twojej mocy i teraz zapewnia nastêpuj¹ce korzyœci:
 
-- SiÅ‚a i ZrÄ™cznoÅ›Ä‡ wzrastajÄ… do 25
-- Rzeczywista wartoÅ›Ä‡ KP wynosi -9
-- OdpornoÅ›Ä‡ na magiÄ™ wynosi 60%
-- OdpornoÅ›Ä‡ na obraÅ¼enia fizyczne wynosi 30%
-- OdpornoÅ›Ä‡ na obraÅ¼enia od Å¼ywioÅ‚Ã³w 40% 
-- Rzuty obronne wynoszÄ… 2
-- Liczba atakÃ³w na rundÄ™ wynosi 4 (2k8 obraÅ¼eÅ„ obuchowych, 8 obraÅ¼eÅ„ od zimna)
-- Ataki majÄ… 10% szans na rzucenie Rozproszenia Magii i obniÅ¼enie OdpornoÅ›ci na MagiÄ™.
+- Si³a i Zrêcznoœæ wzrastaj¹ do 25
+- Rzeczywista wartoœæ KP wynosi -9
+- Odpornoœæ na magiê wynosi 60%
+- Odpornoœæ na obra¿enia fizyczne wynosi 30%
+- Odpornoœæ na obra¿enia od ¿ywio³ów 40% 
+- Rzuty obronne wynosz¹ 2
+- Liczba ataków na rundê wynosi 4 (2k8 obra¿eñ obuchowych, 8 obra¿eñ od zimna)
+- Ataki maj¹ 10% szans na rzucenie Rozproszenia Magii i obni¿enie Odpornoœci na Magiê.
 - TraK0 wynosi -8
-- PLUS_SIGN_PLACEHOLDER 200 punktÃ³w Å¼ycia
-- Regeneracja 3 punktÃ³w Å¼ycia na sekundÄ™
-- NiewraÅ¼liwoÅ›Ä‡ na uwiÄ™zienie, wyssanie poziomu, ogÅ‚uszenie, strach, zauroczenie, zamÄ™t, uÅ›pienie oraz pociski
-- Swoboda dziaÅ‚ania
-- Szansa na utratÄ™ kontroli: Å‚Ä…cznie 5% na kaÅ¼de dwie rundy~
+- PLUS_SIGN_PLACEHOLDER 200 punktów ¿ycia
+- Regeneracja 3 punktów ¿ycia na sekundê
+- Niewra¿liwoœæ na uwiêzienie, wyssanie poziomu, og³uszenie, strach, zauroczenie, zamêt, uœpienie oraz pociski
+- Swoboda dzia³ania
+- Szansa na utratê kontroli: ³¹cznie 5% na ka¿de dwie rundy~
 @12 = ~Przemiana w Pustoszyciela
 
-MoÅ¼esz teraz przybraÄ‡ postaÄ‡ ZabÃ³jcy lub Pustoszyciela - straszliwej manifestacji Bhaala. UÅ¼ycie tej zdolnoÅ›ci obniÅ¼Ä… twojÄ… reputacjÄ™ o dwa punkty dla ZabÃ³jcy albo o peÅ‚ne trzy punkty dla Pustoszyciela.
+Mo¿esz teraz przybraæ postaæ Zabójcy lub Pustoszyciela - straszliwej manifestacji Bhaala. U¿ycie tej zdolnoœci obni¿¹ twoj¹ reputacjê o dwa punkty dla Zabójcy albo o pe³ne trzy punkty dla Pustoszyciela.
 
-Jako ZabÃ³jca uzyskujesz nastÄ™pujÄ…ce korzyÅ›ci:
+Jako Zabójca uzyskujesz nastêpuj¹ce korzyœci:
 
-- SiÅ‚a i ZrÄ™cznoÅ›Ä‡ wzrastajÄ… do 25
-- Rzeczywista wartoÅ›Ä‡ KP wynosi -9
-- OdpornoÅ›Ä‡ na magiÄ™ wynosi 60%
-- OdpornoÅ›Ä‡ na obraÅ¼enia fizyczne wynosi 30%
-- OdpornoÅ›Ä‡ na obraÅ¼enia od Å¼ywioÅ‚Ã³w 50% 
-- Rzuty obronne wynoszÄ… 2
-- Liczba atakÃ³w na rundÄ™ wynosi 4 (2k8 obraÅ¼eÅ„ obuchowych, 8 obraÅ¼eÅ„ od zimna)
-- 10% szans przy kaÅ¼dym ataku na rzucenie Rozproszenia magii i obniÅ¼enie odpornoÅ›ci na magiÄ™
+- Si³a i Zrêcznoœæ wzrastaj¹ do 25
+- Rzeczywista wartoœæ KP wynosi -9
+- Odpornoœæ na magiê wynosi 60%
+- Odpornoœæ na obra¿enia fizyczne wynosi 30%
+- Odpornoœæ na obra¿enia od ¿ywio³ów 50% 
+- Rzuty obronne wynosz¹ 2
+- Liczba ataków na rundê wynosi 4 (2k8 obra¿eñ obuchowych, 8 obra¿eñ od zimna)
+- 10% szans przy ka¿dym ataku na rzucenie Rozproszenia magii i obni¿enie odpornoœci na magiê
 - TraK0 wynosi -8
-- PLUS_SIGN_PLACEHOLDER 200 punktÃ³w Å¼ycia
-- Regeneracja 3 punktÃ³w Å¼ycia na sekundÄ™
-- NiewraÅ¼liwoÅ›Ä‡ na uwiÄ™zienie, wyssanie poziomu, ogÅ‚uszenie, strach, zauroczenie, zamÄ™t, uÅ›pienie oraz pociski
-- Swoboda dziaÅ‚ania
-- Szansa na utratÄ™ kontroli: Å‚Ä…cznie 5% na kaÅ¼de dwie rundy
+- PLUS_SIGN_PLACEHOLDER 200 punktów ¿ycia
+- Regeneracja 3 punktów ¿ycia na sekundê
+- Niewra¿liwoœæ na uwiêzienie, wyssanie poziomu, og³uszenie, strach, zauroczenie, zamêt, uœpienie oraz pociski
+- Swoboda dzia³ania
+- Szansa na utratê kontroli: ³¹cznie 5% na ka¿de dwie rundy
 
-Jako Pustoszyciel uzyskujesz nastÄ™pujÄ…ce korzyÅ›ci:
+Jako Pustoszyciel uzyskujesz nastêpuj¹ce korzyœci:
 
-- OdpornoÅ›Ä‡ na magiÄ™ wynosi 75%
-- OdpornoÅ›Ä‡ na obraÅ¼enia fizyczne wynosi 50%
-- OdpornoÅ›Ä‡ na obraÅ¼enia od Å¼ywioÅ‚Ã³w wynosi 50% 
-- OdpornoÅ›Ä‡ na obraÅ¼enia od magii wynosi na 50% 
-- Liczba atakÃ³w na rundÄ™ wynosi 5 (3k8 obraÅ¼eÅ„ obuchowych, 8 obraÅ¼eÅ„ od zimna)
-- Szansa rozproszenia przy kaÅ¼dym trafieniu zwiÄ™ksza siÄ™ do 20%
+- Odpornoœæ na magiê wynosi 75%
+- Odpornoœæ na obra¿enia fizyczne wynosi 50%
+- Odpornoœæ na obra¿enia od ¿ywio³ów wynosi 50% 
+- Odpornoœæ na obra¿enia od magii wynosi na 50% 
+- Liczba ataków na rundê wynosi 5 (3k8 obra¿eñ obuchowych, 8 obra¿eñ od zimna)
+- Szansa rozproszenia przy ka¿dym trafieniu zwiêksza siê do 20%
 - TraK0 wynosi -12
-- PLUS_SIGN_PLACEHOLDER 250 punktÃ³w Å¼ycia
-- Regeneracja 5 punktÃ³w Å¼ycia na sekundÄ™
-- Szansa na utratÄ™ kontroli zwiÄ™ksza siÄ™ do 40% plus Å‚Ä…cznie 10% na rundÄ™~
-@13 = ~Przemiana w ZabÃ³jcÄ™
+- PLUS_SIGN_PLACEHOLDER 250 punktów ¿ycia
+- Regeneracja 5 punktów ¿ycia na sekundê
+- Szansa na utratê kontroli zwiêksza siê do 40% plus ³¹cznie 10% na rundê~
+@13 = ~Przemiana w Zabójcê
 
-Po uÅ¼yciu tej zdolnoÅ›ci Imoen przyjmuje postaÄ‡ potÄ™Å¼nej istoty posiadajÄ…cej niezliczonÄ… liczbÄ™ kÅ‚Ã³w i pazurÃ³w, stanowiÄ…cÄ… brutalnÄ… esencjÄ™ samego Bhaala.
+Po u¿yciu tej zdolnoœci Imoen przyjmuje postaæ potê¿nej istoty posiadaj¹cej niezliczon¹ liczbê k³ów i pazurów, stanowi¹c¹ brutaln¹ esencjê samego Bhaala.
 
-Przemiana w ZabÃ³jcÄ™ przynosi nastÄ™pujÄ…ce korzyÅ›ci:
+Przemiana w Zabójcê przynosi nastêpuj¹ce korzyœci:
 
-- SiÅ‚a i ZrÄ™cznoÅ›Ä‡ wzrastajÄ… do 25
-- Rzeczywista wartoÅ›Ä‡ KP wynosi -9
-- OdpornoÅ›Ä‡ na magiÄ™ wynosi 40%
-- Rzuty obronne wynoszÄ… 2
-- Liczba atakÃ³w na rundÄ™ wynosi 4 (1k8 obraÅ¼eÅ„ obuchowych, 2 obraÅ¼enia od zimna)
+- Si³a i Zrêcznoœæ wzrastaj¹ do 25
+- Rzeczywista wartoœæ KP wynosi -9
+- Odpornoœæ na magiê wynosi 40%
+- Rzuty obronne wynosz¹ 2
+- Liczba ataków na rundê wynosi 4 (1k8 obra¿eñ obuchowych, 2 obra¿enia od zimna)
 - TraK0 wynosi 0
-- PLUS_SIGN_PLACEHOLDER 100 punktÃ³w Å¼ycia
-- OdpornoÅ›Ä‡ na uwiÄ™zienie, wyssanie poziomu, ogÅ‚uszenie, strach, zauroczenie, zamÄ™t, uÅ›pienie oraz pociski
+- PLUS_SIGN_PLACEHOLDER 100 punktów ¿ycia
+- Odpornoœæ na uwiêzienie, wyssanie poziomu, og³uszenie, strach, zauroczenie, zamêt, uœpienie oraz pociski
 
-ByÄ‡ moÅ¼e dlatego, Å¼e Imoen ma w sobie mniej esencji Bhaala niÅ¼ <CHARNAME> - albo dziÄ™ki temu, czego nauczyÅ‚a siÄ™ po tym, jak Melissana przywoÅ‚aÅ‚a jej esencjÄ™ - jest ona w stanie w wiÄ™kszym stopniu panowaÄ‡ nad mocÄ… ZabÃ³jcy i nie grozi jej utrata kontroli, kiedy przybiera jego postaÄ‡.~
+Byæ mo¿e dlatego, ¿e Imoen ma w sobie mniej esencji Bhaala ni¿ <CHARNAME> - albo dziêki temu, czego nauczy³a siê po tym, jak Melissana przywo³a³a jej esencjê - jest ona w stanie w wiêkszym stopniu panowaæ nad moc¹ Zabójcy i nie grozi jej utrata kontroli, kiedy przybiera jego postaæ.~
 @14 = ~Uzyskano moce pomiotu Bhaala~
-@15 = ~Imoen moÅ¼e teraz przemieniaÄ‡ siÄ™ w ZabÃ³jcÄ™, kiedy tylko zapragnie, jak rÃ³wnieÅ¼ wstÄ™powaÄ‡ do Sfery Eterycznej raz na minutÄ™~
+@15 = ~Imoen mo¿e teraz przemieniaæ siê w Zabójcê, kiedy tylko zapragnie, jak równie¿ wstêpowaæ do Sfery Eterycznej raz na minutê~
 @16 = ~Kontrolowanie demona
 
-ZasiÄ™g: wzrok
+Zasiêg: wzrok
 Czas rzucania: 1
-Czas dziaÅ‚ania: specjalny
-Obszar dziaÅ‚ania: 1 demon 
+Czas dzia³ania: specjalny
+Obszar dzia³ania: 1 demon 
 Rzut obronny: brak
 
-DziÄ™ki tej zdolnoÅ›ci pomiot Bhaala moÅ¼e sprÃ³bowaÄ‡ wyrwaÄ‡ demona spod kontroli Melissany i zmieniÄ‡ go w swojego sojusznika. Pomiot Bhaala mierzy siÄ™ z demonem w mentalnym pojedynku przez DURATION_PLACEHOLDER sekund, po czym ma SUCCESS_CHANCE_PLACEHOLDER% szans, Å¼e demon zostanie jego sojusznikiem. (Nie chroniÄ… przed tym Å¼adne inne rzuty obronne, a odpornoÅ›Ä‡ na magiÄ™ nie jest sprawdzana). Pomiot Bhaala nie bÄ™dzie jednak bezpoÅ›rednio kontrolowaÄ‡ demona. UmiejÄ™tnoÅ›Ä‡ ta moÅ¼e byÄ‡ uÅ¼yta raz na trzy rundy.~
+Dziêki tej zdolnoœci pomiot Bhaala mo¿e spróbowaæ wyrwaæ demona spod kontroli Melissany i zmieniæ go w swojego sojusznika. Pomiot Bhaala mierzy siê z demonem w mentalnym pojedynku przez DURATION_PLACEHOLDER sekund, po czym ma SUCCESS_CHANCE_PLACEHOLDER% szans, ¿e demon zostanie jego sojusznikiem. (Nie chroni¹ przed tym ¿adne inne rzuty obronne, a odpornoœæ na magiê nie jest sprawdzana). Pomiot Bhaala nie bêdzie jednak bezpoœrednio kontrolowaæ demona. Umiejêtnoœæ ta mo¿e byæ u¿yta raz na trzy rundy.~
 @17 = ~Upust
 
-ZasiÄ™g: 1,5 metra
+Zasiêg: 1,5 metra
 Czas rzucania: 1
-Czas dziaÅ‚ania: natychmiastowy
-Obszar dziaÅ‚ania: 1 istota
+Czas dzia³ania: natychmiastowy
+Obszar dzia³ania: 1 istota
 Rzut obronny: 1/2 plus specjalny
 
-ZdolnoÅ›Ä‡ â€Upustâ€ pozwala ci uwolniÄ‡ swÄ… wewnÄ™trznÄ… energiÄ™ na cel znajdujÄ…cy siÄ™ twoim pobliÅ¼u, zadajÄ…c mu DICENUMBER_PLACEHOLDERk12 obraÅ¼eÅ„ od magii (poÅ‚owÄ™, jeÅ›li wykona on udany rzut obronny przeciw Å›mierci z modyfikatorem -4) i ciskajÄ…c go z mocÄ… w tyÅ‚, co moÅ¼e na chwilÄ™ pozbawiÄ‡ go przytomnoÅ›ci. ZdolnoÅ›ci tej moÅ¼na uÅ¼yÄ‡ raz na trzydzieÅ›ci sekundâ€¦ a po skorzystaniu z niej pomiot Bhaala przez dwie rundy bÄ™dzie niewiarygodnie zmÄ™czony i bÄ™dzie mieÄ‡ 25% szans na nieudane rzucenie kaÅ¼dego zaklÄ™cia. Ze wzglÄ™du na wykorzystanie duÅ¼ej iloÅ›ci boskiej esencji, przemiana w ZabÃ³jcÄ™ rÃ³wnieÅ¼ nie bÄ™dzie moÅ¼liwa przez trzydzieÅ›ci sekund.~
+Zdolnoœæ „Upust” pozwala ci uwolniæ sw¹ wewnêtrzn¹ energiê na cel znajduj¹cy siê twoim pobli¿u, zadaj¹c mu DICENUMBER_PLACEHOLDERk12 obra¿eñ od magii (po³owê, jeœli wykona on udany rzut obronny przeciw œmierci z modyfikatorem -4) i ciskaj¹c go z moc¹ w ty³, co mo¿e na chwilê pozbawiæ go przytomnoœci. Zdolnoœci tej mo¿na u¿yæ raz na trzydzieœci sekund… a po skorzystaniu z niej pomiot Bhaala przez dwie rundy bêdzie niewiarygodnie zmêczony i bêdzie mieæ 25% szans na nieudane rzucenie ka¿dego zaklêcia. Ze wzglêdu na wykorzystanie du¿ej iloœci boskiej esencji, przemiana w Zabójcê równie¿ nie bêdzie mo¿liwa przez trzydzieœci sekund.~
 @18 = ~Skupienie
 
-ZasiÄ™g: 0
+Zasiêg: 0
 Czas rzucania: 1
-Czas dziaÅ‚ania: 5 rund
-Obszar dziaÅ‚ania: rzucajÄ…cy czar
+Czas dzia³ania: 5 rund
+Obszar dzia³ania: rzucaj¹cy czar
 Rzut obronny: brak
 
-ZdolnoÅ›Ä‡ ta pozwala pomiotowi Bhaala na skupienie w sobie wÅ‚asnej energii, aby zyskaÄ‡ odpornoÅ›Ä‡ na efekty rzuconych naÅ„ zaklÄ™Ä‡. Przez trzydzieÅ›ci sekund pomiot Bhaala staje siÄ™ niewraÅ¼liwy na ZamianÄ™ ciaÅ‚a w kamieÅ„, DezintegracjÄ™ i Zatrzymanie czasu. Wszystkie czary od 1. do 3. poziomu takÅ¼e nie bÄ™dÄ… miaÅ‚y wpÅ‚ywu na pomiot Bhaala. ZdolnoÅ›ci tej moÅ¼na uÅ¼yÄ‡ raz na minutÄ™.~
+Zdolnoœæ ta pozwala pomiotowi Bhaala na skupienie w sobie w³asnej energii, aby zyskaæ odpornoœæ na efekty rzuconych nañ zaklêæ. Przez trzydzieœci sekund pomiot Bhaala staje siê niewra¿liwy na Zamianê cia³a w kamieñ, Dezintegracjê i Zatrzymanie czasu. Wszystkie czary od 1. do 3. poziomu tak¿e nie bêd¹ mia³y wp³ywu na pomiot Bhaala. Zdolnoœci tej mo¿na u¿yæ raz na minutê.~
 @19 = ~Drzwi przez wymiary
 
-ZasiÄ™g: nieskoÅ„czony
+Zasiêg: nieskoñczony
 Czas rzucania: 0
-Czas dziaÅ‚ania: natychmiastowy
-Obszar dziaÅ‚ania: rzucajÄ…cy czar
+Czas dzia³ania: natychmiastowy
+Obszar dzia³ania: rzucaj¹cy czar
 Rzut obronny: brak
 
-Pomiot Bhaala moÅ¼e teraz swobodnie przemieszczaÄ‡ siÄ™ przez wymiary przestrzenne i sfery. Mocy teleportacji moÅ¼na uÅ¼yÄ‡ raz na rundÄ™.~
-@20 = ~Zmiana ksztaÅ‚tu: nietoperz
+Pomiot Bhaala mo¿e teraz swobodnie przemieszczaæ siê przez wymiary przestrzenne i sfery. Mocy teleportacji mo¿na u¿yæ raz na rundê.~
+@20 = ~Zmiana kszta³tu: nietoperz
 
-Ta zdolnoÅ›Ä‡ pozwala Bodhi przybraÄ‡ postaÄ‡ nietoperza.~
+Ta zdolnoœæ pozwala Bodhi przybraæ postaæ nietoperza.~
 @21 = ~Boski dar 
 (Inwokacja)
 
-ZasiÄ™g: 0
-Czas dziaÅ‚ania: 1 tura
+Zasiêg: 0
+Czas dzia³ania: 1 tura
 Czas rzucania: 1
-Obszar dziaÅ‚ania: rzucajÄ…cy czar
+Obszar dzia³ania: rzucaj¹cy czar
 Rzut obronny: brak
 
-Pomiot Bhaala przywoÅ‚uje potÄ™gÄ™ zaklÄ™tÄ… w swojej krwi, dziÄ™ki czemu otrzymuje na krÃ³tki czas czÄ…stkÄ™ niebiaÅ„skiej mocy. Po rzuceniu tego czaru jego SiÅ‚a, Kondycja i ZrÄ™cznoÅ›Ä‡ wzrastajÄ… do 25.~
-@22 = ~OdwrÃ³cenie odpornoÅ›ci
+Pomiot Bhaala przywo³uje potêgê zaklêt¹ w swojej krwi, dziêki czemu otrzymuje na krótki czas cz¹stkê niebiañskiej mocy. Po rzuceniu tego czaru jego Si³a, Kondycja i Zrêcznoœæ wzrastaj¹ do 25.~
+@22 = ~Odwrócenie odpornoœci
 
-ZasiÄ™g: 0
-Czas dziaÅ‚ania: staÅ‚y
+Zasiêg: 0
+Czas dzia³ania: sta³y
 Czas rzucania: 1
-Obszar dziaÅ‚ania: Balthazar
+Obszar dzia³ania: Balthazar
 Rzut obronny: brak
 
-Przy pomocy tej umiejÄ™tnoÅ›ci Balthazar odwraca swoje wrodzone odpornoÅ›ci. Jego odpornoÅ›Ä‡ na obraÅ¼enia fizyczne, wynoszÄ…ca zwykle 10%, wzrasta do 90%, a jego odpornoÅ›Ä‡ na magiÄ™, obraÅ¼enia od magii oraz Å¼ywioÅ‚Ã³w, wynoszÄ…ca zwykle 90%, obniÅ¼a siÄ™ do 10%.
+Przy pomocy tej umiejêtnoœci Balthazar odwraca swoje wrodzone odpornoœci. Jego odpornoœæ na obra¿enia fizyczne, wynosz¹ca zwykle 10%, wzrasta do 90%, a jego odpornoœæ na magiê, obra¿enia od magii oraz ¿ywio³ów, wynosz¹ca zwykle 90%, obni¿a siê do 10%.
 
-Balthazar moÅ¼e odwracaÄ‡ swoje odpornoÅ›ci, kiedy tylko tego zapragnie.~
-@23 = ~OdwrÃ³cenie odpornoÅ›ci
+Balthazar mo¿e odwracaæ swoje odpornoœci, kiedy tylko tego zapragnie.~
+@23 = ~Odwrócenie odpornoœci
 
-ZasiÄ™g: 0
-Czas dziaÅ‚ania: staÅ‚y
+Zasiêg: 0
+Czas dzia³ania: sta³y
 Czas rzucania: 1
-Obszar dziaÅ‚ania: Balthazar
+Obszar dzia³ania: Balthazar
 Rzut obronny: brak
 
-Przy pomocy tej umiejÄ™tnoÅ›ci Balthazar odwraca swoje wrodzone odpornoÅ›ci. Przywracana jest jego zwykÅ‚a odpornoÅ›Ä‡ na obraÅ¼enia fizyczne, wynoszÄ…ca 10%, a jego odpornoÅ›Ä‡ na magiÄ™, obraÅ¼enia od magii i Å¼ywioÅ‚Ã³w ponownie wynosi 90%.
+Przy pomocy tej umiejêtnoœci Balthazar odwraca swoje wrodzone odpornoœci. Przywracana jest jego zwyk³a odpornoœæ na obra¿enia fizyczne, wynosz¹ca 10%, a jego odpornoœæ na magiê, obra¿enia od magii i ¿ywio³ów ponownie wynosi 90%.
 
-Balthazar moÅ¼e odwracaÄ‡ swoje odpornoÅ›ci, kiedy tylko tego zapragnie.~
-@24 = ~Postawa sÅ‚oÅ„ca
+Balthazar mo¿e odwracaæ swoje odpornoœci, kiedy tylko tego zapragnie.~
+@24 = ~Postawa s³oñca
 
-ZasiÄ™g: 0
-Czas dziaÅ‚ania: 3 godziny
+Zasiêg: 0
+Czas dzia³ania: 3 godziny
 Czas rzucania: 1
-Obszar dziaÅ‚ania: Balthazar oraz wszystkie istoty w promieniu 10 metrÃ³w
+Obszar dzia³ania: Balthazar oraz wszystkie istoty w promieniu 10 metrów
 Rzut obronny: brak
 
-WchodzÄ…c w PostawÄ™ sÅ‚oÅ„ca, Balthazar przywoÅ‚uje moc sÅ‚oÅ„ca, aby wzmocniÄ‡ swe tajemne zdolnoÅ›ci. Uzyskuje wtedy 127% odpornoÅ›ci na ogieÅ„ (nawet kiedy korzysta z OdwrÃ³cenia odpornoÅ›ci) i wszystkie jego ataki zadajÄ… dodatkowe 1k10 obraÅ¼eÅ„ od ognia; obraÅ¼enia te rÃ³wnieÅ¼ leczÄ… Balthazara. Przy wchodzeniu w PostawÄ™ sÅ‚oÅ„ca Balthazar wyzwala eksplozjÄ™ pÅ‚omienia, ktÃ³ra zadaje 12k6 obraÅ¼eÅ„ od ognia (poÅ‚owÄ™ po rzucie obronnym przeciw czarom) oraz 1k8 obraÅ¼eÅ„ obuchowych wszystkim w promieniu dziesiÄ™ciu metrÃ³w. Wszystkie pobliskie istoty zostajÄ… odrzucone z dala od Balthazara.
+Wchodz¹c w Postawê s³oñca, Balthazar przywo³uje moc s³oñca, aby wzmocniæ swe tajemne zdolnoœci. Uzyskuje wtedy 127% odpornoœci na ogieñ (nawet kiedy korzysta z Odwrócenia odpornoœci) i wszystkie jego ataki zadaj¹ dodatkowe 1k10 obra¿eñ od ognia; obra¿enia te równie¿ lecz¹ Balthazara. Przy wchodzeniu w Postawê s³oñca Balthazar wyzwala eksplozjê p³omienia, która zadaje 12k6 obra¿eñ od ognia (po³owê po rzucie obronnym przeciw czarom) oraz 1k8 obra¿eñ obuchowych wszystkim w promieniu dziesiêciu metrów. Wszystkie pobliskie istoty zostaj¹ odrzucone z dala od Balthazara.
 
-W danej chwili Balthazar moÅ¼e przyjÄ…Ä‡ tylko jednÄ… postawÄ™: wejÅ›cie w PostawÄ™ sÅ‚oÅ„ca przerywa wszystkie inne. Postawa SÅ‚oÅ„ca moÅ¼e zostaÄ‡ usuniÄ™ta poprzez efekty takie jak WyÅ‚om.~
-@25 = ~Postawa ksiÄ™Å¼yca
+W danej chwili Balthazar mo¿e przyj¹æ tylko jedn¹ postawê: wejœcie w Postawê s³oñca przerywa wszystkie inne. Postawa S³oñca mo¿e zostaæ usuniêta poprzez efekty takie jak Wy³om.~
+@25 = ~Postawa ksiê¿yca
 
-ZasiÄ™g: 0
-Czas dziaÅ‚ania: 3 godziny
+Zasiêg: 0
+Czas dzia³ania: 3 godziny
 Czas rzucania: 1
-Obszar dziaÅ‚ania: Balthazar
+Obszar dzia³ania: Balthazar
 Rzut obronny: brak
 
-WchodzÄ…c w PostawÄ™ ksiÄ™Å¼yca, Balthazar przywoÅ‚uje moc ksiÄ™Å¼yca w celu wzmocnienia swych tajemnych zdolnoÅ›ci. BÄ™dÄ…c w Postawie ksiÄ™Å¼yca, Balthazar jest niewraÅ¼liwy na Wyssanie energii, UwiÄ™zienie oraz Zatrzymanie czasu, a takÅ¼e uzyskuje jedno uÅ¼ycie KsiÄ™Å¼ycowego osÅ‚abienia. Kiedy Balthazar wchodzi w PostawÄ™ ksiÄ™Å¼yca, wszyscy przeciwnicy w jego pobliÅ¼u zostajÄ… oÅ›lepieni na cztery rundy (rzut obronny przeciw czarom neguje efekt).
+Wchodz¹c w Postawê ksiê¿yca, Balthazar przywo³uje moc ksiê¿yca w celu wzmocnienia swych tajemnych zdolnoœci. Bêd¹c w Postawie ksiê¿yca, Balthazar jest niewra¿liwy na Wyssanie energii, Uwiêzienie oraz Zatrzymanie czasu, a tak¿e uzyskuje jedno u¿ycie Ksiê¿ycowego os³abienia. Kiedy Balthazar wchodzi w Postawê ksiê¿yca, wszyscy przeciwnicy w jego pobli¿u zostaj¹ oœlepieni na cztery rundy (rzut obronny przeciw czarom neguje efekt).
 
-W danej chwili Balthazar moÅ¼e przyjÄ…Ä‡ tylko jednÄ… postawÄ™: wejÅ›cie w PostawÄ™ ksiÄ™Å¼yca przerywa wszystkie inne. Postawa ksiÄ™Å¼yca moÅ¼e zostaÄ‡ usuniÄ™ta przez efekty takie jak WyÅ‚om.~
+W danej chwili Balthazar mo¿e przyj¹æ tylko jedn¹ postawê: wejœcie w Postawê ksiê¿yca przerywa wszystkie inne. Postawa ksiê¿yca mo¿e zostaæ usuniêta przez efekty takie jak Wy³om.~
 @26 = ~Postawa cienia
 
-ZasiÄ™g: 0
-Czas dziaÅ‚ania: 3 godziny
+Zasiêg: 0
+Czas dzia³ania: 3 godziny
 Czas rzucania: 1
-Obszar dziaÅ‚ania: Balthazar
+Obszar dzia³ania: Balthazar
 Rzut obronny: brak
 
-WchodzÄ…c w PostawÄ™ cienia, Balthazar przywoÅ‚uje moc Sfery Cienia w celu wzmocnienia swych tajemnych zdolnoÅ›ci. BÄ™dÄ…c w Postawie cienia Balthazar jest chroniony przez UlepszonÄ… niewidzialnoÅ›Ä‡ (i jest caÅ‚kowicie niewidoczny przez pierwsze 15 sekund lub dopÃ³ki nie zaatakuje). OprÃ³cz znaczÄ…cych korzyÅ›ci obronnych, jakie Balthazar odnosi dziÄ™ki Ulepszonej niewidzialnoÅ›ci, dodatkowo pÅ‚aszcz cieni zapewnia mu +6 premii do Klasy Pancerza.
+Wchodz¹c w Postawê cienia, Balthazar przywo³uje moc Sfery Cienia w celu wzmocnienia swych tajemnych zdolnoœci. Bêd¹c w Postawie cienia Balthazar jest chroniony przez Ulepszon¹ niewidzialnoœæ (i jest ca³kowicie niewidoczny przez pierwsze 15 sekund lub dopóki nie zaatakuje). Oprócz znacz¹cych korzyœci obronnych, jakie Balthazar odnosi dziêki Ulepszonej niewidzialnoœci, dodatkowo p³aszcz cieni zapewnia mu +6 premii do Klasy Pancerza.
 
-W danej chwili Balthazar moÅ¼e przyjÄ…Ä‡ tylko jednÄ… postawÄ™: wejÅ›cie w PostawÄ™ cienia przerywa wszystkie inne. Postawa Cienia moÅ¼e zostaÄ‡ usuniÄ™nia przez efekty takie jak Wyrocznia albo Prawdziwe widzenie.~
-@27 = ~Szybszy niÅ¼ wzrok
+W danej chwili Balthazar mo¿e przyj¹æ tylko jedn¹ postawê: wejœcie w Postawê cienia przerywa wszystkie inne. Postawa Cienia mo¿e zostaæ usuniênia przez efekty takie jak Wyrocznia albo Prawdziwe widzenie.~
+@27 = ~Szybszy ni¿ wzrok
 
-ZasiÄ™g: pole widzenia
-Czas dziaÅ‚ania: natychmiastowy
+Zasiêg: pole widzenia
+Czas dzia³ania: natychmiastowy
 Czas rzucania: 0
-Obszar dziaÅ‚ania: Balthazar
+Obszar dzia³ania: Balthazar
 Rzut obronny: Brak
 
-W mgnieniu oka Balthazar przemieszcza siÄ™ w dowolne miejsce w zasiÄ™gu wzroku.
+W mgnieniu oka Balthazar przemieszcza siê w dowolne miejsce w zasiêgu wzroku.
 
-Moc ta moÅ¼e zostaÄ‡ uÅ¼yta raz na dwie rundy.~
-@28 = ~Smocza piÄ™Å›Ä‡
+Moc ta mo¿e zostaæ u¿yta raz na dwie rundy.~
+@28 = ~Smocza piêœæ
 
-ZasiÄ™g: dotyk
+Zasiêg: dotyk
 Czas trwania: specjalny
 Czas rzucania: 0
-Obszar dziaÅ‚ania: trafiona istota
+Obszar dzia³ania: trafiona istota
 Rzut obronny: brak
 
-SkupiajÄ…c energiÄ™ ki w swoim uderzeniu, Balthazar rozrywa magiczne osÅ‚ony przeciwnika. Smocza piÄ™Å›Ä‡ ma 25% szans na usuniÄ™cie wszystkich bojowych zaklÄ™Ä‡ ochronnych i wzmacniajÄ…cych poniÅ¼ej 9. poziomu, 25% szans na usuniÄ™cie wszystkich antymagicznych efektÃ³w poniÅ¼ej 9. poziomu oraz 50% szans na usuniÄ™cie wszystkich naraz. Dodatkowo spowalnia ona ofiarÄ™ (powodujÄ…c karÄ™ -4 do KP oraz testÃ³w atakÃ³w) na dwie rundy.
+Skupiaj¹c energiê ki w swoim uderzeniu, Balthazar rozrywa magiczne os³ony przeciwnika. Smocza piêœæ ma 25% szans na usuniêcie wszystkich bojowych zaklêæ ochronnych i wzmacniaj¹cych poni¿ej 9. poziomu, 25% szans na usuniêcie wszystkich antymagicznych efektów poni¿ej 9. poziomu oraz 50% szans na usuniêcie wszystkich naraz. Dodatkowo spowalnia ona ofiarê (powoduj¹c karê -4 do KP oraz testów ataków) na dwie rundy.
 
-Moc ta moÅ¼e zostaÄ‡ uÅ¼yta raz na trzy rundy.~
+Moc ta mo¿e zostaæ u¿yta raz na trzy rundy.~
 @29 = ~Uderzenie tygrysa
 
-ZasiÄ™g: 0
-Czas dziaÅ‚ania: 2 rundy
+Zasiêg: 0
+Czas dzia³ania: 2 rundy
 Czas rzucania: 1
-Obszar dziaÅ‚ania: Balthazar
+Obszar dzia³ania: Balthazar
 Rzut obronny: brak
 
-Kiedy Uderzenie tygrysa jest aktywne, Balthazar ma przy kaÅ¼dym trafieniu 50% szans na wykonanie trafienia krytycznego; dodatkowo kaÅ¼de trafienie odrzuca ofiarÄ™ do tyÅ‚u, ogÅ‚uszajÄ…c jÄ… na 1 rundÄ™.
+Kiedy Uderzenie tygrysa jest aktywne, Balthazar ma przy ka¿dym trafieniu 50% szans na wykonanie trafienia krytycznego; dodatkowo ka¿de trafienie odrzuca ofiarê do ty³u, og³uszaj¹c j¹ na 1 rundê.
 
-Moc ta moÅ¼e zostaÄ‡ uÅ¼yta raz na cztery rundy.~
-@30 = ~RÄ™ka mordu
+Moc ta mo¿e zostaæ u¿yta raz na cztery rundy.~
+@30 = ~Rêka mordu
 
-ZasiÄ™g: 0
-Czas dziaÅ‚ania: 0
+Zasiêg: 0
+Czas dzia³ania: 0
 Czas rzucania: 1
-Obszar dziaÅ‚ania: Balthazar
+Obszar dzia³ania: Balthazar
 Rzut obronny: specjalny
 
-Poprzez zÅ‚Ä…czenie energii ki z esencjÄ… pomiotu Bhaala wszystkie ataki Balthazara podczas jednej rundy automatycznie stajÄ… siÄ™ trafieniami krytycznymi. Przez pierwsze trzy sekundy po aktywowaniu mocy kaÅ¼dy, kto zostanie trafiony, pada martwy (rzut obronny przeciw czarom neguje efekt).
+Poprzez z³¹czenie energii ki z esencj¹ pomiotu Bhaala wszystkie ataki Balthazara podczas jednej rundy automatycznie staj¹ siê trafieniami krytycznymi. Przez pierwsze trzy sekundy po aktywowaniu mocy ka¿dy, kto zostanie trafiony, pada martwy (rzut obronny przeciw czarom neguje efekt).
 
-Moc ta moÅ¼e zostaÄ‡ uÅ¼yta raz na trzy rundy.~
-@31 = ~KopniÄ™cie bez cienia
+Moc ta mo¿e zostaæ u¿yta raz na trzy rundy.~
+@31 = ~Kopniêcie bez cienia
 
-ZasiÄ™g: dotyk
-Czas dziaÅ‚ania: 4 sekundy
+Zasiêg: dotyk
+Czas dzia³ania: 4 sekundy
 Czas rzucania: 0
-Obszar dziaÅ‚ania: kopniÄ™ta istota
+Obszar dzia³ania: kopniêta istota
 Rzut obronny: brak
 
-PotÄ™Å¼ne kopniÄ™cie Balthazara odrzuca przeciwnika i wynosi go w powietrze; przeciwnik doznaje 4k8 obraÅ¼eÅ„ przy upadku oraz traci przytomnoÅ›Ä‡ na kilka sekund.
+Potê¿ne kopniêcie Balthazara odrzuca przeciwnika i wynosi go w powietrze; przeciwnik doznaje 4k8 obra¿eñ przy upadku oraz traci przytomnoœæ na kilka sekund.
 
-Moc ta moÅ¼e zostaÄ‡ uÅ¼yta raz na dwie rundy.~
-@32 = ~KsiÄ™Å¼ycowe osÅ‚abienie
+Moc ta mo¿e zostaæ u¿yta raz na dwie rundy.~
+@32 = ~Ksiê¿ycowe os³abienie
 
-ZasiÄ™g: 10 metrÃ³w
-Czas dziaÅ‚ania: specjalny
+Zasiêg: 10 metrów
+Czas dzia³ania: specjalny
 Czas rzucania: 1
-Obszar dziaÅ‚ania: 1 istota
+Obszar dzia³ania: 1 istota
 Rzut obronny: specjalny
 
-Istota pod wpÅ‚ywem KsiÄ™Å¼ycowego osÅ‚abienia otrzymuje karÄ™ -4 do wszystkich rzutÃ³w obronnych na 40 rund. Dodatkowo musi ona wykonaÄ‡ udany rzut obronny przeciw czarom z modyfikatorem -2 albo zostanie spowolniona (kara -4 do KP i testÃ³w ataku) na dwie rundy.
+Istota pod wp³ywem Ksiê¿ycowego os³abienia otrzymuje karê -4 do wszystkich rzutów obronnych na 40 rund. Dodatkowo musi ona wykonaæ udany rzut obronny przeciw czarom z modyfikatorem -2 albo zostanie spowolniona (kara -4 do KP i testów ataku) na dwie rundy.
 
-Balthazar uzyskuje jedno uÅ¼ycie tej umiejÄ™tnoÅ›ci za kaÅ¼dym razem, gdy wchodzi w PostawÄ™ ksiÄ™Å¼yca.~
+Balthazar uzyskuje jedno u¿ycie tej umiejêtnoœci za ka¿dym razem, gdy wchodzi w Postawê ksiê¿yca.~

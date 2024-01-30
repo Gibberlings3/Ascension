@@ -1,183 +1,183 @@
 @500 = ~Babau~
-@1003 = ~Transformaci√≥n en murci√©lago~
+@1003 = ~TransformaciÛn en murciÈlago~
 @1006 = ~Onda de choque~
 @1007 = ~Aura relampagueante~
 @1009 = ~Telequinesis~
 @1012 = ~Invertir resistencias~
 @1013 = ~Controlar demonio~
-@1014 = ~Concentraci√≥n~
+@1014 = ~ConcentraciÛn~
 @1016 = ~Manto divino~
 @1017 = ~Drenar poder~
 @1018 = ~Escudo de conjuro divino~
 @1019 = ~Dominar demonio~
 @1020 = ~Desterrar~
 @1022 = ~Desatar~
-@1024 = ~Retroacci√≥n~
-@1025 = ~Restauraci√≥n divina~
-@1026 = ~Purificaci√≥n divina~
-@1027 = ~Aura de paralizaci√≥n~
+@1024 = ~RetroacciÛn~
+@1025 = ~RestauraciÛn divina~
+@1026 = ~PurificaciÛn divina~
+@1027 = ~Aura de paralizaciÛn~
 @1029 = ~Bomba de lava~
-@1031 = ~S√≠mbolo, Ralentizamiento~
-@1037 = ~Transformaci√≥n en el Saqueador~
-@1038 = ~Melis√°n: Dominar las huestes del abismo~
-@1039 = ~Poder de engendro de Bhaal obtenido: Inmudidad a Drenar Energ√≠a~
-@1040 = ~Poder de engendro de Bhaal obtenido: 25% de resistencia a da√±o f√≠sico~
+@1031 = ~SÌmbolo, Ralentizamiento~
+@1037 = ~TransformaciÛn en el Saqueador~
+@1038 = ~Melis·n: Dominar las huestes del abismo~
+@1039 = ~Poder de engendro de Bhaal obtenido: Inmudidad a Drenar EnergÌa~
+@1040 = ~Poder de engendro de Bhaal obtenido: 25% de resistencia a daÒo fÌsico~
 @1041 = ~Transfigurado~
 @1042 = ~Armas debilitadas por limo Babau~
 @1043 = ~Agarrado~
 @1044 = ~Recupera los poderes de Bhaal~
 @1045 = ~Has retomado el control, por ahora.~
-@1046 = ~Resistencia m√°gica reducida un 5%~
-@1047 = ~Resistencia m√°gica reducida un 5%~
-@1048 = ~Transformaci√≥n en el Asesino mejorada~
+@1046 = ~Resistencia m·gica reducida un 5%~
+@1047 = ~Resistencia m·gica reducida un 5%~
+@1048 = ~TransformaciÛn en el Asesino mejorada~
 @1049 = ~El demonio se inclina ante tu voluntad~
-@1050 = ~El demonio desaf√≠a tu voluntad~
+@1050 = ~El demonio desafÌa tu voluntad~
 @1051 = ~Este poder solo afecta a los demonios~
-@1052 = ~El demonio se inclina ante la voluntad de Melis√°n~
-@1053 = ~El demonio desaf√≠a la voluntad de Melis√°n~
+@1052 = ~El demonio se inclina ante la voluntad de Melis·n~
+@1053 = ~El demonio desafÌa la voluntad de Melis·n~
 @1054 = ~Poder de engendro de Bhaal obtenido: Desatar~
 @1055 = ~Poder de engendro de Bhaal obtenido: Inmunidad a la magia de muerte~
 @1056 = ~Poder de engendro de Bhaal obtenido: Inmunidad a efectos vorpal~
 @1057 = ~Poder de engendro de Bhaal obtenido: Puerta dimensional~
 @1058 = ~Poder de engendro de Bhaal obtenido: Controlar demonios~
 @1059 = ~Poder de engendro de Bhaal obtenido: Inmunidad a laberinto y encarcelamiento~
-@1060 = ~Poder de engendro de Bhaal obtenido: Concentraci√≥n~
+@1060 = ~Poder de engendro de Bhaal obtenido: ConcentraciÛn~
 @1061 = ~Poder de engendro de Bhaal obtenido: Inmunidad a mancha del Asesino~
 @1062 = ~Regalo divino~
-@1063 = ~Resistencia m√°gica restaurada~
-@1064 = ~Protecciones antim√°gicas removidas~
+@1063 = ~Resistencia m·gica restaurada~
+@1064 = ~Protecciones antim·gicas removidas~
 @1065 = ~Protecciones de combate removidas~
 @1066 = ~IA desactivada~
 @1067 = ~IA activada~
-@1068 = ~Maldici√≥n lunar~
+@1068 = ~MaldiciÛn lunar~
 @2000 = ~Poderes de engendro de Bhaal
 
-<CHARNAME> ha obtenido la aptitud, utilizable una vez por d√≠a: 
+<CHARNAME> ha obtenido la aptitud, utilizable una vez por dÌa: 
 
-Curaci√≥n en masa (Nigromancia)
-Alcance: Visi√≥n del lanzador
-Duraci√≥n: Permanente 
+CuraciÛn en masa (Nigromancia)
+Alcance: VisiÛn del lanzador
+DuraciÛn: Permanente 
 Tiempo de lanzamiento: 1
-√Årea de efecto: Radio de 9 metros
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: Radio de 9 metros
+Tirada de salvaciÛn: Ninguna
 
-DESCRIPCI√ìN:
+DESCRIPCI”N:
 
-Cuando utiliza esta aptitud, el engendro de Bhaal debe tener en la mente los rostros de sus compa√±eros del grupo claramente y concentrarse en la unidad del grupo. Al finalizar, todos los miembros del grupo en un radio de 9 metros del lanzador recuperar√°n 2d8 + 2/nivel puntos de golpe. Otras condiciones que afecten al grupo son curadas tambi√©n, como la fatiga, el veneno, la enfermedad, la ceguera y la sordera.~
+Cuando utiliza esta aptitud, el engendro de Bhaal debe tener en la mente los rostros de sus compaÒeros del grupo claramente y concentrarse en la unidad del grupo. Al finalizar, todos los miembros del grupo en un radio de 9 metros del lanzador recuperar·n 2d8 + 2/nivel puntos de golpe. Otras condiciones que afecten al grupo son curadas tambiÈn, como la fatiga, el veneno, la enfermedad, la ceguera y la sordera.~
 @2001 = ~Poderes de engendro de Bhaal
 
-<CHARNAME> ha obtenido la aptitud, utilizable una vez por d√≠a: 
+<CHARNAME> ha obtenido la aptitud, utilizable una vez por dÌa: 
 
-Regeneraci√≥n (Nigromancia)
+RegeneraciÛn (Nigromancia)
 Alcance: Toque
-Duraci√≥n: 1 asalto/2 niveles
+DuraciÛn: 1 asalto/2 niveles
 Tiempo de lanzamiento: 7
-√Årea de efecto: Criatura objetivo
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: Criatura objetivo
+Tirada de salvaciÛn: Ninguna
 
-DESCRIPCI√ìN:
+DESCRIPCI”N:
 
-Esta poderosa aptitud permite al engendro de Bhaal imbuir a una criatura con la habilidad de regenerarse. Esta regeneraci√≥n curar√° cualquier herida e incluso regenerar√° extremidades perdidas. La criatura afectada recuperar√° 3 puntos de golpe por segundo. El efecto permanece 1 asalto por cada 2 niveles del lanzador o hasta que sea disipado. Por ejemplo, un personaje de nivel 14 regenerar√≠a 18 puntos de golpe por asalto durante 7 asaltos.~
+Esta poderosa aptitud permite al engendro de Bhaal imbuir a una criatura con la habilidad de regenerarse. Esta regeneraciÛn curar· cualquier herida e incluso regenerar· extremidades perdidas. La criatura afectada recuperar· 3 puntos de golpe por segundo. El efecto permanece 1 asalto por cada 2 niveles del lanzador o hasta que sea disipado. Por ejemplo, un personaje de nivel 14 regenerarÌa 18 puntos de golpe por asalto durante 7 asaltos.~
 @2002 = ~Poderes de engendro de Bhaal
 
-<CHARNAME> ha obtenido la aptitud, utilizable una vez por d√≠a: 
+<CHARNAME> ha obtenido la aptitud, utilizable una vez por dÌa: 
 
-Invocar al poder sagrado (Invocaci√≥n)
+Invocar al poder sagrado (InvocaciÛn)
 Alcance: 0
-Duraci√≥n: 1 turno
+DuraciÛn: 1 turno
 Tiempo de lanzamiento: 1
-√Årea de efecto: El lanzador
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: El lanzador
+Tirada de salvaciÛn: Ninguna
 
-DESCRIPCI√ìN:
+DESCRIPCI”N:
 
-El engendro de Bhaal llama al poder de su sangre para darle poder durante un corto per√≠odo. Cuando haga esto, su fuerza, constituci√≥n y destreza ser√°n elevadas en 1 punto por cada 3 niveles del lanzador. Un lanzador de tercer nivel elevar√≠a sus caracter√≠sticas en 1, mientras que un lanzador de nivel 12 elevar√≠a sus caracter√≠sticas en 4.~
+El engendro de Bhaal llama al poder de su sangre para darle poder durante un corto perÌodo. Cuando haga esto, su fuerza, constituciÛn y destreza ser·n elevadas en 1 punto por cada 3 niveles del lanzador. Un lanzador de tercer nivel elevarÌa sus caracterÌsticas en 1, mientras que un lanzador de nivel 12 elevarÌa sus caracterÌsticas en 4.~
 @2003 = ~Poderes de engendro de Bhaal
 
-<CHARNAME> ha obtenido la aptitud, utilizable una vez por d√≠a:
+<CHARNAME> ha obtenido la aptitud, utilizable una vez por dÌa:
 
 Mancha oscura (Nigromancia)
 Alcance: 6 metros
-Duraci√≥n: 1 turno
+DuraciÛn: 1 turno
 Tiempo de lanzamiento: 1
-√Årea de efecto: 1 criatura
-Tirada de salvaci√≥n: Niega efecto
+¡rea de efecto: 1 criatura
+Tirada de salvaciÛn: Niega efecto
 
-DESCRIPCI√ìN:
+DESCRIPCI”N:
 
-A trav√©s de este conjuro, el engendro de Bhaal puede expulsar la mancha de su malvado progenitor en una v√≠ctima, envenenando a aquellos que fallen su salvaci√≥n contra muerte. Los efectos dependen del nivel del lanzador y son detallados a continuaci√≥n:
-Niveles 7-9: 2D8 + 2/asalto, ralentizado 12 segundos, salvaci√≥n a -2
-Niveles 10-12: 3D8 + 3/asalto, ralentizado 12 segundos, salvaci√≥n a -2
-Niveles 13-14: 4D8 + 4/asalto, ralentizado 12 segundos, salvaci√≥n a -2
-Niveles 15-16: 6D8 + 5/asalto, ralentizado 24 segundos, salvaci√≥n a -2
-Niveles 17-21: 8D8 + 6/asalto, ralentizado 24 segundos, salvaci√≥n a -4
-Nivel 25+: 8D8 + 6/asalto, ralentizado 36 segundos, salvaci√≥n a -4, afecta a un grupo de objetivos~
+A travÈs de este conjuro, el engendro de Bhaal puede expulsar la mancha de su malvado progenitor en una vÌctima, envenenando a aquellos que fallen su salvaciÛn contra muerte. Los efectos dependen del nivel del lanzador y son detallados a continuaciÛn:
+Niveles 7-9: 2D8 + 2/asalto, ralentizado 12 segundos, salvaciÛn a -2
+Niveles 10-12: 3D8 + 3/asalto, ralentizado 12 segundos, salvaciÛn a -2
+Niveles 13-14: 4D8 + 4/asalto, ralentizado 12 segundos, salvaciÛn a -2
+Niveles 15-16: 6D8 + 5/asalto, ralentizado 24 segundos, salvaciÛn a -2
+Niveles 17-21: 8D8 + 6/asalto, ralentizado 24 segundos, salvaciÛn a -4
+Nivel 25+: 8D8 + 6/asalto, ralentizado 36 segundos, salvaciÛn a -4, afecta a un grupo de objetivos~
 @2004 = ~Poderes de engendro de Bhaal
 
-<CHARNAME> ha obtenido protecci√≥n permanente contra el plano negativo (por ejemplo, a <CHARNAME> no se le pueden drenar niveles) y un 5% de resistencia m√°gica.~
+<CHARNAME> ha obtenido protecciÛn permanente contra el plano negativo (por ejemplo, a <CHARNAME> no se le pueden drenar niveles) y un 5% de resistencia m·gica.~
 @2005 = ~Poderes de engendro de Bhaal
 
-<CHARNAME> ha obtenido la aptitud, utilizable una vez por d√≠a:
+<CHARNAME> ha obtenido la aptitud, utilizable una vez por dÌa:
 
 Mano del asesinato (Nigromancia)
 Alcance: Lanzador
-Duraci√≥n: 1 asalto/5 niveles
+DuraciÛn: 1 asalto/5 niveles
 Tiempo de lanzamiento: 1
-Tirada de salvaci√≥n: Ninguna
+Tirada de salvaciÛn: Ninguna
 
-DESCRIPCI√ìN:
+DESCRIPCI”N:
 
-Cuando el engendro de Bhaal invoca este poder, inmediatamente inflinge un da√±o adicional con cada golpe a su objetivo con cualquier arma de cuerpo a cuerpo que desee (tanto pu√±o como espada). Sus oscuras energ√≠as viajan a trav√©s de su arma atacando a su v√≠ctima... y absorbiendo ese da√±o.
-Los efectos var√≠an dependiendo del nivel:
-10¬∫: 2 asaltos, da√±o extra 4 PG, cura 4 PG
-15¬∫: 3 asaltos, da√±o extra 6 PG, cura 6 PG
-20¬∫: 4 asaltos, da√±o extra 8 PG, cura 8 PG
-25¬∫: 5 asaltos, da√±o extra 10 PG, cura 10 PG
-30¬∫: 6 asaltos, da√±o extra 12 PG, cura 12 PG~
+Cuando el engendro de Bhaal invoca este poder, inmediatamente inflinge un daÒo adicional con cada golpe a su objetivo con cualquier arma de cuerpo a cuerpo que desee (tanto puÒo como espada). Sus oscuras energÌas viajan a travÈs de su arma atacando a su vÌctima... y absorbiendo ese daÒo.
+Los efectos varÌan dependiendo del nivel:
+10∫: 2 asaltos, daÒo extra 4 PG, cura 4 PG
+15∫: 3 asaltos, daÒo extra 6 PG, cura 6 PG
+20∫: 4 asaltos, daÒo extra 8 PG, cura 8 PG
+25∫: 5 asaltos, daÒo extra 10 PG, cura 10 PG
+30∫: 6 asaltos, daÒo extra 12 PG, cura 12 PG~
 @2006 = ~Poderes de engendro de Bhaal
 
-<CHARNAME> ha obtenido la aptitud, utilizable una vez por d√≠a:
+<CHARNAME> ha obtenido la aptitud, utilizable una vez por dÌa:
 
-Resurrecci√≥n (Nigromancia)
+ResurrecciÛn (Nigromancia)
 Alcance: Toque
-Duraci√≥n: Permanente
+DuraciÛn: Permanente
 Tiempo de lanzamiento: 1
-√Årea de efecto: Criatura tocada
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: Criatura tocada
+Tirada de salvaciÛn: Ninguna
 
-DESCRIPCI√ìN:
+DESCRIPCI”N:
 
-Al igual que el conjuro de 5¬∫ nivel Revivir a los muertos, Resurrecci√≥n devolver√° a la vida a un personaje. Sin embargo, Resurrecci√≥n tambi√©n curar√° por completo al resucitado, permiti√©ndole estar listo para vivir nuevas aventuras.~
+Al igual que el conjuro de 5∫ nivel Revivir a los muertos, ResurrecciÛn devolver· a la vida a un personaje. Sin embargo, ResurrecciÛn tambiÈn curar· por completo al resucitado, permitiÈndole estar listo para vivir nuevas aventuras.~
 @2007 = ~Poderes de engendro de Bhaal
 
-<CHARNAME> ha obtenido un 25% de resistencia al da√±o f√≠sico (por ejemplo, el da√±o cortante, perforante, contundente y de proyectil).~
+<CHARNAME> ha obtenido un 25% de resistencia al daÒo fÌsico (por ejemplo, el daÒo cortante, perforante, contundente y de proyectil).~
 @2008 = ~Capacidad de cambio del Asesino mejorada~
 @3000 = ~Espada del caos +4~
-@3001 = ~La hoja de Sarevok, el hermano de <CHARNAME>, utilizada en la batalla en la que combatieron en la lejana Puerta de Baldur. <CHARNAME> se impuso, destruyendo los planes de Sarevok y librando a la Costa de la Espada de la inminente guerra. Ahora Sarevok se ha unido a la causa de <CHARNAME> y su hoja le ha sido devuelta. Sarevok ha descrito el arma como la hoja de un portador de la muerte y ha conseguido recuperar algo del viejo poder de la espada. Sin su esencia de engendro de Bhaal para canalizarla a trav√©s de la espada, de todas formas, no puede alcanzar el poder que una vez tuvo. Todav√≠a, a pesar de todo, es un arma formidable... y algo que Sarevok advierte es que ser√≠a m√°s dif√≠cil de manejar en manos de alguien que no sea un portador de la muerte, si pudiera usarla claro.
+@3001 = ~La hoja de Sarevok, el hermano de <CHARNAME>, utilizada en la batalla en la que combatieron en la lejana Puerta de Baldur. <CHARNAME> se impuso, destruyendo los planes de Sarevok y librando a la Costa de la Espada de la inminente guerra. Ahora Sarevok se ha unido a la causa de <CHARNAME> y su hoja le ha sido devuelta. Sarevok ha descrito el arma como la hoja de un portador de la muerte y ha conseguido recuperar algo del viejo poder de la espada. Sin su esencia de engendro de Bhaal para canalizarla a travÈs de la espada, de todas formas, no puede alcanzar el poder que una vez tuvo. TodavÌa, a pesar de todo, es un arma formidable... y algo que Sarevok advierte es que serÌa m·s difÌcil de manejar en manos de alguien que no sea un portador de la muerte, si pudiera usarla claro.
 
-CARACTER√çSTICAS:
+CARACTERÕSTICAS:
 
 Aptitudes de combate:
-- Cada golpe drena de uno a cinco puntos de golpe al objetivo y los transfiere al portador. Esto no curar√° mas all√° del m√°ximo del portador.
+- Cada golpe drena de uno a cinco puntos de golpe al objetivo y los transfiere al portador. Esto no curar· mas all· del m·ximo del portador.
 
-Aptitudes pose√≠das:
-- La hoja tambi√©n concede un +10% de resistencia m√°gica mientras sea equipada.
+Aptitudes poseÌdas:
+- La hoja tambiÈn concede un +10% de resistencia m·gica mientras sea equipada.
 
-Da√±o: 1D10 +4
-GAC0: Bonificaci√≥n +4
-Tipo de da√±o: Cortante
+DaÒo: 1D10 +4
+GAC0: BonificaciÛn +4
+Tipo de daÒo: Cortante
 Factor de velocidad: 8
 Talento marcial: Mandoble
 Tipo: A dos manos
-Requisitos: Fuerza 14, Constituci√≥n 18
+Requisitos: Fuerza 14, ConstituciÛn 18
 Peso: 10 lbs
 No permitido a:
-Cl√©rigo
+ClÈrigo
 Mago
-Palad√≠n
+PaladÌn
 Explorador
 Druida
-Alineamiento no ca√≥tico~
-@3002 = ~Poci√≥n de Send√°i~
-@3003 = ~Poci√≥n de Send√°i
-Posiblemente un brebaje propiedad de Send√°i, es una poci√≥n incre√≠blemente potente de curaci√≥n capaz de restaurar completamente los puntos de golpe de cualquiera que la use.~
+Alineamiento no caÛtico~
+@3002 = ~PociÛn de Send·i~
+@3003 = ~PociÛn de Send·i
+Posiblemente un brebaje propiedad de Send·i, es una pociÛn increÌblemente potente de curaciÛn capaz de restaurar completamente los puntos de golpe de cualquiera que la use.~

@@ -1,182 +1,182 @@
-@1 = ~Ã„therisch
+@1 = ~Ätherisch
 
-Imoen ist es nun mÃ¶glich, fÃ¼r kurze Zeit die Ã„therische Ebene zu betreten. Diese FÃ¤higkeit kann einmal pro Minute benutzt werden, und sie wird dadurch ebenfalls fÃ¼r eine Minute daran gehindert, die Gestalt des SchlÃ¤chters anzunehmen. Imoen kann fÃ¼r eine Runde vÃ¶llig Ã¤therisch und unerreichbar fÃ¼r KrÃ¤fte dieser Ebene werden. In dieser Zeit ist sie unsichtbar und vollstÃ¤ndig immun gegenÃ¼ber schÃ¤dlichen EinflÃ¼ssen; sie kann aber auch keine Zauber sprechen oder andere FÃ¤higkeiten einsetzen.
+Imoen ist es nun möglich, für kurze Zeit die Ätherische Ebene zu betreten. Diese Fähigkeit kann einmal pro Minute benutzt werden, und sie wird dadurch ebenfalls für eine Minute daran gehindert, die Gestalt des Schlächters anzunehmen. Imoen kann für eine Runde völlig ätherisch und unerreichbar für Kräfte dieser Ebene werden. In dieser Zeit ist sie unsichtbar und vollständig immun gegenüber schädlichen Einflüssen; sie kann aber auch keine Zauber sprechen oder andere Fähigkeiten einsetzen.
 
-FÃ¼r zwei weitere Runden danach kann Imoen "halbzerteilt" sein: sie ist teilweise Ã¤therisch und teilweise auf dieser Ebene. Sie ist immer noch unsichtbar, erleidet aber halben Schaden von allen Angriffen. In diesem Zustand besteht eine geringe Chance (10%), dass ein von ihr gesprochener Zauber versagt. In allen drei Runden kann sie alle unsichtbaren Ziele sehen.~
-@6 = ~Beende Verwandlung zum SchlÃ¤chter
+Für zwei weitere Runden danach kann Imoen "halbzerteilt" sein: sie ist teilweise ätherisch und teilweise auf dieser Ebene. Sie ist immer noch unsichtbar, erleidet aber halben Schaden von allen Angriffen. In diesem Zustand besteht eine geringe Chance (10%), dass ein von ihr gesprochener Zauber versagt. In allen drei Runden kann sie alle unsichtbaren Ziele sehen.~
+@6 = ~Beende Verwandlung zum Schlächter
 
-Diese FÃ¤higkeit ermÃ¶glicht es Imoen die Verwandlung abbrechen und in ihre normale Form zurÃ¼ckzukehren.~
+Diese Fähigkeit ermöglicht es Imoen die Verwandlung abbrechen und in ihre normale Form zurückzukehren.~
 @7 = ~Regeneration
 
 Schule: Nekromantie
-Reichweite: BerÃ¼hrung
+Reichweite: Berührung
 Dauer: 1 Runde pro 2 Stufen
 Zeitaufwand: 7
 Bereich: 1 Wesen
 Rettungswurf: Nein
 
-Mithilfe dieses mÃ¤chtigen Zaubers verleiht der Anwender einem Wesen die FÃ¤higkeit zur Regeneration. Erlittene Verletzungen heilen und selbst verlorene Gliedmassen bilden sich neu. Der Zauber regeneriert 3 Trefferpunkte pro Sekunde und hÃ¤lt an, bis die Wirkungsdauer endet oder der Zauber gebannt wird. Wird der Zauber beispielsweise von einem Kleriker der 14. Stufe gewirkt, so regeneriert das Ziel 7 Runden lang 18 Trefferpunkte je Runde.~
+Mithilfe dieses mächtigen Zaubers verleiht der Anwender einem Wesen die Fähigkeit zur Regeneration. Erlittene Verletzungen heilen und selbst verlorene Gliedmassen bilden sich neu. Der Zauber regeneriert 3 Trefferpunkte pro Sekunde und hält an, bis die Wirkungsdauer endet oder der Zauber gebannt wird. Wird der Zauber beispielsweise von einem Kleriker der 14. Stufe gewirkt, so regeneriert das Ziel 7 Runden lang 18 Trefferpunkte je Runde.~
 @8 = ~Auferstehung
 
 Schule: Nekromantie
-Reichweite: BerÃ¼hrung
+Reichweite: Berührung
 Dauer: Permanent
 Zeitaufwand: 1
 Bereich: 1 Wesen
 Rettungswurf: Nein
 
-Dieser Zauber Ã¤hnelt â€Tote erweckenâ€œ des 5. Grades. Allerdings heilt â€Auferstehungâ€œ den wiederbelebten Charakter auch gleich vollstÃ¤ndig, sodass er sich sofort wieder ins Abenteuer stÃ¼rzen kann.~
-@9 = ~Verwandlung zum SchlÃ¤chter
+Dieser Zauber ähnelt „Tote erwecken“ des 5. Grades. Allerdings heilt „Auferstehung“ den wiederbelebten Charakter auch gleich vollständig, sodass er sich sofort wieder ins Abenteuer stürzen kann.~
+@9 = ~Verwandlung zum Schlächter
 
-Wenn Ihr diese FÃ¤higkeit benutzt, nehmt Ihr die Gestalt der brutalen Essenz Bhaals an: eine brachiale, machtvolle Kreatur, gemacht aus ReiÃŸzÃ¤hnen und Klauen. Das Benutzen dieser FÃ¤higkeit reduziert Euren Ruf um 2 Punkte, da selbst diejenigen, die diesem Ereignis nicht beiwohnen, den inneren Verfall spÃ¼ren kÃ¶nnen, den Ihr durch die Hingabe an Euren Instinkt erleidet.
+Wenn Ihr diese Fähigkeit benutzt, nehmt Ihr die Gestalt der brutalen Essenz Bhaals an: eine brachiale, machtvolle Kreatur, gemacht aus Reißzähnen und Klauen. Das Benutzen dieser Fähigkeit reduziert Euren Ruf um 2 Punkte, da selbst diejenigen, die diesem Ereignis nicht beiwohnen, den inneren Verfall spüren können, den Ihr durch die Hingabe an Euren Instinkt erleidet.
 
-Die Form des SchlÃ¤chters gewÃ¤hrt folgende VorzÃ¼ge:
+Die Form des Schlächters gewährt folgende Vorzüge:
 
-StÃ¤rke: auf 25 gesetzt
+Stärke: auf 25 gesetzt
 Geschicklichkeit: auf 25 gesetzt
 
-RÃ¼stungsklasse: -9
+Rüstungsklasse: -9
 Schaden: 1W8 (Wucht)
-Schadensbonus: +2 (KÃ¤lte)
+Schadensbonus: +2 (Kälte)
 ETW0: 0
 Angriffe pro Runde: 4
 
-SpezialfÃ¤higkeiten:
-â€“ Magiewiderstand: 40 %
-â€“ RettungswÃ¼rfe: 2
-â€“ Trefferpunkte: PLUS_SIGN_PLACEHOLDER 100
-â€“ Immun gegen Einkerkerung, Stufenentzug, BetÃ¤ubung, Furcht, Bezauberung, Verwirrung, Schlaf und Fernkampfangriffe
+Spezialfähigkeiten:
+– Magiewiderstand: 40 %
+– Rettungswürfe: 2
+– Trefferpunkte: PLUS_SIGN_PLACEHOLDER 100
+– Immun gegen Einkerkerung, Stufenentzug, Betäubung, Furcht, Bezauberung, Verwirrung, Schlaf und Fernkampfangriffe
 
-Die Form des SchlÃ¤chters kann schwer zu kontrollieren sein: Pro Runde besteht eine kumulative Chance von 10%, fÃ¼r eine Runde die Kontrolle Ã¼ber sich selbst zu verlieren.~
-@10 = ~Verwandlung zum SchlÃ¤chter
+Die Form des Schlächters kann schwer zu kontrollieren sein: Pro Runde besteht eine kumulative Chance von 10%, für eine Runde die Kontrolle über sich selbst zu verlieren.~
+@10 = ~Verwandlung zum Schlächter
 
-Wenn Ihr diese FÃ¤higkeit benutzt, nehmt Ihr die Gestalt der brutalen Essenz Bhaals an: eine brachiale, machtvolle Kreatur, gemacht aus ReiÃŸzÃ¤hnen und Klauen. Das Benutzen dieser FÃ¤higkeit reduziert Euren Ruf um 2 Punkte, da selbst diejenigen, die diesem Ereignis nicht beiwohnen, den inneren Verfall spÃ¼ren kÃ¶nnen, den Ihr durch die Hingabe an Euren Instinkt erleidet.
+Wenn Ihr diese Fähigkeit benutzt, nehmt Ihr die Gestalt der brutalen Essenz Bhaals an: eine brachiale, machtvolle Kreatur, gemacht aus Reißzähnen und Klauen. Das Benutzen dieser Fähigkeit reduziert Euren Ruf um 2 Punkte, da selbst diejenigen, die diesem Ereignis nicht beiwohnen, den inneren Verfall spüren können, den Ihr durch die Hingabe an Euren Instinkt erleidet.
 
-Die Form des SchlÃ¤chters wurde stÃ¤rker und gewÃ¤hrt nun folgende VorzÃ¼ge:
+Die Form des Schlächters wurde stärker und gewährt nun folgende Vorzüge:
 
-StÃ¤rke: auf 25 gesetzt
+Stärke: auf 25 gesetzt
 Geschicklichkeit: auf 25 gesetzt
 
-RÃ¼stungsklasse: -9
+Rüstungsklasse: -9
 Schaden: 2W6 (Wucht)
-Schadensbonus: +4 (KÃ¤lte)
+Schadensbonus: +4 (Kälte)
 ETW0: -4
 Angriffe pro Runde: 4
 
-SpezialfÃ¤higkeiten:
-â€“ Magiewiderstand: 50 %
-â€“ Widerstand gegen physischen Schaden: 15 %
-â€“ Widerstand gegen magischen Schaden: 30 %
-â€“ RettungswÃ¼rfe: 2
-â€“ Trefferpunkte: PLUS_SIGN_PLACEHOLDER 150
-â€“ Regeneriert 3 Trefferpunkte pro Sekunde
-â€“ Immun gegen Einkerkerung, Stufenentzug, BetÃ¤ubung, Furcht, Bezauberung, Verwirrung, Schlaf und Fernkampfangriffe
-â€“ Chance, die Kontrolle zu verlieren: 10%, plus kumulative 5% pro Runde
+Spezialfähigkeiten:
+– Magiewiderstand: 50 %
+– Widerstand gegen physischen Schaden: 15 %
+– Widerstand gegen magischen Schaden: 30 %
+– Rettungswürfe: 2
+– Trefferpunkte: PLUS_SIGN_PLACEHOLDER 150
+– Regeneriert 3 Trefferpunkte pro Sekunde
+– Immun gegen Einkerkerung, Stufenentzug, Betäubung, Furcht, Bezauberung, Verwirrung, Schlaf und Fernkampfangriffe
+– Chance, die Kontrolle zu verlieren: 10%, plus kumulative 5% pro Runde
 ~
-@11 = ~Verwandlung zum SchlÃ¤chter
+@11 = ~Verwandlung zum Schlächter
 
-Wenn Ihr diese FÃ¤higkeit benutzt, nehmt Ihr die Gestalt der brutalen Essenz Bhaals an: eine brachiale, machtvolle Kreatur, gemacht aus ReiÃŸzÃ¤hnen und Klauen. Das Benutzen dieser FÃ¤higkeit reduziert Euren Ruf um 2 Punkte, da selbst diejenigen, die diesem Ereignis nicht beiwohnen, den inneren Verfall spÃ¼ren kÃ¶nnen, den Ihr durch die Hingabe an Euren Instinkt erleidet.
+Wenn Ihr diese Fähigkeit benutzt, nehmt Ihr die Gestalt der brutalen Essenz Bhaals an: eine brachiale, machtvolle Kreatur, gemacht aus Reißzähnen und Klauen. Das Benutzen dieser Fähigkeit reduziert Euren Ruf um 2 Punkte, da selbst diejenigen, die diesem Ereignis nicht beiwohnen, den inneren Verfall spüren können, den Ihr durch die Hingabe an Euren Instinkt erleidet.
 
-Die Form des SchlÃ¤chters wurde stÃ¤rker und gewÃ¤hrt nun folgende VorzÃ¼ge:
+Die Form des Schlächters wurde stärker und gewährt nun folgende Vorzüge:
 
-StÃ¤rke: auf 25 gesetzt
+Stärke: auf 25 gesetzt
 Geschicklichkeit: auf 25 gesetzt
 
-RÃ¼stungsklasse: -9
+Rüstungsklasse: -9
 Schaden: 2W8 (Wucht)
-Schadensbonus: +8 (KÃ¤lte)
+Schadensbonus: +8 (Kälte)
 ETW0: -8
 Angriffe pro Runde: 4
 
-SpezialfÃ¤higkeiten:
-â€“ Magiewiderstand: 60 %
-â€“ Widerstand gegen physischen Schaden: 30 %
-â€“ Widerstand gegen magischen Schaden: 40 %
-â€“ Angriffe haben eine Chance von 10%, Magie zu bannen und die Magieresistenz zu senken
-â€“ RettungswÃ¼rfe: 2
-â€“ Trefferpunkte: PLUS_SIGN_PLACEHOLDER 200
-â€“ Regeneriert 3 Trefferpunkte pro Sekunde
-â€“ Immun gegen Einkerkerung, Stufenentzug, BetÃ¤ubung, Furcht, Bezauberung, Verwirrung, Schlaf, Krankheit, Gift und Fernkampfangriffe
-â€“ Handlungsfreiheit
-â€“ Chance, die Kontrolle zu verlieren: Kumulativ 5% pro zwei Runden~
-@12 = ~Verwandlung zum WÃ¼ter
+Spezialfähigkeiten:
+– Magiewiderstand: 60 %
+– Widerstand gegen physischen Schaden: 30 %
+– Widerstand gegen magischen Schaden: 40 %
+– Angriffe haben eine Chance von 10%, Magie zu bannen und die Magieresistenz zu senken
+– Rettungswürfe: 2
+– Trefferpunkte: PLUS_SIGN_PLACEHOLDER 200
+– Regeneriert 3 Trefferpunkte pro Sekunde
+– Immun gegen Einkerkerung, Stufenentzug, Betäubung, Furcht, Bezauberung, Verwirrung, Schlaf, Krankheit, Gift und Fernkampfangriffe
+– Handlungsfreiheit
+– Chance, die Kontrolle zu verlieren: Kumulativ 5% pro zwei Runden~
+@12 = ~Verwandlung zum Wüter
 
-Wenn Ihr diese FÃ¤higkeit benutzt, nehmt Ihr die Gestalt des SchlÃ¤chters oder des WÃ¼ters an: eine schreckliche Manifestation Bhaals. Das Benutzen dieser FÃ¤higkeit reduziert Euren Ruf um 2 Punkte fÃ¼r den SchlÃ¤chter bzw. um 3 Punkte fÃ¼r den WÃ¼terich
+Wenn Ihr diese Fähigkeit benutzt, nehmt Ihr die Gestalt des Schlächters oder des Wüters an: eine schreckliche Manifestation Bhaals. Das Benutzen dieser Fähigkeit reduziert Euren Ruf um 2 Punkte für den Schlächter bzw. um 3 Punkte für den Wüterich
 
-Die Form des SchlÃ¤chters gewÃ¤hrt folgende VorzÃ¼ge:
+Die Form des Schlächters gewährt folgende Vorzüge:
 
-StÃ¤rke: auf 25 gesetzt
+Stärke: auf 25 gesetzt
 Geschicklichkeit: auf 25 gesetzt
 
-RÃ¼stungsklasse: -9
+Rüstungsklasse: -9
 Schaden: 2W8 (Wucht)
-Schadensbonus: +8 (KÃ¤lte)
+Schadensbonus: +8 (Kälte)
 ETW0: -8
 Angriffe pro Runde: 4
 
-SpezialfÃ¤higkeiten:
-â€“ Magiewiderstand: 60 %
-â€“ Widerstand gegen physischen Schaden: 30 %
-â€“ Widerstand gegen magischen Schaden: 50 %
-â€“ Angriffe haben eine Chance von 10%, Magie zu bannen und die Magieresistenz zu senken
-â€“ RettungswÃ¼rfe: 2
-â€“ Trefferpunkte: PLUS_SIGN_PLACEHOLDER 200
-â€“ Regeneriert 3 Trefferpunkte pro Sekunde
-â€“ Immun gegen Einkerkerung, Stufenentzug, BetÃ¤ubung, Furcht, Bezauberung, Verwirrung, Schlaf, Krankheit, Gift und Fernkampfangriffe
-â€“ Handlungsfreiheit
-â€“ Chance, die Kontrolle zu verlieren: Kumulativ 5% pro zwei Runden
+Spezialfähigkeiten:
+– Magiewiderstand: 60 %
+– Widerstand gegen physischen Schaden: 30 %
+– Widerstand gegen magischen Schaden: 50 %
+– Angriffe haben eine Chance von 10%, Magie zu bannen und die Magieresistenz zu senken
+– Rettungswürfe: 2
+– Trefferpunkte: PLUS_SIGN_PLACEHOLDER 200
+– Regeneriert 3 Trefferpunkte pro Sekunde
+– Immun gegen Einkerkerung, Stufenentzug, Betäubung, Furcht, Bezauberung, Verwirrung, Schlaf, Krankheit, Gift und Fernkampfangriffe
+– Handlungsfreiheit
+– Chance, die Kontrolle zu verlieren: Kumulativ 5% pro zwei Runden
 
-Die Form des WÃ¼ters gewÃ¤hrt folgende zusÃ¤tzliche VorzÃ¼ge:
+Die Form des Wüters gewährt folgende zusätzliche Vorzüge:
 
 Schaden: 3W8 (Wucht)
-Schadensbonus: +8 (KÃ¤lte)
+Schadensbonus: +8 (Kälte)
 ETW0: -12
 Angriffe pro Runde: 5
 
-â€“ Magiewiderstand: 75 %
-â€“ Widerstand gegen physischen Schaden: 50 %
-â€“ Widerstand gegen elementaren Schaden: 50 %
-â€“ Widerstand gegen magischen Schaden: 50 %
-â€“ Angriffe haben eine Chance von 20%, Magie zu bannen und die Magieresistenz zu senken
-â€“ Trefferpunkte: PLUS_SIGN_PLACEHOLDER 250
-â€“ Regeneriert 5 Trefferpunkte pro Sekunde
-â€“ Immun gegen Einkerkerung, Stufenentzug, BetÃ¤ubung, Furcht, Bezauberung, Verwirrung, Schlaf, Krankheit, Gift und Fernkampfangriffe
-â€“ Handlungsfreiheit
-â€“ Chance, die Kontrolle zu verlieren, erhÃ¶ht sich auf 40% plus eine kumulative Chance von 10% pro Runde~
-@13 = ~Verwandlung zum SchlÃ¤chter
+– Magiewiderstand: 75 %
+– Widerstand gegen physischen Schaden: 50 %
+– Widerstand gegen elementaren Schaden: 50 %
+– Widerstand gegen magischen Schaden: 50 %
+– Angriffe haben eine Chance von 20%, Magie zu bannen und die Magieresistenz zu senken
+– Trefferpunkte: PLUS_SIGN_PLACEHOLDER 250
+– Regeneriert 5 Trefferpunkte pro Sekunde
+– Immun gegen Einkerkerung, Stufenentzug, Betäubung, Furcht, Bezauberung, Verwirrung, Schlaf, Krankheit, Gift und Fernkampfangriffe
+– Handlungsfreiheit
+– Chance, die Kontrolle zu verlieren, erhöht sich auf 40% plus eine kumulative Chance von 10% pro Runde~
+@13 = ~Verwandlung zum Schlächter
 
-Wenn Imoen diese FÃ¤higkeit benutzt, nimmt sie die Gestalt der brutalen Essenz Bhaals an: eine brachiale, machtvolle Kreatur, gemacht aus ReiÃŸzÃ¤hnen und Klauen.
+Wenn Imoen diese Fähigkeit benutzt, nimmt sie die Gestalt der brutalen Essenz Bhaals an: eine brachiale, machtvolle Kreatur, gemacht aus Reißzähnen und Klauen.
 
-Die Form des SchlÃ¤chters gewÃ¤hrt folgende VorzÃ¼ge:
+Die Form des Schlächters gewährt folgende Vorzüge:
 
-StÃ¤rke: auf 25 gesetzt
+Stärke: auf 25 gesetzt
 Geschicklichkeit: auf 25 gesetzt
 
-RÃ¼stungsklasse: -9
+Rüstungsklasse: -9
 Schaden: 1W8 (Wucht)
-Schadensbonus: +2 (KÃ¤lte)
+Schadensbonus: +2 (Kälte)
 ETW0: 0
 Angriffe pro Runde: 4
 
-SpezialfÃ¤higkeiten:
-â€“ Magiewiderstand: 40 %
-â€“ RettungswÃ¼rfe: 2
-â€“ Trefferpunkte: PLUS_SIGN_PLACEHOLDER 100
-â€“ Immun gegen Einkerkerung, Stufenentzug, BetÃ¤ubung, Furcht, Bezauberung, Verwirrung, Schlaf und Fernkampfangriffe
+Spezialfähigkeiten:
+– Magiewiderstand: 40 %
+– Rettungswürfe: 2
+– Trefferpunkte: PLUS_SIGN_PLACEHOLDER 100
+– Immun gegen Einkerkerung, Stufenentzug, Betäubung, Furcht, Bezauberung, Verwirrung, Schlaf und Fernkampfangriffe
 
-Die Form des SchlÃ¤chters kann schwer zu kontrollieren sein: Pro Runde besteht eine kumulative Chance von 10%, fÃ¼r eine Runde die Kontrolle Ã¼ber sich selbst zu verlieren.
-Vielleicht, weil Imoen weniger von Bhaal's Essenz besitzt als <CHARNAME> - oder vielleicht aufgrund dessen, was sie gelernt hat, nachdem Melissan ihre Essenz herbeigerufen hat - ist sie besser in der Lage, die Macht des SchlÃ¤chter einzudÃ¤mmen, und hat keine Chance, die Kontrolle zu verlieren.~
-@14 = ~Bhaalspawn-FÃ¤higkeiten erhalten~
-@15 = ~Imoen kann sich nun in den SchlÃ¤chter verwandeln und einmal pro Minute die Astralebene betreten~
-@16 = ~DÃ¤mon beherrschen
+Die Form des Schlächters kann schwer zu kontrollieren sein: Pro Runde besteht eine kumulative Chance von 10%, für eine Runde die Kontrolle über sich selbst zu verlieren.
+Vielleicht, weil Imoen weniger von Bhaal's Essenz besitzt als <CHARNAME> - oder vielleicht aufgrund dessen, was sie gelernt hat, nachdem Melissan ihre Essenz herbeigerufen hat - ist sie besser in der Lage, die Macht des Schlächter einzudämmen, und hat keine Chance, die Kontrolle zu verlieren.~
+@14 = ~Bhaalspawn-Fähigkeiten erhalten~
+@15 = ~Imoen kann sich nun in den Schlächter verwandeln und einmal pro Minute die Astralebene betreten~
+@16 = ~Dämon beherrschen
 
 Reichweite: Sichtweite
 Dauer: Speziell
 Zeitaufwand: 1
-Bereich: 1 DÃ¤mon
+Bereich: 1 Dämon
 Rettungswurf: Nein
 
-Mit dieser FÃ¤higkeit kann das Kind Bhaals versuchen, Melissan die Kontrolle Ã¼ber einen DÃ¤mon zu entreiÃŸen. Es verwickelt den DÃ¤mon fÃ¼r DURATION_PLACEHOLDER Sekunden in einen mentalen Kampf, an dessen Ende der DÃ¤mon mit einer Wahrscheinlichkeit von SUCCESS_CHANCE_PLACEHOLDER% ein VerbÃ¼ndeter wird. Das Kind Bhaals kann den DÃ¤mon dann jedoch nicht direkt kontrollieren. Die FÃ¤higkeit kann einmal alle 3 Runden eingesetzt werden.~
+Mit dieser Fähigkeit kann das Kind Bhaals versuchen, Melissan die Kontrolle über einen Dämon zu entreißen. Es verwickelt den Dämon für DURATION_PLACEHOLDER Sekunden in einen mentalen Kampf, an dessen Ende der Dämon mit einer Wahrscheinlichkeit von SUCCESS_CHANCE_PLACEHOLDER% ein Verbündeter wird. Das Kind Bhaals kann den Dämon dann jedoch nicht direkt kontrollieren. Die Fähigkeit kann einmal alle 3 Runden eingesetzt werden.~
 @17 = ~Entfesseln
 
 Reichweite: 1,5 m
@@ -185,7 +185,7 @@ Zeitaufwand: 1
 Bereich: 1 Wesen
 Rettungswurf: 1/2 (gg. Tod)
 
-Die FÃ¤higkeit "Entfesseln" setzt Eure innere Kraft frei und trifft ein Ziel in Nahkampfreichweite, wobei DICENUMBER_PLACEHOLDERW12 magischem Schaden verursacht werden (1/2 bei erfolgreichen Rettungswurf gegen Tod -4). AuÃŸerdem wird es zurÃ¼ckgestoÃŸen lÃ¤sst und mÃ¶glicherweise fÃ¼r eine kurze Zeit bewusstlos. Diese FÃ¤higkeit kann nur einmal alle 30 Sekunden eingesetzt werden. Nach dem Einsatz ist das KInd Bhaals 2 Runden lang unglaublich erschÃ¶pft und hat eine 25%ige Fehlzauberchance. Aufgrund der verbrauchten Menge an gÃ¶ttlicher Essenz ist auch die Verwandlung zum SchlÃ¤chter 30 Sekunden lang nicht verfÃ¼gbar.~
+Die Fähigkeit "Entfesseln" setzt Eure innere Kraft frei und trifft ein Ziel in Nahkampfreichweite, wobei DICENUMBER_PLACEHOLDERW12 magischem Schaden verursacht werden (1/2 bei erfolgreichen Rettungswurf gegen Tod -4). Außerdem wird es zurückgestoßen lässt und möglicherweise für eine kurze Zeit bewusstlos. Diese Fähigkeit kann nur einmal alle 30 Sekunden eingesetzt werden. Nach dem Einsatz ist das KInd Bhaals 2 Runden lang unglaublich erschöpft und hat eine 25%ige Fehlzauberchance. Aufgrund der verbrauchten Menge an göttlicher Essenz ist auch die Verwandlung zum Schlächter 30 Sekunden lang nicht verfügbar.~
 @18 = ~Fokus
 
 Reichweite: Anwender
@@ -194,7 +194,7 @@ Zeitaufwand: 1
 Bereich: Anwender
 Rettungswurf: Nein
 
-Mit dieser FÃ¤higkeit kann das Kind Bhaals innere Energien fokussieren, um Ã¤uÃŸeren Zaubern zu widerstehen. FÃ¼r eine Dauer von 30 Sekunden wird es immun gegen die Zauber Fleisch zu Stein, AuflÃ¶sung und Zeitstop. Auch alle Zauber vom 1. bis 3. Grad haben keine Auswirkung. Diese FÃ¤higkeit kann einmal pro Minute eingesetzt werden.~
+Mit dieser Fähigkeit kann das Kind Bhaals innere Energien fokussieren, um äußeren Zaubern zu widerstehen. Für eine Dauer von 30 Sekunden wird es immun gegen die Zauber Fleisch zu Stein, Auflösung und Zeitstop. Auch alle Zauber vom 1. bis 3. Grad haben keine Auswirkung. Diese Fähigkeit kann einmal pro Minute eingesetzt werden.~
 @19 = ~Dimensionstor
 
 Reichweite: Unbegrenzt
@@ -206,7 +206,7 @@ Rettungswurf: Nein
 Das Kind Bhaals kann sich nun frei durch Raum und Ebenen bewegen. Diese Teleportationskraft kann einmal pro Runde eingesetzt werden.~
 @20 = ~Gestaltwandlung: Fledermaus
 
-Diese FÃ¤higkeit erlaubt es Bodhi, sich in eine Fledermaus zu verwandeln.~
+Diese Fähigkeit erlaubt es Bodhi, sich in eine Fledermaus zu verwandeln.~
 @21 = ~Heilige Macht entlehnen
 
 Schule: Hervorrufung
@@ -216,7 +216,7 @@ Zeitaufwand: 1
 Bereich: Anwender
 Rettungswurf: Nein
 
-Das Kind Bhaals zapft die Energien seines unheiligen Blutes an, um so fÃ¼r kurze Zeit auÃŸergewÃ¶hnliche Macht zu erlangen. Es erhÃ¤lt dadurch 25 StÃ¤rke, Geschicklichkeit und Konstitution.~
+Das Kind Bhaals zapft die Energien seines unheiligen Blutes an, um so für kurze Zeit außergewöhnliche Macht zu erlangen. Es erhält dadurch 25 Stärke, Geschicklichkeit und Konstitution.~
 @22 = ~Resistenzen wechseln
 
 Reichweite: Anwender
@@ -225,7 +225,7 @@ Zeitaufwand: 1
 Bereich: Anwender
 Rettungswurf: Nein
 
-Mit dieser FÃ¤higkeit kehrt Balthasar seine angeborenen Resistenzen um. Seine normale 10% Resistenz gegen physischen Schaden erhÃ¶ht sich auf 90%; seine normale 90% Resistenz gegen Magie, magischen Schaden und Elementarschaden sinkt auf 10%.
+Mit dieser Fähigkeit kehrt Balthasar seine angeborenen Resistenzen um. Seine normale 10% Resistenz gegen physischen Schaden erhöht sich auf 90%; seine normale 90% Resistenz gegen Magie, magischen Schaden und Elementarschaden sinkt auf 10%.
 
 Balthasar kann seine Resistenzen nach Belieben umkehren.~
 @23 = ~Resistenzen wechseln
@@ -236,7 +236,7 @@ Zeitaufwand: 1
 Bereich: Anwender
 Rettungswurf: Nein
 
-Mit dieser FÃ¤higkeit kehrt Balthasar seine angeborenen Resistenzen um. Seine normale 10% Resistenz gegen physischen Schaden wird wiederhergestellt; so wird auch seine normale 90% Resistenz gegen Magie, magischen Schaden und Elementarschaden wiederhergestellt.
+Mit dieser Fähigkeit kehrt Balthasar seine angeborenen Resistenzen um. Seine normale 10% Resistenz gegen physischen Schaden wird wiederhergestellt; so wird auch seine normale 90% Resistenz gegen Magie, magischen Schaden und Elementarschaden wiederhergestellt.
 
 Balthasar kann seine Resistenzen nach Belieben umkehren.~
 @24 = ~Sonnen-Stellung
@@ -245,9 +245,9 @@ Reichweite: Anwender
 Dauer: 3 Stunden
 Zeitaufwand: 1
 Bereich: 9 m Radius
-RettungswÃ¼rfe: Nein
+Rettungswürfe: Nein
 
-Mit dieser FÃ¤higkeit ruft Balthasar die Kraft der Sonne herbei. Er erhÃ¤lt 127% Feuerresistenz (auch wenn er Resistenzen wechseln einsetzt hat) und alle seine Angriffe fÃ¼gen zusÃ¤tzlich 1W10 Feuerschaden zu; dieser Schaden heilt Balthasar sogar. Wenn Balthasar die Sonnen-Stellung einnimmt, setzt er einen Flammenstrahl frei, der 12W6 Feuerschaden (1/2 bei Rettungwurf gg. Zauber) und 1W8 Wuchtschaden an allen Kreaturen im Umkreis von 9 m verursacht und diese wegsprengt.
+Mit dieser Fähigkeit ruft Balthasar die Kraft der Sonne herbei. Er erhält 127% Feuerresistenz (auch wenn er Resistenzen wechseln einsetzt hat) und alle seine Angriffe fügen zusätzlich 1W10 Feuerschaden zu; dieser Schaden heilt Balthasar sogar. Wenn Balthasar die Sonnen-Stellung einnimmt, setzt er einen Flammenstrahl frei, der 12W6 Feuerschaden (1/2 bei Rettungwurf gg. Zauber) und 1W8 Wuchtschaden an allen Kreaturen im Umkreis von 9 m verursacht und diese wegsprengt.
 
 Balthasar kann immer nur eine Haltung aktiv haben: Wenn er in Sonnen-Stellung geht, werden alle anderen Stellungen aufgehoben. Die Sonnen-Stellung kann mit Bresche entfernt werden.~
 @25 = ~Mond-Stellung
@@ -258,7 +258,7 @@ Zeitaufwand: 1
 Bereich: Anwender
 Rettungswurf: Nein
 
-Mit dieser FÃ¤higkeit ruft Balthasar die Kraft des Mondes herbei. WÃ¤hrend er sich in der Mond-Stellung befindet, ist Balthasar immun gegen Entzug von Lebensenergie, Einkerkerung und Zeitstopp. Zudem kann er einmal die FÃ¤higkeit Mond-Verderbnis einsetzen. Beim Eintritt in die Mond-Stellung werden alle Feinde in der NÃ¤he von Balthasar fÃ¼r vier Runden lang geblendet (Rettungswurf gg. Zauber).
+Mit dieser Fähigkeit ruft Balthasar die Kraft des Mondes herbei. Während er sich in der Mond-Stellung befindet, ist Balthasar immun gegen Entzug von Lebensenergie, Einkerkerung und Zeitstopp. Zudem kann er einmal die Fähigkeit Mond-Verderbnis einsetzen. Beim Eintritt in die Mond-Stellung werden alle Feinde in der Nähe von Balthasar für vier Runden lang geblendet (Rettungswurf gg. Zauber).
 
 Balthasar kann immer nur eine Haltung aktiv haben: Wenn er in Mond-Stellung geht, werden alle anderen Stellungen aufgehoben. Die Mond-Stellung kann mit Bresche entfernt werden.~
 @26 = ~Schattenhaltung
@@ -269,7 +269,7 @@ Zeitaufwand: 1
 Wirkungsbereich: Anwender
 Rettungswurf: Nein
 
-Mit dieser FÃ¤higkeit ruft Balthasar die Macht der Schattenebene herbei. WÃ¤hrend er sich in Schattenhaltung befindet, ist Balthasar durch Verbesserte Unsichtbarkeit geschÃ¼tzt (und ist fÃ¼r die ersten 15 Sekunden oder bis er angreift vollstÃ¤ndig unsichtbar). ZusÃ¤tzlich zu den bereits betrÃ¤chtlichen defensiven Vorteilen der Verbesserten Unsichtbarkeit gewÃ¤hrt die Schattenhaltung Balthasar einen zusÃ¤tzlichen Bonus von +6 auf die RÃ¼stungsklasse.
+Mit dieser Fähigkeit ruft Balthasar die Macht der Schattenebene herbei. Während er sich in Schattenhaltung befindet, ist Balthasar durch Verbesserte Unsichtbarkeit geschützt (und ist für die ersten 15 Sekunden oder bis er angreift vollständig unsichtbar). Zusätzlich zu den bereits beträchtlichen defensiven Vorteilen der Verbesserten Unsichtbarkeit gewährt die Schattenhaltung Balthasar einen zusätzlichen Bonus von +6 auf die Rüstungsklasse.
 
 Balthasar kann immer nur eine Haltung aktiv haben: Wenn er in Schattenhaltung geht, werden alle anderen Stellungen aufgehoben. Die Schattenhaltung kann mit Orakel oder Wahrer Blick aufgehoben werden.~
 @27 = ~Schneller als das Auge
@@ -282,18 +282,18 @@ Rettungswurf: Nein
 
 Sofort teleportiert sich Balthasar an einen Ort in Sichtweite.
 
-Diese FÃ¤higkeit kann einmal alle zwei Runden eingesetzt werden.~
+Diese Fähigkeit kann einmal alle zwei Runden eingesetzt werden.~
 @28 = ~Drachenfaust
 
-Reichweite: BerÃ¼hrung
+Reichweite: Berührung
 Dauer: Speziell
 Zeitaufwand: 0
 Bereich: 1 Wesen
 Rettungswurf: Nein
 
-Indem er zusÃ¤tzliche Energie in einen Schlag kanalisiert, durchbricht Balthasar die magische Verteidigung seines Gegners. Die Drachenfaust hat eine Chance von 25%, alle Kampfschutz- und VerstÃ¤rkungszauber unterhalb des 9. Grades zu zerstÃ¶ren, eine Chance von 25%, alle magischen Schutzzauber unterhalb des 9. Grades zu zerstÃ¶ren, und eine Chance von 50%, beides zu zerstÃ¶ren. AuÃŸerdem verlangsamt sie ihr Ziel zwei Runden lang (und verursacht einen Malus von -4 auf RK und AngriffswÃ¼rfe).
+Indem er zusätzliche Energie in einen Schlag kanalisiert, durchbricht Balthasar die magische Verteidigung seines Gegners. Die Drachenfaust hat eine Chance von 25%, alle Kampfschutz- und Verstärkungszauber unterhalb des 9. Grades zu zerstören, eine Chance von 25%, alle magischen Schutzzauber unterhalb des 9. Grades zu zerstören, und eine Chance von 50%, beides zu zerstören. Außerdem verlangsamt sie ihr Ziel zwei Runden lang (und verursacht einen Malus von -4 auf RK und Angriffswürfe).
 
-Diese FÃ¤higkeit kann einmal alle 3 Runden eingesetzt werden.~
+Diese Fähigkeit kann einmal alle 3 Runden eingesetzt werden.~
 @29 = ~Tigerschlag
 
 Reichweite: Anwender
@@ -302,10 +302,10 @@ Zeitaufwand: 1
 Bereich: Anwender
 Rettungswurf: Nein
 
-Solange Tigerschlag aktiv ist, hat Balthasar eine Chance von 50% auf einen kritischen Treffer. AuÃŸerdem wird sein Opfer bei jedem Treffer nach hinten geschleudert und fÃ¼r 1 Runde betÃ¤ubt.
+Solange Tigerschlag aktiv ist, hat Balthasar eine Chance von 50% auf einen kritischen Treffer. Außerdem wird sein Opfer bei jedem Treffer nach hinten geschleudert und für 1 Runde betäubt.
 
-Diese FÃ¤higkeit kann einmal alle 4 Runden eingesetzt werden.~
-@30 = ~Hand des MÃ¶rders
+Diese Fähigkeit kann einmal alle 4 Runden eingesetzt werden.~
+@30 = ~Hand des Mörders
 
 Reichweite: Anwender
 Dauer: 1 Runden
@@ -313,20 +313,20 @@ Zeitaufwand: 1
 Bereich: Anwender
 Rettungswurf: Nein
 
-Durch die Kombination zusÃ¤tzlicher Energie mit seiner Bhaalspross-Essenz werden alle Angriffe von Balthasar eine Runde lang automatisch zu kritischen Treffern. In den ersten 3 Sekunden, nachdem er die FÃ¤higkeit aktiviert hat, fÃ¤llt jeder, der getroffen wird, tot um (Rettungswurf gg. Zauber).
+Durch die Kombination zusätzlicher Energie mit seiner Bhaalspross-Essenz werden alle Angriffe von Balthasar eine Runde lang automatisch zu kritischen Treffern. In den ersten 3 Sekunden, nachdem er die Fähigkeit aktiviert hat, fällt jeder, der getroffen wird, tot um (Rettungswurf gg. Zauber).
 
-Diese FÃ¤higkeit kann einmal alle 3 Runden eingesetzt werden.~
+Diese Fähigkeit kann einmal alle 3 Runden eingesetzt werden.~
 @31 = ~Schattenloser Tritt
 
-Reichweite: BerÃ¼hrung
+Reichweite: Berührung
 Dauer: 4 Sekunden
 Zeitaufwand: 0
 Bereich: 1 Wesen
 Rettungswurf: Nein
 
-Mit einem krÃ¤ftigen Tritt stÃ¶ÃŸt Balthasar seinen Gegner weg und lÃ¤sst ihn durch die Luft fliegen. Durch den Aufprall erleidet er 4W8 Schaden und ist einige Sekunden lang bewusstlos.
+Mit einem kräftigen Tritt stößt Balthasar seinen Gegner weg und lässt ihn durch die Luft fliegen. Durch den Aufprall erleidet er 4W8 Schaden und ist einige Sekunden lang bewusstlos.
 
-Diese FÃ¤higkeit kann einmal alle 2 Runden eingesetzt werden.~
+Diese Fähigkeit kann einmal alle 2 Runden eingesetzt werden.~
 @32 = ~Mond-Verderbnis
 
 Reichweite: 10 m
@@ -335,6 +335,6 @@ Zeitaufwand: 1
 Bereich: 1 Wesen
 Rettungswurf: Speziell
 
-Das von Mond-Verderbnis betroffene Ziel erleidet einen Malus von -4 auf alle RettungswÃ¼rfe fÃ¼r 40 Runden. ZusÃ¤tzlich muss dem Ziel ein Rettungswurf mit einem Malus von -4 gegen Zauber gelingen oder es wird fÃ¼r 2 Runden verlangsamt (mit einem Malus von -4 auf RK und AngriffswÃ¼rfe).
+Das von Mond-Verderbnis betroffene Ziel erleidet einen Malus von -4 auf alle Rettungswürfe für 40 Runden. Zusätzlich muss dem Ziel ein Rettungswurf mit einem Malus von -4 gegen Zauber gelingen oder es wird für 2 Runden verlangsamt (mit einem Malus von -4 auf RK und Angriffswürfe).
 
-Balthasar kann diese FÃ¤higkeit ein Mal einsetzen, wenn er in Mond-Stellung geht.~
+Balthasar kann diese Fähigkeit ein Mal einsetzen, wenn er in Mond-Stellung geht.~
