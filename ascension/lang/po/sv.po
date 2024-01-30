@@ -80,7 +80,7 @@ msgstr "Gudomlig återupprättelse"
 
 #: ascension.tra:1026
 msgid "Divine Cleansing"
-msgstr ""
+msgstr "Gudomlig rening"
 
 #: ascension.tra:1027
 msgid "Paralyzation Aura"
