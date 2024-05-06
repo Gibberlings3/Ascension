@@ -40,9 +40,9 @@ LANGUAGE ~Traducción al Español (Clan REO, ElGamerViejuno)~
          ~spanish~
          ~ascension/lang/spanish/setup.tra~
 
-LANGUAGE ~Chinese Translation (by kalabaka)~
+LANGUAGE ~Simplified Chinese Translation (by kalabaka)~
          ~schinese~
-         ~ascension/lang/schinese/setup.tra~
+         ~ascension/lang/schinese/setup-%WEIDU_OS%.tra~
 
 LANGUAGE ~Traditional Chinese Translation (by kalabaka)~
          ~tchinese~
@@ -67,11 +67,6 @@ LANGUAGE ~Italian (Al17, Alessandro, Max, M.Inxes, Rahar and Stefano)~
 LANGUAGE ~Portuguese (Ecthelion)~
          ~portuguese~
          ~ascension/lang/portuguese/setup.tra~ 
-
-LANGUAGE ~Swedish~
-         ~swedish~
-         ~ascension/lang/swedish/setup.tra~ 
-
 
 // test component
 
