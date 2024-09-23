@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2024-09-23 05:09+0000\n"
+"PO-Revision-Date: 2024-09-23 06:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -100,7 +100,7 @@ msgstr ""
 
 #: ascension.tra:1038
 msgid "Melissan: Command the Minions of the Abyss"
-msgstr ""
+msgstr "Melissan: Ta befäl över avgrundens hantlangare"
 
 #: ascension.tra:1039
 msgid "Bhaalspawn Power gained: Immunity to Energy Drain"
@@ -116,7 +116,7 @@ msgstr "Transfixerad"
 
 #: ascension.tra:1042
 msgid "Weapons weakened by Babau slime"
-msgstr ""
+msgstr "Vapen försvagade av Babau-slem"
 
 #: ascension.tra:1043
 msgid "Grabbed"
@@ -124,39 +124,39 @@ msgstr "Greppad"
 
 #: ascension.tra:1044
 msgid "Regains Bhaal powers"
-msgstr ""
+msgstr "Återfår Bhaalkrafter"
 
 #: ascension.tra:1045
 msgid "You have regained control for now."
-msgstr ""
+msgstr "Du har återtagit kontrollen för tillfället."
 
 #: ascension.tra:1046 ascension.tra:1047
 msgid "Magic Resistance lowered by 5%"
-msgstr ""
+msgstr "Magiresistens sänkt med 5%"
 
 #: ascension.tra:1048
 msgid "Slayer transformation enhanced"
-msgstr ""
+msgstr "Slaktartransformation förbättrad"
 
 #: ascension.tra:1049
 msgid "The demon bows to your will"
-msgstr ""
+msgstr "Demonen böjer sig för din vilja"
 
 #: ascension.tra:1050
 msgid "The demon defies your will"
-msgstr ""
+msgstr "Demonen trotsar din vilja"
 
 #: ascension.tra:1051
 msgid "This power only affects demons"
-msgstr ""
+msgstr "Denna kraft påverkar endast demoner"
 
 #: ascension.tra:1052
 msgid "The demon bows to Melissan's will"
-msgstr ""
+msgstr "Demonen böjer sig för Melissans vilja"
 
 #: ascension.tra:1053
 msgid "The demon defies Melissan's will"
-msgstr ""
+msgstr "Demonen trotsar Melissans vilja"
 
 #: ascension.tra:1054
 msgid "Bhaalspawn Power gained: Unleash"
