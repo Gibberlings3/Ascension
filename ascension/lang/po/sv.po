@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2024-09-23 06:09+0000\n"
+"PO-Revision-Date: 2024-09-23 07:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -136,7 +136,7 @@ msgstr "Magiresistens sänkt med 5%"
 
 #: ascension.tra:1048
 msgid "Slayer transformation enhanced"
-msgstr "Slaktartransformation förbättrad"
+msgstr "Dräpartransformation förbättrad"
 
 #: ascension.tra:1049
 msgid "The demon bows to your will"
