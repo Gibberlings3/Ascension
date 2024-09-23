@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2023-03-31 21:05+0000\n"
+"PO-Revision-Date: 2024-09-23 05:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -84,15 +84,15 @@ msgstr "Gudomlig rening"
 
 #: ascension.tra:1027
 msgid "Paralyzation Aura"
-msgstr ""
+msgstr "Förlamningsaura"
 
 #: ascension.tra:1029 tougher.tra:8
 msgid "Lava Bomb"
-msgstr ""
+msgstr "Lavabomb"
 
 #: ascension.tra:1031
 msgid "Symbol, Slow"
-msgstr ""
+msgstr "Symbol, Långsam"
 
 #: ascension.tra:1037
 msgid "Ravager Change"
