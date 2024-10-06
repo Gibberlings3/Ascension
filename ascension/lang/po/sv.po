@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2024-09-27 14:09+0000\n"
+"PO-Revision-Date: 2024-10-06 09:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -96,7 +96,7 @@ msgstr "Symbol, Långsam"
 
 #: ascension.tra:1037
 msgid "Ravager Change"
-msgstr ""
+msgstr "Ravager Förändring"
 
 #: ascension.tra:1038
 msgid "Melissan: Command the Minions of the Abyss"
@@ -192,27 +192,27 @@ msgstr ""
 
 #: ascension.tra:1062
 msgid "Divine Gift"
-msgstr ""
+msgstr "Gudomlig gåva"
 
 #: ascension.tra:1063
 msgid "Magic Resistance Restored"
-msgstr ""
+msgstr "Magiskt motstånd återställt"
 
 #: ascension.tra:1064
 msgid "Antimagic Protections Removed"
-msgstr ""
+msgstr "Antimagiska skydd borttagna"
 
 #: ascension.tra:1065
 msgid "Combat Protections Removed"
-msgstr ""
+msgstr "Stridsskydd borttagna"
 
 #: ascension.tra:1066
 msgid "AI deactivated"
-msgstr ""
+msgstr "AI avaktiverad"
 
 #: ascension.tra:1067
 msgid "AI activated"
-msgstr ""
+msgstr "AI aktiverad"
 
 #: ascension.tra:1068
 msgid "Lunar Malison"
@@ -378,19 +378,26 @@ msgstr ""
 
 #: ascension.tra:3002
 msgid "Sendai's Potion"
-msgstr ""
+msgstr "Sendais dryck"
 
 #: ascension.tra:3003
 msgid ""
 "Sendai's Potion\n"
 "Possibly a brew of Sendai's own, this is an incredibly potent healing potion capable of fully restoring the hit points of any who use it."
 msgstr ""
+"Sendai's dryck\n"
+"Möjligen en egen brygd av Sendai vilket betyder att detta är en otroligt "
+"potent läkande dryck som helt kan återställa livspoängen hos alla som "
+"använder den."
 
 #: balth.tra:1060
 msgid ""
 "I wish I could take the credit for this ruse, <CHARNAME>. But it seems I was"
 " not the only member of the Five who plotted the downfall of the others."
 msgstr ""
+"Jag önskar att jag kunde ta åt mig äran för detta knep, <CHARNAME>. Men det "
+"verkar som om jag inte var den enda medlemmen av De Fem som planerade de "
+"andras undergång."
 
 #: balth.tra:1072
 msgid ""
