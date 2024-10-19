@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2024-10-06 09:09+0000\n"
+"PO-Revision-Date: 2024-10-19 16:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -910,25 +910,36 @@ msgid ""
 "it seems that my destiny may differ from yours. I have no heavenly guidance."
 " Perhaps my path has been made for me, yet."
 msgstr ""
+"Du planterar ett frö av tvivel i mig, <CHARNAME>, och jag börjar undra. "
+"Ändå... verkar det som om mitt öde kan skilja sig från ditt. Jag har ingen "
+"himmelsk vägledning. Kanske min väg är lagd för mig, ännu."
 
 #: balth.tra:1155
 msgid ""
 "What you say is incredible, and yet... it does make sense. Have I prepared "
 "myself for all this time in error? How could this be?"
 msgstr ""
+"Det du säger är otroligt, och ändå... är det logiskt. Har jag förberett mig "
+"för all denna tid felaktigt? Hur kan detta vara?"
 
 #: balth.tra:1156
 msgid ""
 "An appealing notion, to walk away. Would that I could do so. Would that any "
 "of us could have done so."
 msgstr ""
+"En tilltalande tanke, att lämna det bakom mig. Jag önskar att jag kunde göra "
+"det. Jag önskar att någon av oss hade kunnat göra det."
 
 #: balth.tra:1157
+#, fuzzy
 msgid ""
 "But perhaps I have resigned myself to a path that is not what it seems. You "
 "are... hardly what I expected for the last of the Bhaalspawn, <CHARNAME>. "
 "Perhaps there is hope... or perhaps I am only deluding myself."
 msgstr ""
+"Men jag kanske har förlikat mig med en väg som inte är vad den verkar. Du "
+"är... knappast vad jag förväntade mig av den sista av Bhaalspawn, "
+"<CHARNAME>. Kanske finns det hopp... eller kanske inbillar jag mig bara."
 
 #: balth.tra:1158
 msgid ""
