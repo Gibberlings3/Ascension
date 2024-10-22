@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2024-10-19 16:09+0000\n"
+"PO-Revision-Date: 2024-10-22 09:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -2798,6 +2798,12 @@ msgid ""
 "\n"
 "Weight: 1"
 msgstr ""
+"Möjligen en a Sendais egna brygder, detta är en otroligt potent läkande "
+"dryck som helt kan återställa hälsopoängen hos alla som använder den.\n"
+"\n"
+"STATISTIK:\n"
+"\n"
+"Vikt: 1"
 
 #: items-ee.tra:3004
 msgid ""
@@ -2814,13 +2820,15 @@ msgstr ""
 
 #: items-ee.tra:3006
 msgid "Only Sarevok can use this weapon."
-msgstr ""
+msgstr "Endast Sarevok kan använda det här vapnet."
 
 #: mel_balth.tra:591
 msgid ""
 "You don't have all the essence of Bhaal... not by far. And I rule here, as "
 "well... you know that."
 msgstr ""
+"Du har inte hela Bhaals väsen... inte på långa vägar. Och jag styr här "
+"också. Det vet du."
 
 #: mel_balth.tra:605
 msgid ""
@@ -2830,6 +2838,11 @@ msgid ""
 "Unlikely as that was, considering the pathetic monk could barely see the "
 "forest for the trees."
 msgstr ""
+"Det är sant. Mer insiktsfullt än jag hade förväntat mig av dig, <CHARNAME>. "
+"Och mycket smartare av dig att förneka mig Balthazars essens... även om jag, "
+"för att säga sanningen, i hemlighet hoppades att han skulle ha besegrat dig. "
+"Hur osannolikt det än var, med tanke på att den patetiska munken knappt "
+"kunde se skogen för alla träd."
 
 #: mel_balth.tra:613
 msgid ""
