@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2024-10-23 13:09+0000\n"
+"PO-Revision-Date: 2024-10-23 17:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -1272,6 +1272,8 @@ msgid ""
 "No Bodhi, I think I will keep all of my soul. You will fall back into the "
 "abyss. Give Bhaal my regards."
 msgstr ""
+"Nej Bodhi, jag tror att jag kommer att behålla hela min själ. Du kommer att "
+"falla tillbaka ner i avgrunden. Hälsa Bhaal från mig."
 
 #: bodhi_solar.tra:78
 msgid ""
@@ -1285,28 +1287,32 @@ msgid ""
 "This is my realm, Bodhi. I control everything here. It is time for you to "
 "join your brother."
 msgstr ""
+"Det här är min domän, Bodhi. Jag kontrollerar allt här. Det är dags för dig "
+"att återvända till din bror."
 
 #: bodhi_solar.tra:80
 msgid ""
 "Enough talk! The dance has come to an end, Bodhi, and so has your part in "
 "it."
-msgstr ""
+msgstr "Nog med prat! Dansen är slut, Bodhi, och det är även din del i den."
 
 #: bodhi_solar.tra:81
 msgid "Die! Witness my power, insect!"
-msgstr ""
+msgstr "Dö! Bevittna min makt, insekt!"
 
 #: bodhi_solar.tra:82
 msgid ""
 "Oh Bodhi, you should have begged. I would have liked to see that. Too late "
 "now."
-msgstr ""
+msgstr "Åh Bodhi, du skulle ha bett. Jag skulle ha velat se det. För sent nu."
 
 #: bodhi_solar.tra:83
 msgid ""
 "So you have betrayed me, <CHARNAME>. It would seem that working together was"
 " never our true calling."
 msgstr ""
+"Så du har förrått mig, <CHARNAME>. Det verkar som om det aldrig var vårt "
+"sanna kall att arbeta tillsammans."
 
 #: bodhi_solar.tra:84
 msgid ""
