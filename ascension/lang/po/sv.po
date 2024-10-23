@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2024-10-23 17:09+0000\n"
+"PO-Revision-Date: 2024-10-23 18:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -1810,6 +1810,10 @@ msgid ""
 " must understand what awaits you now at the end of your journey, godchild..."
 " and for this, the one you know as Melissan will explain for herself."
 msgstr ""
+"Den döde guden Bhaal har inte väckts till liv igen och kommer kanske aldrig "
+"att göra det. Du måste förstå vad som väntar dig nu vid slutet av din resa, "
+"gudbarn ... och för detta kommer den du känner som Melissan att förklara för "
+"sig själv."
 
 #: dream_solar.tra:239
 msgid ""
@@ -1822,6 +1826,8 @@ msgstr ""
 msgid ""
 "Wait... what is Balthazar's part in all this? You knew I wouldn't fight him?"
 msgstr ""
+"Vänta... Vad är Balthazars del i allt det här? Du visste att jag inte skulle "
+"slåss mot honom?"
 
 #: dream_solar.tra:241
 msgid ""
@@ -1830,16 +1836,22 @@ msgid ""
 "returned to its source, and Melissan will seek to collect it. This is the "
 "challenge that awaits you."
 msgstr ""
+"Du behövde inte slåss mot honom. Resten av De Fem har besegrats. Med "
+"Balthazar och dig själv vid liv, har inte all Bhaals gudomliga essens "
+"återvänt till sin källa, och Melissan kommer att försöka samla in den. Detta "
+"är utmaningen som väntar dig."
 
 #: dream_solar.tra:242
 msgid "But... Melissan is part of the Five, isn't she?"
-msgstr ""
+msgstr "Men... Melissan är en del av De Fem, eller hur?"
 
 #: dream_solar.tra:243
 msgid ""
 "So Melissan has not collected enough of the essence, yet, to resurrect "
 "Bhaal, right?"
 msgstr ""
+"Så Melissan har inte samlat tillräckligt med essens, än, för att återuppliva "
+"Bhaal, eller hur?"
 
 #: dream_solar.tra:244
 msgid ""
@@ -1849,11 +1861,11 @@ msgstr ""
 
 #: dream_solar.tra:245
 msgid "Another challenge. Alright, alright... let's just get this over with."
-msgstr ""
+msgstr "Ännu en utmaning. Okej, okej... låt oss bara få det här överstökat."
 
 #: dream_solar.tra:246
 msgid "You do not yet understand. But all shall become clear."
-msgstr ""
+msgstr "Du förstår ännu inte. Men allt kommer att bli klart."
 
 #: epilogues.tra:4001
 msgid ""
