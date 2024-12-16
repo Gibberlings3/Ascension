@@ -15,26 +15,26 @@
 @1024 = ~Återkoppling~
 @1025 = ~Gudomlig återupprättelse~
 @1026 = ~Gudomlig rening~
-@1027 = ~Paralyzation Aura~
-@1029 = ~Lava Bomb~
-@1031 = ~Symbol, Slow~
-@1037 = ~Ravager Change~
-@1038 = ~Melissan: Command the Minions of the Abyss~
+@1027 = ~Förlamningsaura~
+@1029 = ~Lavabomb~
+@1031 = ~Symbol, Långsam~
+@1037 = ~Ravager Förändring~
+@1038 = ~Melissan: Ta befäl över avgrundens hantlangare~
 @1039 = ~Bhaalspawn Power gained: Immunity to Energy Drain~
 @1040 = ~Bhaalspawn Power gained: 25% physical damage resistance~
 @1041 = ~Transfixerad~
-@1042 = ~Weapons weakened by Babau slime~
+@1042 = ~Vapen försvagade av Babau-slem~
 @1043 = ~Greppad~
-@1044 = ~Regains Bhaal powers~
-@1045 = ~You have regained control for now.~
-@1046 = ~Magic Resistance lowered by 5%~
-@1047 = ~Magic Resistance lowered by 5%~
-@1048 = ~Slayer transformation enhanced~
-@1049 = ~The demon bows to your will~
-@1050 = ~The demon defies your will~
-@1051 = ~This power only affects demons~
-@1052 = ~The demon bows to Melissan's will~
-@1053 = ~The demon defies Melissan's will~
+@1044 = ~Återfår Bhaalkrafter~
+@1045 = ~Du har återtagit kontrollen för tillfället.~
+@1046 = ~Magiresistens sänkt med 5%~
+@1047 = ~Magiresistens sänkt med 5%~
+@1048 = ~Dräpartransformation förbättrad~
+@1049 = ~Demonen böjer sig för din vilja~
+@1050 = ~Demonen trotsar din vilja~
+@1051 = ~Denna kraft påverkar endast demoner~
+@1052 = ~Demonen böjer sig för Melissans vilja~
+@1053 = ~Demonen trotsar Melissans vilja~
 @1054 = ~Bhaalspawn Power gained: Unleash~
 @1055 = ~Bhaalspawn Power gained: immunity to death magic~
 @1056 = ~Bhaalspawn Power gained: immunity to vorpal effects~
@@ -43,12 +43,12 @@
 @1059 = ~Bhaalspawn Power gained: immunity to Maze and Imprisonment~
 @1060 = ~Bhaalspawn Power gained: Focus~
 @1061 = ~Bhaalspawn Power gained: immunity to Taint of the Slayer~
-@1062 = ~Divine Gift~
-@1063 = ~Magic Resistance Restored~
-@1064 = ~Antimagic Protections Removed~
-@1065 = ~Combat Protections Removed~
-@1066 = ~AI deactivated~
-@1067 = ~AI activated~
+@1062 = ~Gudomlig gåva~
+@1063 = ~Magiskt motstånd återställt~
+@1064 = ~Antimagiska skydd borttagna~
+@1065 = ~Stridsskydd borttagna~
+@1066 = ~AI avaktiverad~
+@1067 = ~AI aktiverad~
 @1068 = ~Lunar Malison~
 @2000 = ~Bhaalspawn Powers
 
@@ -166,6 +166,6 @@ Paladin
 Ranger
 Druid
 non-Chaotic aligned~
-@3002 = ~Sendai's Potion~
-@3003 = ~Sendai's Potion
-Possibly a brew of Sendai's own, this is an incredibly potent healing potion capable of fully restoring the hit points of any who use it.~
+@3002 = ~Sendais dryck~
+@3003 = ~Sendai's dryck
+Möjligen en egen brygd av Sendai vilket betyder att detta är en otroligt potent läkande dryck som helt kan återställa livspoängen hos alla som använder den.~

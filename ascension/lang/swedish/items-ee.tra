@@ -19,11 +19,11 @@ Requires:
 18 Constitution
 
 Weight: 10~
-@3003 = ~Possibly a brew of Sendai's own, this is an incredibly potent healing potion capable of fully restoring the hit points of any who use it.
+@3003 = ~Möjligen en a Sendais egna brygder, detta är en otroligt potent läkande dryck som helt kan återställa hälsopoängen hos alla som använder den.
 
-STATISTICS:
+STATISTIK:
 
-Weight: 1~
+Vikt: 1~
 @3004 = ~Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.~
 @3005 = ~Still, however, it is a formidable weapon... and one that only a Deathbringer of Sarevok's skill and power can wield.~
-@3006 = ~Only Sarevok can use this weapon.~
+@3006 = ~Endast Sarevok kan använda det här vapnet.~

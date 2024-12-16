@@ -207,7 +207,7 @@ Das Kind Bhaals kann sich nun frei durch Raum und Ebenen bewegen. Diese Teleport
 @20 = ~Gestaltwandlung: Fledermaus
 
 Diese Fähigkeit erlaubt es Bodhi, sich in eine Fledermaus zu verwandeln.~
-@21 = ~Heilige Macht entlehnen
+@21 = ~Göttliche Gabe
 
 Schule: Hervorrufung
 Reichweite: Anwender
@@ -216,7 +216,7 @@ Zeitaufwand: 1
 Bereich: Anwender
 Rettungswurf: Nein
 
-Das Kind Bhaals zapft die Energien seines unheiligen Blutes an, um so für kurze Zeit außergewöhnliche Macht zu erlangen. Es erhält dadurch 25 Stärke, Geschicklichkeit und Konstitution.~
+Das Kind Bhaals zapft die Energien seines unheiligen Blutes an, um so für kurze Zeit außergewöhnliche Macht zu erlangen. Stärke, Geschicklichkeit und Konstitution wird dadurch auf 25 erhöht.~
 @22 = ~Resistenzen wechseln
 
 Reichweite: Anwender
