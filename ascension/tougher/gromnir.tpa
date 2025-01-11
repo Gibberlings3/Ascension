@@ -252,8 +252,8 @@ BUT_ONLY
        SET_BG2_PROFICIENCY PROFICIENCYLONGBOW 4
        ADD_CRE_ITEM helm01 #0 #0 #0 none helmet
        ADD_CRE_ITEM sw1h01 #0 #0 #0 none weapon2
-       REPLACE_CRE_ITEM arow07 #2 #0 #0 none qitem1
-       REPLACE_CRE_ITEM arow10 #6 #0 #0 none qitem2
+       REPLACE_CRE_ITEM arow07 #2 #0 #0 none quiver1
+       REPLACE_CRE_ITEM arow10 #6 #0 #0 none quiver2
        ADD_CRE_ITEM potn55 #0 #0 #0 none inv
    BUT_ONLY
 

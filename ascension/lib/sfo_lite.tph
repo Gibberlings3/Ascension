@@ -800,7 +800,7 @@ BEGIN
         ACTION_IF !FILE_EXISTS ~%data_loc%/%file%~ BEGIN
            COPY ~.../stratagems-inline/blank~ ~%data_loc%/%file%~
         END
-        ACTION_IF (~%repeat%~ STRING_COMPARE_CASE ~no~) || !FILE_CONTAINS_EVALUATED ("%data_loc%/%file%" "%input%\($\|%WNL%\|%MNL%\|%LNL\)")BEGIN
+        ACTION_IF (~%repeat%~ STRING_COMPARE_CASE ~no~) || !FILE_CONTAINS_EVALUATED ("%data_loc%/%file%" "%input%\($\|%WNL%\|%MNL%\|%LNL%\)")BEGIN
            APPEND_OUTER ~%data_loc%/%file%~ ~%input%~
         END
 END
