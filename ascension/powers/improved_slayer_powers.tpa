@@ -37,7 +37,7 @@ DEFINE_ACTION_FUNCTION slayer_powers_main BEGIN
    ACTION_FOR_EACH number IN 2 3 4 BEGIN
       COPY_EXISTING "%SLAYER_CHANGE_TWO%.spl" "override/slayer%number%.spl"
          LPF ALTER_EFFECT INT_VAR match_opcode=111 STR_VAR resource="finslay%number%" END
-      BUT_ONLY
+      //BUT_ONLY
    END
 
    // on Enhanced Edition, we need to 321 these duplicate powers when we return to human form
