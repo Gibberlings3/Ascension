@@ -52,20 +52,37 @@ DEFINE_ACTION_FUNCTION ascension_imoen_powers BEGIN
    // - weapon effect (and any other stray effects) lasts 72 seconds
    //   (60 secs is how long it takes for official effect to end)
    ///////////////////////////////////////////////////////
+   
+   ACTION_IF cd_eefp_installed BEGIN // with eefp polymorph changes
 
-   COPY_EXISTING "%SLAYER_CHANGE_CUT_SCENE%.spl" "override/imoslay1.spl"
-        LPF ADD_SPELL_EFFECT INT_VAR opcode=2 timing=1 target=1 END
-        LPF ALTER_EFFECT INT_VAR match_opcode=111 STR_VAR resource=finslay2 END
-        LPF ALTER_EFFECT INT_VAR match_timing=0 duration=72 END
-        LPF ADD_SPELL_EFFECT INT_VAR opcode=58 target=2 timing=1 END
-        LPF ADD_SPELL_EFFECT INT_VAR opcode=221 target=2 timing=1 parameter1=9 parameter2=1 END
-        LPF CLONE_EFFECT INT_VAR match_opcode=221 parameter2=2 END
-        LPF ADD_SPELL_EFFECT INT_VAR opcode=208 target=2 parameter1=1 duration=18 END
-        PATCH_IF !enhanced_edition BEGIN // just to clean up, apply sectype magic to remove
-             WRITE_BYTE 0x27 SlayerSectype
-        END
-        LPF ALTER_SPELL_HEADER INT_VAR projectile=255 END
+     COPY_EXISTING "%SLAYER_CHANGE_CUT_SCENE%.spl" "override/imoslay1.spl" // spin717
+       LPF ALTER_EFFECT STR_VAR match_resource = EVAL ~%SLAYER_CHANGE_CUT_SCENE%a~ resource = imoslaya END
 
+     COPY_EXISTING "%SLAYER_CHANGE_CUT_SCENE%a.spl" "override/imoslaya.spl"
+       LPF ALTER_EFFECT INT_VAR match_opcode=111 duration=72 STR_VAR resource=finslay2 END
+       LPF ADD_SPELL_EFFECT INT_VAR opcode=58 target=2 timing=1 END
+       LPF ADD_SPELL_EFFECT INT_VAR opcode=221 target=2 timing=1 parameter1=9 parameter2=1 END
+       LPF CLONE_EFFECT INT_VAR match_opcode=221 parameter2=2 END
+       LPF ADD_SPELL_EFFECT INT_VAR opcode=208 target=2 parameter1=1 duration=18 END
+       LPF ALTER_SPELL_HEADER INT_VAR projectile=255 END
+   
+   END ELSE BEGIN
+
+     COPY_EXISTING "%SLAYER_CHANGE_CUT_SCENE%.spl" "override/imoslay1.spl"
+          LPF ADD_SPELL_EFFECT INT_VAR opcode=2 timing=1 target=1 END
+          LPF ALTER_EFFECT INT_VAR match_opcode=111 STR_VAR resource=finslay2 END
+          LPF ALTER_EFFECT INT_VAR match_timing=0 duration=72 END
+          LPF ADD_SPELL_EFFECT INT_VAR opcode=58 target=2 timing=1 END
+          LPF ADD_SPELL_EFFECT INT_VAR opcode=221 target=2 timing=1 parameter1=9 parameter2=1 END
+          LPF CLONE_EFFECT INT_VAR match_opcode=221 parameter2=2 END
+          LPF ADD_SPELL_EFFECT INT_VAR opcode=208 target=2 parameter1=1 duration=18 END
+          PATCH_IF !enhanced_edition BEGIN // just to clean up, apply sectype magic to remove
+               WRITE_BYTE 0x27 SlayerSectype
+          END
+          LPF ALTER_SPELL_HEADER INT_VAR projectile=255 END
+        
+   END
+   
    ///////////////////////////////////////////////
    // imoslay2 - use SLAYER_BACK_TO_HUMAN as a baseline
    ///////////////////////////////////////////////////////
@@ -90,15 +107,35 @@ DEFINE_ACTION_FUNCTION ascension_imoen_powers BEGIN
    ///////////////////////////////////////////////////////
 
 
+   
+   ACTION_IF cd_eefp_installed BEGIN // with eefp polymorph changes
 
-   COPY_EXISTING "%SLAYER_CHANGE_TWO%.spl" "override/imoslay3.spl"
-       LPF slayer_desc_patch INT_VAR tra_ref=13 END
-       LPF ALTER_SPELL_HEADER STR_VAR icon=spin822 END
-       LPF DELETE_EFFECT STR_VAR match_resource="%SLAYER_START%" END
-       LPF ALTER_EFFECT STR_VAR match_resource="%SLAYER_BACK_TO_HUMAN%" resource=imoslay4 END
-       LPF ADD_SPELL_EFFECT INT_VAR opcode=309 target=2 timing=1 parameter1=1 STR_VAR resource=IMODUST END
-       LPF DELETE_EFFECT INT_VAR match_opcode=146 END
-       LPF ADD_SPELL_EFFECT INT_VAR target=2 timing=1 opcode=172 STR_VAR resource=imoeth END
+     COPY_EXISTING "%SLAYER_CHANGE_TWO%.spl" "override/imoslay3.spl" // spin823
+         LPF ALTER_EFFECT STR_VAR match_resource  = EVAL ~%SLAYER_CHANGE_TWO%a~ resource = imoslayc END 
+         LPF slayer_desc_patch INT_VAR tra_ref=13 END
+         LPF ALTER_SPELL_HEADER STR_VAR icon=spin822 END
+         LPF ADD_SPELL_EFFECT INT_VAR opcode=171 target=1 duration=50 resist_dispel = 2 STR_VAR resource=imoslay4 END
+         LPF ADD_SPELL_EFFECT INT_VAR opcode=309 target=2 timing=1 parameter1=1 STR_VAR resource=IMODUST END
+         PATCH_FOR_EACH res IN finslgd finslrm spinhums BEGIN
+           LPF DELETE_EFFECT INT_VAR match_opcode=146 STR_VAR match_resource = EVAL ~%res%~ END
+         END   
+         LPF ADD_SPELL_EFFECT INT_VAR target=2 timing=1 opcode=172 STR_VAR resource=imoeth END
+
+     COPY_EXISTING "%SLAYER_CHANGE_TWO%a.spl" "override/imoslayc.spl" // spin823
+         LPF DELETE_EFFECT STR_VAR match_resource="%SLAYER_START%" END // spin822 (remove spell 172, give innate 171)
+   
+   END ELSE BEGIN 
+
+     COPY_EXISTING "%SLAYER_CHANGE_TWO%.spl" "override/imoslay3.spl"
+         LPF slayer_desc_patch INT_VAR tra_ref=13 END
+         LPF ALTER_SPELL_HEADER STR_VAR icon=spin822 END
+         LPF DELETE_EFFECT STR_VAR match_resource="%SLAYER_START%" END
+         LPF ALTER_EFFECT STR_VAR match_resource="%SLAYER_BACK_TO_HUMAN%" resource=imoslay4 END
+         LPF ADD_SPELL_EFFECT INT_VAR opcode=309 target=2 timing=1 parameter1=1 STR_VAR resource=IMODUST END
+         LPF DELETE_EFFECT INT_VAR match_opcode=146 END
+         LPF ADD_SPELL_EFFECT INT_VAR target=2 timing=1 opcode=172 STR_VAR resource=imoeth END
+
+   END
 
    ///////////////////////////////////////////////
    // imoslay4 - use SLAYER_BACK_TO_HUMAN as a baseline
@@ -109,6 +146,9 @@ DEFINE_ACTION_FUNCTION ascension_imoen_powers BEGIN
         SAY UNIDENTIFIED_DESC @6
         PATCH_IF enhanced_edition BEGIN
             LPF ALTER_EFFECT INT_VAR match_opcode=321 STR_VAR resource=imoslay3 END // on EE, this makes it remove the effect (on non-EE we're covered by the sectype move anyway)
+            PATCH_IF cd_eefp_installed BEGIN 
+              LPF CLONE_EFFECT INT_VAR match_opcode=321 STR_VAR match_resource=imoslay3 resource=imoslayc END
+            END   
         END
         LPF ADD_SPELL_EFFECT INT_VAR target=2 timing=1 opcode=172 STR_VAR resource=imoslay3 END
         LPF ADD_SPELL_EFFECT INT_VAR target=2 timing=4 duration=186 opcode=171 STR_VAR resource=imoslay3 END
