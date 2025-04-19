@@ -297,13 +297,17 @@ COPY_EXISTING "%WIZARD_HOLD_PERSON%.spl" "override/nabparab.spl"
             LPF ADD_SPELL_EFFECT INT_VAR insert_point=0 opcode=318 target=2 parameter2=1 duration=1 STR_VAR resource="%DEST_RES%" END // undead are immune
             LPF CLONE_EFFECT INT_VAR match_opcode=318 parameter2=9 END // elementals are immune
             LPF CLONE_EFFECT INT_VAR match_opcode=318 parameter1=121 parameter2=104 END // demons are immune
-         END
-         LPF ALTER_EFFECT STR_VAR match_resource=cdheld resource=finnastr END
-         PATCH_FOR_EACH match_opcode IN 177 175 BEGIN
-            PATCH_FOR_EACH parameter1 IN 2 5 BEGIN // animal, gianthumanoid
-                LPF CLONE_EFFECT INT_VAR match_opcode match_parameter1=1 match_parameter2=3 parameter1 END
-            END
-         END
+            PATCH_IF cd_eefp_installed BEGIN // adds some self-referencing 324s
+              LPF ALTER_EFFECT STR_VAR match_resource = EVAL ~%SOURCE_RES%~ resource = EVAL ~%DEST_RES%~ END 
+            END  
+         END ELSE BEGIN // cdheld/177s are only on oBG2
+           LPF ALTER_EFFECT STR_VAR match_resource=cdheld resource=finnastr END
+           PATCH_FOR_EACH match_opcode IN 177 175 BEGIN
+              PATCH_FOR_EACH parameter1 IN 2 5 BEGIN // animal, gianthumanoid
+                  LPF CLONE_EFFECT INT_VAR match_opcode match_parameter1=1 match_parameter2=3 parameter1 END
+              END
+           END
+         END   
          LPF ADD_SPELL_EFFECT INT_VAR opcode=206 target=2 parameter1="-1" duration=60 resist_dispel=1 STR_VAR resource="%DEST_RES%" END
          LPF ADD_SPELL_EFFECT INT_VAR opcode=206 target=2 parameter1="-1" duration=6 resist_dispel=0 STR_VAR resource="%DEST_RES%" END  // this second one is so that creatures with MR check only 1/rd
 // BUT_ONLY
