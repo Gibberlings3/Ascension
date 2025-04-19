@@ -260,7 +260,7 @@ DEFINE_ACTION_FUNCTION slayer_weapon_enhancements BEGIN
 	   END ELSE BEGIN
 	     LPF item_power_patch INT_VAR thac0="-12" resist_magic_damage=50 resist_magic=75 resist_physical=50 attacks=5 END // general patch
        END  
-       LPF ALTER_EFFECT INT_VAR parameter1=250 parameter2=hp_param2 match_opcode=17  END // hit points
+       LPF ALTER_EFFECT INT_VAR silent = 1 parameter1=250 parameter2=hp_param2 match_opcode=17  END // hit points
        LPF ALTER_EFFECT INT_VAR parameter1=250 parameter2=hp_param2 match_opcode=18  END // hit points
         LPF ALTER_ITEM_HEADER INT_VAR dicenumber=3 END // hit damage
         LPF check_ini STR_VAR ini=ravager_knockback RET value END
