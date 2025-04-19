@@ -35,18 +35,28 @@ DEFINE_ACTION_FUNCTION slayer_powers_main BEGIN
    /////////////////////////////////////////////////////////////
 
    ACTION_FOR_EACH number IN 2 3 4 BEGIN
+     ACTION_IF cd_eefp_installed BEGIN 
+     
+       COPY_EXISTING "%SLAYER_CHANGE_TWO%.spl" "override/slayer%number%.spl"
+         LPF ALTER_EFFECT STR_VAR match_resource = EVAL ~%SLAYER_CHANGE_TWO%a~ resource="finslay%number%" END
+         
+       COPY_EXISTING "%SLAYER_CHANGE_TWO%a.spl" "override/slayer%number%a.spl"
+         LPF ALTER_EFFECT INT_VAR match_opcode=111 STR_VAR resource="finslay%number%" END
+         
+     END ELSE BEGIN 
       COPY_EXISTING "%SLAYER_CHANGE_TWO%.spl" "override/slayer%number%.spl"
          LPF ALTER_EFFECT INT_VAR match_opcode=111 STR_VAR resource="finslay%number%" END
       //BUT_ONLY
+     END 
    END
 
    // on Enhanced Edition, we need to 321 these duplicate powers when we return to human form
    
    ACTION_IF enhanced_edition BEGIN
      COPY_EXISTING
-      "%SLAYER_BACK_TO_HUMAN%.spl" override
-      "%SLAYER_BACK_TO_HUMAN_NOVIS%.spl" override
-          LPF CLONE_EFFECT INT_VAR match_opcode=321 STR_VAR match_resource="%SLAYER_CHANGE_TWO%" resource=slayer2 END
+      "%SLAYER_BACK_TO_HUMAN%.spl" override // spin718
+      "%SLAYER_BACK_TO_HUMAN_NOVIS%.spl" override // spin667
+          LPF CLONE_EFFECT INT_VAR match_opcode=321 STR_VAR match_resource="%SLAYER_CHANGE_TWO%" resource=slayer2 END // spin823
           LPF CLONE_EFFECT INT_VAR match_opcode=321 STR_VAR match_resource="%SLAYER_CHANGE_TWO%" resource=slayer3 END
           LPF CLONE_EFFECT INT_VAR match_opcode=321 STR_VAR match_resource="%SLAYER_CHANGE_TWO%" resource=slayer4 END
      BUT_ONLY
