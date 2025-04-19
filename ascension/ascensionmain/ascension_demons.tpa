@@ -192,6 +192,9 @@ COPY "%demon_loc%/finglab.itm" override
 BUT_ONLY
 
 COPY_EXISTING "finglab.spl" override
+  PATCH_IF (cd_slow_immunity > 0) BEGIN // with eefp, block this with free action
+    LPF CLONE_EFFECT INT_VAR match_opcode = 126 opcode = 324 parameter1 = cd_slow_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = above resource = EVAL ~%SOURCE_RES%~ END
+  END
    LPF ALTER_EFFECT INT_VAR match_probability1=20 probability1=19 END
    LPF ALTER_EFFECT INT_VAR match_probability1=15 probability1=19 END
    // new stuff
@@ -217,10 +220,13 @@ COPY_EXISTING_REGEXP ".*\.itm" override
 BUT_ONLY
 
 // targeted patch on the Free Action spell
+ACTION_IF cd_slow_immunity < 0 BEGIN // with eefp, this is handled by a 324 on finglab.spl instead
 
-COPY_EXISTING "%CLERIC_FREE_ACTION%.spl" override
-          LPF CLONE_EFFECT INT_VAR STR_VAR match_resource=spwi305 resource=finglab END
-BUT_ONLY
+  COPY_EXISTING "%CLERIC_FREE_ACTION%.spl" override
+    LPF CLONE_EFFECT INT_VAR STR_VAR match_resource=spwi305 resource=finglab END
+  BUT_ONLY
+
+END
 
 COMPILE "%demon_loc%/scripts/finglab.baf"
 
