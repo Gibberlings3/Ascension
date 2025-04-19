@@ -1,3 +1,11 @@
+ACTION_IF MOD_IS_INSTALLED ~eefixpack.tp2~ ~0~ BEGIN
+  OUTER_SET cd_eefp_installed = 1
+  OUTER_SET cd_slow_immunity      = IDS_OF_SYMBOL (~splstate~ ~SLOW_IMMUNITY~)
+END ELSE BEGIN
+  OUTER_SET cd_eefp_installed = 0
+  OUTER_SET cd_slow_immunity      = "-1"
+END
+
 
 	// initialise
 
