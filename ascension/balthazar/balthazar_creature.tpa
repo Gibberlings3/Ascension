@@ -118,7 +118,7 @@ BEGIN
     LPF poison_immunity INT_VAR value=0 END
     LPF DELETE_EFFECT STR_VAR match_resource=SAREVEFF END
     LPF ADD_CRE_EFFECT INT_VAR opcode=16 target=1 parameter2=1 timing=9 END // haste
-    LPF ALTER_EFFECT INT_VAR match_opcode=126 parameter1=6 END // movement rate
+    LPF ALTER_EFFECT INT_VAR match_opcode=(126 + (50 * cd_eefp_installed))  parameter1=6 END // movement rate - op176 with EEFP, 126 otherwise
     REMOVE_MEMORIZED_SPELL SPCL811 // in vAsc, he has 5, but is not scripted to use it (and has plenty more to do)
     REMOVE_CRE_ITEM  helmnoan
     REPLACE_CRE_ITEM ~mfist8~ #0 #0 #0 ~UNSTEALABLE&UNDROPPABLE~ ~WEAPON1~ EQUIP
