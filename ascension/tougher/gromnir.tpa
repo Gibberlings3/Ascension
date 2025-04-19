@@ -507,11 +507,17 @@ DEFINE_ACTION_FUNCTION gromnir_resources BEGIN
    BUT_ONLY
 
    ACTION_IF enhanced_edition BEGIN
-     ACTION_FOR_EACH spell IN "%CLERIC_CURE_DISEASE%" "%CLERIC_NEUTRALIZE_POISON%" "%CLERIC_HEAL%" DEVAHEAL "%CLERIC_RESTORATION%" BEGIN
-         COPY_EXISTING "%spell%.spl" override
-              LPF CLONE_EFFECT INT_VAR match_opcode=79 opcode=321 timing=0 STR_VAR resource=gromnir END
-         BUT_ONLY
-     END
+     ACTION_IF cd_eefp_installed BEGIN
+       COPY_EXISTING ~#curedis.spl~ ~override~
+         LPF ADD_SPELL_EFFECT INT_VAR opcode = 321 target = 2 timing = 1 parameter2 = 2 STR_VAR resource = gromnir END
+     END ELSE BEGIN
+   
+       ACTION_FOR_EACH spell IN "%CLERIC_CURE_DISEASE%" "%CLERIC_NEUTRALIZE_POISON%" "%CLERIC_HEAL%" DEVAHEAL "%CLERIC_RESTORATION%" BEGIN
+           COPY_EXISTING "%spell%.spl" override
+                LPF CLONE_EFFECT INT_VAR match_opcode=79 opcode=321 timing=0 STR_VAR resource=gromnir END
+           BUT_ONLY
+       END
+     END  
    END
 
 END
