@@ -109,7 +109,7 @@ COPY_EXISTING spermel.itm override
      LPF DELETE_EFFECT INT_VAR match_opcode=40 END // slow
      LPF DELETE_EFFECT INT_VAR match_opcode=142 match_parameter2=41 END  // slow icon
      LPF DELETE_EFFECT INT_VAR match_opcode=166 END // MR reduction
-     PATCH_IF MOD_IS_INSTALLED "setup-bg2fixpack.tp2" 3 BEGIN
+     PATCH_IF ((MOD_IS_INSTALLED "setup-bg2fixpack.tp2" 3) OR (cd_eefp_installed)) BEGIN
 		match_probability1=24
 	 END ELSE BEGIN
 		match_probability1=25
