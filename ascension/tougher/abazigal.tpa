@@ -763,7 +763,7 @@ DEFINE_ACTION_FUNCTION abazigal_dragon BEGIN
                    resist_electricity=127
            STR_VAR immunity_to_spells=abazdg02
         END
-        LPF ALTER_EFFECT INT_VAR match_opcode=126 parameter1=5 END // movement
+        LPF ALTER_EFFECT INT_VAR match_opcode=(126 + (50 * cd_eefp_installed)) parameter1=5 END // movement - uses op176 with EEFP
    BUT_ONLY
 
    /* Abazigal's attack:
