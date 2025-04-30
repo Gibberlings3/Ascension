@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2024-06-03 20:47+0000\n"
+"PO-Revision-Date: 2025-04-30 19:29+0000\n"
 "Last-Translator: Ychap <asdfsa85@web.de>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/infinity-engine/"
 "ascension/de/>\n"
@@ -110,7 +110,7 @@ msgstr "Bhaalspross-Fähigkeit erhalten: Schutz vor Lebenskraftentzug"
 #: ascension.tra:1040
 msgid "Bhaalspawn Power gained: 25% physical damage resistance"
 msgstr ""
-"Bhaalspross-Fähigkeit erhalten: 25% Resistenz gegen körperlichem Schaden"
+"Bhaalspross-Fähigkeit erhalten: 25 % Widerstand gegen körperlichen Schaden"
 
 #: ascension.tra:1041
 msgid "Transfixed"
@@ -134,7 +134,7 @@ msgstr "Kontrolle wiedererlangt"
 
 #: ascension.tra:1046 ascension.tra:1047
 msgid "Magic Resistance lowered by 5%"
-msgstr "Magieresistenz um 5% verringert"
+msgstr "Magieresistenz um 5 % verringert"
 
 #: ascension.tra:1048
 msgid "Slayer transformation enhanced"
@@ -358,7 +358,8 @@ msgid ""
 msgstr ""
 "Bhaalspross-Fähigkeiten\n"
 "\n"
-"<CHARNAME> hat einen permanenten Schutz vor Lebenskraftentzug sowie 5% Magieresistenz erhalten."
+"<CHARNAME> hat einen permanenten Schutz vor Lebenskraftentzug sowie 5 % "
+"Magieresistenz erhalten."
 
 #: ascension.tra:2005
 msgid ""
