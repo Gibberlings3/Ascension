@@ -1,21 +1,39 @@
 name: Poify/Unpoify
+
 on:
   push:
     branches:
         - master
     paths:
+      - .bgforge.yml
+      - .github/workflows/poify.yml
       - "ascension/lang/**"
-  workflow_dispatch:
+  pull_request:
+    paths:
+      - .bgforge.yml
+      - .github/workflows/poify.yml
+      - "ascension/lang/**"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
       - name: Poify/Unpoify
-        uses: ALIENQuake/msg2po@master
+        if: github.ref == 'refs/heads/master' && github.event_name == 'push'
+        uses: BGforgeNet/msg2po@master
         with:
           poify: true
           unpoify: true
-          push: true
+          single_commit: true
+
+      - name: Poify/Unpoify PR Testing
+        if: (github.ref != 'refs/heads/master' && github.event_name == 'push') || github.event_name == 'pull_request'
+        uses: BGforgeNet/msg2po@master
+        with:
+          poify: true
+          unpoify: true
+          single_commit: true
+          push: false
