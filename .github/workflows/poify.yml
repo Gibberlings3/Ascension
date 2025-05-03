@@ -25,7 +25,6 @@ jobs:
         with:
           poify: true
           unpoify: true
-          single_commit: true
 
       - name: Poify/Unpoify PR Testing
         if: (github.ref != 'refs/heads/master' && github.event_name == 'push') || github.event_name == 'pull_request'
@@ -33,5 +32,4 @@ jobs:
         with:
           poify: true
           unpoify: true
-          single_commit: true
           push: false
