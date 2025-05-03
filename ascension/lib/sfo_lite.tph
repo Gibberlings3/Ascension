@@ -126,7 +126,7 @@ DEFINE_ACTION_FUNCTION handle_charsets_immutably
           END
           LAF HANDLE_CHARSETS
             INT_VAR
-                from_utf8 = 1
+                from_utf8 = 0
                 infer_charsets = 0
             STR_VAR
                 iconv_path tra_path = ~%scs_tra_loc%~
