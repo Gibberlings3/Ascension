@@ -12,4 +12,5 @@ jobs:
       - name: dir2msgstr
         uses: BGforgeNet/msg2po@v1.4.2
         with:
-          push: true
+          dir2msgstr: true
+          dir2msgstr_commit: true
