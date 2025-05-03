@@ -42,7 +42,7 @@ LANGUAGE ~Traducción al Español (Clan REO, ElGamerViejuno)~
 
 LANGUAGE ~Simplified Chinese Translation (by kalabaka)~
          ~schinese~
-         ~ascension/lang/schinese/install.tra~
+         ~ascension/lang/schinese/setup.tra~
 
 LANGUAGE ~Traditional Chinese Translation (by kalabaka)~
          ~tchinese~
@@ -67,6 +67,11 @@ LANGUAGE ~Italian (Al17, Alessandro, Max, M.Inxes, Rahar and Stefano)~
 LANGUAGE ~Portuguese (Ecthelion)~
          ~portuguese~
          ~ascension/lang/portuguese/setup.tra~ 
+
+LANGUAGE ~Swedish~
+         ~swedish~
+         ~ascension/lang/swedish/setup.tra~ 
+
 
 // test component
 
