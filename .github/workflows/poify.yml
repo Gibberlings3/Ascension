@@ -23,7 +23,7 @@ jobs:
 
       - name: Poify/Unpoify
         if: github.ref == 'refs/heads/master' && github.event_name == 'push'
-        uses: BGforgeNet/msg2po@master
+        uses: BGforgeNet/msg2po@dev
         with:
           poify: true
           unpoify: true
@@ -31,7 +31,7 @@ jobs:
 
       - name: Poify/Unpoify PR Testing
         if: (github.ref != 'refs/heads/master' && github.event_name == 'push') || github.event_name == 'pull_request'
-        uses: BGforgeNet/msg2po@master
+        uses: BGforgeNet/msg2po@dev
         with:
           poify: true
           unpoify: true
