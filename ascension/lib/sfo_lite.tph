@@ -108,7 +108,7 @@ DEFINE_ACTION_FUNCTION handle_charsets_immutably
           ACTION_IF "%iconv_path%" STRING_EQUAL_CASE "" BEGIN
              OUTER_SPRINT iconv_path "%scsroot%/%tra_base%/iconv"
           END
-          
+
           ACTION_DEFINE_ASSOCIATIVE_ARRAY charset_table  BEGIN
               czech      => cp1250
               english    => cp1252
@@ -124,11 +124,11 @@ DEFINE_ACTION_FUNCTION handle_charsets_immutably
               swedish    => cp1252
               tchinese   => cp950
           END
-          LAF HANDLE_CHARSETS 
+          LAF HANDLE_CHARSETS
             INT_VAR
                 from_utf8 = 1
                 infer_charsets = 0
-            STR_VAR 
+            STR_VAR
                 iconv_path tra_path = ~%scs_tra_loc%~
                 charset_table = charset_table
             END
@@ -161,7 +161,7 @@ BEGIN
 		ACTION_IF !VARIABLE_IS_SET ext_audio_loc BEGIN
 			OUTER_SPRINT ext_audio_loc "weidu_external/audio/%MOD_FOLDER%"
 		END
-		OUTER_SPRINT new_audio_path "%ext_audio_loc%"	
+		OUTER_SPRINT new_audio_path "%ext_audio_loc%"
 	END
 	MKDIR "%new_audio_path%"
 	// copy everything over
@@ -174,8 +174,8 @@ BEGIN
 	ACTION_IF new_files BEGIN
 	PRINT "handling audio"
 		LAF HANDLE_AUDIO INT_VAR music STR_VAR audio_path="%new_audio_path%" oggdec_path sox_path END
-	
-	
+
+
 	END
 
 
@@ -447,7 +447,7 @@ BEGIN
        END ELSE BEGIN
              SPRINT spell_res "%entry%"
        END
-       PATCH_IF !FILE_EXISTS_IN_GAME "%spell_res%.spl" BEGIN  
+       PATCH_IF !FILE_EXISTS_IN_GAME "%spell_res%.spl" BEGIN
           LPF warning STR_VAR warning="Trying to add spell %spell_res% to %SOURCE_RES% but it doesn't exist" END
        END
        // add spell
@@ -589,7 +589,7 @@ BEGIN
 END
 
 
-DEFINE_ACTION_FUNCTION return_first_entry 
+DEFINE_ACTION_FUNCTION return_first_entry
    STR_VAR list=""
            separator=""
    RET entry list
@@ -631,7 +631,7 @@ END
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-DEFINE_ACTION_FUNCTION resolve_splprot_entry 
+DEFINE_ACTION_FUNCTION resolve_splprot_entry
       INT_VAR stat=0
               value=0
               relation_number=0
@@ -640,7 +640,7 @@ DEFINE_ACTION_FUNCTION resolve_splprot_entry
 BEGIN
       OUTER_SET splprot_value=value
       ACTION_MATCH "%relation%" WITH
-         equals equal BEGIN 
+         equals equal BEGIN
             OUTER_SET relation_number=1
          END
          greater greater_than BEGIN
@@ -825,7 +825,7 @@ END
 
 DEFINE_ACTION_FUNCTION SFO_read_ini_file
 	RET_ARRAY SFO_reserved_ini_hash
-BEGIN 
+BEGIN
     OUTER_SPRINT key ""
     ACTION_IF FILE_EXISTS "%ini_to_read%" BEGIN
        COPY - "%ini_to_read%" "%workspace%"
@@ -836,7 +836,7 @@ BEGIN
 			        SPRINT key "%MATCH1%"
 			        TO_LOWER key
 				TEXT_SPRINT $SFO_reserved_ini_hash(~%key%~) ~%MATCH2%~
-		     END	
+		     END
                      ~~
     END
 	// workaround: WEIDU doesn't permit empty returned arrays
@@ -950,7 +950,7 @@ DEFINE_ACTION_MACRO read_in_spell_scroll_resrefs BEGIN
         END
       END
       PRINT "...done"
-   OUTER_SET sfo_internal_spells_read=1 
+   OUTER_SET sfo_internal_spells_read=1
    END
 END
 
@@ -1019,14 +1019,14 @@ BEGIN
        // match up the arrays
        ACTION_PHP_EACH sfo_spell_resrefs AS idsname=>resref BEGIN
           ACTION_IF VARIABLE_IS_SET $internal_scroll_map("%resref%") BEGIN
-                ACTION_MATCH "%idsname%" WITH 
+                ACTION_MATCH "%idsname%" WITH
                 "WIZARD_.*" BEGIN
                       OUTER_SPRINT $sfo_arcane_scrolls("%idsname%") $internal_scroll_map("%resref%")
                 END
                 "CLERIC_.*" BEGIN
                       OUTER_SPRINT $sfo_divine_scrolls("%idsname%") $internal_scroll_map("%resref%")
                 END
-                DEFAULT 
+                DEFAULT
                 END
           END
        END
@@ -1357,15 +1357,15 @@ BEGIN
 	 ACTION_IF EVAL "%%loc%%" STRING_COMPARE "" BEGIN
 	   ACTION_IF "%inline%" STRING_EQUAL_CASE "yes" BEGIN
 			OUTER_SPRINT "%loc%_true" EVAL ".../stratagems-inline/%%loc%%.baf"
-	   END ELSE	 
+	   END ELSE
 	   ACTION_IF "%location%" STRING_COMPARE "" AND FILE_EXISTS "%scsroot%/%component_loc%/%location%/%%loc%%.baf" BEGIN
 		OUTER_SPRINT "%loc%_true" EVAL "%scsroot%/%component_loc%/%location%/%%loc%%.baf"
 	   END ELSE
        ACTION_IF FILE_EXISTS "%scsroot%/%component_loc%/%%loc%%.baf" BEGIN
-		OUTER_SPRINT "%loc%_true" EVAL "%scsroot%/%component_loc%/%%loc%%.baf"	  
-	   END ELSE 
+		OUTER_SPRINT "%loc%_true" EVAL "%scsroot%/%component_loc%/%%loc%%.baf"
+	   END ELSE
 	   ACTION_IF FILE_EXISTS "%%loc%%" BEGIN
-		OUTER_SPRINT "%loc%_true" EVAL "%%loc%%"	  	  
+		OUTER_SPRINT "%loc%_true" EVAL "%%loc%%"
 	   END ELSE BEGIN
 	    OUTER_SPRINT loc_actual EVAL "%%loc%%"
 	    WARN "extend_area_script called with %loc% set to %loc_actual%, but I can't find that script"
@@ -1374,7 +1374,7 @@ BEGIN
 	END
 	ACTION_IF "%top_true%" STRING_COMPARE "" BEGIN
 		EXTEND_TOP "%file%.bcs" "%top_true%" EVALUATE_BUFFER
-	END 
+	END
 	ACTION_IF "%bottom_true%" STRING_COMPARE "" BEGIN
 		EXTEND_BOTTOM "%file%.bcs" "%bottom_true%" EVALUATE_BUFFER
 	END
@@ -1389,7 +1389,7 @@ END
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 DEFINE_ACTION_FUNCTION resolve_dv
-	STR_VAR creature="" default="" 
+	STR_VAR creature="" default=""
 	RET dv
 BEGIN
 	ACTION_IF "%default%" STRING_EQUAL "" BEGIN
@@ -1419,7 +1419,7 @@ DEFINE_ACTION_FUNCTION compile_dialog
 		   locbase=""
 		   location="" // SCS-style, not used in baseline Ascension
 		   tra=""
-		   
+
 BEGIN
    ACTION_IF "%root%" STRING_EQUAL_CASE "" BEGIN
 		ACTION_IF "%locbase%" STRING_COMPARE_CASE "" BEGIN
@@ -1428,7 +1428,7 @@ BEGIN
 		OUTER_SPRINT root "%MOD_FOLDER%/%component_loc%/%location%"
    END
 	ACTION_IF "%tra%" STRING_EQUAL_CASE "" BEGIN
-      COMPILE "%root%/%dialog%.d" EVALUATE_BUFFER USING "%ascension_tra_loc%/%s/%dialog%.tra" 
+      COMPILE "%root%/%dialog%.d" EVALUATE_BUFFER USING "%ascension_tra_loc%/%s/%dialog%.tra"
 	END ELSE BEGIN
       COMPILE "%root%/%dialog%.d" EVALUATE_BUFFER USING "%ascension_tra_loc%/%s/%dialog%.tra" "%ascension_tra_loc%/%s/%tra%.tra"
 	END
@@ -1497,7 +1497,7 @@ END
 //// bit of AR6200 script
 /////////////////////////////////////////////////////
 
-DEFINE_ACTION_FUNCTION insert_epilogue 
+DEFINE_ACTION_FUNCTION insert_epilogue
          STR_VAR guard=""
                  var=""
                  textscreen=""
@@ -1517,8 +1517,8 @@ THEN
 END
 >>>>>>>>
 
-     LAF INSERT_SCRIPT_BLOCK 
-           INT_VAR insert_above=1 
+     LAF INSERT_SCRIPT_BLOCK
+           INT_VAR insert_above=1
                    only_once=1
            STR_VAR insert=".../stratagems-inline/epilogue.baf"
                    script=ar6200
@@ -1571,7 +1571,7 @@ END
 // don't use for install checks, only to know if some task has been done already
 //////////////////////////////////////////////////////////////////////////////////////
 
-DEFINE_ACTION_FUNCTION set_marker 
+DEFINE_ACTION_FUNCTION set_marker
    STR_VAR marker=""
 BEGIN
    COPY_EXISTING "sw1h01.itm" "%marker_loc%/%marker%.mrk"
@@ -1580,7 +1580,7 @@ END
 DEFINE_ACTION_FUNCTION check_marker
    INT_VAR sanity_check=1
    STR_VAR marker=""
-   RET value 
+   RET value
 BEGIN
    ACTION_IF FILE_EXISTS "%marker_loc%/%marker%.mrk" BEGIN
       OUTER_SET value=1
@@ -1596,7 +1596,7 @@ END
 
 DEFINE_PATCH_FUNCTION check_marker
    STR_VAR marker=""
-   RET value 
+   RET value
 BEGIN
    INNER_ACTION BEGIN
       LAF check_marker STR_VAR marker RET value END
@@ -1628,7 +1628,7 @@ END
 /////////////////////////////////////////////////////
 
 DEFINE_ACTION_FUNCTION portrait_npc // used to copy new portraits for mod npcs
-  STR_VAR 
+  STR_VAR
     source = ""
     destination = ""
     source_path = "%MOD_FOLDER%/portraits"
@@ -1636,14 +1636,14 @@ BEGIN
 
   ACTION_IF ("%destination%" STRING_COMPARE_CASE "" = 0) BEGIN OUTER_SPRINT destination "%source%" END
 
-  COPY ~%source_path%/%source%_330.bmp~ ~override/%destination%l.bmp~ 
-  
+  COPY ~%source_path%/%source%_330.bmp~ ~override/%destination%l.bmp~
+
   ACTION_IF GAME_IS ~bgee bg2ee eet iwdee pstee~ BEGIN // EEs
     COPY ~%source_path%/%source%_330.bmp~ ~override/%destination%m.bmp~
     COPY ~%source_path%/%source%_330.bmp~  ~override/%destination%s.bmp~
-  END ELSE BEGIN	
+  END ELSE BEGIN
     COPY ~%source_path%/%source%_170.bmp~ ~override/%destination%m.bmp~
-    COPY ~%source_path%/%source%_60.bmp~  ~override/%destination%s.bmp~ 
-  END	    
+    COPY ~%source_path%/%source%_60.bmp~  ~override/%destination%s.bmp~
+  END
 
 END  // end function define
