@@ -52,7 +52,7 @@
 @1068 = ~Księżycowe osłabienie~
 @2000 = ~Moce pomiotu Bhaala
 
-<CHARNAME> uzyskał<PRO_HESHE> zdolność, której może użyć raz dziennie: 
+<CHARNAME> uzyskał<PRO_HESHE> zdolność, której może użyć raz dziennie:
 
 Grupowe uzdrowienie (Nekromancja)
 Zasięg: pole widzenia rzucającego czar
@@ -66,7 +66,6 @@ Używając tej zdolności, pomiot Bhaala musi wyobrazić sobie dokładnie oblicz
 
 <CHARNAME> uzyskał<PRO_HESHE> zdolność, której może użyć raz dziennie:
 
-Poziom: 4
 Regeneracja (Nekromancja)
 Zasięg: dotyk
 Czas działania: 1 runda/2 poziomy
@@ -77,7 +76,7 @@ Rzut obronny: brak
 Ten potężny czar umożliwia osobie go rzucającej nadanie wybranej istocie zdolności regeneracyjnych, dzięki czemu może ona uleczyć rany, a nawet zregenerować stracone kończyny. Istota pod wpływem czaru odzyskuje 3 punkty życia na sekundę. Efekt utrzymuje się przez jedną rundę na każde dwa poziomy rzucającego czar lub do momentu rozproszenia. Dla przykładu, kapłan 14. poziomu odzyskiwałby 18 punktów życia na rundę przez siedem rund.~
 @2002 = ~Moce pomiotu Bhaala
 
-<CHARNAME> uzyskał<PRO_HESHE> zdolność, której może użyć raz dziennie: 
+<CHARNAME> uzyskał<PRO_HESHE> zdolność, której może użyć raz dziennie:
 
 Przywołanie boskiej mocy (Inwokacja)
 Zasięg: 0
@@ -89,7 +88,7 @@ Rzut obronny: brak
 Pomiot Bhaala przywołuję potęgę zaklętą w swojej krwi, dzięki czemu otrzymuje na krótki czas cząstkę niebiańskiej mocy. Po rzuceniu tego czaru jego Siła, Kondycja i Zręczność wzrastają o 1 na każde trzy poziomy. Tak więc cechy rzucającego z 3. poziomu zwiększą się o 1, a postaci z 12. poziomu - o 4.~
 @2003 = ~Moce pomiotu Bhaala
 
-<CHARNAME> uzyskał<PRO_HESHE> zdolność, której może użyć raz dziennie: 
+<CHARNAME> uzyskał<PRO_HESHE> zdolność, której może użyć raz dziennie:
 
 Mroczna skaza (Nekromancja)
 Zasięg: 6 metrów
@@ -129,7 +128,7 @@ Po przywołaniu przez pomiot Bhaala tej mocy każdy cios zadany przezeń dowoln�
 30. poziom: 6 rund, 12 dodatkowych obrażeń, leczy 12 punktów życia~
 @2006 = ~Moce pomiotu Bhaala
 
-<CHARNAME> uzyskał<PRO_HESHE> zdolność, której może użyć raz dziennie: 
+<CHARNAME> uzyskał<PRO_HESHE> zdolność, której może użyć raz dziennie:
 
 Zmartwychwstanie (Nekromancja)
 Zasięg: dotyk
@@ -149,7 +148,7 @@ Podobnie jak czar 5. poziomu o nazwie Wskrzeszenie, zaklęcie to może przywróc
 PARAMETRY:
 
 Specjalne:
-- Każde trafienie wysysa z ofiary od jednego do pięciu punktów życia i przekazuje je posiadaczowi miecza. Zgromadzone w ten sposób punkty 
+- Każde trafienie wysysa z ofiary od jednego do pięciu punktów życia i przekazuje je posiadaczowi miecza. Zgromadzone w ten sposób punkty
  życia nie przekroczą jednak maksymalnej liczby punktów dzierżącego miecz.
 - Odporność na magię: 10%
 
