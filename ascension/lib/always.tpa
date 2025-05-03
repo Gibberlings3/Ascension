@@ -56,13 +56,13 @@ END
 
 
         // install ToBEx on appropriate systems (for better DS management and to turn off difficulty-based damage scaling)
-        
+
         ACTION_IF !enhanced_edition BEGIN
             LAF check_ini STR_VAR ini=skip_tobex RET value END
             ACTION_IF ( value || !(FILE_EXISTS "bgmain.exe") ) BEGIN
                OUTER_SET tobex_present=0
             END ELSE BEGIN
-               OUTER_SET tobex_present=1 
+               OUTER_SET tobex_present=1
                ACTION_IF !FILE_EXISTS "tobex_ini/tobextweak.ini" BEGIN // if ToBex isn't present already, install it
                  OUTER_SPRINT ~TOBEX_MOD_DIRECTORY~ ~%MOD_FOLDER%~
                  LOAD_TRA ~%MOD_FOLDER%/tobex_redist/tobex.tra~
@@ -112,7 +112,7 @@ HARDEST	0	        0
         END
 
 	// read in all spell variable names
-	
+
 	LAM read_in_spell_scroll_resrefs
 
         // install DS if not already present
@@ -125,24 +125,23 @@ HARDEST	0	        0
         CLEAR_IDS_MAP
 
         // Ascension-specific detections
-        
+
         INCLUDE "%MOD_FOLDER%/ds/ds_extra.tpa"
         LAF run_once STR_VAR function=ds_extra END
 
 	// handle EE charset issues
-	
+
 	SILENT
 	LAF check_ini STR_VAR ini=force_tra_rebuild RET force_tra_rebuild=value END
-        // when using HANDLE_CHARSETS with from_utf8 = 1, first remove all lines from the .gitattributes  that contain 'working-tree-encoding=xxxxx'
         LAF handle_charsets_immutably INT_VAR force_tra_rebuild STR_VAR tra_base=lang RET scs_tra_loc END
 		OUTER_SPRINT ascension_tra_loc "%scs_tra_loc%"
 
 	// collect a list of markers
-	
+
 	LAF audit_markers RET_ARRAY marker_list END
 
 	// if appropriate, install the testing suite
-	
+
 	LAF check_ini STR_VAR ini=testing_suite RET value END
 	ACTION_IF value BEGIN
 	   INCLUDE "%MOD_FOLDER%/lib/testing_suite.tpa"
