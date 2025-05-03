@@ -2,8 +2,6 @@ name: Poify/Unpoify
 
 on:
   push:
-    branches:
-        - master
     paths:
       - .bgforge.yml
       - .github/workflows/poify.yml
