@@ -11,5 +11,5 @@ jobs:
         uses: actions/checkout@v2
       - name: dir2msgstr
         uses: BGforgeNet/msg2po@v1.4.2
+        with:
           push: true
-          dir2msgstr: true
