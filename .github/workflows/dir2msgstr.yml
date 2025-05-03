@@ -1,17 +1,38 @@
-name: dir2msgstr
+name: Poify/Unpoify
+
 on:
+  push:
+    branches:
+        - master
+    paths:
+      - .bgforge.yml
+      - .github/workflows/poify.yml
+      - "ascension/lang/**"
+  pull_request:
+    paths:
+      - .bgforge.yml
+      - .github/workflows/poify.yml
+      - "ascension/lang/**"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.repository == 'InfinityMods/Ascension'
+	If: github.repository == 'InfinityMods/Ascension'
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: dir2msgstr
+        uses: actions/checkout@v4
+
+      - name: Poify/Unpoify
+        if: github.ref == 'refs/heads/master' && github.event_name == 'push'
         uses: BGforgeNet/msg2po@dev
-        #uses: ALIENQuake/msg2po@master
+        with:
+          dir2msgstr: true
+          dir2msgstr_commit: true
+		
+      - name: Poify/Unpoify PR Testing
+        if: (github.ref != 'refs/heads/master' && github.event_name == 'push') || github.event_name == 'pull_request'
+        uses: BBGforgeNet/msg2po@dev
         with:
           dir2msgstr: true
           dir2msgstr_commit: true
