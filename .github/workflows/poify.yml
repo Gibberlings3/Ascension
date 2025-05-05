@@ -36,3 +36,4 @@ jobs:
           unpoify: true
           dir2msgstr: true
           single_commit: true
+          push: false
