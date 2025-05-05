@@ -97,13 +97,13 @@
 <CHARNAME>獲得負界能量防禦以及5%的魔法防禦。~
 @2005 = ~Bhaalspawn Powers
 
-<CHARNAME> has gained the ability, usable once per day: 
+<CHARNAME> has gained the ability, usable once per day:
 
-Hand of Murder (Necromancy) 
+Hand of Murder (Necromancy)
 Range: Caster
 Duration: 1 rounds/5 levels
 Casting Time: 1
-Saving Throw: none 
+Saving Throw: none
 
 When this power is called upon by the Bhaalspawn, <PRO_HESHE> immediately does extra damage with each hit to <PRO_HISHER> target with any melee weapon desired (whether it be fist or sword). <PRO_HISHER> dark energies travel through <PRO_HISHER> weapon to assault <PRO_HISHER> victim, allowing <PRO_HIMHER> to absorb that damage as healing to <PRO_HIMHER>self.
 The effects vary by level as follows:
