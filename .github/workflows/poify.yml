@@ -21,15 +21,18 @@ jobs:
 
       - name: Poify/Unpoify
         if: github.ref == 'refs/heads/master' && github.event_name == 'push'
-        uses: BGforgeNet/msg2po@dev
+        uses: BGforgeNet/msg2po@master
         with:
           poify: true
           unpoify: true
+          dir2msgstr: true
+          single_commit: true
 
       - name: Poify/Unpoify PR Testing
         if: (github.ref != 'refs/heads/master' && github.event_name == 'push') || github.event_name == 'pull_request'
-        uses: BGforgeNet/msg2po@dev
+        uses: BGforgeNet/msg2po@master
         with:
           poify: true
           unpoify: true
-          push: false
+          dir2msgstr: true
+          single_commit: true
