@@ -25,7 +25,7 @@ jobs:
         with:
           dir2msgstr: true
           dir2msgstr_commit: true
-          single_commit: true
+          single_commit: false
 
       - name: Poify/Unpoify
         if: github.ref == 'refs/heads/master' && github.event_name == 'push'
@@ -33,9 +33,9 @@ jobs:
         with:
           poify: true
           unpoify: true
-          single_commit: true
+          single_commit: false
 
-      - name: Poify/Unpoify PR Testing
+      - name: Poify/Unpoify/Dir2msgstr PR Testing
         if: (github.ref != 'refs/heads/master' && github.event_name == 'push') || github.event_name == 'pull_request'
         uses: BGforgeNet/msg2po@master
         with:
