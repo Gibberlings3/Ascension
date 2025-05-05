@@ -19,7 +19,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Poify/Unpoify
+      - name: Dir2msgstr
         if: github.ref == 'refs/heads/master' && github.event_name == 'push'
         uses: BGforgeNet/msg2po@master
         with:
