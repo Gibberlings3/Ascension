@@ -1,25 +1,25 @@
 @500 = ~Babau~
-@1003 = ~蝙蝠形態~
-@1006 = ~衝擊波~
-@1007 = ~閃電光環~
-@1009 = ~劈空取物~
-@1012 = ~防禦投射~
-@1013 = ~控制惡魔~
-@1014 = ~能量聚焦~
-@1016 = ~非凡防禦~
-@1017 = ~非凡之力~
-@1018 = ~非凡護盾~
-@1019 = ~命令惡魔~
-@1020 = ~放逐~
-@1022 = ~能量釋放~
-@1024 = ~反饋~
-@1025 = ~非凡恢復~
-@1026 = ~非凡淨化~
-@1027 = ~痲痺光環~
-@1029 = ~熔岩炸彈~
-@1031 = ~法印，緩慢~
-@1037 = ~變形終結者~
-@1038 = ~深淵爪牙~
+@1003 = ~�����κA~
+@1006 = ~�����i~
+@1007 = ~�{�q����~
+@1009 = ~�A�Ũ���~
+@1012 = ~���m��g~
+@1013 = ~����c�]~
+@1014 = ~��q�E�J~
+@1016 = ~�D�Z���m~
+@1017 = ~�D�Z���O~
+@1018 = ~�D�Z�@��~
+@1019 = ~�R�O�c�]~
+@1020 = ~��v~
+@1022 = ~��q����~
+@1024 = ~���X~
+@1025 = ~�D�Z��_~
+@1026 = ~�D�Z�b��~
+@1027 = ~�������~
+@1029 = ~�������u~
+@1031 = ~�k�L�A�w�C~
+@1037 = ~�ܧβ׵���~
+@1038 = ~�`�W����~
 @1039 = ~Bhaalspawn Power gained: Immunity to Energy Drain~
 @1040 = ~Bhaalspawn Power gained: 25% physical damage resistance~
 @1041 = ~Transfixed~
@@ -43,58 +43,58 @@
 @1059 = ~Bhaalspawn Power gained: immunity to Maze and Imprisonment~
 @1060 = ~Bhaalspawn Power gained: Focus~
 @1061 = ~Bhaalspawn Power gained: immunity to Taint of the Slayer~
-@1062 = ~非凡防禦~
+@1062 = ~�D�Z���m~
 @1063 = ~Magic Resistance Restored~
 @1064 = ~Antimagic Protections Removed~
 @1065 = ~Combat Protections Removed~
 @1066 = ~AI deactivated~
 @1067 = ~AI activated~
 @1068 = ~Lunar Malison~
-@2000 = ~巴爾之子的新能力
-<CHARNAME>獲得了這個能力﹐每天可以使用一次: 
-群體治療（死靈系）
-射程﹕施法者視線以內
-時效﹕永久
-施法時間﹕1
-有效範圍﹕半徑30尺
-豁免鑒定﹕無 
-當使用此能力時﹐巴爾之子必須能夠看清隊友們的位置。完成後﹐所有半徑30尺內的隊友都會恢復2d8+2/每等級生命﹐並解除如下不良狀態﹕疲勞﹐中毒﹐疾病﹐目盲﹐耳聾。~
-@2001 = ~巴爾之子的新能力
-<CHARNAME>獲得了這個能力﹐每天可以使用一次: 
-再生（死靈系） 
-射程﹕觸摸
-時效﹕1輪/2級
-施法時間﹕7
-有效範圍﹕目標生物
-豁免鑒定﹕無
-這個超強的能力給予目標生物快速再生的能力﹐這個能力甚至可以恢復已經殘廢了的肢體。目標生物每秒恢復三點生命﹐被解咒前﹐每二等級可以持續效果一輪。例如﹐十四級的效果是七輪內每輪恢復十八點生命。~
-@2002 = ~巴爾之子的新能力
-<CHARNAME>獲得了這個能力﹐每天可以使用一次: 
+@2000 = ~�ں����l���s��O
+<CHARNAME>��o�F�o�ӯ�O�M�C�ѥi�H�ϥΤ@��: 
+�s��v���]���F�t�^
+�g�{�R�I�k�̵��u�H��
+�ɮġR�ä[
+�I�k�ɶ��R1
+���Ľd��R�b�|30��
+�ŧKų�w�R�L 
+���ϥΦ���O�ɡM�ں����l��������ݲM���̪ͭ���m�C������M�Ҧ��b�|30�ؤ������ͳ��|��_2d8+2/�C���ťͩR�M�øѰ��p�U���}���A�R�h�ҡM���r�M�e�f�M�ت��M��Ť�C~
+@2001 = ~�ں����l���s��O
+<CHARNAME>��o�F�o�ӯ�O�M�C�ѥi�H�ϥΤ@��: 
+�A�͡]���F�t�^ 
+�g�{�RĲ�N
+�ɮġR1��/2��
+�I�k�ɶ��R7
+���Ľd��R�ؼХͪ�
+�ŧKų�w�R�L
+�o�ӶW�j����O�����ؼХͪ��ֳt�A�ͪ���O�M�o�ӯ�O�Ʀܥi�H��_�w�g�ݼo�F������C�ؼХͪ��C����_�T�I�ͩR�M�Q�ѩG�e�M�C�G���ťi�H����ĪG�@���C�Ҧp�M�Q�|�Ū��ĪG�O�C�����C����_�Q�K�I�ͩR�C~
+@2002 = ~�ں����l���s��O
+<CHARNAME>��o�F�o�ӯ�O�M�C�ѥi�H�ϥΤ@��: 
 
-召喚聖力（塑能系）
-射程﹕0
-時效﹕1回合
-施法時間﹕1
-有效範圍﹕施法者
-豁免鑒定﹕無
-巴爾之子利用血液中的力量使自己在短期內變得更強壯。使用這個能力的效果是﹐<PRO_HISHER>的每三個等級可以提高強壯﹐體制﹐敏捷一點。十二級的施法者可以提高四點。~
-@2003 = ~巴爾之子的新能力
-<CHARNAME>獲得了這個能力﹐每天可以使用一次: 
-黑暗天賦（死靈系） 
-射程﹕二十尺
-時效﹕一回合
-施法時間﹕1
-有效範圍﹕一個生物
-豁免鑒定﹕通過無效
-籍由這個法術﹐巴爾之子可以將它的邪惡天賦釋放到一個敵人身上﹐目標若未通過死亡豁免則會中毒﹐具體效果由施法者等級決定﹕
-7--9　　　2d8 + 2每輪﹐緩慢12秒﹐豁免-2不利。
-10--12　　3d8 + 3每輪﹐緩慢12秒﹐豁免-2不利。
-13--14　　4d8 + 4每輪﹐緩慢12秒﹐豁免-2不利。
-15--16　　6d8 + 5每輪﹐緩慢24秒﹐豁免-2不利。
-17--21　　8d8 + 6每輪﹐緩慢24秒﹐豁免-4不利。
-25以上　　8d8 + 6每輪﹐緩慢36秒﹐豁免-4不利﹐影響群體目標。~
-@2004 = ~巴爾之子的新能力
-<CHARNAME>獲得負界能量防禦以及5%的魔法防禦。~
+�l��t�O�]���t�^
+�g�{�R0
+�ɮġR1�^�X
+�I�k�ɶ��R1
+���Ľd��R�I�k��
+�ŧKų�w�R�L
+�ں����l�Q�Φ�G�����O�q�Ϧۤv�b�u�����ܱo��j���C�ϥγo�ӯ�O���ĪG�O�M<PRO_HISHER>���C�T�ӵ��ťi�H�����j���M���M�ӱ��@�I�C�Q�G�Ū��I�k�̥i�H�����|�I�C~
+@2003 = ~�ں����l���s��O
+<CHARNAME>��o�F�o�ӯ�O�M�C�ѥi�H�ϥΤ@��: 
+�·t�ѽ�]���F�t�^ 
+�g�{�R�G�Q��
+�ɮġR�@�^�X
+�I�k�ɶ��R1
+���Ľd��R�@�ӥͪ�
+�ŧKų�w�R�q�L�L��
+�y�ѳo�Ӫk�N�M�ں����l�i�H�N�������c�ѽ������@�ӼĤH���W�M�ؼЭY���q�L���`�ŧK�h�|���r�M����ĪG�ѬI�k�̵��ŨM�w�R
+7--9�@�@�@2d8 + 2�C���M�w�C12���M�ŧK-2���Q�C
+10--12�@�@3d8 + 3�C���M�w�C12���M�ŧK-2���Q�C
+13--14�@�@4d8 + 4�C���M�w�C12���M�ŧK-2���Q�C
+15--16�@�@6d8 + 5�C���M�w�C24���M�ŧK-2���Q�C
+17--21�@�@8d8 + 6�C���M�w�C24���M�ŧK-4���Q�C
+25�H�W�@�@8d8 + 6�C���M�w�C36���M�ŧK-4���Q�M�v�T�s��ؼСC~
+@2004 = ~�ں����l���s��O
+<CHARNAME>��o�t�ɯ�q���m�H��5%���]�k���m�C~
 @2005 = ~Bhaalspawn Powers
 
 <CHARNAME> has gained the ability, usable once per day: 
@@ -112,40 +112,40 @@ The effects vary by level as follows:
 20th: 4 rounds, 8 hp extra damage, 8 hp healed
 25th: 5 rounds, 10 hp extra damage, 10 hp healed
 30th: 6 rounds, 12 hp extra damage, 12 hp healed~
-@2006 = ~巴爾之子的新能力
-<CHARNAME>獲得了這個能力﹐每天可以使用一次: 
+@2006 = ~�ں����l���s��O
+<CHARNAME>��o�F�o�ӯ�O�M�C�ѥi�H�ϥΤ@��: 
 
-復興（死靈系）
-射程﹕觸摸
-時效﹕永久
-施法時間﹕1
-有效範圍﹕被觸摸生物
-豁免鑒定﹕無
-類似第七級神術復興﹐這個能力同樣可以將死去的隊友以最佳狀態帶回人世。~
-@2007 = ~巴爾之子的新能力
-<CHARNAME>獲得25%的物理免疫能力。~
+�_���]���F�t�^
+�g�{�RĲ�N
+�ɮġR�ä[
+�I�k�ɶ��R1
+���Ľd��R�QĲ�N�ͪ�
+�ŧKų�w�R�L
+�����ĤC�ů��N�_���M�o�ӯ�O�P�˥i�H�N���h�����ͥH�̨Ϊ��A�a�^�H�@�C~
+@2007 = ~�ں����l���s��O
+<CHARNAME>��o25%�����z�K�̯�O�C~
 @2008 = ~Slayer Change ability improved~
-@3000 = ~混亂之劍+4~
-@3001 = ~沙洛弗克的混亂之劍
-<CHARNAME>的兄弟﹐沙洛弗克的兵器。在博得之門發生的最後一戰中﹐沙洛弗克被<CHARNAME>擊敗﹐他想在劍灣發起戰爭的計劃也隨之破產。現在沙洛弗克加入了<CHARNAME>的隊伍﹐並使這把劍恢復了原來的一些能力。然而沒有了巴爾之子的靈魂﹐沙洛弗克的劍無法達到像原來的那樣強大﹐但它仍是一件可怕的武器。沙洛弗克說不是死亡使者的人最好不要碰這把劍。
+@3000 = ~�V�ä��C+4~
+@3001 = ~�F�����J���V�ä��C
+<CHARNAME>���S�̡M�F�����J���L���C�b�ձo�����o�ͪ��̫�@�Ԥ��M�F�����J�Q<CHARNAME>���ѡM�L�Q�b�C�W�o�_�Ԫ����p���]�H���}���C�{�b�F�����J�[�J�F<CHARNAME>������M�èϳo��C��_�F��Ӫ��@�ǯ�O�C�M�ӨS���F�ں����l���F��M�F�����J���C�L�k�F�칳��Ӫ����˱j�j�M�������O�@��i�Ȫ��Z���C�F�����J�����O���`�Ϫ̪��H�̦n���n�I�o��C�C
 
-狀態﹕
-能力﹕每級吸取一到五點生命﹐吸取的生命不會超過生命最大值。持用者獲得10%魔法防禦。
+���A�R
+��O�R�C�ŧl���@�줭�I�ͩR�M�l�����ͩR���|�W�L�ͩR�̤j�ȡC���Ϊ���o10%�]�k���m�C
 
-傷害﹕1d10 + 4
-命中﹕+ 4有利
-重量﹕10
-速度因素﹕8
-武器種類﹕雙手劍
-持用方式﹕雙手
-屬性需求﹕14強壯﹐18體質
-不可使用﹕
-牧師
-法師
-聖騎士
-游俠
-德魯依
-非混亂陣營~
-@3002 = ~仙黛的藥劑~
-@3003 = ~仙黛的藥劑
-可能是仙黛自己做的藥劑﹐任何人喝了他都會完全恢復健康。~
+�ˮ`�R1d10 + 4
+�R���R+ 4���Q
+���q�R10
+�t�צ]���R8
+�Z�������R����C
+���Τ覡�R����
+�ݩʻݨD�R14�j���M18���
+���i�ϥΡR
+���v
+�k�v
+�t�M�h
+��L
+�w�|��
+�D�V�ð}��~
+@3002 = ~�P�L���ľ�~
+@3003 = ~�P�L���ľ�
+�i��O�P�L�ۤv�����ľ��M����H�ܤF�L���|������_���d�C~

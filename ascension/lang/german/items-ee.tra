@@ -1,27 +1,24 @@
-@3001 = ~Sarevoks Schwert des Chaos
+@3001 = ~Die Klinge von Sarevok, <CHARNAME>s Bruder, die er im Kampf im fernen Baldurs Tor benutzte. <CHARNAME> siegte, vereitelte Sarevoks Pläne und bewahrte die Schwertküste vor einem Krieg. Nun kämpft Sarevok an <CHARNAME>s Seite, und die Klinge wurde ihm zurückgegeben. Sarevok bezeichnet die Waffe als Klinge eines Todesbringers und hat etwas von ihrer alten Macht wiederhergestellt. Ohne dass die Essenz der Bhaalbrut durch sie fließt, verfügt sie zwar nicht über ihre früheren Fähigkeiten. Dennoch ist sie eine tödliche Waffe... und Sarevok warnt, dass sie schwer zu führen sein wird für einen, der kein Todesbringer ist - wenn er sie überhaupt tragen kann.
 
-Sarevok schwang die Klinge einst im Kampf im fernen Baldurs Tor. <CHARNAME> behielt die Oberhand, vereitelte seine Sarevoks PlÃ¤ne und verhinderte einen blutigen Krieg an der SchwertkÃ¼ste. Nun kÃ¤mpft Sarevok an <CHARNAME>s Seite, und die Klinge wurde ihm zurÃ¼ckgegeben. Sarevok bezeichnet die Waffe als Klinge eines Todesbringers und hat etwas von ihrer alten Macht wiederhergestellt. Ohne dass die Essenz der Bhaalbrut durch sie flieÃŸt, verfÃ¼gt sie zwar nicht Ã¼ber ihre frÃ¼heren FÃ¤higkeiten. Dennoch ist sie eine tÃ¶dliche Waffe... und Sarevok warnt, dass sie schwer zu fÃ¼hren sein wird fÃ¼r einen, der kein Todesbringer ist - wenn er sie Ã¼berhaupt tragen kann.
+SPEZIFISCHE EIGENSCHAFTEN:
 
-EIGENSCHAFTEN:
+Besondere Fähigkeiten: jeder Treffer raubt dem Opfer einen bis fünf Trefferpunkte und überträgt ihn auf den Träger des Schwertes. Dadurch kann er aber nicht mehr Trefferpunkte als sein Maximum erhalten.
 
-Bei jedem Treffer wird dem Ziel 1-5 Trefferpunkt entzogen und auf den TrÃ¤ger Ã¼bertragen. Der TrÃ¤ger kann dadurch nicht mehr als seine maximalen Trefferpunkte erhalten.
+Die Klinge gewährt zusätzlich +10% Magieresistenz, wenn sie getragen wird.
 
-Magiewiderstand: 10Â %
+Schaden: 1W10 +4 (Klingenwaffe)
+ETW0: -4
 
-ETW0-Bonus: -4
-Schaden: 1W10 +4 (Klinge)
+Gewicht: 10
 Initiativefaktor: 8
-Fertigkeit: ZweihÃ¤nder
-Typ: 2-hÃ¤ndig
-MindeststÃ¤rke: 14
-Mindestkonstitution: 18
-
-Gewicht: 10~
-@3003 = ~WomÃ¶glich von Sendai selbst gebraut, ist dieses ein ungeheuer mÃ¤chtiger Heiltrank, der die kompletten Trefferpunkte von jedem, der ihn zu sich nimmt, wiederherstellt.
+Waffenfertigkeit: Zweihänder
+Waffentyp: Beidhändig
+Benötigt: Stärke 14, Konstitution 18~
+@3003 = ~Womöglich von Sendai selbst gebraut, ist dieses ein ungeheuer mächtiger Heiltrank, der die kompletten Trefferpunkte von jedem, der ihn zu sich nimmt, wiederherstellt.
 
 EIGENSCHAFTEN:
 
 Gewicht: 1~
-@3004 = ~Dennoch ist sie eine tÃ¶dliche Waffe... und Sarevok warnt, dass sie schwer zu fÃ¼hren sein wird fÃ¼r einen, der kein Todesbringer ist - wenn er sie Ã¼berhaupt tragen kann.~
-@3005 = ~Dennoch ist sie eine tÃ¶dliche Waffe... und nur ein Todesbringer mit den FÃ¤higkeiten und der Macht von Sarevok kann sie fÃ¼hren.~
-@3006 = ~Nur Sarevok kann diese Waffe verwenden.~
+@3004 = ~Dennoch ist sie eine tödliche Waffe... und Sarevok warnt, dass sie schwer zu führen sein wird für einen, der kein Todesbringer ist - wenn er sie überhaupt tragen kann.~
+@3005 = ~Dennoch ist sie eine tödliche Waffe... und nur ein Todesbringer mit den Fähigkeiten und der Macht von Sarevok kann sie führen.~
+@3006 = ~Nur Sarevok kann diese Waffe benutzen.~

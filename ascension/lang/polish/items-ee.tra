@@ -1,49 +1,49 @@
-@3001 = ~Tego oto miecza dobywaÅ‚ Sarevok, kiedy starÅ‚ siÄ™ ze swoim bratem w odlegÅ‚ych Wrotach Baldura. JednakÅ¼e to wÅ‚aÅ›nie jego brat, <CHARNAME>, zwyciÄ™Å¼yÅ‚, obracajÄ…c wniwecz plany Sarevoka i ratujÄ…c WybrzeÅ¼e Mieczy od nieuchronnej wojny. Teraz, gdy Sarevok i <CHARNAME> walczÄ… ramiÄ™ w ramiÄ™, ostrze powrÃ³ciÅ‚o do prawowitego wÅ‚aÅ›ciciela. Sarevok nazywa je ostrzem Zwiastuna Åšmierci, udaÅ‚o mu siÄ™ rÃ³wnieÅ¼ przywrÃ³ciÄ‡ mu czÄ™Å›Ä‡ jego dawnej mocy. Mimo to, odkÄ…d nie przenika go esencja Bhaala, miecz nie moÅ¼e odzyskaÄ‡ peÅ‚ni swej niegdysiejszej potÄ™gi. WciÄ…Å¼ pozostaje on jednak niebywale groÅºnÄ… broniÄ…â€¦ ktÃ³rÄ…, wedÅ‚ug Sarevoka, nie zdoÅ‚a wÅ‚adaÄ‡ nikt inny niÅ¼ Zwiastun Åšmierci.
+@3001 = ~Tego oto miecza dobywa³ Sarevok, kiedy star³ siê ze swoim bratem w odleg³ych Wrotach Baldura. Jednak¿e to w³aœnie jego brat, <CHARNAME>, zwyciê¿y³, obracaj¹c wniwecz plany Sarevoka i ratuj¹c Wybrze¿e Mieczy od nieuchronnej wojny. Teraz, gdy Sarevok i <CHARNAME> walcz¹ ramiê w ramiê, ostrze powróci³o do prawowitego w³aœciciela. Sarevok nazywa je ostrzem Zwiastuna Œmierci, uda³o mu siê równie¿ przywróciæ mu czêœæ jego dawnej mocy. Mimo to, odk¹d nie przenika go esencja Bhaala, miecz nie mo¿e odzyskaæ pe³ni swej niegdysiejszej potêgi. Wci¹¿ pozostaje on jednak niebywale groŸn¹ broni¹… któr¹, wed³ug Sarevoka, nie zdo³a w³adaæ nikt inny ni¿ Zwiastun Œmierci.
 
 PARAMETRY:
 
 Specjalne:
-- KaÅ¼de trafienie wysysa z ofiary od jednego do piÄ™ciu punktÃ³w Å¼ycia i przekazuje je posiadaczowi miecza. Zgromadzone w ten sposÃ³b punkty 
- Å¼ycia nie przekroczÄ… jednak maksymalnej liczby punktÃ³w dzierÅ¼Ä…cego miecz.
-- OdpornoÅ›Ä‡ na magiÄ™: 10%
+- Ka¿de trafienie wysysa z ofiary od jednego do piêciu punktów ¿ycia i przekazuje je posiadaczowi miecza. Zgromadzone w ten sposób punkty 
+ ¿ycia nie przekrocz¹ jednak maksymalnej liczby punktów dzier¿¹cego miecz.
+- Odpornoœæ na magiê: 10%
 
 TraK0: +4
-ObraÅ¼enia: 1k10 +4
-Typ obraÅ¼eÅ„: sieczne
-OpÃ³Åºnienie: 8
-Rodzaj biegÅ‚oÅ›ci: miecz oburÄ™czny
-Typ broni: 2-rÄ™czna
+Obra¿enia: 1k10 +4
+Typ obra¿eñ: sieczne
+OpóŸnienie: 8
+Rodzaj bieg³oœci: miecz oburêczny
+Typ broni: 2-rêczna
 
 Wymagania:
-- SiÅ‚a: 14
+- Si³a: 14
 - Kondycja: 18
 
-Waga: 10~ ~Tego oto miecza dobywaÅ‚ Sarevok, kiedy starÅ‚ siÄ™ ze swojÄ… siostrÄ… w odlegÅ‚ych Wrotach Baldura. JednakÅ¼e to wÅ‚aÅ›nie jego siostra, <CHARNAME>, zwyciÄ™Å¼yÅ‚a, obracajÄ…c wniwecz plany Sarevoka i ratujÄ…c WybrzeÅ¼e Mieczy od nieuchronnej wojny. Teraz, gdy Sarevok i <CHARNAME> walczÄ… ramiÄ™ w ramiÄ™, ostrze powrÃ³ciÅ‚o do prawowitego wÅ‚aÅ›ciciela. Sarevok nazywa je ostrzem Zwiastuna Åšmierci, udaÅ‚o mu siÄ™ rÃ³wnieÅ¼ przywrÃ³ciÄ‡ mu czÄ™Å›Ä‡ jego dawnej mocy. Mimo to, odkÄ…d nie przenika go esencja Bhaala, miecz nie moÅ¼e odzyskaÄ‡ peÅ‚ni swej niegdysiejszej potÄ™gi. WciÄ…Å¼ pozostaje on jednak niebywale groÅºnÄ… broniÄ…â€¦ ktÃ³rÄ…, wedÅ‚ug Sarevoka, nie zdoÅ‚a wÅ‚adaÄ‡ nikt inny niÅ¼ Zwiastun Åšmierci.
+Waga: 10~ ~Tego oto miecza dobywa³ Sarevok, kiedy star³ siê ze swoj¹ siostr¹ w odleg³ych Wrotach Baldura. Jednak¿e to w³aœnie jego siostra, <CHARNAME>, zwyciê¿y³a, obracaj¹c wniwecz plany Sarevoka i ratuj¹c Wybrze¿e Mieczy od nieuchronnej wojny. Teraz, gdy Sarevok i <CHARNAME> walcz¹ ramiê w ramiê, ostrze powróci³o do prawowitego w³aœciciela. Sarevok nazywa je ostrzem Zwiastuna Œmierci, uda³o mu siê równie¿ przywróciæ mu czêœæ jego dawnej mocy. Mimo to, odk¹d nie przenika go esencja Bhaala, miecz nie mo¿e odzyskaæ pe³ni swej niegdysiejszej potêgi. Wci¹¿ pozostaje on jednak niebywale groŸn¹ broni¹… któr¹, wed³ug Sarevoka, nie zdo³a w³adaæ nikt inny ni¿ Zwiastun Œmierci.
 
 PARAMETRY:
 
 Specjalne:
-- KaÅ¼de trafienie wysysa z ofiary od jednego do piÄ™ciu punktÃ³w Å¼ycia i przekazuje je posiadaczowi miecza. Zgromadzone w ten sposÃ³b punkty 
- Å¼ycia nie przekroczÄ… jednak maksymalnej liczby punktÃ³w dzierÅ¼Ä…cego miecz.
-- OdpornoÅ›Ä‡ na magiÄ™: 10%
+- Ka¿de trafienie wysysa z ofiary od jednego do piêciu punktów ¿ycia i przekazuje je posiadaczowi miecza. Zgromadzone w ten sposób punkty 
+ ¿ycia nie przekrocz¹ jednak maksymalnej liczby punktów dzier¿¹cego miecz.
+- Odpornoœæ na magiê: 10%
 
 TraK0: +4
-ObraÅ¼enia: 1k10 +4
-Typ obraÅ¼eÅ„: sieczne
-OpÃ³Åºnienie: 8
-Rodzaj biegÅ‚oÅ›ci: miecz oburÄ™czny
-Typ broni: 2-rÄ™czna
+Obra¿enia: 1k10 +4
+Typ obra¿eñ: sieczne
+OpóŸnienie: 8
+Rodzaj bieg³oœci: miecz oburêczny
+Typ broni: 2-rêczna
 
 Wymagania:
-- SiÅ‚a: 14
+- Si³a: 14
 - Kondycja: 18
 
 Waga: 10~
-@3003 = ~Ta niezwykle potÄ™Å¼na mikstura uzdrawiajÄ…ca, bÄ™dÄ…ca najprawdopodobniej dzieÅ‚em samej Sendai, jest zdolna przywrÃ³ciÄ‡ peÅ‚niÄ™ punktÃ³w Å¼ycia pijÄ…cej jÄ… osobie.
+@3003 = ~Ta niezwykle potê¿na mikstura uzdrawiaj¹ca, bêd¹ca najprawdopodobniej dzie³em samej Sendai, jest zdolna przywróciæ pe³niê punktów ¿ycia pij¹cej j¹ osobie.
 
 PARAMETRY:
 
 Waga: 1~
-@3004 = ~Jednak nadal jest to imponujÄ…ca broÅ„... i Sarevok ostrzega, Å¼e staje siÄ™ coraz trudniejsza do opanowania przez osobÄ™, ktÃ³ra nie jest Zwiastunem Åšmierci, jeÅ›li w ogÃ³le mogÄ… z niej skorzystaÄ‡.~
-@3005 = ~Jednak nadal jest to imponujÄ…ca broÅ„... i tylko Zwiastun Åšmierci o umiejÄ™tnoÅ›ciach i mocy Sarevoka moÅ¼e niÄ… wÅ‚adaÄ‡.~
-@3006 = ~Tylko Sarevok moÅ¼e uÅ¼ywaÄ‡ tej broni.~
+@3004 = ~Jednak nadal jest to imponuj¹ca broñ... i Sarevok ostrzega, ¿e staje siê coraz trudniejsza do opanowania przez osobê, która nie jest Zwiastunem Œmierci, jeœli w ogóle mog¹ z niej skorzystaæ.~
+@3005 = ~Jednak nadal jest to imponuj¹ca broñ... i tylko Zwiastun Œmierci o umiejêtnoœciach i mocy Sarevoka mo¿e ni¹ w³adaæ.~
+@3006 = ~Tylko Sarevok mo¿e u¿ywaæ tej broni.~

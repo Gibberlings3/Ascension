@@ -1363,7 +1363,7 @@ msgid ""
 "to meeting you again on Faerun, <CHARNAME>... as a mortal and a true "
 "<PRO_BROTHERSISTER>."
 msgstr ""
-"一切都结束了，我相信你的选择是正确的。我期待着与你再次在费伦相见，<CHARNAME>_……我真诚的凡人<PRO_BROTHERSISTER>_！"
+"一切都结束了，我相信你的选择是正确的。我期待着与你再次在费伦相见，<CHARNAME>……我真诚的凡人<PRO_BROTHERSISTER>！"
 
 #: balth_finsol.tra:1017
 msgid ""
@@ -2745,7 +2745,7 @@ msgid ""
 "Imoen is now able to enter the Ethereal Plane for brief periods of time. The ability is useable once every minute, and its use prevents her from assuming the Slayer form for a minute, as well. Imoen can remain fully ethereal and intangible to forces on this plane for a full round... during which she is invisible and completely immune to harm. During that round, she also cannot cast spells or use abilities.\n"
 "For another two rounds afterwards, Imoen can remain 'half-phased'... she is partially ethereal and partially in this plane. She is still invisible, but takes half damage from all sources. In this state, there is a small chance (10%) that she will miscast a spell. For all three rounds, she is able to see any invisible targets."
 msgstr ""
-"爱蒙活了下来。\n"
+"爱蒙活了下来\n"
 "\n"
 "爱蒙解除了梅丽珊强迫其引导的杀戮者状态。而且看起来爱蒙那污秽的天赋力量也因此得到了增强。她现在不仅可以像我在禁魔监狱里那样自由转变为杀戮者形态，而且获得了新的能力“虚无灵体”，这使她可以进入灵界一段时间。\n"
 "\n"
@@ -2814,14 +2814,14 @@ msgstr "是的，<PRO_SIRMAAM>！（偷笑）是时候挨个踢他们的屁股�
 msgid ""
 "Ahhh... my dear brother calls me at last, does he? I knew you would not be "
 "able to live without my assistance for long."
-msgstr "啊……我亲爱的弟弟终究还是召唤了我，不是么？我就知道没有我的协助你是活不长的。"
+msgstr "啊……我亲爱的弟弟终究还是召唤了我，不是么？我就知道没有我的协助你是活不长的。 "
 
 #: iren_bodhi.tra:34
 msgid ""
 "(chuckle) How very like you to blame me for your own failings. Poor, poor "
 "Irenicus... always so very, very close to getting what he wants and yet "
 "always so very, very far."
-msgstr "（窃笑）你怎能因自己的失败而责备我呢？可怜，可怜的艾瑞尼卡斯啊……总离他想要的一切是如此的近，又是如此的远。"
+msgstr "（窃笑）你怎能因自己的失败而责备我呢？可怜，可怜的艾瑞尼卡斯啊……总离他想要的一切是如此的近，又是如此的远。 "
 
 #: iren_bodhi.tra:35
 msgid ""
@@ -2830,64 +2830,65 @@ msgid ""
 "you are as... healthy... as I remember. Shall we continue our merry dance?"
 msgstr ""
 "我明白了，亲爱的弟弟。再次加入这场巴尔之子的“游戏”是多么令人愉悦啊！还有你，<CHARNAME>。希望你仍如我印象中那般……强壮。我们可以继续这场优雅的舞蹈了吗？"
+" "
 
 #: iren_bodhi.tra:36
 msgid ""
 "Still trapped in servitude to Irenicus? Do you have no will of your own, "
 "Bodhi?"
-msgstr "你仍然要受艾瑞尼卡斯的奴役吗？芭荻，你就没有任何自己的意志吗？"
+msgstr "你仍然要受艾瑞尼卡斯的奴役吗？芭荻，你就没有任何自己的意志吗？ "
 
 #: iren_bodhi.tra:37
 msgid ""
 "Why don't you go jump on a stake and spare us both the tedium of battle?"
-msgstr "你为什么不直接找根木桩跳上去，也好缓解一下这里的沉闷气氛。"
+msgstr "你为什么不直接找根木桩跳上去，也好缓解一下这里的沉闷气氛。 "
 
 #: iren_bodhi.tra:38
 msgid ""
 "Best hike up your skirts and run, Bodhi. The time when I found vampires "
 "remotely threatening is long past!"
-msgstr "赶快卷起裙子逃跑吧，芭荻。吸血鬼对我来说早已是无足轻重的对手。"
+msgstr "赶快卷起裙子逃跑吧，芭荻。吸血鬼对我来说早已是无足轻重的对手。 "
 
 #: iren_bodhi.tra:39
 msgid ""
 "Do I have to suffer your prattle again? I shall stamp out your evil presence"
 " once and for all!"
-msgstr "我还要再次忍受你那呓语吗？这次我要彻底消灭你这恶鬼！"
+msgstr "我还要再次忍受你那呓语吗？这次我要彻底消灭你这恶鬼！ "
 
 #: iren_bodhi.tra:41
 msgid ""
 "Oh Child of Bhaal, so serious and grim! Do you not enjoy that our paths have"
 " crossed again? Does your blood not rejoice?"
-msgstr "喔，巴尔之子，如此严肃，如此冷酷！你难道不为我们的再次会面而感到愉悦么？你难道生来就不懂得欣喜么？"
+msgstr "喔，巴尔之子，如此严肃，如此冷酷！你难道不为我们的再次会面而感到愉悦么？你难道生来就不懂得欣喜么？ "
 
 #: iren_bodhi.tra:42
 msgid ""
 "You are weak, Bodhi, while the blood of a god flows within me. I shall enjoy"
 " your death... again."
-msgstr "你太软弱了，芭荻。当神的血液在我身体里流淌时，我会欣喜地看到你再一次死亡！"
+msgstr "你太软弱了，芭荻。当神的血液在我身体里流淌时，我会欣喜地看到你再一次死亡！ "
 
 #: iren_bodhi.tra:43
 msgid "Enough of this! You will fall before me, undead thing."
-msgstr "够了！你就要完蛋了，你这肮脏的吸血鬼。"
+msgstr "够了！你就要完蛋了，你这肮脏的吸血鬼。 "
 
 #: iren_bodhi.tra:44
 msgid ""
 "You have nothing to gain from this fight. Will you sacrifice yourself out of"
 " sibling loyalty? Do not make that mistake again."
-msgstr "这场战斗对你来说毫无意义。你难道真要为你的兄弟牺牲一切吗？不要再犯同样的错误了。"
+msgstr "这场战斗对你来说毫无意义。你难道真要为你的兄弟牺牲一切吗？不要再犯同样的错误了。 "
 
 #: iren_bodhi.tra:45
 msgid ""
 "Stand aside Bodhi. Your brother is blinded by his lust for vengance. He's "
 "prepared to fight me to the death, but you don't need to die at his side. "
 "There is no need for you to die at all."
-msgstr "离这里远一点，芭荻。你弟弟已经被复仇的意志蒙蔽了双眼，准备与我以死相拼。但你并没有必要为他送命，你甚至没有理由去死。"
+msgstr "离这里远一点，芭荻。你弟弟已经被复仇的意志蒙蔽了双眼，准备与我以死相拼。但你并没有必要为他送命，你甚至没有理由去死。 "
 
 #: iren_bodhi.tra:46
 msgid ""
 "You may be strong, <CHARNAME>, but you are indeed a fool to think us weak. I"
 " shall take your soul for my own, I swear it!"
-msgstr "你也许很强大，<CHARNAME>，但却是个低估我们的蠢货。我会把你的灵魂据为己有，我发誓！"
+msgstr "你也许很强大，<CHARNAME>，但却是个低估我们的蠢货。我会把你的灵魂据为己有，我发誓！ "
 
 #: iren_bodhi.tra:47
 msgid ""
@@ -2896,19 +2897,20 @@ msgid ""
 "<PRO_HESHE> that shall give me what I need. I look forward to bathing in "
 "your blood, dear brother... a suitable reward for your utter failure."
 msgstr ""
-"你曾经有过机会，弟弟。可是你的计划一再失败，甚至我也因此而死。不，你和<CHARNAME>_比起来太弱了，只有<PRO_HESHE>_能带给我想要的一切。我要沐浴在你的鲜血中，亲爱的弟弟……这是对你彻底失败的惩罚。"
+"你曾经有过机会，弟弟。可是你的计划一再失败，甚至我也因此而死。不，你和<CHARNAME>比起来太弱了，只有<PRO_HESHE>能带给我想要的一切。我要沐浴在你的鲜血中，亲爱的弟弟……这是对你彻底失败的惩罚。"
+" "
 
 #: iren_bodhi.tra:48
 msgid ""
 "Oh Child of Bhaal, you do bore me so with your talk. Come to me and embrace "
 "death as I have. Let the dance begin again!"
-msgstr "喔，巴尔之子，与你交谈已令我感到厌倦。来此与我共同拥抱死亡吧。让我们再次舞蹈起来！"
+msgstr "喔，巴尔之子，与你交谈已令我感到厌倦。来此与我共同拥抱死亡吧。让我们再次舞蹈起来！ "
 
 #: iren_bodhi.tra:49
 msgid ""
 "Indeed, I have no intention of dying at all. I fight with my brother because"
 " I have no choice... or would you offer me one now?"
-msgstr "事实上，我也不想如此死去。我之所以为他卖命是因为自己没有别的选择……也许你可以为我提供一条出路？"
+msgstr "事实上，我也不想如此死去。我之所以为他卖命是因为自己没有别的选择……也许你可以为我提供一条出路？ "
 
 #: iren_bodhi.tra:50
 msgid ""
@@ -2921,7 +2923,7 @@ msgstr "我的弟弟相信他能把你的灵魂赋予我，而我看到你也能
 msgid ""
 "I would make you an offer <CHARNAME>. Promise me a piece of your soul and I "
 "shall fight as a sister to you."
-msgstr "我想为你提供一项协议，<CHARNAME>。只要你承诺把灵魂的一部分赋予我，我就会像你的姐姐一样为你而战。"
+msgstr "我想为你提供一项协议，<CHARNAME>。只要你承诺把灵魂的一部分赋予我，我就会像你的姐姐一样为你而战。 "
 
 #: iren_bodhi.tra:52
 msgid ""
@@ -2935,19 +2937,19 @@ msgid ""
 "I am doomed whether or not I fight. My stay in the Abyss was not a pleasant "
 "one, but since I must return, I shall not pass up a chance to feast on such "
 "a fine morsel."
-msgstr "无论我战斗与否，自己都早已死去。在深渊里的那段时间并不很令人愉快，但我毕竟回来了，我怎能放过如此的机会呢？"
+msgstr "无论我战斗与否，自己都早已死去。在深渊里的那段时间并不很令人愉快，但我毕竟回来了，我怎能放过如此的机会呢？ "
 
 #: iren_bodhi.tra:54
 msgid ""
 "I have power beyond your brother's. Join with me and I shall grant the "
 "reward he shall not live to bestow, a soul."
-msgstr "我的力量已凌驾于你的兄弟之上。站到我这边，我可以赐予你他永远也无法给你的，那就是我灵魂的一部分。"
+msgstr "我的力量已凌驾于你的兄弟之上。站到我这边，我可以赐予你他永远也无法给你的，那就是我灵魂的一部分。 "
 
 #: iren_bodhi.tra:55
 msgid ""
 "I have changed since our last encounter, Bodhi. I am above you and your "
 "pitiful games. They bore me and I shall put an end to them!"
-msgstr "从上次见面后我已经历了许多变化，芭荻。现在我已然厌倦了你可悲的游戏，是时候结束这无聊的一切了。"
+msgstr "从上次见面后我已经历了许多变化，芭荻。现在我已然厌倦了你可悲的游戏，是时候结束这无聊的一切了。 "
 
 #: iren_bodhi.tra:56
 msgid ""
@@ -2955,31 +2957,31 @@ msgid ""
 "How many deaths has your brother granted me? Do you truly believe you can "
 "win? Take the portion of soul I offer and live again."
 msgstr ""
-"你的弟弟真是费劲了口舌，芭荻。但行动永远比语言更有说服力。你的弟弟有哪一次真正威胁到我？你真以为自己会有赢的机会吗？攫取我给你的灵魂然后为我而战吧。"
+"你的弟弟真是费劲了口舌，芭荻。但行动永远比语言更有说服力。你的弟弟有哪一次真正威胁到我？你真以为自己会有赢的机会吗？攫取我给你的灵魂然后为我而战吧。 "
 
 #: iren_bodhi.tra:57
 msgid ""
 "Such a delicious offer you make... though I must wonder if you are telling "
 "the truth. Are my chances of survival really any better with you...?"
-msgstr "真是个不错的提议……但我不得不对它的可靠程度表示怀疑，站在你这边真的能提升我幸存下来的几率吗？"
+msgstr "真是个不错的提议……但我不得不对它的可靠程度表示怀疑，站在你这边真的能提升我幸存下来的几率吗？ "
 
 #: iren_bodhi.tra:58
 msgid ""
 "So <CHARNAME>, the creature of darkness that rests within you has also "
 "stolen your wit. Such a shame for one with the divine essence. It will "
 "almost be a mercy to end your existence."
-msgstr "看来<CHARNAME>，居于你体内的黑暗生物不仅占据了你的身体，还夺走了你的才智。这真是巴尔之子的耻辱，杀死你对你来说简直是一种仁慈。"
+msgstr "看来<CHARNAME>，居于你体内的黑暗生物不仅占据了你的身体，还夺走了你的才智。这真是巴尔之子的耻辱，杀死你对你来说简直是一种仁慈。 "
 
 #: iren_bodhi.tra:59
 msgid ""
 "An opportunity to feast on the blood of a God, and yet you think I will "
 "stand aside? (chuckle) You know me no better than my dear brother here."
-msgstr "好不容易有机会享用巴尔之子的鲜血，你以为我会对此无动于衷么？（窃笑）你确实没有我弟弟了解我。"
+msgstr "好不容易有机会享用巴尔之子的鲜血，你以为我会对此无动于衷么？ （窃笑）你确实没有我弟弟了解我。 "
 
 #: iren_bodhi.tra:60
 msgid ""
 "Nor would I care to. Soon enough you will return to the torment you deserve."
-msgstr "我也本不关心。很快你就要回去继续忍受自己的折磨了。"
+msgstr "我也本不关心。很快你就要回去继续忍受自己的折磨了。 "
 
 #: iren_bodhi.tra:61
 msgid ""
@@ -2988,20 +2990,20 @@ msgid ""
 "<PRO_HIMHER>self, dear brother, or did you implant it in <PRO_HIMHER> in one"
 " of your more bizarre experiments?"
 msgstr ""
-"喔，喔，喔……看来这位巴尔之子还很有幽默感。这是<PRO_HESHE>本身的性格使然吗，我亲爱的弟弟？还是被你通过那一系列离奇的试验灌输进去的？"
+"喔，喔，喔……看来这位巴尔之子还很有幽默感。这是<PRO_HESHE>本身的性格使然吗，我亲爱的弟弟？还是被你通过那一系列离奇的试验灌输进去的？ "
 
 #: iren_bodhi.tra:62
 msgid ""
 "I see you are now more Slayer than <PRO_MANWOMAN>. How dull. You provided "
 "such small amusement last time, I doubt that this will be different."
-msgstr "我看到你陷入了更深的杀戮状态，真是无趣。你上次发生这种变化的样子还颇具娱乐性。但这次看上去恐怕不同了。"
+msgstr "我看到你陷入了更深的杀戮状态，真是无趣。你上次发生这种变化的样子还颇具娱乐性。但这次看上去恐怕不同了。 "
 
 #: iren_bodhi.tra:63
 msgid ""
 "No, <CHARNAME>. Sadly, I do not think we are destined to work together "
 "again. I am content to fight by my brother and revel in your blood and that "
 "of those that follow at your heel."
-msgstr "不，<CHARNAME>。很遗憾，我不认为我们可以再次合作。我会站在我弟弟这边，痛饮你和你那些跟班的鲜血。"
+msgstr "不，<CHARNAME>。很遗憾，我不认为我们可以再次合作。我会站在我弟弟这边，痛饮你和你那些跟班的鲜血。 "
 
 #: iren_bodhi.tra:64
 msgid ""
@@ -3010,6 +3012,7 @@ msgid ""
 " this would not bode well for me. No, this ends here."
 msgstr ""
 "喔，巴尔之子，瞧你耍的这些小把戏。你以为这样就能骗过我，但我不会如此轻易上当。你总是沉湎于那些令人作呕的善行之中，那对我来说真是难以忍受。不，这件事到此结束。"
+" "
 
 #: iren_bodhi.tra:65
 msgid ""
@@ -3017,29 +3020,29 @@ msgid ""
 "your soul, yet you would offer it willingly? Promise me a piece of your "
 "essence and I will join you... for now."
 msgstr ""
-"喔，巴尔之子，瞧你耍的这些小把戏。我本为夺取你的灵魂而来，现在你竟主动把它奉献于我？如果你承诺会把自己灵魂的一部分赋予我，我可以加入你……至少是现在。"
+"喔，巴尔之子，瞧你耍的这些小把戏。我本为夺取你的灵魂而来，现在你竟主动把它奉献于我？如果你承诺会把自己灵魂的一部分赋予我，我可以加入你……至少是现在。 "
 
 #: iren_bodhi.tra:66
 msgid ""
 "I swear to you Bodhi, fight by my side, kill my enemies, and you shall have "
 "the soul you desire."
-msgstr "我向你发誓，芭荻，为我而战，抗击我的敌人，你会得到我灵魂的一部分。"
+msgstr "我向你发誓，芭荻，为我而战，抗击我的敌人，你会得到我灵魂的一部分。 "
 
 #: iren_bodhi.tra:67
 msgid ""
 "You have my word Bodhi that when this is done, you shall have a piece of my "
 "essence."
-msgstr "我说到做到。芭荻，等一切结束后，你会得到我灵魂的一部分。"
+msgstr "我说到做到。芭荻，等一切结束后，你会得到我灵魂的一部分。 "
 
 #: iren_bodhi.tra:68
 msgid ""
 "Actually Bodhi, I have changed my mind. I enjoy watching you die too much, "
 "to pass up an opportunity to see it again."
-msgstr "事实上，芭荻，我改变主意了，欣赏你的死亡能给我带来巨大的愉悦，我现在迫不及待想要再享受一次。"
+msgstr "事实上，芭荻，我改变主意了，欣赏你的死亡能给我带来巨大的愉悦，我现在迫不及待想要再享受一次。 "
 
 #: iren_bodhi.tra:69
 msgid "Bodhi, when this is over, I swear that you will be fittingly rewarded."
-msgstr "芭荻，等一切结束后，我保证你会得到你想要的。"
+msgstr "芭荻，等一切结束后，我保证你会得到你想要的。 "
 
 #: iren_bodhi.tra:70
 msgid ""
@@ -3055,6 +3058,7 @@ msgid ""
 "breast than beg for it at your side."
 msgstr ""
 "不，<CHARNAME>，很遗憾，我不认为我们可以再次合作，尽管这个条件很有诱惑力，但你的话听起来比我弟弟的还要空洞，毕竟直接撕裂你的灵魂比向你苦苦哀求要好得多。"
+" "
 
 #: iren_bodhi.tra:87
 msgid ""
@@ -3064,20 +3068,21 @@ msgid ""
 "delightfully evil glare."
 msgstr ""
 "就是现在，<CHARNAME>。你无需用这种眼神看着我。只要一小块灵魂碎片就能满足我的全部需要。快点决定，否则我就会伴随我弟弟已死双眼的邪恶凝视而逐渐枯萎。"
+" "
 
 #: iren_bodhi.tra:88
 msgid ""
 "Why you assumed I would even be interested in your allegiance, Bodhi, I have"
 " no idea. I shall be pleased to know that you both die again just as you "
 "lived: without a single redeeming or worthwhile quality."
-msgstr "为什么你认为我会兑现自己的承诺呢？芭荻，我不知道。我很愿意看到你们两人再次共同毁灭。就像你们生前一样：永远得不到宽恕，永远得不到回报。"
+msgstr "为什么你认为我会兑现自己的承诺呢？芭荻，我不知道。我很愿意看到你们两人再次共同毁灭。就像你们生前一样：永远得不到宽恕，永远得不到回报。 "
 
 #: iren_bodhi.tra:452
 msgid ""
 "Do not overestimate your usefulness to me, 'dear' sister... nor the extent "
 "of my non-existent affection. Or do you truly think I had forgotten your "
 "whispered urgings which had led me down the path of my exile?"
-msgstr "不要高估自己的用处，我“亲爱”的姐姐……也不要高估我从未存在过的“感情”。你以为我真忘了当初就是你引诱我走到如今这一步的吗？"
+msgstr "不要高估自己的用处，我“亲爱”的姐姐……也不要高估我从未存在过的“感情”。你以为我真忘了当初就是你引诱我走到如今这一步的吗？ "
 
 #: iren_bodhi.tra:453
 msgid ""
@@ -3087,12 +3092,13 @@ msgid ""
 "in stealing your proud destiny a second time."
 msgstr ""
 "够了，姐姐，我们要听从梅丽珊的命令，正如她的其他仆人那样。高兴点，这不是我们一直在期待的复仇吗？让我们看看现在还能否把你的灵魂再撕裂一次，<CHARNAME>。我会很乐意再次替你继承那光辉的命运。"
+" "
 
 #: iren_bodhi.tra:454
 msgid ""
 "You over-step your bounds, as always. I did not call you here to rejoice in "
 "your venom, Bodhi. Do you not notice where we are? Whom we face?"
-msgstr "你再次越界了，一如往常。我召你来此不是让你享受自己的毒汁，芭荻。你难道还没意识到这是哪里？没意识到我们在面对谁吗？"
+msgstr "你再次越界了，一如往常。我召你来此不是让你享受自己的毒汁，芭荻。你难道还没意识到这是哪里？没意识到我们在面对谁吗？ "
 
 #: iren_bodhi.tra:455
 msgid ""
@@ -3100,7 +3106,8 @@ msgid ""
 "power here, and you hope to find succor at the feet of this fool "
 "<PRO_GIRLBOY>? Stand by me or die with <PRO_HIMHER>!"
 msgstr ""
-"你想背叛我，芭荻？愚蠢的女人。梅丽珊才是掌控这里一切的人。而你想把希望寄托在这个愚蠢的<PRO_GIRLBOY>_身上？为我而战否则就跟<PRO_HIMHER>_一起死！"
+"你想背叛我，芭荻？愚蠢的女人。梅丽珊才是掌控这里一切的人。而你想把希望寄托在这个愚蠢的<PRO_GIRLBOY>身上？为我而战否则就跟<PRO_HIMHER>一起死！"
+" "
 
 #: iren_bodhi.tra:456
 msgid ""
@@ -3110,10 +3117,11 @@ msgid ""
 "in an eon shall be pleasure as I watch your corpse turn to dust."
 msgstr ""
 "那么我忘恩负义的姐姐，你终究选择了站在我这边，等我回头再处理你的背叛行为。至于你，<CHARNAME>，梅丽珊给了我夺取你灵魂的机会，往后的日子里我一定不会忘记你那尸体化为尘土的样子。"
+" "
 
 #: iren_bodhi.tra:457
 msgid "I see. So you leave me, sister, just as *she* left me."
-msgstr "我明白了，连你也要离开我，姐姐。就和“她”当初一样。"
+msgstr "我明白了，连你也要离开我，姐姐。就和“她”当初一样。 "
 
 #: iren_bodhi.tra:458
 msgid ""
@@ -3123,6 +3131,7 @@ msgid ""
 "<PRO_HIMHER>."
 msgstr ""
 "这一切都无所谓了。梅丽珊已经赐予了我足够强大的能力，我要让你意识到自己是如何的一败涂地，<CHARNAME>。我要夺走你的灵魂。还有你，我“亲爱”的姐姐。马上这里的一切就将荡然无存！"
+" "
 
 #: iren_sarev.tra:277
 msgid ""
@@ -3138,7 +3147,7 @@ msgid ""
 "imagine you were too busy taking control of insane asylums and making "
 "thieves out of vampires for absolutely no reason."
 msgstr ""
-"我当然不会再让<CHARNAME>_从我的手心里溜走，<PRO_HESHE>_已经被我抓住过不止一次了。但是，我想你太急于去控制那座精神病院了，而且又毫无缘由地指使吸血鬼去当窃贼。"
+"我当然不会再让<CHARNAME>从我的手心里溜走，<PRO_HESHE>已经被我抓住过不止一次了。但是，我想你太急于去控制那座精神病院了，而且又毫无缘由地指使吸血鬼去当窃贼。"
 
 #: iren_sarev.tra:440
 msgid ""
@@ -3266,20 +3275,26 @@ msgid ""
 "\n"
 "Weight: 10"
 msgstr ""
-"这把剑是<CHARNAME>的兄弟，沙洛佛克的武器。在博德之门发生的最后一战中，沙洛佛克被<CHARNAME>击败，他计划在剑湾发动战争的阴谋也随之破产。现在沙洛佛克加入了<CHARNAME>的队伍，这把剑也被归还到他的手中。沙洛佛克把这件武器称为死亡使者的剑刃，并使它恢复了原有的一些能力。虽然失去巴尔之子的灵魂已经使沙洛佛克的剑无法达到原来那般强大。但它仍然是一件可怕的武器……就像沙洛佛克所说的那样，不具备死亡使者资质的人会越来越难以运用它。\n"
-"\n"
-"特殊能力：\n"
-"每次击中吸取敌人1-5点生命值治疗自己\n"
-"魔法抗力+10%\n"
+"<CHARNAME>的兄弟沙洛佛克的剑，当他们在遥远的博德之门战斗时，他就是用这把剑。<CHARNAME>获得胜利，破坏了沙洛佛克的计划，并拯救了剑湾。现在沙洛佛克加入了<CHARNAME>的队伍，这把剑也被归还到他的手中。沙洛佛克把这件武器称为死亡使者的剑刃，并使它恢复了原有的一些能力。虽然失去巴尔之子的灵魂已经使沙洛佛克的剑无法达到原来那般强大。但它仍然是一件可怕的武器……就像沙洛佛克所说的那样，不具备死亡使者资质的人会越来越难以运用它。\n"
 "\n"
 "数据资料：\n"
-"伤害力：1D10+4（挥砍）\n"
-"零级命中值：+4改善\n"
-"武器速度：8\n"
-"重量：10\n"
+"\n"
+"装备能力：\n"
+"-魔法抗力：+10%\n"
+"\n"
+"战斗能力：\n"
+"-每次命中可从目标吸取1D5点生命值传送给使用者，但不能超过使用者的生命值上限\n"
+"\n"
+"零级命中值：+4\n"
+"伤害：1D10+4（挥砍）\n"
+"使用速度：8\n"
 "武器特长类别：双手剑\n"
 "使用类别：双手\n"
-"需求：力量14，体质18"
+"需求：\n"
+"力量14\n"
+"体质18\n"
+"\n"
+"重量：10"
 
 #: items-ee.tra:3003
 msgid ""
@@ -3292,6 +3307,7 @@ msgstr ""
 "这瓶药可能是仙黛自己配制的药剂，它具有相当强大的治疗效果，任何人喝了它都会完全恢复健康。\n"
 "\n"
 "数据资料：\n"
+"\n"
 "重量：1"
 
 #: items-ee.tra:3004
@@ -3768,11 +3784,11 @@ msgstr "额外的补充内容（之前版本不包含的内容）"
 
 #: setup.tra:103010
 msgid "Full-body portrait for Bodhi"
-msgstr "颠覆之战肖像：芭荻"
+msgstr "巅峰之战肖像：芭荻"
 
 #: setup.tra:103020
 msgid "Alternate Balthazar portrait, by Cuv"
-msgstr "颠覆之战肖像：巴萨札"
+msgstr "巅峰之战肖像：巴萨札"
 
 #: setup.tra:104000
 msgid "Restored Bhaalspawn Powers"
@@ -4442,7 +4458,7 @@ msgid ""
 "\n"
 "It appears my ability to control the transformation to the Slayer has increased. The Slayer form itself is stronger, deadlier... and I am able to maintain it for longer. The chances of going berserk while in the form have also decreased."
 msgstr ""
-"杀戮者形态增强。\n"
+"杀戮者形态增强\n"
 "\n"
 "看起来我对杀戮者形态的控制能力增强了。这个形态变得更加强壮与致命……而且我还可以保持这个形态更长时间，也更不容易失去理智了。"
 
@@ -4452,7 +4468,7 @@ msgid ""
 "\n"
 "My control over the Slayer transformation continues to increase. The Slayer has become incredibly immune to harm and most magics, and it appears it is now immune to most diseases, poisons as well as any slow or hasting effects. Even the Slayer's claws now sometimes rip through magical effects and defenses."
 msgstr ""
-"杀戮者形态再次增强。\n"
+"杀戮者形态再次增强\n"
 "\n"
 "我对这种形态的掌握能力又增进了一步，现在的形态对绝大多数伤害与魔法都有一定的免疫能力，并且完全免疫疾病，毒素以及影响行动速度的效果。同时杀戮者的爪子还附带有一定的魔法穿透效果。"
 
@@ -4462,7 +4478,7 @@ msgid ""
 "\n"
 "I am not sure if this is a good thing or not... but my ability to control my transformation has progressed to the point where I can now become the Ravager... optionally. Although incredibly powerful... the Ravager receives half damage from most attacks, is immune to any kind of immobilization or buffeting attack... the Ravager is difficult for me to control and may be a danger to those nearby."
 msgstr ""
-"毁灭者形态。\n"
+"毁灭者形态\n"
 "\n"
 "我不知道这是件好事还是坏事……但我的变形能力已经超越了原有的极限，我可以按照自己的意愿变形成毁灭者了。这种形态对大多数攻击都只承受一半的伤害，并且免疫任何种类的行动限制与致命一击效果……然而这个形态非常难以控制，对周围的人来说也是极大的危险。"
 
@@ -4537,7 +4553,7 @@ msgid ""
 "I tire of <CHARNAME> and <PRO_HISHER> foolish morals. I tire of tagging "
 "along as a servant to the one who halted my own plans long before yours came"
 " to fruition, priestess. Aye... I will be your general."
-msgstr "我厌倦了<CHARNAME>_和<PRO_HISHER>_愚蠢的说教，我厌倦了对曾经阻挠我计划的人俯首称臣。女牧师。啊……我愿意为你而战。"
+msgstr "我厌倦了<CHARNAME>和<PRO_HISHER>愚蠢的说教，我厌倦了对曾经阻挠我计划的人俯首称臣。女牧师。啊……我愿意为你而战。"
 
 #: the_five.tra:267
 msgid "No, Sarevok! You traitorous bastard!"

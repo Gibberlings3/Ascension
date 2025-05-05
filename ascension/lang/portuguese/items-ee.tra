@@ -1,29 +1,29 @@
-@3001 = ~A espada de Sarevok, irmÃ£o de <CHARNAME>, usada na batalha entre os dois na distante PortÃ£o de Baldur. <CHARNAME> venceu, destruindo os planos de Sarevok e salvando a Costa das Espadas da guerra iminente. Agora Sarevok se juntou Ã  causa de <CHARNAME> e sua espada foi restaurada para ele. Sarevok chama a arma de Arauto da Morte e restaurou um pouco do antigo poder da arma. Sem a sua essÃªncia de Filho de Bhall para canalizar atravÃ©s da espada, ela nÃ£o pode alcanÃ§ar o poder que jÃ¡ teve. Ainda assim, no entanto, Ã© uma arma formidÃ¡vel... e uma que Sarevok avisa se tornaria cada vez mais difÃ­cil de usar nas mÃ£os de alguÃ©m que nÃ£o era um Arauto da Morte, se pudesse usÃ¡-la.
+@3001 = ~A espada de Sarevok, irmão de <CHARNAME>, usada na batalha entre os dois na distante Portão de Baldur. <CHARNAME> venceu, destruindo os planos de Sarevok e salvando a Costa das Espadas da guerra iminente. Agora Sarevok se juntou à causa de <CHARNAME> e sua espada foi restaurada para ele. Sarevok chama a arma de Arauto da Morte e restaurou um pouco do antigo poder da arma. Sem a sua essência de Filho de Bhall para canalizar através da espada, ela não pode alcançar o poder que já teve. Ainda assim, no entanto, é uma arma formidável... e uma que Sarevok avisa se tornaria cada vez mais difícil de usar nas mãos de alguém que não era um Arauto da Morte, se pudesse usá-la.
 
-ESTATÃSTICAS:
+ESTATÍSTICAS:
 
 Habilidades de combate:
-- Cada golpe drena de um a cinco pontos de vida do alvo e o transfere para o usuÃ¡rio. Isto nÃ£o darÃ¡ pontos de vida alÃ©m do mÃ¡ximo do portador.
+- Cada golpe drena de um a cinco pontos de vida do alvo e o transfere para o usuário. Isto não dará pontos de vida além do máximo do portador.
 
 Habilidades equipadas:
-- ResistÃªncia Ã  Magia: + 10%
+- Resistência à Magia: + 10%
 
 PACA0: +4
 Dano: 1d10+4 (corte)
 Fator de Velocidade: 8
-Tipo de ProficiÃªncia: Montante
-Tipo: Duas MÃ£os
+Tipo de Proficiência: Montante
+Tipo: Duas Mãos
 
 Requer:
-14 ForÃ§a
-18 ConstituiÃ§Ã£o
+14 Força
+18 Constituição
 
 Peso: 10~
-@3003 = ~Possivelmente uma mistura da prÃ³pria Sendai, esta Ã© uma poÃ§Ã£o de cura incrivelmente potente capaz de restaurar totalmente os pontos de vida de qualquer um que a use.
+@3003 = ~Possivelmente uma mistura da própria Sendai, esta é uma poção de cura incrivelmente potente capaz de restaurar totalmente os pontos de vida de qualquer um que a use.
 
-ESTATÃSTICAS:
+ESTATÍSTICAS:
 
 Peso: 1~
-@3004 = ~Ainda assim, no entanto, Ã© uma arma formidÃ¡vel... e uma que Sarevok avisa se tornaria cada vez mais difÃ­cil de usar nas mÃ£os de alguÃ©m que nÃ£o era um Arauto da Morte, se pudesse usÃ¡-la.~
-@3005 = ~Ainda assim, Ã© uma arma formidÃ¡vel... e somente um Arauto da Morte com a habilidade e poder de Sarevok pode empunhÃ¡-la.~
+@3004 = ~Ainda assim, no entanto, é uma arma formidável... e uma que Sarevok avisa se tornaria cada vez mais difícil de usar nas mãos de alguém que não era um Arauto da Morte, se pudesse usá-la.~
+@3005 = ~Ainda assim, é uma arma formidável... e somente um Arauto da Morte com a habilidade e poder de Sarevok pode empunhá-la.~
 @3006 = ~Apenas Sarevok pode usar esta arma.~

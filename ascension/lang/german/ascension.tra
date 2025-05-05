@@ -4,55 +4,55 @@
 @1007 = ~Aura der Blitze~
 @1009 = ~Telekinese~
 @1012 = ~Resistenzen wechseln~
-@1013 = ~DÃ¤mon beherrschen~
+@1013 = ~Dämon beherrschen~
 @1014 = ~Fokus~
-@1016 = ~GÃ¶ttlicher Schutzmantel~
+@1016 = ~Göttlicher Schutzmantel~
 @1017 = ~Macht aufnehmen~
-@1018 = ~GÃ¶ttliches Zauberschild~
-@1019 = ~DÃ¤mon kommandieren~
+@1018 = ~Göttliches Zauberschild~
+@1019 = ~Dämon kommandieren~
 @1020 = ~Verbannen~
 @1022 = ~Entfesseln~
-@1024 = ~RÃ¼ckschlag~
-@1025 = ~GÃ¶ttliche Genesung~
-@1026 = ~GÃ¶ttliche Reinigung~
-@1027 = ~Aura der LÃ¤hmung~
+@1024 = ~Rückschlag~
+@1025 = ~Göttliche Genesung~
+@1026 = ~Göttliche Reinigung~
+@1027 = ~Aura der Lähmung~
 @1029 = ~Lava Bombe~
 @1031 = ~Symbol des Verlangsamens~
-@1037 = ~Verwandlung zum WÃ¼ter~
+@1037 = ~Verwandlung zum Wüter~
 @1038 = ~Melissan: Rufe die Diener des Abyss~
-@1039 = ~Bhaalspross-FÃ¤higkeit erhalten: Schutz vor Lebenskraftentzug~
-@1040 = ~Bhaalspross-FÃ¤higkeit erhalten: 25% Resistenz gegen kÃ¶rperlichem Schaden~
-@1041 = ~BetÃ¤ubt~
-@1042 = ~Waffen geschwÃ¤cht durch Schleim des Babau~
+@1039 = ~Bhaalspross-Fähigkeit erhalten: Schutz vor Lebenskraftentzug~
+@1040 = ~Bhaalspross-Fähigkeit erhalten: 25% Resistenz gegen körperlichem Schaden~
+@1041 = ~Betäubt~
+@1042 = ~Waffen geschwächt durch Schleim des Babau~
 @1043 = ~Griff~
-@1044 = ~Bhaalspross-FÃ¤higkeiten wiedererlangt~
+@1044 = ~Bhaalspross-Fähigkeiten wiedererlangt~
 @1045 = ~Kontrolle wiedererlangt~
 @1046 = ~Magieresistenz um 5% verringert~
 @1047 = ~Magieresistenz um 5% verringert~
-@1048 = ~Verwandlung zum SchlÃ¤chter wurde verbessert~
-@1049 = ~Der DÃ¤mon beugt sich Eurem Willen~
-@1050 = ~Der DÃ¤mon widersetzt sich Eurem Willen~
-@1051 = ~Dieser Zauber wirkt nur bei DÃ¤monen~
-@1052 = ~Der DÃ¤mon beugt sich Melissans Willen~
-@1053 = ~Der DÃ¤mon widersetzt sich Melissans Willen~
-@1054 = ~Bhaalspross-FÃ¤higkeit erhalten: Entfesseln~
-@1055 = ~Bhaalspross-FÃ¤higkeit erhalten: Immun gegen Todesmagie~
-@1056 = ~Bhaalspross-FÃ¤higkeit erhalten: Immun gegen Enthauptungen~
-@1057 = ~Bhaalspross-FÃ¤higkeit erhalten: Dimensionstor~
-@1058 = ~Bhaalspross-FÃ¤higkeit erhalten: DÃ¤monen beherrschen~
-@1059 = ~Bhaalspross-FÃ¤higkeit erhalten: Immun gegen Irrgarten und Einkerkerung~
-@1060 = ~Bhaalspross-FÃ¤higkeit erhalten: Fokus~
-@1061 = ~Bhaalspross-FÃ¤higkeit erhalten: Immun gegen Mal des SchlÃ¤chters~
-@1062 = ~GÃ¶ttliche Gabe~
+@1048 = ~Verwandlung zum Schlächter wurde verbessert~
+@1049 = ~Der Dämon beugt sich Eurem Willen~
+@1050 = ~Der Dämon widersetzt sich Eurem Willen~
+@1051 = ~Dieser Zauber wirkt nur bei Dämonen~
+@1052 = ~Der Dämon beugt sich Melissans Willen~
+@1053 = ~Der Dämon widersetzt sich Melissans Willen~
+@1054 = ~Bhaalspross-Fähigkeit erhalten: Entfesseln~
+@1055 = ~Bhaalspross-Fähigkeit erhalten: Immun gegen Todesmagie~
+@1056 = ~Bhaalspross-Fähigkeit erhalten: Immun gegen Enthauptungen~
+@1057 = ~Bhaalspross-Fähigkeit erhalten: Dimensionstor~
+@1058 = ~Bhaalspross-Fähigkeit erhalten: Dämonen beherrschen~
+@1059 = ~Bhaalspross-Fähigkeit erhalten: Immun gegen Irrgarten und Einkerkerung~
+@1060 = ~Bhaalspross-Fähigkeit erhalten: Fokus~
+@1061 = ~Bhaalspross-Fähigkeit erhalten: Immun gegen Mal des Schlächters~
+@1062 = ~Göttliche Gabe~
 @1063 = ~Magieresistenz wiederhergestellt~
 @1064 = ~Zauberschutz entfernt~
 @1065 = ~Zauberschutz entfernt~
 @1066 = ~KI deaktiviert~
 @1067 = ~KI aktiviert~
 @1068 = ~Mond-Verderbnis~
-@2000 = ~Bhaalspross-FÃ¤higkeiten
+@2000 = ~Bhaalspross-Fähigkeiten
 
-<CHARNAME> hat die folgende FÃ¤higkeit erhalten, die einmal am Tag eingesetzt werden kann:
+<CHARNAME> hat die folgende Fähigkeit erhalten, die einmal am Tag eingesetzt werden kann:
 
 Massenheilung
 
@@ -63,26 +63,26 @@ Zeitaufwand: 1
 Bereich: 4,5 m Radius
 Rettungswurf: Nein
 
-Wenn das Kind Bhaals diese FÃ¤higkeit einsetzt, stellt es sich die Gesichter seiner Gruppenmitglieder vor und konzentriert sich auf die Einheit in der Gruppe. Sobald der Zauber gewirkt wurde, erhÃ¤lt jedes Gruppenmitglied innerhalb eines Radius von 4,5 Metern 2W8 +2 Trefferpunkte je Stufe des Anwenders zurÃ¼ck. Der Zauber beseitigt auÃŸerdem jegliche ErschÃ¶pfung und heilt Vergiftungen, Krankheiten, Blindheit und Taubheit.~
-@2001 = ~Bhaalspross-FÃ¤higkeiten
+Wenn das Kind Bhaals diese Fähigkeit einsetzt, stellt es sich die Gesichter seiner Gruppenmitglieder vor und konzentriert sich auf die Einheit in der Gruppe. Sobald der Zauber gewirkt wurde, erhält jedes Gruppenmitglied innerhalb eines Radius von 4,5 Metern 2W8 +2 Trefferpunkte je Stufe des Anwenders zurück. Der Zauber beseitigt außerdem jegliche Erschöpfung und heilt Vergiftungen, Krankheiten, Blindheit und Taubheit.~
+@2001 = ~Bhaalspross-Fähigkeiten
 
-<CHARNAME> hat die folgende FÃ¤higkeit erhalten, die einmal am Tag eingesetzt werden kann:
+<CHARNAME> hat die folgende Fähigkeit erhalten, die einmal am Tag eingesetzt werden kann:
 
 Regeneration
 
 Schule: Nekromantie
-Reichweite: BerÃ¼hrung
+Reichweite: Berührung
 Dauer: 1 Runde pro 2 Stufen
 Zeitaufwand: 7
 Bereich: 1 Wesen
 Rettungswurf: Nein
 
-Mithilfe dieses mÃ¤chtigen Zaubers verleiht der Anwender einem Wesen die FÃ¤higkeit zur Regeneration. Erlittene Verletzungen heilen und selbst verlorene Gliedmassen bilden sich neu. Der Zauber regeneriert 3 Trefferpunkte pro Sekunde und hÃ¤lt an, bis die Wirkungsdauer endet oder der Zauber gebannt wird. Wird der Zauber beispielsweise von einem Kleriker der 14. Stufe gewirkt, so regeneriert das Ziel 7 Runden lang 18 Trefferpunkte je Runde.~
-@2002 = ~Bhaalspross-FÃ¤higkeiten
+Mithilfe dieses mächtigen Zaubers verleiht der Anwender einem Wesen die Fähigkeit zur Regeneration. Erlittene Verletzungen heilen und selbst verlorene Gliedmassen bilden sich neu. Der Zauber regeneriert 3 Trefferpunkte pro Sekunde und hält an, bis die Wirkungsdauer endet oder der Zauber gebannt wird. Wird der Zauber beispielsweise von einem Kleriker der 14. Stufe gewirkt, so regeneriert das Ziel 7 Runden lang 18 Trefferpunkte je Runde.~
+@2002 = ~Bhaalspross-Fähigkeiten
 
-<CHARNAME> hat die folgende FÃ¤higkeit erhalten, die einmal am Tag eingesetzt werden kann:
+<CHARNAME> hat die folgende Fähigkeit erhalten, die einmal am Tag eingesetzt werden kann:
 
-GÃ¶ttliche Gabe
+Heilige Macht entlehnen
 
 Schule: Hervorrufung
 Reichweite: Anwender
@@ -91,10 +91,10 @@ Zeitaufwand: 1
 Bereich: Anwender
 Rettungswurf: Nein
 
-Das Kind Bhaals zapft die Energien seines unheiligen Blutes an, um so fÃ¼r kurze Zeit auÃŸergewÃ¶hnliche Macht zu erlangen. StÃ¤rke, Geschicklichkeit und Konstitution wird dadurch auf 25 erhÃ¶ht.~
-@2003 = ~Bhaalspross-FÃ¤higkeiten
+Das Kind Bhaals zapft die Energien seines unheiligen Blutes an, um so für kurze Zeit außergewöhnliche Macht zu erlangen. Stärke, Geschicklichkeit und Konstitution wird dadurch auf 25 erhöht.~
+@2003 = ~Bhaalspross-Fähigkeiten
 
-<CHARNAME> hat die folgende FÃ¤higkeit erhalten, die einmal am Tag eingesetzt werden kann:
+<CHARNAME> hat die folgende Fähigkeit erhalten, die einmal am Tag eingesetzt werden kann:
 
 Dunkle Essenz aussenden
 
@@ -105,13 +105,13 @@ Zeitaufwand: 1
 Bereich: 1 Wesen
 Rettungswurf: Ja (gg. Tod)
 
-Mithilfe dieses Zaubers kann das Kind Bhaals die dunkle Essenz seines bÃ¶sen Vaters aus seinem KÃ¶rper strÃ¶men lassen und damit ein Ziel vergiften, wenn diesem ein Rettungswurf gegen Tod misslingt.~
-@2004 = ~Bhaalspross-FÃ¤higkeiten
+Mithilfe dieses Zaubers kann das Kind Bhaals die dunkle Essenz seines bösen Vaters aus seinem Körper strömen lassen und damit ein Ziel vergiften, wenn diesem ein Rettungswurf gegen Tod misslingt.~
+@2004 = ~Bhaalspross-Fähigkeiten
 
 <CHARNAME> hat einen permanenten Schutz vor Lebenskraftentzug sowie 5% Magieresistenz erhalten.~
-@2005 = ~Bhaalspross-FÃ¤higkeiten
+@2005 = ~Bhaalspross-Fähigkeiten
 
-<CHARNAME> hat die folgende FÃ¤higkeit erhalten, die einmal am Tag eingesetzt werden kann:
+<CHARNAME> hat die folgende Fähigkeit erhalten, die einmal am Tag eingesetzt werden kann:
 
 Hand des Mordes
 
@@ -122,50 +122,50 @@ Zeitaufwand: 1
 Bereich: Anwender
 Rettungswurf: Ja (gg. Zauber)
 
-Wenn ein Kind Bhaals diese FÃ¤higkeit einsetzt, erhÃ¶ht sich der Schaden, den es im Nahkampf anrichtet, egal mit welcher Waffe es zuschlÃ¤gt. Die dunkle Energie des Bhaalkindes strÃ¶mt durch die Waffe in den Gegner und entreiÃŸt ihm Lebenskraft. So richtet jeder Schlag zusÃ¤tzlichen Schaden an und heilt den Angreifer.~
-@2006 = ~Bhaalspross-FÃ¤higkeiten
+Wenn ein Kind Bhaals diese Fähigkeit einsetzt, erhöht sich der Schaden, den es im Nahkampf anrichtet, egal mit welcher Waffe es zuschlägt. Die dunkle Energie des Bhaalkindes strömt durch die Waffe in den Gegner und entreißt ihm Lebenskraft. So richtet jeder Schlag zusätzlichen Schaden an und heilt den Angreifer.~
+@2006 = ~Bhaalspross-Fähigkeiten
 
-<CHARNAME> hat die folgende FÃ¤higkeit erhalten, die einmal am Tag eingesetzt werden kann:
+<CHARNAME> hat die folgende Fähigkeit erhalten, die einmal am Tag eingesetzt werden kann:
 
 Auferstehung
 
 Schule: Nekromantie
-Reichweite: BerÃ¼hrung
+Reichweite: Berührung
 Dauer: Permanent
 Zeitaufwand: 1
 Bereich: 1 Wesen
 Rettungswurf: Nein
 
-Dieser Zauber Ã¤hnelt â€Tote erweckenâ€œ des 5. Grades. Allerdings heilt â€Auferstehungâ€œ den wiederbelebten Charakter auch gleich vollstÃ¤ndig, sodass er sich sofort wieder ins Abenteuer stÃ¼rzen kann.~
-@2007 = ~Bhaalspross-FÃ¤higkeiten
+Dieser Zauber ähnelt „Tote erwecken“ des 5. Grades. Allerdings heilt „Auferstehung“ den wiederbelebten Charakter auch gleich vollständig, sodass er sich sofort wieder ins Abenteuer stürzen kann.~
+@2007 = ~Bhaalspross-Fähigkeiten
 
-<CHARNAME> hat 25% Resistenz gegenÃ¼ber physikalischen Schaden (also Schaden durch Stich-, Hieb-, Wucht- und Geschosswaffen) erhalten.~
-@2008 = ~Verwandlung zum SchlÃ¤chter verbessert~
+<CHARNAME> hat 25% Resistenz gegenüber physikalischen Schaden (also Schaden durch Stich-, Hieb-, Wucht- und Geschosswaffen) erhalten.~
+@2008 = ~Verwandlung zum Schlächter verbessert~
 @3000 = ~Schwert des Chaos +4~
 @3001 = ~Sarevoks Schwert des Chaos
-Sarevok schwang die Klinge einst im Kampf im fernen Baldurs Tor. <CHARNAME> behielt die Oberhand, vereitelte seine Sarevoks PlÃ¤ne und verhinderte einen blutigen Krieg an der SchwertkÃ¼ste. Nun kÃ¤mpft Sarevok an <CHARNAME>s Seite, und die Klinge wurde ihm zurÃ¼ckgegeben. Sarevok bezeichnet die Waffe als Klinge eines Todesbringers und hat etwas von ihrer alten Macht wiederhergestellt. Ohne dass die Essenz der Bhaalbrut durch sie flieÃŸt, verfÃ¼gt sie zwar nicht Ã¼ber ihre frÃ¼heren FÃ¤higkeiten; dennoch ist sie eine tÃ¶dliche Waffe... und Sarevok warnt, dass sie schwer zu fÃ¼hren sein wird fÃ¼r einen, der kein Todesbringer ist - wenn er sie Ã¼berhaupt tragen kann.
+Die Klinge von Sarevok, <CHARNAME>s Bruder, die er im Kampf im fernen Baldurs Tor benutzte. <CHARNAME> siegte, vereitelte Sarevoks Pläne und bewahrte die Schwertküste vor einem Krieg. Nun kämpft Sarevok an <CHARNAME>s Seite, und die Klinge wurde ihm zurückgegeben. Sarevok bezeichnet die Waffe als Klinge eines Todesbringers und hat etwas von ihrer alten Macht wiederhergestellt. Ohne dass die Essenz der Bhaalbrut durch sie fließt, verfügt sie zwar nicht über ihre früheren Fähigkeiten; dennoch ist sie eine tödliche Waffe... und Sarevok warnt, dass sie schwer zu führen sein wird für einen, der kein Todesbringer ist - wenn er sie überhaupt tragen kann.
 
 SPEZIFISCHE EIGENSCHAFTEN:
 
-Besondere FÃ¤higkeiten: jeder Treffer raubt dem Opfer einen bis fÃ¼nf Trefferpunkte und Ã¼bertrÃ¤gt ihn auf den TrÃ¤ger des Schwertes. Dadurch kann er aber nicht mehr Trefferpunkte als sein Maximum erhalten.
+Besondere Fähigkeiten: jeder Treffer raubt dem Opfer einen bis fünf Trefferpunkte und überträgt ihn auf den Träger des Schwertes. Dadurch kann er aber nicht mehr Trefferpunkte als sein Maximum erhalten.
 
-Die Klinge gewÃ¤hrt zusÃ¤tzlich +10% Magieresistenz, wenn sie getragen wird.
+Die Klinge gewährt zusätzlich +10% Magieresistenz, wenn sie getragen wird.
 
 Schaden: 1W10 +4 (Klingenwaffe)
 ETW0: -4
 
 Gewicht: 10
 Initiativefaktor: 8
-Waffenfertigkeit: ZweihÃ¤nder
-Waffentyp: BeidhÃ¤ndig
-BenÃ¶tigt: StÃ¤rke 14, Konstitution 18
+Waffenfertigkeit: Zweihänder
+Waffentyp: Beidhändig
+Benötigt: Stärke 14, Konstitution 18
 Kann nicht verwendet werden von:
 Klerikern
 Magiern
 Paladinen
-WaldlÃ¤ufern
+Waldläufern
 Druiden
 Charakteren ohne chaotische Gesinnung~
 @3002 = ~Sendais Trank~
 @3003 = ~Sendais Trank
-WomÃ¶glich von Sendai selbst gebraut, ist dieses ein ungeheuer mÃ¤chtiger Heiltrank, der vollstÃ¤ndig alle Trefferpunkte wiederherstellt.~
+Womöglich von Sendai selbst gebraut, ist dieses ein ungeheuer mächtiger Heiltrank, der vollständig alle Trefferpunkte wiederherstellt.~

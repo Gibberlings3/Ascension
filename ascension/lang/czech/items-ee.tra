@@ -1,27 +1,27 @@
-@3001 = ~ObouruÄnÃ­ meÄ +4: SarevokÅ¯v meÄ Chaosu
+@3001 = ~Obouruèní meè +4: Sarevokùv meè Chaosu
 
-ÄŒepel Sarevoka, bratra <CHARNAME>, pouÅ¾itÃ¡ v bitvÄ›, kterou spolu bojovali v podzemÃ­ vzdÃ¡lenÃ© Baldurovy BrÃ¡ny. <CHARNAME> zvÃ­tÄ›zil, zniÄil Sarevokovy plÃ¡ny a zachrÃ¡nil MeÄovÃ© pobÅ™eÅ¾Ã­, kterÃ© bylo na pokraji vÃ¡lky. NynÃ­ se Sarevok pÅ™ipojil k <CHARNAME> a jeho Äepel mu byla navrÃ¡cena. Sarevok nazÃ½vÃ¡ zbraÅˆ SmrtonoÅ¡ovou ÄepelÃ­ a obnovil vÄ›tÅ¡inu jejÃ­ starÃ© sÃ­lu. Bez esence Bhaalova zplozence, proudÃ­cÃ­ skrze meÄ, vÅ¡ak nemÅ¯Å¾e dosÃ¡hnout plnÃ© moci. LeÄ stÃ¡le je to straÅ¡livÃ¡ zbraÅˆ... a Sarevok varuje, Å¾e kdyÅ¾ se pokusÃ­ pouÅ¾Ã­t zbraÅˆ nÄ›kdo, kdo nenÃ­ SmrtonoÅ¡em, moc zbranÄ› bude omezenÃ¡.
+Èepel Sarevoka, bratra <CHARNAME>, pouitá v bitvì, kterou spolu bojovali v podzemí vzdálené Baldurovy Brány. <CHARNAME> zvítìzil, znièil Sarevokovy plány a zachránil Meèové pobøeí, které bylo na pokraji války. Nyní se Sarevok pøipojil k <CHARNAME> a jeho èepel mu byla navrácena. Sarevok nazıvá zbraò Smrtonošovou èepelí a obnovil vìtšinu její staré sílu. Bez esence Bhaalova zplozence, proudící skrze meè, však nemùe dosáhnout plné moci. Leè stále je to strašlivá zbraò... a Sarevok varuje, e kdy se pokusí pouít zbraò nìkdo, kdo není Smrtonošem, moc zbranì bude omezená.
 
 VLASTNOSTI:
 
 Schopnost v boji:
-â€“ KaÅ¾dÃ½ zÃ¡sah vysaje z cÃ­le 1 aÅ¾ 5 bodÅ¯ Å¾ivota a pÅ™emÃ­stÃ­ jej k vlastnÃ­kovi. TÃ­mto nenÃ­ moÅ¾nÃ© se uzdravit nad maximÃ¡lnÃ­ hranici Å¾ivotÅ¯ vlastnÃ­ka.
+– Kadı zásah vysaje z cíle 1 a 5 bodù ivota a pøemístí jej k vlastníkovi. Tímto není moné se uzdravit nad maximální hranici ivotù vlastníka.
 
-PÅ™i vybavenÃ­:
-- MagickÃ¡ odolnost: +10%
+Pøi vybavení:
+- Magická odolnost: +10%
 
 THAC0: +4
-ZranÄ›nÃ­: 1K10 +4 (seÄnÃ©)
+Zranìní: 1K10 +4 (seèné)
 Rychlost: 8
-Druh dovednosti: obouruÄnÃ­ meÄ
-Druh: obouruÄnÃ­
+Druh dovednosti: obouruèní meè
+Druh: obouruèní
 
-VÃ¡ha: 10~
-@3003 = ~Tento lÃ©ÄivÃ½ lektvar je tak silnÃ½, Å¾e dokÃ¡Å¾e ÃºplnÄ› uzdravit kohokoliv kdo jej vypije. MusÃ­ se jednat o Sendainu osobnÃ­ vÃ¡rku.
+Váha: 10~
+@3003 = ~Tento léèivı lektvar je tak silnı, e dokáe úplnì uzdravit kohokoliv kdo jej vypije. Musí se jednat o Sendainu osobní várku.
 
 VLASTNOSTI:
 
-VÃ¡ha: 1~
-@3004 = ~LeÄ stÃ¡le je to straÅ¡livÃ¡ zbraÅˆ... a Sarevok varuje, Å¾e kdyÅ¾ se pokusÃ­ pouÅ¾Ã­t zbraÅˆ nÄ›kdo, kdo nenÃ­ SmrtonoÅ¡em, moc zbranÄ› bude omezenÃ¡.~
-@3005 = ~PÅ™esto je to hrozivÃ¡ zbraÅˆ, kterou mÅ¯Å¾e ovlÃ¡dat jen SmrtonoÅ¡ se SarevokovÃ½mi schopnostmi a mocÃ­.~
-@3006 = ~Tuto zbraÅˆ mÅ¯Å¾e pouÅ¾Ã­vat pouze Sarevok.~
+Váha: 1~
+@3004 = ~Leè stále je to strašlivá zbraò... a Sarevok varuje, e kdy se pokusí pouít zbraò nìkdo, kdo není Smrtonošem, moc zbranì bude omezená.~
+@3005 = ~Pøesto je to hrozivá zbraò, kterou mùe ovládat jen Smrtonoš se Sarevokovımi schopnostmi a mocí.~
+@3006 = ~Tuto zbraò mùe pouívat pouze Sarevok.~

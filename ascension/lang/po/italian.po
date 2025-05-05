@@ -240,7 +240,7 @@ msgid ""
 msgstr ""
 "Poteri della progenie di Bhaal\n"
 "\n"
-"<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno: \n"
+"<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno:\n"
 "\n"
 "Guarigione di Massa\n"
 "(Necromanzia)\n"
@@ -269,7 +269,7 @@ msgid ""
 msgstr ""
 "Poteri della progenie di Bhaal\n"
 "\n"
-"<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno: \n"
+"<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno:\n"
 "\n"
 "Rigenerazione\n"
 "(Necromanzia)\n"
@@ -298,7 +298,7 @@ msgid ""
 msgstr ""
 "Poteri della progenie di Bhaal\n"
 "\n"
-"<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno: \n"
+"<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno:\n"
 "\n"
 "Convocare la Sacra Potenza\n"
 "(Evocazione)\n"
@@ -384,7 +384,7 @@ msgid ""
 msgstr ""
 "Poteri della progenie di Bhaal\n"
 "\n"
-"<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno: \n"
+"<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno:\n"
 "\n"
 "Mano dell'Omicidio\n"
 "(Necromanzia)\n"
@@ -419,7 +419,7 @@ msgid ""
 msgstr ""
 "Poteri della progenie di Bhaal\n"
 "\n"
-"<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno: \n"
+"<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno:\n"
 "\n"
 "Resurrezione\n"
 "(Necromanzia)\n"
@@ -450,7 +450,6 @@ msgid "Sarevok's Sword of Chaos +4"
 msgstr "Spada del Caos di Sarevok"
 
 #: ascension.tra:3001
-#, fuzzy
 msgid ""
 "The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.\n"
 "\n"
@@ -502,7 +501,7 @@ msgstr ""
 "\n"
 "Non utilizzabile da:\n"
 "Chierico\n"
-"Mago \n"
+"Mago\n"
 "Paladino\n"
 "Ranger\n"
 "Druido\n"
@@ -547,7 +546,6 @@ msgstr ""
 "malvagio padre merita una lode."
 
 #: balth.tra:1075
-#, fuzzy
 msgid ""
 "I sense no innate goodness within you, <CHARNAME>... though your deeds are "
 "hailed far and wide as above reproach. It is... interesting that one like "
@@ -718,7 +716,6 @@ msgstr ""
 "l'intera mia vita a questo."
 
 #: balth.tra:1092
-#, fuzzy
 msgid ""
 "If only we had met under other circumstances, <CHARNAME>... I would have "
 "liked to sit and compare the paths that have brought us to this point. If we"
@@ -910,7 +907,6 @@ msgid "I cannot, <CHARNAME>."
 msgstr "Non posso, <CHARNAME>."
 
 #: balth.tra:1117
-#, fuzzy
 msgid ""
 "You must take the battle to Melissan. It is your destiny to see that Bhaal's"
 " legacy ends here and now. But you must promise me, <CHARNAME>... you must "
@@ -964,7 +960,6 @@ msgstr ""
 " diversamente."
 
 #: balth.tra:1123
-#, fuzzy
 msgid ""
 "And I cannot trust that you will turn aside the power when it is offered to "
 "you. You have experienced the struggle even a sliver of Bhaal's taint has "
@@ -981,7 +976,6 @@ msgid "So be it. Come, my pupils... may the gods help us all."
 msgstr "Così sia. Venite, miei allievi... Possano gli dèi aiutarci tutti."
 
 #: balth.tra:1125
-#, fuzzy
 msgid ""
 "No. Further dialogue is pointless. Let us end this now, <CHARNAME>... and "
 "may the gods have pity on us all."
@@ -1290,7 +1284,6 @@ msgstr ""
 "altri siano afflitti dalla corruzione che possiedo!"
 
 #: balth.tra:1160
-#, fuzzy
 msgid ""
 "You have considerable charisma, <CHARNAME>... but it is because we are "
 "siblings that we cannot work together. You know as well as I what the "
@@ -1447,7 +1440,6 @@ msgstr ""
 "giudizio dell'anima di un uomo? Io... mi vergogno."
 
 #: balth.tra:1174
-#, fuzzy
 msgid ""
 "And despite what you might profess, I think the taint sits closer to your "
 "heart then you would have me believe. I must walk my own path, <CHARNAME>..."
@@ -1676,7 +1668,6 @@ msgstr ""
 "della mia."
 
 #: balth_finsol.tra:1016
-#, fuzzy
 msgid ""
 "And so it is done. I believe you have made the right choice. I look forward "
 "to meeting you again on Faerun, <CHARNAME>... as a mortal and a true "
@@ -2768,7 +2759,6 @@ msgstr ""
 "padre..."
 
 #: epilogues.tra:4003
-#, fuzzy
 msgid ""
 "Eventually parting ways with his companions, Anomen would enter the "
 "hierarchy of Helm's church, over time rising to the rank of High Watcher. He"
@@ -2923,7 +2913,6 @@ msgid " "
 msgstr " "
 
 #: epilogues.tra:4007
-#, fuzzy
 msgid ""
 "Haer'Dalis found traveling with <CHARNAME> a fine introduction to the "
 "Realms, and once they parted company he was eager to see more. He visited "
@@ -3238,7 +3227,6 @@ msgstr ""
 "grande Regina Ragno non riposi più con facilità."
 
 #: epilogues.tra:4021
-#, fuzzy
 msgid ""
 "Upon parting paths with <CHARNAME>, Viconia wandered for a great deal of time. She still met with ignorance and hatred from those who knew of her kind, but Viconia was determined now more than ever to establish herself as seperate from the legacy of the dark elves. She had been to the deepest planes of hell and fought side-by-side with <CHARNAME> as <PRO_HESHE> became a God... and she would hide her face from the surface lands no longer. Even when Shar, her goddess of darkness and loss, abandoned her completely Viconia was unrepetant. Tales of her grew as she made her presence felt in one land after another... often as a savior, only to be thanklessly driven out by suspicion and fear. Still Viconia traveled on, refusing the company of fellow travelers and adventurers and never finding anywhere that she could truly name a home. Her destiny was her own, and she would seek it on her own terms.\n"
 "What eventually become of Viconia is unknown. Her greatest legend is also the most unlikely, although its persistence gives it some credit. It is said that Viconia saved the elves of Suldanessellar from a Zhentarim plot, fighting valiantly against the organization's agents... and in the end placing herself in harm's way to save Queen Ellesime from a deadly arrow. Upon being revived, Viconia was surprised to discover that this last act had prompted the Suldanessellar elves to finally accept and forgive their drow sister. Queen Ellesime granted the highest honors of the Seldarine to Viconia, the first drow ever honored so, and even invited Viconia to find a home in the Tree of Life once again. Viconia was obviously moved by the gesture... and while she considered the Queen's offer, it is said she eventually merely bowed deeply to Ellesime and silently left Suldanessellar forever. Viconia was never reported seen again..."
@@ -3678,7 +3666,6 @@ msgstr ""
 "abbraccia la morte come ho fatto io. Che le danze inizino di nuovo!"
 
 #: iren_bodhi.tra:49
-#, fuzzy
 msgid ""
 "Indeed, I have no intention of dying at all. I fight with my brother because"
 " I have no choice... or would you offer me one now?"
@@ -3706,7 +3693,6 @@ msgstr ""
 "combatterò per te come una sorella."
 
 #: iren_bodhi.tra:52
-#, fuzzy
 msgid ""
 "I require a soul <CHARNAME>, as well you know. I could tear it from young "
 "Imoen once again, but she seems... indisposed. Yet perhaps there is another "
@@ -3885,7 +3871,6 @@ msgstr ""
 "strapparti l'anima dal petto che elemosinarla al tuo fianco."
 
 #: iren_bodhi.tra:87
-#, fuzzy
 msgid ""
 "Now, now, <CHARNAME>... there is no need to look at me so. A tiny piece of "
 "your soul would give me all I require and more. Decide quickly, for I doubt "
@@ -3979,7 +3964,6 @@ msgstr ""
 "suoi piedi."
 
 #: iren_sarev.tra:277
-#, fuzzy
 msgid ""
 "This is the Irenicus I have been told of? I was expecting more intensity and"
 " power from one who hounded <CHARNAME> so, and not simply... *another*... "
@@ -4143,7 +4127,6 @@ msgstr ""
 " a lui."
 
 #: items-ee.tra:3001
-#, fuzzy
 msgid ""
 "The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.\n"
 "\n"
@@ -5078,7 +5061,6 @@ msgstr ""
 "naturalmente."
 
 #: shawnesepilogues.tra:4008
-#, fuzzy
 msgid ""
 "And what of the eternally-playful Imoen? She had long stood in the shadow of"
 " <CHARNAME>, and had endured much, but her spirit never broke. Free of her "
@@ -5911,7 +5893,6 @@ msgstr ""
 "circondato da familiari e amici."
 
 #: slayer_dialog.tra:314
-#, fuzzy
 msgid ""
 "Slayer Ability Changed\n"
 "\n"
@@ -5922,7 +5903,6 @@ msgstr ""
 "Sembra che la mia abilità di controllare la trasformazione nell'Uccisore sia migliorata. Nella sua forma sono più forte, più letale... e riesco a controllarmi più a lungo. La possibilità di perdere il controllo è anche diminuita."
 
 #: slayer_dialog.tra:315
-#, fuzzy
 msgid ""
 "Slayer Ability Changed Again\n"
 "\n"
