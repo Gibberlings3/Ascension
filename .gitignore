@@ -25,7 +25,7 @@ tmp/
 Thumbs.db
 
 # Visual Studio Code
-.code-workspace
+*.code-workspace
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
