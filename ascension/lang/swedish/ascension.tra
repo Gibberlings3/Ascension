@@ -1,39 +1,39 @@
 @500 = ~Babau~
 @1003 = ~Transformera Till Fladdermus~
-@1006 = ~ChockvÃ¥g~
+@1006 = ~Chockvåg~
 @1007 = ~Blixtaura~
 @1009 = ~Telekinesis~
-@1012 = ~OmvÃ¤nd MotstÃ¥nd~
+@1012 = ~Omvänd Motstånd~
 @1013 = ~Kontrollera Demon~
 @1014 = ~Fokusera~
 @1016 = ~Gudomlig Mantel~
 @1017 = ~Dra Kraft~
-@1018 = ~Gudomlig TrollskÃ¶ld~
+@1018 = ~Gudomlig Trollsköld~
 @1019 = ~Kommendera Demon~
 @1020 = ~Placera i exil~
-@1022 = ~SlÃ¤pp loss~
-@1024 = ~Ã…terkoppling~
-@1025 = ~Gudomlig Ã¥terupprÃ¤ttelse~
+@1022 = ~Släpp loss~
+@1024 = ~Återkoppling~
+@1025 = ~Gudomlig återupprättelse~
 @1026 = ~Gudomlig rening~
-@1027 = ~FÃ¶rlamningsaura~
+@1027 = ~Förlamningsaura~
 @1029 = ~Lavabomb~
-@1031 = ~Symbol, LÃ¥ngsam~
-@1037 = ~Ravager FÃ¶rÃ¤ndring~
-@1038 = ~Melissan: Ta befÃ¤l Ã¶ver avgrundens hantlangare~
+@1031 = ~Symbol, Långsam~
+@1037 = ~Ravager Förändring~
+@1038 = ~Melissan: Ta befäl över avgrundens hantlangare~
 @1039 = ~Bhaalspawn Power gained: Immunity to Energy Drain~
 @1040 = ~Bhaalspawn Power gained: 25% physical damage resistance~
 @1041 = ~Transfixerad~
-@1042 = ~Vapen fÃ¶rsvagade av Babau-slem~
+@1042 = ~Vapen försvagade av Babau-slem~
 @1043 = ~Greppad~
-@1044 = ~Ã…terfÃ¥r Bhaalkrafter~
-@1045 = ~Du har Ã¥tertagit kontrollen fÃ¶r tillfÃ¤llet.~
-@1046 = ~Magiresistens sÃ¤nkt med 5%~
-@1047 = ~Magiresistens sÃ¤nkt med 5%~
-@1048 = ~DrÃ¤partransformation fÃ¶rbÃ¤ttrad~
-@1049 = ~Demonen bÃ¶jer sig fÃ¶r din vilja~
+@1044 = ~Återfår Bhaalkrafter~
+@1045 = ~Du har återtagit kontrollen för tillfället.~
+@1046 = ~Magiresistens sänkt med 5%~
+@1047 = ~Magiresistens sänkt med 5%~
+@1048 = ~Dräpartransformation förbättrad~
+@1049 = ~Demonen böjer sig för din vilja~
 @1050 = ~Demonen trotsar din vilja~
-@1051 = ~Denna kraft pÃ¥verkar endast demoner~
-@1052 = ~Demonen bÃ¶jer sig fÃ¶r Melissans vilja~
+@1051 = ~Denna kraft påverkar endast demoner~
+@1052 = ~Demonen böjer sig för Melissans vilja~
 @1053 = ~Demonen trotsar Melissans vilja~
 @1054 = ~Bhaalspawn Power gained: Unleash~
 @1055 = ~Bhaalspawn Power gained: immunity to death magic~
@@ -43,8 +43,8 @@
 @1059 = ~Bhaalspawn Power gained: immunity to Maze and Imprisonment~
 @1060 = ~Bhaalspawn Power gained: Focus~
 @1061 = ~Bhaalspawn Power gained: immunity to Taint of the Slayer~
-@1062 = ~Gudomlig gÃ¥va~
-@1063 = ~Magiskt motstÃ¥nd Ã¥terstÃ¤llt~
+@1062 = ~Gudomlig gåva~
+@1063 = ~Magiskt motstånd återställt~
 @1064 = ~Antimagiska skydd borttagna~
 @1065 = ~Stridsskydd borttagna~
 @1066 = ~AI avaktiverad~
@@ -52,45 +52,45 @@
 @1068 = ~Lunar Malison~
 @2000 = ~Bhaalspawn Powers
 
-<CHARNAME> has gained the ability, usable once per day: 
+<CHARNAME> has gained the ability, usable once per day:
 
 Mass Healing (Necromancy)
-Range: Sight of caster 
-Duration: Permanent 
+Range: Sight of caster
+Duration: Permanent
 Casting Time: 1
 Area of Effect: 30 foot radius
-Saving Throw: None 
+Saving Throw: None
 
 When using this ability, the Bhaalspawn must picture the faces of <PRO_HISHER> fellow party members clearly and focus on the unity of the group. Upon completion, all party members within 30 foot radius of the caster are healed 2d8 + 2/level hit points. Other conditions suffered by the party are cured, as well: fatigue, poison, disease, blindness and deafness.~
 @2001 = ~Bhaalspawn Powers
 
-<CHARNAME> has gained the ability, usable once per day: 
+<CHARNAME> has gained the ability, usable once per day:
 
 Regeneration (Necromancy)
 Range: Touch
 Duration: 1 round/ 2 levels
 Casting Time: 7
 Area of Effect: Target Creature
-Saving Throw: None 
+Saving Throw: None
 
 This powerful ability enables the Bhaalspawn to imbue 1 creature with the ability to regenerate. This regeneration will heal any wounds and even regenerate lost limbs. The creature affected will regain 3 hit points per second. The effect lasts for 1 round per every 2 levels of the caster or until dispelled. For example, a 14th level character would regenerate 18 hit points per round for 7 rounds.~
 @2002 = ~Bhaalspawn Powers
 
-<CHARNAME> has gained the ability, usable once per day: 
+<CHARNAME> has gained the ability, usable once per day:
 
-Draw Upon Holy Might (Invocation) 
-Range: 0 
+Draw Upon Holy Might (Invocation)
+Range: 0
 Duration: 1 turn
 Casting Time: 1
-Area of Effect: The caster 
-Saving Throw: None 
+Area of Effect: The caster
+Saving Throw: None
 
 The Bhaalspawn calls upon the might of <PRO_HISHER> blood to grant him power for a short period. When <PRO_HESHE> does this, <PRO_HISHER> strength, constitution and dexterity all are raised by 1 point for every 3 levels of the caster. A third level caster would have <PRO_HISHER> abilities raised by 1, while a 12th level caster would have all <PRO_HISHER> abilities raised by 4.~
 @2003 = ~Bhaalspawn Powers
 
-<CHARNAME> has gained the ability, usable once per day: 
+<CHARNAME> has gained the ability, usable once per day:
 
-Dark Taint (Necromancy) 
+Dark Taint (Necromancy)
 Range: 20 feet
 Duration: 1 turn
 Casting Time: 1
@@ -109,13 +109,13 @@ Through this spell, the Bhaalspawn can expel the taint of <PRO_HISHER> evil sire
 <CHARNAME> has gained permanent negative plane protection (i.e., <CHARNAME> cannot be level-drained) and 5% magic resistance.~
 @2005 = ~Bhaalspawn Powers
 
-<CHARNAME> has gained the ability, usable once per day: 
+<CHARNAME> has gained the ability, usable once per day:
 
-Hand of Murder (Necromancy) 
+Hand of Murder (Necromancy)
 Range: Caster
 Duration: 1 rounds/5 levels
 Casting Time: 1
-Saving Throw: none 
+Saving Throw: none
 
 When this power is called upon by the Bhaalspawn, <PRO_HESHE> immediately does extra damage with each hit to <PRO_HISHER> target with any melee weapon desired (whether it be fist or sword). <PRO_HISHER> dark energies travel through <PRO_HISHER> weapon to assault <PRO_HISHER> victim, allowing <PRO_HIMHER> to absorb that damage as healing to <PRO_HIMHER>self.
 The effects vary by level as follows:
@@ -126,7 +126,7 @@ The effects vary by level as follows:
 30th: 6 rounds, 12 hp extra damage, 12 hp healed~
 @2006 = ~Bhaalspawn Powers
 
-<CHARNAME> has gained the ability, usable once per day: 
+<CHARNAME> has gained the ability, usable once per day:
 
 Resurrection (Necromancy)
 Range: Touch
@@ -168,4 +168,4 @@ Druid
 non-Chaotic aligned~
 @3002 = ~Sendais dryck~
 @3003 = ~Sendai's dryck
-MÃ¶jligen en egen brygd av Sendai vilket betyder att detta Ã¤r en otroligt potent lÃ¤kande dryck som helt kan Ã¥terstÃ¤lla livspoÃ¤ngen hos alla som anvÃ¤nder den.~
+Möjligen en egen brygd av Sendai vilket betyder att detta är en otroligt potent läkande dryck som helt kan återställa livspoängen hos alla som använder den.~

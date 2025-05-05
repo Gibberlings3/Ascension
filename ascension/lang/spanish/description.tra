@@ -1,121 +1,121 @@
-@1 = ~Et√©reo
+@1 = ~EtÈreo
 
-Imoen puede ahora entrar en el Plano Et√©reo por cortos periodos de tiempo. La habilidad puede ser usada una vez por minuto, y su uso tambi√©n la previene de asumir la forma del Asesino durante un minuto. Imoen puede permanecer et√©rea e intocable a las fuerzas de este plano durante todo un turno... durante el cual es invisible y completamente inmune al da√±o. Durante ese turno, ella tampoco puede lanzar conjuros o usar habilidades.
+Imoen puede ahora entrar en el Plano EtÈreo por cortos periodos de tiempo. La habilidad puede ser usada una vez por minuto, y su uso tambiÈn la previene de asumir la forma del Asesino durante un minuto. Imoen puede permanecer etÈrea e intocable a las fuerzas de este plano durante todo un turno... durante el cual es invisible y completamente inmune al daÒo. Durante ese turno, ella tampoco puede lanzar conjuros o usar habilidades.
 
-Durante los dos turnos posteriores, Imoen puede permanecer 'en semi-fase'... ella es parcialmente en el plano et√©reo y parcialmente en este plano. Es a√∫n invisible, pero recibe la mitad de da√±o de cualquier origen. En este estado, hay una peque√±a probabilidad (10%) de que calcule mal un conjuro. Durante tres turnos, ella puede ver objetivos invisibles.~
-@6 = ~Finalizar transformaci√≥n en el Asesino
+Durante los dos turnos posteriores, Imoen puede permanecer 'en semi-fase'... ella es parcialmente en el plano etÈreo y parcialmente en este plano. Es a˙n invisible, pero recibe la mitad de daÒo de cualquier origen. En este estado, hay una pequeÒa probabilidad (10%) de que calcule mal un conjuro. Durante tres turnos, ella puede ver objetivos invisibles.~
+@6 = ~Finalizar transformaciÛn en el Asesino
 
-Esta habilidad permite a Imoen cancelar su transformaci√≥n y volver a su forma habitual.~
-@7 = ~Regeneraci√≥n
+Esta habilidad permite a Imoen cancelar su transformaciÛn y volver a su forma habitual.~
+@7 = ~RegeneraciÛn
 
 Alcance: Toque
-Duraci√≥n: 1 asalto/2 niveles
+DuraciÛn: 1 asalto/2 niveles
 Tiempo de lanzamiento: 7
-√Årea de efecto: Criatura objetivo
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: Criatura objetivo
+Tirada de salvaciÛn: Ninguna
 
-DESCRIPCI√ìN:
+DESCRIPCI”N:
 
-Esta poderosa aptitud permite al engendro de Bhaal imbuir a una criatura con la habilidad de regenerarse. Esta regeneraci√≥n curar√° cualquier herida e incluso regenerar√° extremidades perdidas. La criatura afectada recuperar√° 3 puntos de golpe por segundo. El efecto permanece 1 asalto por cada 2 niveles del lanzador o hasta que sea disipado. Por ejemplo, un personaje de nivel 14 regenerar√≠a 18 puntos de golpe por asalto durante 7 asaltos.~
-@8 = ~Resurrecci√≥n
+Esta poderosa aptitud permite al engendro de Bhaal imbuir a una criatura con la habilidad de regenerarse. Esta regeneraciÛn curar· cualquier herida e incluso regenerar· extremidades perdidas. La criatura afectada recuperar· 3 puntos de golpe por segundo. El efecto permanece 1 asalto por cada 2 niveles del lanzador o hasta que sea disipado. Por ejemplo, un personaje de nivel 14 regenerarÌa 18 puntos de golpe por asalto durante 7 asaltos.~
+@8 = ~ResurrecciÛn
 
 Alcance: Toque
-Duraci√≥n: Permanente
+DuraciÛn: Permanente
 Tiempo de lanzamiento: 1
-√Årea de efecto: Criatura tocada
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: Criatura tocada
+Tirada de salvaciÛn: Ninguna
 
-DESCRIPCI√ìN:
+DESCRIPCI”N:
 
-Al igual que el conjuro de 5¬∫ nivel Revivir a los muertos, Resurrecci√≥n devolver√° a la vida a un personaje. Sin embargo, Resurrecci√≥n tambi√©n curar√° por completo al resucitado, permiti√©ndole estar listo para vivir nuevas aventuras.~
-@9 = ~Transformaci√≥n en el Asesino
+Al igual que el conjuro de 5∫ nivel Revivir a los muertos, ResurrecciÛn devolver· a la vida a un personaje. Sin embargo, ResurrecciÛn tambiÈn curar· por completo al resucitado, permitiÈndole estar listo para vivir nuevas aventuras.~
+@9 = ~TransformaciÛn en el Asesino
 
-Cuando utilizas esta habilidad, adoptas la forma de la brutal esencia de Bhaal: una criatura violenta y poderosa hecha de dientes y garras. El uso de esta habilidad reduce tu reputaci√≥n en un punto, ya que incluso aquellos que no presencian el suceso pueden percibir la corrupci√≥n causada al entregarte al instinto.
+Cuando utilizas esta habilidad, adoptas la forma de la brutal esencia de Bhaal: una criatura violenta y poderosa hecha de dientes y garras. El uso de esta habilidad reduce tu reputaciÛn en un punto, ya que incluso aquellos que no presencian el suceso pueden percibir la corrupciÛn causada al entregarte al instinto.
 
 La forma del Asesino otorga los siguientes beneficios:
 
 - Fuerza y destreza aumentadas a 25
 - CA efectiva fijada en -9
-- Resistencia m√°gica fijada a 40%
-- Tiradas de salvaci√≥n fijadas en 2
-- Ataques por asalto fijados en 4 (1D8 contundente, 2 fr√≠o)
+- Resistencia m·gica fijada a 40%
+- Tiradas de salvaciÛn fijadas en 2
+- Ataques por asalto fijados en 4 (1D8 contundente, 2 frÌo)
 - GAC0 fijado a 0
 - PLUS_SIGN_PLACEHOLDER 100 puntos de golpe
-- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusi√≥n, sue√±o y ataques con proyectiles
+- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusiÛn, sueÒo y ataques con proyectiles
 
-El Asesino puede ser dif√≠cil de controlar: despu√©s del primer asalto, tienes una probabilidad acumulativa del 10% por asalto de perder el control de ti mismo durante un asalto.~
-@10 = ~Transformaci√≥n en el Asesino
+El Asesino puede ser difÌcil de controlar: despuÈs del primer asalto, tienes una probabilidad acumulativa del 10% por asalto de perder el control de ti mismo durante un asalto.~
+@10 = ~TransformaciÛn en el Asesino
 
-Cuando utilizas esta habilidad, adoptas la forma de la brutal esencia de Bhaal: una criatura violenta y poderosa hecha de dientes y garras. El uso de esta habilidad reduce tu reputaci√≥n en un punto, ya que incluso aquellos que no presencian el suceso pueden percibir la corrupci√≥n causada al entregarte al instinto.
+Cuando utilizas esta habilidad, adoptas la forma de la brutal esencia de Bhaal: una criatura violenta y poderosa hecha de dientes y garras. El uso de esta habilidad reduce tu reputaciÛn en un punto, ya que incluso aquellos que no presencian el suceso pueden percibir la corrupciÛn causada al entregarte al instinto.
 
 La forma del Asesino otorga los siguientes beneficios:
 
 - Fuerza y destreza aumentadas a 25
 - CA efectiva fijada en -9
-- Resistencia m√°gica fijada a 50%
-- Resistencia al da√±o f√≠sico fijada en 15%
-- Resistencia al da√±o elemental fijada en 30%
-- Tiradas de salvaci√≥n fijadas en 2
-- Ataques por asalto fijados en 4 (2D6 contundente, 4 fr√≠o)
+- Resistencia m·gica fijada a 50%
+- Resistencia al daÒo fÌsico fijada en 15%
+- Resistencia al daÒo elemental fijada en 30%
+- Tiradas de salvaciÛn fijadas en 2
+- Ataques por asalto fijados en 4 (2D6 contundente, 4 frÌo)
 - GAC0 fijado a -4
 - PLUS_SIGN_PLACEHOLDER 150 puntos de golpe
 - Regenera 2 puntos de golpe por segundo
-- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusi√≥n, sue√±o y ataques con proyectiles
-- Probabilidad de perder el control: 10%, m√°s un 5% acumulativo por asalto.~
-@11 = ~Transformaci√≥n en el Asesino
+- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusiÛn, sueÒo y ataques con proyectiles
+- Probabilidad de perder el control: 10%, m·s un 5% acumulativo por asalto.~
+@11 = ~TransformaciÛn en el Asesino
 
-Cuando utilizas esta habilidad, adoptas la forma de la brutal esencia de Bhaal: una criatura violenta y poderosa hecha de dientes y garras. El uso de esta habilidad reduce tu reputaci√≥n en un punto, ya que incluso aquellos que no presencian el suceso pueden percibir la corrupci√≥n causada al entregarte al instinto.
+Cuando utilizas esta habilidad, adoptas la forma de la brutal esencia de Bhaal: una criatura violenta y poderosa hecha de dientes y garras. El uso de esta habilidad reduce tu reputaciÛn en un punto, ya que incluso aquellos que no presencian el suceso pueden percibir la corrupciÛn causada al entregarte al instinto.
 
 La forma del Asesino otorga los siguientes beneficios:
 
 - Fuerza y destreza aumentadas a 25
 - CA efectiva fijada en -9
-- Resistencia m√°gica fijada a 60%
-- Resistencia al da√±o f√≠sico fijada en 30%
-- Resistencia al da√±o elemental fijada en 40%
-- Tiradas de salvaci√≥n fijadas en 2
-- Ataques por asalto fijados en 4 (2D8 contundente, 8 fr√≠o)
-- Los ataques tienen un 10% de probabilidad de lanzar Disipar Magia y de reducir la resistencia m√°gica
+- Resistencia m·gica fijada a 60%
+- Resistencia al daÒo fÌsico fijada en 30%
+- Resistencia al daÒo elemental fijada en 40%
+- Tiradas de salvaciÛn fijadas en 2
+- Ataques por asalto fijados en 4 (2D8 contundente, 8 frÌo)
+- Los ataques tienen un 10% de probabilidad de lanzar Disipar Magia y de reducir la resistencia m·gica
 - GAC0 fijado a -8
 - PLUS_SIGN_PLACEHOLDER 200 puntos de golpe
 - Regenera 3 puntos de golpe por segundo
-- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusi√≥n, sue√±o, enfermedad, veneno y ataques con proyectiles
-- Acci√≥n libre
+- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusiÛn, sueÒo, enfermedad, veneno y ataques con proyectiles
+- AcciÛn libre
 - Probabilidad de perder el control: un 5% acumulativo cada dos asaltos~
-@12 = ~Transformaci√≥n en el Saqueador
+@12 = ~TransformaciÛn en el Saqueador
 
-Ahora tienes la habilidad de adoptar la forma del Asesino o del Saqueador, una terrible manifestaci√≥n de Bhaal. El uso de esta habilidad reduce tu reputaci√≥n en dos puntos en el caso del Asesino, o en tres puntos en el caso del Saqueador.
+Ahora tienes la habilidad de adoptar la forma del Asesino o del Saqueador, una terrible manifestaciÛn de Bhaal. El uso de esta habilidad reduce tu reputaciÛn en dos puntos en el caso del Asesino, o en tres puntos en el caso del Saqueador.
 
 Como el Asesino, tienes los siguientes beneficios:
 
 - Fuerza y destreza aumentadas a 25
 - CA efectiva fijada en -9
-- Resistencia m√°gica fijada a 60%
-- Resistencia al da√±o f√≠sico fijada en 30%
-- Resistencia al da√±o elemental fijada en 50%
-- Tiradas de salvaci√≥n fijadas en 2
-- Ataques por asalto fijados en 4 (2D8 contundente, 8 fr√≠o)
-- Los ataques tienen un 10% de probabilidad de lanzar Disipar Magia y de reducir la resistencia m√°gica
+- Resistencia m·gica fijada a 60%
+- Resistencia al daÒo fÌsico fijada en 30%
+- Resistencia al daÒo elemental fijada en 50%
+- Tiradas de salvaciÛn fijadas en 2
+- Ataques por asalto fijados en 4 (2D8 contundente, 8 frÌo)
+- Los ataques tienen un 10% de probabilidad de lanzar Disipar Magia y de reducir la resistencia m·gica
 - GAC0 fijado a -8
 - PLUS_SIGN_PLACEHOLDER 200 puntos de golpe
 - Regenera 3 puntos de golpe por segundo
-- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusi√≥n, sue√±o, enfermedad, veneno y ataques con proyectiles
-- Acci√≥n libre
+- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusiÛn, sueÒo, enfermedad, veneno y ataques con proyectiles
+- AcciÛn libre
 - Probabilidad de perder el control: un 5% acumulativo cada dos asaltos
 
 Como el Saqueador, tienes los siguientes beneficios:
 
-- Resistencia m√°gica fijada a 75%
-- Resistencia al da√±o f√≠sico fijada en 50%
-- Resistencia al da√±o elemental fijada en 50%
-- Resistencia al da√±o m√°gico fijada en 50%
-- Ataques por asalto fijados en 5 (3D8 contundente, 8 fr√≠o)
-- La probabilidad de disipaci√≥n al golpear aumenta al 20%
+- Resistencia m·gica fijada a 75%
+- Resistencia al daÒo fÌsico fijada en 50%
+- Resistencia al daÒo elemental fijada en 50%
+- Resistencia al daÒo m·gico fijada en 50%
+- Ataques por asalto fijados en 5 (3D8 contundente, 8 frÌo)
+- La probabilidad de disipaciÛn al golpear aumenta al 20%
 - GAC0 fijado a -12
 - PLUS_SIGN_PLACEHOLDER 250 puntos de golpe
 - Regenera 5 puntos de golpe por segundo
-- Probabilidad de perder el control aumenta al 40% m√°s un 10% acumulativo por asalto.~
-@13 = ~Transformaci√≥n en el Asesino
+- Probabilidad de perder el control aumenta al 40% m·s un 10% acumulativo por asalto.~
+@13 = ~TransformaciÛn en el Asesino
 
 Cuando Imoen utiliza esta habilidad, adopta la forma de la brutal esencia de Bhaal: una criatura violenta y poderosa hecha de dientes y garras.
 
@@ -123,182 +123,182 @@ La forma del Asesino otorga los siguientes beneficios:
 
 - Fuerza y destreza aumentadas a 25
 - CA efectiva fijada en -9
-- Resistencia m√°gica fijada a 40%
-- Tiradas de salvaci√≥n fijadas en 2
-- Ataques por asalto fijados en 4 (1D8 contundente, 2 fr√≠o)
+- Resistencia m·gica fijada a 40%
+- Tiradas de salvaciÛn fijadas en 2
+- Ataques por asalto fijados en 4 (1D8 contundente, 2 frÌo)
 - GAC0 fijado a 0
 - PLUS_SIGN_PLACEHOLDER 100 puntos de golpe
-- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusi√≥n, sue√±o y ataques con proyectiles
+- Inmunidad a aprisionamiento, drenaje de nivel, aturdimiento, miedo, encantamiento, confusiÛn, sueÒo y ataques con proyectiles
 
-Tal vez porque Imoen tiene menos esencia de Bhaal que <CHARNAME>, o tal vez por lo que aprendi√≥ despu√©s de que Melis√°n invocara su esencia, es m√°s capaz de contener el poder de el Asesino, y no tiene ninguna posibilidad de perder el control mientras est√° en forma de el Asesino.~
+Tal vez porque Imoen tiene menos esencia de Bhaal que <CHARNAME>, o tal vez por lo que aprendiÛ despuÈs de que Melis·n invocara su esencia, es m·s capaz de contener el poder de el Asesino, y no tiene ninguna posibilidad de perder el control mientras est· en forma de el Asesino.~
 @14 = ~Poderes de engendro de Bhaal obtenidos~
-@15 = ~Ahora Imoen puede transformarse en el Asesino a voluntad y entrar en el plano et√©reo una vez por minuto.~
+@15 = ~Ahora Imoen puede transformarse en el Asesino a voluntad y entrar en el plano etÈreo una vez por minuto.~
 @16 = ~Controlar Demonio
 
-Alcance: Visi√≥n
+Alcance: VisiÛn
 Tiempo de Lanzamiento: 1
-Duraci√≥n: Especial
-√Årea de efecto: Un demonio
-Tirada de salvaci√≥n: Ninguna
+DuraciÛn: Especial
+¡rea de efecto: Un demonio
+Tirada de salvaciÛn: Ninguna
 
-Esta habilidad permite a los engendros de Bhaal intentar arrebatar el control de un demonio de Melis√°n, y hacerlo aliado suyo. El engendro de Bhaal se enzarza en un combate mental durante DURATION_PLACEHOLDER segundos, al final de la cual, el demonio tiene SUCCESS_CHANCE_PLACEHOLDER% de la probabilidad de ser su aliado. Sin embargo, el demonio no esta bajo el control directo del engendro de Bhaal. Esta habilidad s√≥lo puede ser usada cada 3 turnos.~
+Esta habilidad permite a los engendros de Bhaal intentar arrebatar el control de un demonio de Melis·n, y hacerlo aliado suyo. El engendro de Bhaal se enzarza en un combate mental durante DURATION_PLACEHOLDER segundos, al final de la cual, el demonio tiene SUCCESS_CHANCE_PLACEHOLDER% de la probabilidad de ser su aliado. Sin embargo, el demonio no esta bajo el control directo del engendro de Bhaal. Esta habilidad sÛlo puede ser usada cada 3 turnos.~
 @17 = ~Desatar
 
 Alcance: 1,5 metros
 Tiempo de lanzamiento: 1
-Duraci√≥n: Instant√°neo
-√Årea de efecto: Criatura objetivo
-Tirada de salvaci√≥n: 1/2 + especial
+DuraciÛn: Instant·neo
+¡rea de efecto: Criatura objetivo
+Tirada de salvaciÛn: 1/2 + especial
 
-La habilidad de "Desatar" os permite soltar vuestro poder interior hacia un objetivo que este dentro del rango de contacto, golpe√°ndole con un DICENUMBER_PLACEHOLDERd12 puntos de da√±o m√°gico (la mitad si supera una tirada de salvaci√≥n contra muerte a -4) y le env√≠a volando en direcci√≥n contraria a vos, e incluso puede dejarlo inconsciente durante un corto periodo de tiempo. Esta habilidad s√≥lo deber√≠ais usarla una vez cada treinta segundos... y despu√©s de usarla los engendros de Bhaal se fatigan enormemente y tienen un 25% de errar conjuro en todos los hechizos durante 2 turnos. Debido a la cantidad de esencia divina usada, la forma del Asesino no estar√° disponible durante treinta segundos.~
-@18 = ~Concentraci√≥n
+La habilidad de "Desatar" os permite soltar vuestro poder interior hacia un objetivo que este dentro del rango de contacto, golpe·ndole con un DICENUMBER_PLACEHOLDERd12 puntos de daÒo m·gico (la mitad si supera una tirada de salvaciÛn contra muerte a -4) y le envÌa volando en direcciÛn contraria a vos, e incluso puede dejarlo inconsciente durante un corto periodo de tiempo. Esta habilidad sÛlo deberÌais usarla una vez cada treinta segundos... y despuÈs de usarla los engendros de Bhaal se fatigan enormemente y tienen un 25% de errar conjuro en todos los hechizos durante 2 turnos. Debido a la cantidad de esencia divina usada, la forma del Asesino no estar· disponible durante treinta segundos.~
+@18 = ~ConcentraciÛn
 
 Alcance: 0
 Tiempo de lanzamiento: 1
-Duraci√≥n: 5 asaltos
-√Årea de efecto: El lanzador
-Tirada de salvaci√≥n: Ninguna
+DuraciÛn: 5 asaltos
+¡rea de efecto: El lanzador
+Tirada de salvaciÛn: Ninguna
 
-Esta habilidad permite al engendro de Bhaal concentrar su energ√≠a dentro de √©l para resistir los efectos de hechizos del exterior. Durante 30 segundos, el engendro de Bhaal se vuelve inmune a los hechizos Carne a Piedra, Desintegraci√≥n y Detener el Tiempo. Adem√°s, los hechizos menores de niveles 1¬∫ a 3¬∫ tampoco afectar√°n al engendro de Bhaal. Esta habilidad puede utilizarse una vez por minuto.~
+Esta habilidad permite al engendro de Bhaal concentrar su energÌa dentro de Èl para resistir los efectos de hechizos del exterior. Durante 30 segundos, el engendro de Bhaal se vuelve inmune a los hechizos Carne a Piedra, DesintegraciÛn y Detener el Tiempo. Adem·s, los hechizos menores de niveles 1∫ a 3∫ tampoco afectar·n al engendro de Bhaal. Esta habilidad puede utilizarse una vez por minuto.~
 @19 = ~Puerta dimensional
 
 Alcance: Infinito
 Tiempo de lanzamiento: 0
-Duraci√≥n: Instant√°neo
-√Årea de efecto: El lanzador
-Tirada de salvaci√≥n: Ninguna
+DuraciÛn: Instant·neo
+¡rea de efecto: El lanzador
+Tirada de salvaciÛn: Ninguna
 
 Ahora los engendros de Bhaal pueden moverse libremente por el espacio y los planos. Este poder de teletransporte se puede usar una vez por asalto.~
-@20 = ~Cambio de forma: Murci√©lago
+@20 = ~Cambio de forma: MurciÈlago
 
-Esta habilidad permite a Bodhi transformarse en murci√©lago.~
-@21 = ~Regalo divino (Invocaci√≥n)
+Esta habilidad permite a Bodhi transformarse en murciÈlago.~
+@21 = ~Regalo divino (InvocaciÛn)
 
 Alcance: 0
-Duraci√≥n: 1 turno
+DuraciÛn: 1 turno
 Tiempo de lanzamiento: 1
-√Årea de efecto: El lanzador
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: El lanzador
+Tirada de salvaciÛn: Ninguna
 
-El engendro de Bhaal invoca la fuerza de su sangre para que le otorgue poder durante un breve periodo de tiempo. Al hacerlo, su fuerza, destreza y constituci√≥n aumentan a 25.~
+El engendro de Bhaal invoca la fuerza de su sangre para que le otorgue poder durante un breve periodo de tiempo. Al hacerlo, su fuerza, destreza y constituciÛn aumentan a 25.~
 @22 = ~Invertir resistencias
 
 Alcance: 0
-Duraci√≥n: Permanente
+DuraciÛn: Permanente
 Tiempo de lanzamiento: 1
-√Årea de efecto: Baltasar
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: Baltasar
+Tirada de salvaciÛn: Ninguna
 
-Con esta habilidad, Baltasar invierte sus resistencias innatas. Su resistencia normal del 10% al da√±o f√≠sico aumenta al 90%; su resistencia normal del 90% a la magia, el da√±o m√°gico y el da√±o elemental baja al 10%.
+Con esta habilidad, Baltasar invierte sus resistencias innatas. Su resistencia normal del 10% al daÒo fÌsico aumenta al 90%; su resistencia normal del 90% a la magia, el daÒo m·gico y el daÒo elemental baja al 10%.
 
 Baltasar puede invertir sus resistencias a voluntad.~
 @23 = ~Invertir resistencias
 
 Alcance: 0
-Duraci√≥n: Permanente
+DuraciÛn: Permanente
 Tiempo de lanzamiento: 1
-√Årea de efecto: Baltasar
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: Baltasar
+Tirada de salvaciÛn: Ninguna
 
-Con esta habilidad, Baltasar invierte sus resistencias innatas. Recupera su resistencia normal del 10% al da√±o f√≠sico, as√≠ como su resistencia normal del 90% a la magia, el da√±o m√°gico y el da√±o elemental.
+Con esta habilidad, Baltasar invierte sus resistencias innatas. Recupera su resistencia normal del 10% al daÒo fÌsico, asÌ como su resistencia normal del 90% a la magia, el daÒo m·gico y el daÒo elemental.
 
 Baltasar puede invertir sus resistencias a voluntad.~
 @24 = ~Postura solar
 
 Alcance: 0
-Duraci√≥n: 3 horas
+DuraciÛn: 3 horas
 Tiempo de lanzamiento: 1
-√Årea de efecto: Baltasar + cualquier criatura en un radio de 9 metros
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: Baltasar + cualquier criatura en un radio de 9 metros
+Tirada de salvaciÛn: Ninguna
 
-Al adoptar la postura solar, Baltasar invoca el poder del sol para potenciar sus habilidades m√≠sticas. Obtiene un 127% de resistencia al fuego (incluso cuando usa invertir resistencias) y todos sus ataques infligen 1D10 puntos de da√±o de fuego adicional; este da√±o cura a Baltasar. Al entrar en Postura Solar, Baltasar libera una r√°faga de llamas que inflige 12D6 puntos de da√±o de fuego (salvaci√≥n contra conjuro por 1/2) y 1D8 puntos de da√±o contundente a todos los que se encuentren a 9 metros, alejando de √©l a cualquier criatura cercana.
+Al adoptar la postura solar, Baltasar invoca el poder del sol para potenciar sus habilidades mÌsticas. Obtiene un 127% de resistencia al fuego (incluso cuando usa invertir resistencias) y todos sus ataques infligen 1D10 puntos de daÒo de fuego adicional; este daÒo cura a Baltasar. Al entrar en Postura Solar, Baltasar libera una r·faga de llamas que inflige 12D6 puntos de daÒo de fuego (salvaciÛn contra conjuro por 1/2) y 1D8 puntos de daÒo contundente a todos los que se encuentren a 9 metros, alejando de Èl a cualquier criatura cercana.
 
-Baltasar s√≥lo puede tener una postura activa a la vez: al entrar en la Postura Solar se cancelan todas las dem√°s posturas. La Postura Solar puede ser eliminada por efectos como Brecha.~
+Baltasar sÛlo puede tener una postura activa a la vez: al entrar en la Postura Solar se cancelan todas las dem·s posturas. La Postura Solar puede ser eliminada por efectos como Brecha.~
 @25 = ~Postura lunar
 
 Alcance: 0
-Duraci√≥n: 3 horas
+DuraciÛn: 3 horas
 Tiempo de lanzamiento: 1
-√Årea de efecto: Baltasar
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: Baltasar
+Tirada de salvaciÛn: Ninguna
 
-Al adoptar la postura lunar, Baltasar invoca el poder de la luna para potenciar sus habilidades m√≠sticas. Mientras est√° en postura lunar, Baltasar es inmune a drenaje de energ√≠a, encarcelamiento y parar el tiempo, y recibe un uso de la habilidad maldici√≥n lunar. Al entrar en postura lunar, todos los enemigos adyacentes a Baltasar quedan cegados durante cuatro asaltos (salvaciones contra conjuro para evitarlo).
+Al adoptar la postura lunar, Baltasar invoca el poder de la luna para potenciar sus habilidades mÌsticas. Mientras est· en postura lunar, Baltasar es inmune a drenaje de energÌa, encarcelamiento y parar el tiempo, y recibe un uso de la habilidad maldiciÛn lunar. Al entrar en postura lunar, todos los enemigos adyacentes a Baltasar quedan cegados durante cuatro asaltos (salvaciones contra conjuro para evitarlo).
 
-Baltasar s√≥lo puede tener una postura activa a la vez: al adoptar la Postura Lunar, se anulan todas las dem√°s posturas. La Postura Lunar puede ser eliminada por efectos como Brecha.~
+Baltasar sÛlo puede tener una postura activa a la vez: al adoptar la Postura Lunar, se anulan todas las dem·s posturas. La Postura Lunar puede ser eliminada por efectos como Brecha.~
 @26 = ~Postura de las sombras
 
 Alcance: 0
-Duraci√≥n: 3 horas
+DuraciÛn: 3 horas
 Tiempo de lanzamiento: 1
-√Årea de efecto: Baltasar
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: Baltasar
+Tirada de salvaciÛn: Ninguna
 
-Al adoptar la postura de las sombras, Baltasar invoca el poder del plano de la sombra para potenciar sus habilidades m√≠sticas. Mientras est√° en la postura de las sombras, Baltasar est√° protegido por la invisibilidad mejorada (y es completamente invisible durante los primeros 15 segundos, o hasta que ataca). Adem√°s de las ya importantes ventajas defensivas de la invisibilidad mejorada, el manto de sombras concede a Baltasar un bonificador adicional de +6 a la clase de armadura.
+Al adoptar la postura de las sombras, Baltasar invoca el poder del plano de la sombra para potenciar sus habilidades mÌsticas. Mientras est· en la postura de las sombras, Baltasar est· protegido por la invisibilidad mejorada (y es completamente invisible durante los primeros 15 segundos, o hasta que ataca). Adem·s de las ya importantes ventajas defensivas de la invisibilidad mejorada, el manto de sombras concede a Baltasar un bonificador adicional de +6 a la clase de armadura.
 
-Baltasar s√≥lo puede tener una postura activa a la vez: al entrar en la postura de las sombras se cancelan todas las dem√°s posturas. La postura de las sombras puede eliminarse con efectos como or√°culo o visi√≥n verdadera.~
-@27 = ~M√°s r√°pido que la vista
+Baltasar sÛlo puede tener una postura activa a la vez: al entrar en la postura de las sombras se cancelan todas las dem·s posturas. La postura de las sombras puede eliminarse con efectos como or·culo o visiÛn verdadera.~
+@27 = ~M·s r·pido que la vista
 
 Alcance: Rango visual del lanzador
-Duraci√≥n: Instant√°neo
+DuraciÛn: Instant·neo
 Tiempo de lanzamiento: 0
-√Årea de efecto: Baltasar
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: Baltasar
+Tirada de salvaciÛn: Ninguna
 
 En un abrir y cerrar de ojos, Baltasar se transporta a cualquier lugar a la vista.
 
 Este poder puede utilizarse una vez cada dos asaltos.~
-@28 = ~Pu√±o del Drag√≥n
+@28 = ~PuÒo del DragÛn
 
 Alcance: Toque
-Duraci√≥n: Especial
+DuraciÛn: Especial
 Tiempo de lanzamiento: 0
-√Årea de efecto: Criatura golpeada
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: Criatura golpeada
+Tirada de salvaciÛn: Ninguna
 
-Al canalizar energ√≠a ki en un golpe, Baltasar destroza las defensas m√°gicas de su oponente. El pu√±o del drag√≥n tiene un 25% de probabilidad de destruir todas las protecciones y potenciadores de combate por debajo del 9¬∫ nivel, un 25% de probabilidad de destruir todos los efectos antim√°gicos por debajo del 9¬∫ nivel y un 50% de probabilidad de destruir ambos. Tambi√©n ralentiza a su objetivo (causando una penalizaci√≥n de -4 a la CA y a las tiradas de ataque) durante dos asaltos.
+Al canalizar energÌa ki en un golpe, Baltasar destroza las defensas m·gicas de su oponente. El puÒo del dragÛn tiene un 25% de probabilidad de destruir todas las protecciones y potenciadores de combate por debajo del 9∫ nivel, un 25% de probabilidad de destruir todos los efectos antim·gicos por debajo del 9∫ nivel y un 50% de probabilidad de destruir ambos. TambiÈn ralentiza a su objetivo (causando una penalizaciÛn de -4 a la CA y a las tiradas de ataque) durante dos asaltos.
 
 Este poder puede utilizarse una vez cada tres asaltos.~
 @29 = ~Golpe del tigre
 
 Alcance: 0
-Duraci√≥n: 2 asaltos
+DuraciÛn: 2 asaltos
 Tiempo de lanzamiento: 1
-√Årea de efecto: Baltasar
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: Baltasar
+Tirada de salvaciÛn: Ninguna
 
-Mientras el golpe del tigre est√° activo, Baltasar tiene un 50% de posibilidades de golpe cr√≠tico por impacto; adem√°s, cualquier impacto lanza a su v√≠ctima hacia atr√°s, aturdi√©ndola durante 1 asalto.
+Mientras el golpe del tigre est· activo, Baltasar tiene un 50% de posibilidades de golpe crÌtico por impacto; adem·s, cualquier impacto lanza a su vÌctima hacia atr·s, aturdiÈndola durante 1 asalto.
 
 Este poder puede utilizarse una vez cada cuatro asaltos.~
 @30 = ~Mano del asesinato
 
 Alcance: 0
-Duraci√≥n: 1 asalto
+DuraciÛn: 1 asalto
 Tiempo de lanzamiento: 1
-√Årea de efecto: Baltasar
-Tirada de salvaci√≥n: Especial
+¡rea de efecto: Baltasar
+Tirada de salvaciÛn: Especial
 
-Al combinar su ki con su esencia de engendro de Bhaal, todos los ataques de Baltasar durante un asalto son golpes cr√≠ticos autom√°ticos. Durante los tres segundos siguientes a la activaci√≥n del poder, cualquiera que reciba un impacto cae muerto (salvaci√≥n contra conjuros para anularlo).
+Al combinar su ki con su esencia de engendro de Bhaal, todos los ataques de Baltasar durante un asalto son golpes crÌticos autom·ticos. Durante los tres segundos siguientes a la activaciÛn del poder, cualquiera que reciba un impacto cae muerto (salvaciÛn contra conjuros para anularlo).
 
 Este poder puede utilizarse una vez cada tres asaltos.~
 @31 = ~Patada sin sombras
 
 Alcance: Toque
-Duraci√≥n: 4 segundos
+DuraciÛn: 4 segundos
 Tiempo de lanzamiento: 0
-√Årea de efecto: Criatura pateada
-Tirada de salvaci√≥n: Ninguna
+¡rea de efecto: Criatura pateada
+Tirada de salvaciÛn: Ninguna
 
-Con una potente patada, Baltasar derriba a su oponente, lanz√°ndolo por los aires; recibe 4D8 de da√±o por el impacto y queda inconsciente durante unos segundos.
+Con una potente patada, Baltasar derriba a su oponente, lanz·ndolo por los aires; recibe 4D8 de daÒo por el impacto y queda inconsciente durante unos segundos.
 
 Este poder puede utilizarse una vez cada dos asaltos.~
-@32 = ~Maldici√≥n lunar
+@32 = ~MaldiciÛn lunar
 
 Alcance: 9 metros
-Duraci√≥n: Especial
+DuraciÛn: Especial
 Tiempo de lanzamiento: 1
-√Årea de efecto: Una criatura
-Tirada de salvaci√≥n: Especial
+¡rea de efecto: Una criatura
+Tirada de salvaciÛn: Especial
 
-La criatura afectada por maldici√≥n lunar sufre un penalizador -4 a todas las tiradas de salvaci√≥n durante 40 asaltos. Adem√°s, debe realizar salvaciones contra conjuros con una penalizaci√≥n de -2 o quedar ralentizada (sufriendo una penalizaci√≥n de -4 a la CA y a las tiradas de ataque) durante 2 asaltos.
+La criatura afectada por maldiciÛn lunar sufre un penalizador -4 a todas las tiradas de salvaciÛn durante 40 asaltos. Adem·s, debe realizar salvaciones contra conjuros con una penalizaciÛn de -2 o quedar ralentizada (sufriendo una penalizaciÛn de -4 a la CA y a las tiradas de ataque) durante 2 asaltos.
 
 Baltasar recibe un uso de esta habilidad cada vez que entra en postura lunar.~

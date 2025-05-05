@@ -609,7 +609,6 @@ msgstr ""
 "qui sont devenus ses esclaves."
 
 #: balth.tra:1081
-#, fuzzy
 msgid ""
 "Do not make me laugh, <CHARNAME>. If you expect me to believe that the "
 "reason for your depraved existence is to fight evil in this world, you "
@@ -648,7 +647,6 @@ msgstr ""
 " notre destinée."
 
 #: balth.tra:1086
-#, fuzzy
 msgid "I deny nothing. Death comes for all who stand in my way."
 msgstr ""
 "Je ne nie rien. La mort vient à tous ceux qui se mettent en travers de ma "
@@ -712,7 +710,6 @@ msgstr ""
 "J'ai dédié ma vie à l'empêcher."
 
 #: balth.tra:1092
-#, fuzzy
 msgid ""
 "If only we had met under other circumstances, <CHARNAME>... I would have "
 "liked to sit and compare the paths that have brought us to this point. If we"
@@ -735,7 +732,6 @@ msgstr ""
 " Bhaal et d'achever ses plans ?"
 
 #: balth.tra:1094
-#, fuzzy
 msgid ""
 "You don't have to do this, Balthazar. We don't have to fight each other."
 msgstr ""
@@ -842,7 +838,6 @@ msgstr ""
 " avec tout ça, d'une façon ou d'une autre."
 
 #: balth.tra:1107
-#, fuzzy
 msgid "Alright, Balthazar. If that's what you want... let's end this now."
 msgstr ""
 "Très bien, Balthazar. Si c'est ce que vous voulez... finissons-en "
@@ -873,7 +868,6 @@ msgid "I don't know, Balthazar. But I don't want to fight you."
 msgstr "Je ne sais pas, Balthazar. Mais je ne veux pas vous combattre."
 
 #: balth.tra:1111
-#, fuzzy
 msgid "Let us fight, then, if it must be. Let me give you some peace at last."
 msgstr ""
 "Combattons alors, si ça doit être ainsi. Laissez-moi vous apporter un peu de"
@@ -953,7 +947,6 @@ msgstr ""
 " puissance, nul ne le sait mieux que moi."
 
 #: balth.tra:1120
-#, fuzzy
 msgid "Forget it! I'll do no such thing!"
 msgstr "Oubliez ça ! Je ne ferai pas une telle chose !"
 
@@ -993,7 +986,6 @@ msgstr ""
 "Ainsi soit-il. Venez mes élèves, puissent les dieux nous venir en aide."
 
 #: balth.tra:1125
-#, fuzzy
 msgid ""
 "No. Further dialogue is pointless. Let us end this now, <CHARNAME>... and "
 "may the gods have pity on us all."
@@ -1063,7 +1055,6 @@ msgstr ""
 "elle vous sous-estime."
 
 #: balth.tra:1133
-#, fuzzy
 msgid ""
 "I... perhaps you are right, <CHARNAME>. I see the wisdom of your words. "
 "Still... this does not mean my plan is doomed to failure. Or is it?"
@@ -1076,7 +1067,6 @@ msgid "I must resist it. I will. I have no choice."
 msgstr "Je dois y résister. Je le ferai. Je n'ai pas le choix."
 
 #: balth.tra:1135
-#, fuzzy
 msgid ""
 "But... you have shown great willpower, as well. Despite the taint in your "
 "soul, you have struggled against it just as I have. What makes me more "
@@ -1146,7 +1136,6 @@ msgstr ""
 "empêcher la prophétie de se réaliser, je le sais !"
 
 #: balth.tra:1142
-#, fuzzy
 msgid ""
 "You can walk away. You can do what's right, Balthazar, what you know to be "
 "right instead of what you've resigned yourself to."
@@ -1245,7 +1234,6 @@ msgstr ""
 "d'une facette en chaque chose."
 
 #: balth.tra:1153
-#, fuzzy
 msgid ""
 "I have no agent of the heavens to interpret my destiny for me, <CHARNAME>. "
 "And my path remains clear."
@@ -1264,7 +1252,6 @@ msgstr ""
 "guide divin. Peut-être que mon chemin a déjà été tracé pour moi."
 
 #: balth.tra:1155
-#, fuzzy
 msgid ""
 "What you say is incredible, and yet... it does make sense. Have I prepared "
 "myself for all this time in error? How could this be?"
@@ -1386,7 +1373,6 @@ msgstr ""
 "dire avec certitude où mène celle des autres, sans même parler de la vôtre ?"
 
 #: balth.tra:1166
-#, fuzzy
 msgid "Then let's get this over with. I'm tired of talking."
 msgstr "Alors finissons-en. Je suis fatigué de discuter."
 
@@ -2665,7 +2651,6 @@ msgstr ""
 "presque à sa fin."
 
 #: dream_solar.tra:240
-#, fuzzy
 msgid ""
 "Wait... what is Balthazar's part in all this? You knew I wouldn't fight him?"
 msgstr ""
@@ -3565,7 +3550,6 @@ msgstr ""
 "Pour les deux rounds suivants, Imoen reste en « demi-phase »... partiellement éthérée et partiellement dans ce plan. Elle est toujours invisible mais ne reçoit que la moitié des dégâts de n'importe quelle source. Dans cet état, il y a une faible chance (10 %) qu'elle puisse rater un sort. Pour la totalité des trois rounds, elle est capable de voir les cibles invisibles."
 
 #: imoen_after.tra:486
-#, fuzzy
 msgid "Sure. Let's join up again."
 msgstr "Bien sûr. Reviens avec nous."
 
@@ -3645,7 +3629,6 @@ msgstr ""
 "personne, hein ?"
 
 #: iren_bodhi.tra:33
-#, fuzzy
 msgid ""
 "Ahhh... my dear brother calls me at last, does he? I knew you would not be "
 "able to live without my assistance for long."
@@ -4114,7 +4097,6 @@ msgstr ""
 " Rien ne pouvait être plus approprié."
 
 #: iren_sarev.tra:441
-#, fuzzy
 msgid ""
 "This fight is mine, Irenicus. While you stewed in Hell, my power has "
 "multiplied."
@@ -4149,7 +4131,6 @@ msgstr ""
 "fessées sur mes genoux ?"
 
 #: iren_sarev.tra:445
-#, fuzzy
 msgid "You won't stop me, Irenicus. Nobody can. My destiny is at hand."
 msgstr ""
 "Tu ne m'arrêteras pas, Irenicus. Personne ne le peut. Ma destinée est à "
@@ -4331,7 +4312,6 @@ msgid "Only Sarevok can use this weapon."
 msgstr "Seul Sarevok peut utiliser cette arme."
 
 #: mel_balth.tra:591
-#, fuzzy
 msgid ""
 "You don't have all the essence of Bhaal... not by far. And I rule here, as "
 "well... you know that."
@@ -4447,7 +4427,6 @@ msgstr ""
 "la vaincre !"
 
 #: mel_initial.tra:604
-#, fuzzy
 msgid ""
 "You do not believe in my power, I can see that much. You have fought "
 "terrible foes in your past and have always managed to succeed. Why... you "
@@ -4472,7 +4451,6 @@ msgstr ""
 " le trône. Tant d'illusions."
 
 #: mel_iren_imoen.tra:435
-#, fuzzy
 msgid "Indeed. We meet once again."
 msgstr "En effet. Nous nous rencontrons à nouveau."
 
@@ -4831,7 +4809,6 @@ msgstr ""
 "Je ne te conseillerais pas de t'en servir toi-même à présent."
 
 #: sarevok_sword.tra:276
-#, fuzzy
 msgid ""
 "You wouldn't have my armor, too, hidden about somewhere within your packs? "
 "Hmph. I suppose some things are too much to hope for."
@@ -6158,12 +6135,10 @@ msgstr ""
 "venir ici ? Et pourquoi est-ce que je porte mon ancienne armure ?"
 
 #: the_five.tra:27
-#, fuzzy
 msgid "Fight <CHARNAME>? Aye... I will do that."
 msgstr "Combattre <CHARNAME> ? Oui... je vais faire ça."
 
 #: the_five.tra:28
-#, fuzzy
 msgid "So you die again, as well. It's all good."
 msgstr "Et tu mourras une nouvelle fois. Pas de problème."
 
@@ -6203,7 +6178,6 @@ msgid "What do you mean, wench? We've no business, you and I."
 msgstr "Que veux-tu dire, femme ? Nous n'avons rien à voir toi et moi."
 
 #: the_five.tra:263
-#, fuzzy
 msgid ""
 "Even if cared to consider your offer, I cannot. <CHARNAME> has bound me with"
 " a vow."
@@ -6212,7 +6186,6 @@ msgstr ""
 "prêter serment."
 
 #: the_five.tra:264
-#, fuzzy
 msgid ""
 "I see. And you believe your offer interests me? <CHARNAME> has done well "
 "enough against you so far."
@@ -6243,7 +6216,6 @@ msgstr ""
 "tiens ne portent leurs fruits, prêtresse. D'accord... je serai ton général."
 
 #: the_five.tra:267
-#, fuzzy
 msgid "No, Sarevok! You traitorous bastard!"
 msgstr "Non, Sarevok ! Saleté de traître !"
 
@@ -6252,7 +6224,6 @@ msgid "That is a mistake, Sarevok. You'll just die along with her this way."
 msgstr "Tu commets une erreur, Sarevok. Tu vas mourir à ses côtés."
 
 #: the_five.tra:269
-#, fuzzy
 msgid ""
 "I expected as much. So I get to kill you again, as well. It's all good."
 msgstr ""
@@ -6303,7 +6274,6 @@ msgstr ""
 "faire, même si cela signifie me battre pour Mélissanne."
 
 #: the_five.tra:616
-#, fuzzy
 msgid ""
 "I was going to resurrect them anyway, to serve as my conquering avatars. And"
 " I prefer them far better this way... completely servile, obeying every "
@@ -6344,7 +6314,6 @@ msgstr ""
 "à prendre."
 
 #: the_five.tra:620
-#, fuzzy
 msgid ""
 "They provided a considerable challenge for you individually, <CHARNAME>. I "
 "wonder how you will fare against them all?"
@@ -6389,7 +6358,6 @@ msgstr ""
 "briser. En fait, je viens de le faire. Maintenant, fais ce que tu veux."
 
 #: the_five.tra:626
-#, fuzzy
 msgid ""
 "Perhaps. But you are a great warrior... and could be a fine general to lead "
 "my earthly armies. Power, riches, respect... all you desire. Including the "
@@ -6402,7 +6370,6 @@ msgstr ""
 "as perdue. Viens Sarevok, sois à nouveau le démon que tu étais. Sers-moi."
 
 #: the_five.tra:627
-#, fuzzy
 msgid ""
 "Then fight for me you shall! And your first victim will be the "
 "<PRO_BROTHERSISTER> upon whom vengeance is so richly deserved!"
@@ -7353,7 +7320,6 @@ msgstr ""
 "<CHARNAME> n'est pas seule, Mélissanne. Il est temps de mettre fin à tout "
 "ceci."
 
-#, fuzzy
 msgctxt "female"
 msgid ""
 "You do not believe in my power, I can see that much. You have fought "
@@ -7602,7 +7568,6 @@ msgstr ""
 "destruction du véritable mal qui menace Féérune. Il n'y a pas d'autre voie "
 "pour moi."
 
-#, fuzzy
 msgctxt "female"
 msgid "Then let's get this over with. I'm tired of talking."
 msgstr "Alors finissons-en. Je suis fatiguée de discuter."
@@ -7735,7 +7700,6 @@ msgstr ""
 "Tu es désireux de devenir le serviteur de Mélissanne maintenant ? Je suis "
 "déçue."
 
-#, fuzzy
 msgctxt "female"
 msgid ""
 "I see. And you believe your offer interests me? <CHARNAME> has done well "
@@ -7763,7 +7727,6 @@ msgstr ""
 "Le serment que cette idiote t'a imposé n'est rien. Je pourrais facilement le"
 " briser. En fait, je viens de le faire. Maintenant, fais ce que tu veux."
 
-#, fuzzy
 msgctxt "female"
 msgid ""
 "Then fight for me you shall! And your first victim will be the "
