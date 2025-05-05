@@ -10,7 +10,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: dir2msgstr
-        uses: BGforgeNet/msg2po@dev
+        uses: BGforgeNet/msg2po@master
         #uses: ALIENQuake/msg2po@master
         with:
           push: true
