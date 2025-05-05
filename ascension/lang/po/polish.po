@@ -6230,7 +6230,7 @@ msgstr "Przywołanie hord Otchłani"
 
 #: tougher.tra:11
 msgid "Yaga-Shura Cleric"
-msgstr "Kapłan Yaga-Shury"
+msgstr "Kapłan Yaga-Shury TEST 1"
 
 msgctxt "female"
 msgid ""
