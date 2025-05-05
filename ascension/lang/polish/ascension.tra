@@ -144,7 +144,7 @@ Podobnie jak czar 5. poziomu o nazwie Wskrzeszenie, zaklêcie to mo¿e przywróciæ 
 <CHARNAME> uzyska³<PRO_HESHE> 25% odpornoœci na obra¿enia fizyczne (tj. sieczne, k³ute, obuchowe oraz od pocisków).~
 @2008 = ~Umiejêtnoœæ przemiany w Zabójcê zosta³a udoskonalona~
 @3000 = ~Miecz chaosu Sarevoka +4~
-@3001 = ~Tego oto miecza dobywa³ Sarevok, kiedy star³ siê ze swoim bratem w odleg³ych Wrotach Baldura. Jednak¿e to w³aœnie jego brat, <CHARNAME>, zwyciê¿y³, obracaj¹c wniwecz plany Sarevoka i ratuj¹c Wybrze¿e Mieczy od nieuchronnej wojny. Teraz, gdy Sarevok i <CHARNAME> walcz¹ ramiê w ramiê, ostrze powróci³o do prawowitego w³aœciciela. Sarevok nazywa je ostrzem Zwiastuna Œmierci, uda³o mu siê równie¿ przywróciæ mu czêœæ jego dawnej mocy. Mimo to, odk¹d nie przenika go esencja Bhaala, miecz nie mo¿e odzyskaæ pe³ni swej niegdysiejszej potêgi. Jednak nadal jest to imponuj¹ca broñ... i Sarevok ostrzega, ¿e staje siê coraz trudniejsza do opanowania przez osobê, która nie jest Zwiastunem Œmierci, jeœli w ogóle mog¹ z niej skorzystaæ.
+@3001 = ~Tego oto miecza dobywa³ Sarevok, kiedy star³ siê ze swoim bratem w odleg³ych Wrotach Baldura. Jednak¿e to w³aœnie jego brat, <CHARNAME>, zwyciê¿y³, obracaj¹c wniwecz plany Sarevoka i ratuj¹c Wybrze¿e Mieczy od nieuchronnej wojny. Teraz, gdy Sarevok i <CHARNAME> walcz¹ ramiê w ramiê, ostrze powróci³o do prawowitego w³aœciciela. Sarevok nazywa je ostrzem Zwiastuna Œmierci, uda³o mu siê równie¿ przywróciæ czêœæ jego dawnej mocy. Mimo to, odk¹d nie przenika go esencja Bhaala, miecz nie mo¿e odzyskaæ pe³ni swej niegdysiejszej potêgi. Jednak nadal jest to imponuj¹ca broñ... i Sarevok ostrzega, ¿e staje siê coraz trudniejsza do opanowania przez osobê, która nie jest Zwiastunem Œmierci, jeœli w ogóle mog¹ z niej skorzystaæ.
 
 PARAMETRY:
 
@@ -164,7 +164,15 @@ Wymagania:
 - Si³a: 14
 - Kondycja: 18
 
-Waga: 10~
+Waga: 10
+
+Nie mo¿e u¿ywaæ:
+Kap³an
+Mag
+Paladyn
+Zwiadowca
+Druid
+Postacie o niechaotycznym charakterze~
 @3002 = ~Mikstura Sendai~
 @3003 = ~Mikstura Sendai
 Ta niezwykle potê¿na mikstura uzdrawiaj¹ca, bêd¹ca najprawdopodobniej dzie³em samej Sendai, jest zdolna przywróciæ pe³niê punktów ¿ycia pij¹cej j¹ osobie.~

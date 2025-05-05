@@ -2,7 +2,7 @@
 
 Imoen ist es nun möglich, für kurze Zeit die Ätherische Ebene zu betreten. Diese Fähigkeit kann einmal pro Minute benutzt werden, und sie wird dadurch ebenfalls für eine Minute daran gehindert, die Gestalt des Schlächters anzunehmen. Imoen kann für eine Runde völlig ätherisch und unerreichbar für Kräfte dieser Ebene werden. In dieser Zeit ist sie unsichtbar und vollständig immun gegenüber schädlichen Einflüssen; sie kann aber auch keine Zauber sprechen oder andere Fähigkeiten einsetzen.
 
-Für zwei weitere Runden danach kann Imoen "halbzerteilt" sein: sie ist teilweise ätherisch und teilweise auf dieser Ebene. Sie ist immer noch unsichtbar, erleidet aber halben Schaden von allen Angriffen. In diesem Zustand besteht eine geringe Chance (10%), dass ein von ihr gesprochener Zauber versagt. In allen drei Runden kann sie alle unsichtbaren Ziele sehen.~
+Für zwei weitere Runden danach ist Imoen teilweise ätherisch und teilweise auf dieser Ebene. Sie ist immer noch unsichtbar, erleidet aber halben Schaden von allen Angriffen. In diesem Zustand besteht eine Chance von 10 %, dass der Zauber fehlschlägt. Während allen drei Runden kann sie unsichtbaren Ziele sehen.~
 @6 = ~Beende Verwandlung zum Schlächter
 
 Diese Fähigkeit ermöglicht es Imoen die Verwandlung abbrechen und in ihre normale Form zurückzukehren.~
@@ -42,12 +42,12 @@ ETW0: 0
 Angriffe pro Runde: 4
 
 Spezialfähigkeiten:
-– Magiewiderstand: 40 %
+– Magiewiderstand: 40 %
 – Rettungswürfe: 2
-– Trefferpunkte: PLUS_SIGN_PLACEHOLDER 100
+– Trefferpunkte: PLUS_SIGN_PLACEHOLDER100
 – Immun gegen Einkerkerung, Stufenentzug, Betäubung, Furcht, Bezauberung, Verwirrung, Schlaf und Fernkampfangriffe
 
-Die Form des Schlächters kann schwer zu kontrollieren sein: Pro Runde besteht eine kumulative Chance von 10%, für eine Runde die Kontrolle über sich selbst zu verlieren.~
+Die Form des Schlächters ist schwer zu kontrollieren: Pro Runde besteht eine kumulative Chance von 10 %, für eine Runde die Kontrolle zu verlieren.~
 @10 = ~Verwandlung zum Schlächter
 
 Wenn Ihr diese Fähigkeit benutzt, nehmt Ihr die Gestalt der brutalen Essenz Bhaals an: eine brachiale, machtvolle Kreatur, gemacht aus Reißzähnen und Klauen. Das Benutzen dieser Fähigkeit reduziert Euren Ruf um 2 Punkte, da selbst diejenigen, die diesem Ereignis nicht beiwohnen, den inneren Verfall spüren können, den Ihr durch die Hingabe an Euren Instinkt erleidet.
@@ -64,14 +64,15 @@ ETW0: -4
 Angriffe pro Runde: 4
 
 Spezialfähigkeiten:
-– Magiewiderstand: 50 %
-– Widerstand gegen physischen Schaden: 15 %
-– Widerstand gegen magischen Schaden: 30 %
+– Magiewiderstand: 50 %
+– Widerstand gegen physischen Schaden: 15 %
+– Widerstand gegen magischen Schaden: 30 %
 – Rettungswürfe: 2
-– Trefferpunkte: PLUS_SIGN_PLACEHOLDER 150
-– Regeneriert 3 Trefferpunkte pro Sekunde
+– Trefferpunkte: PLUS_SIGN_PLACEHOLDER150
+– Regeneration: 2 Trefferpunkte pro Sekunde
 – Immun gegen Einkerkerung, Stufenentzug, Betäubung, Furcht, Bezauberung, Verwirrung, Schlaf und Fernkampfangriffe
-– Chance, die Kontrolle zu verlieren: 10%, plus kumulative 5% pro Runde
+
+Die Form des Schlächters ist schwer zu kontrollieren: Pro Runde besteht eine kumulative Chance von 5 %, für eine Runde die Kontrolle zu verlieren.
 ~
 @11 = ~Verwandlung zum Schlächter
 
@@ -79,6 +80,8 @@ Wenn Ihr diese Fähigkeit benutzt, nehmt Ihr die Gestalt der brutalen Essenz Bhaa
 
 Die Form des Schlächters wurde stärker und gewährt nun folgende Vorzüge:
 
+Bei 10 % der Treffer wird „Magie bannen“ und „Magiewiderstand senken“ auf das Ziel gewirkt.
+
 Stärke: auf 25 gesetzt
 Geschicklichkeit: auf 25 gesetzt
 
@@ -89,22 +92,24 @@ ETW0: -8
 Angriffe pro Runde: 4
 
 Spezialfähigkeiten:
-– Magiewiderstand: 60 %
-– Widerstand gegen physischen Schaden: 30 %
-– Widerstand gegen magischen Schaden: 40 %
-– Angriffe haben eine Chance von 10%, Magie zu bannen und die Magieresistenz zu senken
+– Magiewiderstand: 60 %
+– Widerstand gegen physischen Schaden: 30 %
+– Widerstand gegen magischen Schaden: 40 %
 – Rettungswürfe: 2
-– Trefferpunkte: PLUS_SIGN_PLACEHOLDER 200
-– Regeneriert 3 Trefferpunkte pro Sekunde
+– Trefferpunkte: PLUS_SIGN_PLACEHOLDER200
+– Regeneration: 3 Trefferpunkt pro Sekunde
 – Immun gegen Einkerkerung, Stufenentzug, Betäubung, Furcht, Bezauberung, Verwirrung, Schlaf, Krankheit, Gift und Fernkampfangriffe
 – Handlungsfreiheit
-– Chance, die Kontrolle zu verlieren: Kumulativ 5% pro zwei Runden~
+
+Die Form des Schlächters ist schwer zu kontrollieren: Alle zwei Runden besteht eine kumulative Chance von 5 %, für eine Runde die Kontrolle zu verlieren.~
 @12 = ~Verwandlung zum Wüter
 
 Wenn Ihr diese Fähigkeit benutzt, nehmt Ihr die Gestalt des Schlächters oder des Wüters an: eine schreckliche Manifestation Bhaals. Das Benutzen dieser Fähigkeit reduziert Euren Ruf um 2 Punkte für den Schlächter bzw. um 3 Punkte für den Wüterich
 
 Die Form des Schlächters gewährt folgende Vorzüge:
 
+Bei 10 % der Treffer wird „Magie bannen“ und „Magiewiderstand senken“ auf das Ziel gewirkt.
+
 Stärke: auf 25 gesetzt
 Geschicklichkeit: auf 25 gesetzt
 
@@ -115,34 +120,38 @@ ETW0: -8
 Angriffe pro Runde: 4
 
 Spezialfähigkeiten:
-– Magiewiderstand: 60 %
-– Widerstand gegen physischen Schaden: 30 %
-– Widerstand gegen magischen Schaden: 50 %
-– Angriffe haben eine Chance von 10%, Magie zu bannen und die Magieresistenz zu senken
+– Magiewiderstand: 60 %
+– Widerstand gegen physischen Schaden: 30 %
+– Widerstand gegen magischen Schaden: 40 %
 – Rettungswürfe: 2
-– Trefferpunkte: PLUS_SIGN_PLACEHOLDER 200
-– Regeneriert 3 Trefferpunkte pro Sekunde
+– Trefferpunkte: PLUS_SIGN_PLACEHOLDER200
+– Regeneration: 3 Trefferpunkt pro Sekunde
 – Immun gegen Einkerkerung, Stufenentzug, Betäubung, Furcht, Bezauberung, Verwirrung, Schlaf, Krankheit, Gift und Fernkampfangriffe
 – Handlungsfreiheit
-– Chance, die Kontrolle zu verlieren: Kumulativ 5% pro zwei Runden
+
+Die Form des Schlächters ist schwer zu kontrollieren: Alle zwei Runden besteht eine kumulative Chance von 5 %, für eine Runde die Kontrolle zu verlieren.
+
 
 Die Form des Wüters gewährt folgende zusätzliche Vorzüge:
+
+Bei 20 % der Treffer wird „Magie bannen“ auf das Ziel gewirkt.
 
 Schaden: 3W8 (Wucht)
 Schadensbonus: +8 (Kälte)
 ETW0: -12
 Angriffe pro Runde: 5
 
-– Magiewiderstand: 75 %
-– Widerstand gegen physischen Schaden: 50 %
-– Widerstand gegen elementaren Schaden: 50 %
-– Widerstand gegen magischen Schaden: 50 %
-– Angriffe haben eine Chance von 20%, Magie zu bannen und die Magieresistenz zu senken
-– Trefferpunkte: PLUS_SIGN_PLACEHOLDER 250
-– Regeneriert 5 Trefferpunkte pro Sekunde
+Spezialfähigkeiten:
+– Magiewiderstand: 75 %
+– Widerstand gegen physischen Schaden: 50 %
+– Widerstand gegen elementaren Schaden: 50 %
+– Widerstand gegen magischen Schaden: 50 %
+– Trefferpunkte: PLUS_SIGN_PLACEHOLDER250
+– Regeneration: 5 Trefferpunkt pro Sekunde
 – Immun gegen Einkerkerung, Stufenentzug, Betäubung, Furcht, Bezauberung, Verwirrung, Schlaf, Krankheit, Gift und Fernkampfangriffe
 – Handlungsfreiheit
-– Chance, die Kontrolle zu verlieren, erhöht sich auf 40% plus eine kumulative Chance von 10% pro Runde~
+
+Die Form des Wüters ist sehr schwer zu kontrollieren: Pro Runden besteht eine Chance von 40 % plus kumulativen 10 %, für eine Runde die Kontrolle zu verlieren.~
 @13 = ~Verwandlung zum Schlächter
 
 Wenn Imoen diese Fähigkeit benutzt, nimmt sie die Gestalt der brutalen Essenz Bhaals an: eine brachiale, machtvolle Kreatur, gemacht aus Reißzähnen und Klauen.
@@ -159,13 +168,12 @@ ETW0: 0
 Angriffe pro Runde: 4
 
 Spezialfähigkeiten:
-– Magiewiderstand: 40 %
+– Magiewiderstand: 40 %
 – Rettungswürfe: 2
-– Trefferpunkte: PLUS_SIGN_PLACEHOLDER 100
+– Trefferpunkte: PLUS_SIGN_PLACEHOLDER100
 – Immun gegen Einkerkerung, Stufenentzug, Betäubung, Furcht, Bezauberung, Verwirrung, Schlaf und Fernkampfangriffe
 
-Die Form des Schlächters kann schwer zu kontrollieren sein: Pro Runde besteht eine kumulative Chance von 10%, für eine Runde die Kontrolle über sich selbst zu verlieren.
-Vielleicht, weil Imoen weniger von Bhaal's Essenz besitzt als <CHARNAME> - oder vielleicht aufgrund dessen, was sie gelernt hat, nachdem Melissan ihre Essenz herbeigerufen hat - ist sie besser in der Lage, die Macht des Schlächter einzudämmen, und hat keine Chance, die Kontrolle zu verlieren.~
+Vielleicht, weil Imoen weniger von Bhaal's Essenz besitzt als <CHARNAME>, ist sie besser in der Lage, die Macht des Schlächter einzudämmen und hat keine Chance, die Kontrolle zu verlieren.~
 @14 = ~Bhaalspawn-Fähigkeiten erhalten~
 @15 = ~Imoen kann sich nun in den Schlächter verwandeln und einmal pro Minute die Astralebene betreten~
 @16 = ~Dämon beherrschen
@@ -176,7 +184,7 @@ Zeitaufwand: 1
 Bereich: 1 Dämon
 Rettungswurf: Nein
 
-Mit dieser Fähigkeit kann das Kind Bhaals versuchen, Melissan die Kontrolle über einen Dämon zu entreißen. Es verwickelt den Dämon für DURATION_PLACEHOLDER Sekunden in einen mentalen Kampf, an dessen Ende der Dämon mit einer Wahrscheinlichkeit von SUCCESS_CHANCE_PLACEHOLDER% ein Verbündeter wird. Das Kind Bhaals kann den Dämon dann jedoch nicht direkt kontrollieren. Die Fähigkeit kann einmal alle 3 Runden eingesetzt werden.~
+Mit dieser Fähigkeit kann das Kind Bhaals versuchen, Melissan die Kontrolle über einen Dämon zu entreißen. Es verwickelt den Dämon für DURATION_PLACEHOLDER Sekunden in einen mentalen Kampf, an dessen Ende der Dämon mit einer Wahrscheinlichkeit von SUCCESS_CHANCE_PLACEHOLDER % ein Verbündeter wird. Jedoch kann das Kind Bhaals den Dämon nicht direkt kontrollieren. Die Fähigkeit kann einmal alle 3 Runden eingesetzt werden.~
 @17 = ~Entfesseln
 
 Reichweite: 1,5 m
@@ -185,7 +193,7 @@ Zeitaufwand: 1
 Bereich: 1 Wesen
 Rettungswurf: 1/2 (gg. Tod)
 
-Die Fähigkeit "Entfesseln" setzt Eure innere Kraft frei und trifft ein Ziel in Nahkampfreichweite, wobei DICENUMBER_PLACEHOLDERW12 magischem Schaden verursacht werden (1/2 bei erfolgreichen Rettungswurf gegen Tod -4). Außerdem wird es zurückgestoßen lässt und möglicherweise für eine kurze Zeit bewusstlos. Diese Fähigkeit kann nur einmal alle 30 Sekunden eingesetzt werden. Nach dem Einsatz ist das KInd Bhaals 2 Runden lang unglaublich erschöpft und hat eine 25%ige Fehlzauberchance. Aufgrund der verbrauchten Menge an göttlicher Essenz ist auch die Verwandlung zum Schlächter 30 Sekunden lang nicht verfügbar.~
+Die Fähigkeit "Entfesseln" setzt Eure innere Kraft frei und trifft ein Ziel in Nahkampfreichweite, wobei DICENUMBER_PLACEHOLDERW12 magischem Schaden verursacht werden (1/2 bei erfolgreichen Rettungswurf gegen Tod -4). Außerdem wird es zurückgestoßen lässt und möglicherweise für eine kurze Zeit bewusstlos. Diese Fähigkeit kann nur einmal alle 30 Sekunden eingesetzt werden. Nach dem Einsatz ist das Kind Bhaals 2 Runden lang erschöpft und hat eine Chance von 25 %, dass der Zauber fehlschlägt. Aufgrund der verbrauchten Menge an göttlicher Essenz ist auch die Verwandlung zum Schlächter 30 Sekunden lang nicht verfügbar.~
 @18 = ~Fokus
 
 Reichweite: Anwender
@@ -225,7 +233,7 @@ Zeitaufwand: 1
 Bereich: Anwender
 Rettungswurf: Nein
 
-Mit dieser Fähigkeit kehrt Balthasar seine angeborenen Resistenzen um. Seine normale 10% Resistenz gegen physischen Schaden erhöht sich auf 90%; seine normale 90% Resistenz gegen Magie, magischen Schaden und Elementarschaden sinkt auf 10%.
+Mit dieser Fähigkeit kehrt Balthasar seine angeborenen Resistenzen um. Seine normale 10 % Resistenz gegen physischen Schaden erhöht sich auf 90 %; seine normale 90 % Resistenz gegen Magie, magischen Schaden und Elementarschaden sinkt auf 10 %.
 
 Balthasar kann seine Resistenzen nach Belieben umkehren.~
 @23 = ~Resistenzen wechseln
@@ -236,7 +244,7 @@ Zeitaufwand: 1
 Bereich: Anwender
 Rettungswurf: Nein
 
-Mit dieser Fähigkeit kehrt Balthasar seine angeborenen Resistenzen um. Seine normale 10% Resistenz gegen physischen Schaden wird wiederhergestellt; so wird auch seine normale 90% Resistenz gegen Magie, magischen Schaden und Elementarschaden wiederhergestellt.
+Mit dieser Fähigkeit kehrt Balthasar seine angeborenen Resistenzen um. Seine normale 10 % Resistenz gegen physischen Schaden wird wiederhergestellt; so wird auch seine normale 90 % Resistenz gegen Magie, magischen Schaden und Elementarschaden wiederhergestellt.
 
 Balthasar kann seine Resistenzen nach Belieben umkehren.~
 @24 = ~Sonnen-Stellung
@@ -247,7 +255,7 @@ Zeitaufwand: 1
 Bereich: 9 m Radius
 Rettungswürfe: Nein
 
-Mit dieser Fähigkeit ruft Balthasar die Kraft der Sonne herbei. Er erhält 127% Feuerresistenz (auch wenn er Resistenzen wechseln einsetzt hat) und alle seine Angriffe fügen zusätzlich 1W10 Feuerschaden zu; dieser Schaden heilt Balthasar sogar. Wenn Balthasar die Sonnen-Stellung einnimmt, setzt er einen Flammenstrahl frei, der 12W6 Feuerschaden (1/2 bei Rettungwurf gg. Zauber) und 1W8 Wuchtschaden an allen Kreaturen im Umkreis von 9 m verursacht und diese wegsprengt.
+Mit dieser Fähigkeit ruft Balthasar die Kraft der Sonne herbei. Er erhält 127 % Feuerresistenz (auch wenn er Resistenzen wechseln einsetzt hat) und alle seine Angriffe fügen zusätzlich 1W10 Feuerschaden zu; dieser Schaden heilt Balthasar sogar. Wenn Balthasar die Sonnen-Stellung einnimmt, setzt er einen Flammenstrahl frei, der 12W6 Feuerschaden (1/2 bei Rettungwurf gg. Zauber) und 1W8 Wuchtschaden an allen Kreaturen im Umkreis von 9 m verursacht und diese wegsprengt.
 
 Balthasar kann immer nur eine Haltung aktiv haben: Wenn er in Sonnen-Stellung geht, werden alle anderen Stellungen aufgehoben. Die Sonnen-Stellung kann mit Bresche entfernt werden.~
 @25 = ~Mond-Stellung
@@ -291,7 +299,7 @@ Zeitaufwand: 0
 Bereich: 1 Wesen
 Rettungswurf: Nein
 
-Indem er zusätzliche Energie in einen Schlag kanalisiert, durchbricht Balthasar die magische Verteidigung seines Gegners. Die Drachenfaust hat eine Chance von 25%, alle Kampfschutz- und Verstärkungszauber unterhalb des 9. Grades zu zerstören, eine Chance von 25%, alle magischen Schutzzauber unterhalb des 9. Grades zu zerstören, und eine Chance von 50%, beides zu zerstören. Außerdem verlangsamt sie ihr Ziel zwei Runden lang (und verursacht einen Malus von -4 auf RK und Angriffswürfe).
+Indem er zusätzliche Energie in einen Schlag kanalisiert, durchbricht Balthasar die magische Verteidigung seines Gegners. Die Drachenfaust hat eine Chance von 25 %, alle Kampfschutz- und Verstärkungszauber unterhalb des 9. Grades zu zerstören, eine Chance von 25 %, alle magischen Schutzzauber unterhalb des 9. Grades zu zerstören, und eine Chance von 50 %, beides zu zerstören. Außerdem verlangsamt sie ihr Ziel zwei Runden lang (und verursacht einen Malus von -4 auf RK und Angriffswürfe).
 
 Diese Fähigkeit kann einmal alle 3 Runden eingesetzt werden.~
 @29 = ~Tigerschlag
@@ -302,7 +310,7 @@ Zeitaufwand: 1
 Bereich: Anwender
 Rettungswurf: Nein
 
-Solange Tigerschlag aktiv ist, hat Balthasar eine Chance von 50% auf einen kritischen Treffer. Außerdem wird sein Opfer bei jedem Treffer nach hinten geschleudert und für 1 Runde betäubt.
+Solange Tigerschlag aktiv ist, hat Balthasar eine Chance von 50 % auf einen kritischen Treffer. Außerdem wird sein Opfer bei jedem Treffer nach hinten geschleudert und für 1 Runde betäubt.
 
 Diese Fähigkeit kann einmal alle 4 Runden eingesetzt werden.~
 @30 = ~Hand des Mörders

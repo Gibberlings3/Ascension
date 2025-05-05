@@ -21,14 +21,14 @@
 @1037 = ~Verwandlung zum Wüter~
 @1038 = ~Melissan: Rufe die Diener des Abyss~
 @1039 = ~Bhaalspross-Fähigkeit erhalten: Schutz vor Lebenskraftentzug~
-@1040 = ~Bhaalspross-Fähigkeit erhalten: 25% Resistenz gegen körperlichem Schaden~
+@1040 = ~Bhaalspross-Fähigkeit erhalten: 25 % Widerstand gegen körperlichen Schaden~
 @1041 = ~Betäubt~
 @1042 = ~Waffen geschwächt durch Schleim des Babau~
 @1043 = ~Griff~
 @1044 = ~Bhaalspross-Fähigkeiten wiedererlangt~
 @1045 = ~Kontrolle wiedererlangt~
-@1046 = ~Magieresistenz um 5% verringert~
-@1047 = ~Magieresistenz um 5% verringert~
+@1046 = ~Magieresistenz um 5 % verringert~
+@1047 = ~Magieresistenz um 5 % verringert~
 @1048 = ~Verwandlung zum Schlächter wurde verbessert~
 @1049 = ~Der Dämon beugt sich Eurem Willen~
 @1050 = ~Der Dämon widersetzt sich Eurem Willen~
@@ -108,7 +108,7 @@ Rettungswurf: Ja (gg. Tod)
 Mithilfe dieses Zaubers kann das Kind Bhaals die dunkle Essenz seines bösen Vaters aus seinem Körper strömen lassen und damit ein Ziel vergiften, wenn diesem ein Rettungswurf gegen Tod misslingt.~
 @2004 = ~Bhaalspross-Fähigkeiten
 
-<CHARNAME> hat einen permanenten Schutz vor Lebenskraftentzug sowie 5% Magieresistenz erhalten.~
+<CHARNAME> hat einen permanenten Schutz vor Lebenskraftentzug sowie 5 % Magieresistenz erhalten.~
 @2005 = ~Bhaalspross-Fähigkeiten
 
 <CHARNAME> hat die folgende Fähigkeit erhalten, die einmal am Tag eingesetzt werden kann:
@@ -139,7 +139,7 @@ Rettungswurf: Nein
 Dieser Zauber ähnelt „Tote erwecken“ des 5. Grades. Allerdings heilt „Auferstehung“ den wiederbelebten Charakter auch gleich vollständig, sodass er sich sofort wieder ins Abenteuer stürzen kann.~
 @2007 = ~Bhaalspross-Fähigkeiten
 
-<CHARNAME> hat 25% Resistenz gegenüber physikalischen Schaden (also Schaden durch Stich-, Hieb-, Wucht- und Geschosswaffen) erhalten.~
+<CHARNAME> hat 25 % Widerstand gegen jede Art von körperlichem Schaden erhalten.~
 @2008 = ~Verwandlung zum Schlächter verbessert~
 @3000 = ~Schwert des Chaos +4~
 @3001 = ~Sarevoks Schwert des Chaos
