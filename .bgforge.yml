@@ -1,4 +1,5 @@
 translation:
   tra_dir: ascension/lang
   extract_fuzzy: true
-  
+  skip_files:
+  - prompts.tra
