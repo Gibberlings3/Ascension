@@ -5,7 +5,7 @@ BACKUP ~weidu_external/backup/ascension~
 SUPPORT "https://www.gibberlings3.net/forums/forum/207-ascension/"
 
 // use Semantic Versioning - http://semver.org
-VERSION ~2.0.28~
+VERSION ~2.0.29~
 
 AUTO_EVAL_STRINGS
 README "ascension/doc/readme-ascension.html"
@@ -66,11 +66,11 @@ LANGUAGE ~Italian (Al17, Alessandro, Max, M.Inxes, Rahar and Stefano)~
 
 LANGUAGE ~Portuguese (Ecthelion)~
          ~portuguese~
-         ~ascension/lang/portuguese/setup.tra~ 
+         ~ascension/lang/portuguese/setup.tra~
 
 LANGUAGE ~Swedish~
          ~swedish~
-         ~ascension/lang/swedish/setup.tra~ 
+         ~ascension/lang/swedish/setup.tra~
 
 
 // test component
