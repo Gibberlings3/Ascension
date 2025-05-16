@@ -1,30 +1,30 @@
 @1 = ~
-���ɸ���
-�R�X�Ѱ��F���R���y���������̪��A�M���L�ݰ_�ӷR�X���ѽ�O�q�]�]���ӼW�j�M�o�{�b�i�H���ڦb�T�]�ʺ��̨����H�����ܦ������̧κA�M�ӥB�򪺤F�s��O����L�F�顨�M�ϱo�o�i�H�i�J�F�ɤ@�q�ɶ��C
-�R�X���s��O����L�F�顨
-�R�X�{�b�i�H�b�u�����i�J�F�ɡM�C�Q���i�H�ϥΤ@������O�M�åB�b�Q�����R�X�L�k�ܦ������̡C�ϥΫ�b�}�l���@�����M�R�X�B�����Ϊ��A�çK�̤@���ˮ`�M���L�k�ϥΥ���k�N�ίS����O�C���U�Ӫ�������M�R�X�B��b�첾���A�M�@�b�B��D����ɡM�@�b�B���F�ɡM���ΥB��Ҧ��ˮ`�����@�b���K�̯�O�M�����Q�����@���I�k���ѴX�v�C�b�o�T�����M�o��ݨ�Ҧ����Ϊ��ؼСC~
+乾蟹葩魂
+愛蒙解除了梅麗珊造成的殺戮者狀態﹐不過看起來愛蒙的天賦力量也因此而增強﹐她現在可以像我在禁魔監獄裡那樣隨心轉變成殺戮者形態﹐而且獲的了新能力“虛無靈體”﹐使得她可以進入靈界一段時間。
+愛蒙的新能力“虛無靈體”
+愛蒙現在可以在短期內進入靈界﹐每十輪可以使用一次此能力﹐並且在十輪內愛蒙無法變成殺戮者。使用後在開始的一輪內﹐愛蒙處於隱形狀態並免疫一切傷害﹐但無法使用任何法術及特殊能力。接下來的兩輪內﹐愛蒙處於半位移狀態﹐一半處於主物質界﹐一半處於靈界﹐隱形且對所有傷害都有一半的免疫能力﹐但有十分之一的施法失敗幾率。在這三輪內﹐她能看到所有隱形的目標。~
 @6 = ~End Slayer Change
 
 This ability allows Imoen to cancel her transformation and return to her usual form.~
-@7 = ~�ں����l���s��O
-<CHARNAME>��o�F�o�ӯ�O�M�C�ѥi�H�ϥΤ@��: 
-�A�͡]���F�t�^ 
-�g�{�RĲ�N
-�ɮġR1��/2��
-�I�k�ɶ��R7
-���Ľd��R�ؼХͪ�
-�ŧKų�w�R�L
-�o�ӶW�j����O�����ؼХͪ��ֳt�A�ͪ���O�M�o�ӯ�O�Ʀܥi�H��_�w�g�ݼo�F������C�ؼХͪ��C����_�T�I�ͩR�M�Q�ѩG�e�M�C�G���ťi�H����ĪG�@���C�Ҧp�M�Q�|�Ū��ĪG�O�C�����C����_�Q�K�I�ͩR�C~
-@8 = ~�ں����l���s��O
-<CHARNAME>��o�F�o�ӯ�O�M�C�ѥi�H�ϥΤ@��: 
+@7 = ~巴爾之子的新能力
+<CHARNAME>獲得了這個能力﹐每天可以使用一次: 
+再生（死靈系） 
+射程﹕觸摸
+時效﹕1輪/2級
+施法時間﹕7
+有效範圍﹕目標生物
+豁免鑒定﹕無
+這個超強的能力給予目標生物快速再生的能力﹐這個能力甚至可以恢復已經殘廢了的肢體。目標生物每秒恢復三點生命﹐被解咒前﹐每二等級可以持續效果一輪。例如﹐十四級的效果是七輪內每輪恢復十八點生命。~
+@8 = ~巴爾之子的新能力
+<CHARNAME>獲得了這個能力﹐每天可以使用一次: 
 
-�_���]���F�t�^
-�g�{�RĲ�N
-�ɮġR�ä[
-�I�k�ɶ��R1
-���Ľd��R�QĲ�N�ͪ�
-�ŧKų�w�R�L
-�����ĤC�ů��N�_���M�o�ӯ�O�P�˥i�H�N���h�����ͥH�̨Ϊ��A�a�^�H�@�C~
+復興（死靈系）
+射程﹕觸摸
+時效﹕永久
+施法時間﹕1
+有效範圍﹕被觸摸生物
+豁免鑒定﹕無
+類似第七級神術復興﹐這個能力同樣可以將死去的隊友以最佳狀態帶回人世。~
 @9 = ~Slayer Change
 
 When you use this ability, you take on the form of the brutal essence of Bhaal: a violent, powerful creature made of teeth and claws. Using this ability reduces your reputation by one point, as even those who do not witness the event can sense the corruption caused by giving yourself over to instinct.
@@ -140,8 +140,8 @@ Area of Effect: 1 demon
 Saving Throw: none
 
 This ability allows the Bhaalspawn to attempt to wrest control of a demon away from Melissan and make them an ally. The Bhaalspawn engages the demon in mental combat for DURATION_PLACEHOLDER seconds, at the end of which the demon has a SUCCESS_CHANCE_PLACEHOLDER% chance of becoming an ally. (There is no further saving throw, nor is magic resistance checked.) The demon is not under the Bhaalspawn's direct control, however. This ability may be used once every 3 rounds.~
-@17 = ~��o�s��O�R����q����
-����q���񡨳o�ӯ�O����N�A���b����q�b�u�{������X�ӡM�ؼз|����10d12�]�k��q�ˮ`�]�q�L���`�ŧK�h�ˮ`��b�^�M�óQ���}�@�q�Z���M�C�����i�ϥγo�ӯ�O�@��......�b�ϥΫ�M�|�y���G�����ۨ����h�¥H�άI�k���ѡC�ѩ󤺦b���ѽ�Q����M�b�ϥΦ���O��M�L�פ��L�k�ܨ������̡C~
+@17 = ~獲得新能力﹕“能量釋放”
+“能量釋放”這個能力能夠將你內在的能量在短程內釋放出來﹐目標會受到10d12魔法能量傷害（通過死亡豁免則傷害減半）﹐並被推開一段距離﹐每五輪可使用這個能力一次......在使用後﹐會造成二輪的自身的疲倦以及施法失敗。由於內在的天賦被釋放﹐在使用此能力後﹐無論內無法變身殺戮者。~
 @18 = ~Focus
 
 Range: 0
@@ -163,16 +163,16 @@ The Bhaalspawn may now move freely through space and the planes. This teleportat
 @20 = ~Shapeshift: Bat
 
 This ability allows Bodhi to shapeshift into bat form.~
-@21 = ~�ں����l���s��O
-<CHARNAME>��o�F�o�ӯ�O�M�C�ѥi�H�ϥΤ@��: 
+@21 = ~巴爾之子的新能力
+<CHARNAME>獲得了這個能力﹐每天可以使用一次: 
 
-�l��t�O�]���t�^
-�g�{�R0
-�ɮġR1�^�X
-�I�k�ɶ��R1
-���Ľd��R�I�k��
-�ŧKų�w�R�L
-�ں����l�Q�Φ�G�����O�q�Ϧۤv�b�u�����ܱo��j���C�ϥγo�ӯ�O���ĪG�O�M<PRO_HISHER>���C�T�ӵ��ťi�H�����j���M���M�ӱ��@�I�C�Q�G�Ū��I�k�̥i�H�����|�I�C~
+召喚聖力（塑能系）
+射程﹕0
+時效﹕1回合
+施法時間﹕1
+有效範圍﹕施法者
+豁免鑒定﹕無
+巴爾之子利用血液中的力量使自己在短期內變得更強壯。使用這個能力的效果是﹐<PRO_HISHER>的每三個等級可以提高強壯﹐體制﹐敏捷一點。十二級的施法者可以提高四點。~
 @22 = ~Flip Resistances
 
 Range: 0
