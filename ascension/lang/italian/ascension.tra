@@ -20,7 +20,7 @@
 @1031 = ~Simbolo di Lentezza~
 @1037 = ~Cambiamento del Distruttore~
 @1038 = ~Melissan: Comanda i Tirapiedi dell'Abisso~
-@1039 = ~Poteri della progenie di Bhaal Ottenuto: Immunità al Risucchio di Energia~
+@1039 = ~Poteri della progenie di Bhaal Ottenuto: ImmunitÃ  al Risucchio di Energia~
 @1040 = ~Poteri della progenie di Bhaal Ottenuto: Resistenza al Danno Fisico +25%~
 @1041 = ~Folgorato~ ~Folgorata~
 @1042 = ~Armi indebolite dalla fanghiglia di Babau~
@@ -36,13 +36,13 @@
 @1052 = ~Il demone s'inchina al volere di Melissan~
 @1053 = ~Il demone si ribella al volere di Melissan~
 @1054 = ~Potere della Progenie di Bhaal Ottenuto: Rilascio~
-@1055 = ~Potere della Progenie di Bhaal Ottenuto: Immunità alla magia della morte~
-@1056 = ~Potere della Progenie di Bhaal Ottenuto: Immunità agli effetti vorpal~
+@1055 = ~Potere della Progenie di Bhaal Ottenuto: ImmunitÃ  alla magia della morte~
+@1056 = ~Potere della Progenie di Bhaal Ottenuto: ImmunitÃ  agli effetti vorpal~
 @1057 = ~Potere della Progenie di Bhaal Ottenuto: Porta dimensionale~
 @1058 = ~Potere della Progenie di Bhaal Ottenuto: Controllo sui demoni~
-@1059 = ~Potere della Progenie di Bhaal Ottenuto: Immunità a Labirinto e Imprigionare~
+@1059 = ~Potere della Progenie di Bhaal Ottenuto: ImmunitÃ  a Labirinto e Imprigionare~
 @1060 = ~Potere della Progenie di Bhaal Ottenuto: Focalizzazione~
-@1061 = ~Potere della Progenie di Bhaal Ottenuto: Immunità a Marchio dell'Uccisore~
+@1061 = ~Potere della Progenie di Bhaal Ottenuto: ImmunitÃ  a Marchio dell'Uccisore~
 @1062 = ~Dono Divino~
 @1063 = ~Resistenza alla Magia Ripristinata~
 @1064 = ~Protezioni dalla Magia Rimosse~
@@ -52,7 +52,7 @@
 @1068 = ~Malia della Luna~
 @2000 = ~Poteri della progenie di Bhaal
 
-<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno:
+<CHARNAME> ha acquisito l'abilitÃ , utilizzabile una volta al giorno:
 
 Guarigione di Massa
 (Necromanzia)
@@ -62,10 +62,10 @@ Tempo di lancio: 1
 Area d'effetto: Raggio di 9 metri
 Tiro-salvezza: Nessuno
 
-Quando usa questa abilità, la progenie di Bhaal deve visualizzare chiaramente i volti dei suoi compagni e concentrarsi sull'unità del gruppo. Una volta completato l'incantesimo, tutti i membri del gruppo in un raggio di 9 metri dal lanciatore sono curati di 2d8+2 Punti Ferita per livello. Vengono guarite anche altre condizioni sofferte dal gruppo: fatica, veleno, malattia, cecità e sordità.~
+Quando usa questa abilitÃ , la progenie di Bhaal deve visualizzare chiaramente i volti dei suoi compagni e concentrarsi sull'unitÃ  del gruppo. Una volta completato l'incantesimo, tutti i membri del gruppo in un raggio di 9 metri dal lanciatore sono curati di 2d8+2 Punti Ferita per livello. Vengono guarite anche altre condizioni sofferte dal gruppo: fatica, veleno, malattia, cecitÃ  e sorditÃ .~
 @2001 = ~Poteri della progenie di Bhaal
 
-<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno:
+<CHARNAME> ha acquisito l'abilitÃ , utilizzabile una volta al giorno:
 
 Rigenerazione
 (Necromanzia)
@@ -75,10 +75,10 @@ Tempo di lancio: 7
 Area d'effetto: 1 creatura
 Tiro-salvezza: Nessuno
 
-Questa potente abilità consente alla progenie di Bhaal di conferire a una creatura l'abilità di rigenerare. Il processo di rigenerazione guarirà ogni ferita e farà persino ricrescere gli arti perduti. La creatura bersaglio recupera 3 Punti Ferita al secondo. L'effetto dura 1 round ogni 2 livelli del lanciatore o finché non viene dissolto. Ad esempio: un personaggio di 14° livello potrebbe rigenerare 18 Punti Ferita a round per 7 round.~
+Questa potente abilitÃ  consente alla progenie di Bhaal di conferire a una creatura l'abilitÃ  di rigenerare. Il processo di rigenerazione guarirÃ  ogni ferita e farÃ  persino ricrescere gli arti perduti. La creatura bersaglio recupera 3 Punti Ferita al secondo. L'effetto dura 1 round ogni 2 livelli del lanciatore o finchÃ© non viene dissolto. Ad esempio: un personaggio di 14Â° livello potrebbe rigenerare 18 Punti Ferita a round per 7 round.~
 @2002 = ~Poteri della progenie di Bhaal
 
-<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno:
+<CHARNAME> ha acquisito l'abilitÃ , utilizzabile una volta al giorno:
 
 Convocare la Sacra Potenza
 (Evocazione)
@@ -88,10 +88,10 @@ Tempo di lancio: 1
 Area d'effetto: Il lanciatore
 Tiro-salvezza: Nessuno
 
-La progenie di Bhaal si appella alla forza del suo sangue per ottenere potere per un breve periodo. Così facendo, la sua Forza, Costituzione e Destrezza sono aumentate di un punto ogni tre livelli del lanciatore. Un personaggio di 3° livello vedrà le proprie caratteristiche aumentare di 1, mentre quelle di un personaggio di 12° livello crescerebbero di 4.~
+La progenie di Bhaal si appella alla forza del suo sangue per ottenere potere per un breve periodo. CosÃ¬ facendo, la sua Forza, Costituzione e Destrezza sono aumentate di un punto ogni tre livelli del lanciatore. Un personaggio di 3Â° livello vedrÃ  le proprie caratteristiche aumentare di 1, mentre quelle di un personaggio di 12Â° livello crescerebbero di 4.~
 @2003 = ~Poteri della progenie di Bhaal
 
-<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno:
+<CHARNAME> ha acquisito l'abilitÃ , utilizzabile una volta al giorno:
 
 Marchio Oscuro
 (Necromanzia)
@@ -101,20 +101,20 @@ Tempo di lancio: 1
 Area d'effetto: 1 creatura
 Tiro-salvezza: Neg.
 
-Con questo incantesimo, la progenie di Bhaal può porre il malvagio marchio di suo padre su una vittima, avvelenando chi fallisce un tiro-salvezza contro Morte. Gli effetti dipendono dal livello del personaggio e sono descritti qui di seguito:
+Con questo incantesimo, la progenie di Bhaal puÃ² porre il malvagio marchio di suo padre su una vittima, avvelenando chi fallisce un tiro-salvezza contro Morte. Gli effetti dipendono dal livello del personaggio e sono descritti qui di seguito:
 
-7°-9° livello: 2d8+2 punti di danno per round, rallentato per 12 secondi, tiro-salvezza con penalità pari a -2
-10°-12° livello: 3d8+3 punti di danno per round, rallentato per 12 secondi, tiro-salvezza con penalità pari a -2
-13°-14° livello: 4d8+4 punti di danno per round, rallentato per 12 secondi, tiro-salvezza con penalità pari a -2
-15°-16° livello: 6d8+5 punti di danno per round, rallentato per 24 secondi, tiro-salvezza con penalità pari a -2
-17°-21° livello: 8d8+6 punti di danno per round, rallentato per 24 secondi, tiro-salvezza con penalità pari a -4
-25° livello: 8d8+6 punti di danno per round, rallentato per 36 secondi, tiro-salvezza con penalità pari a -4, colpisce un gruppo di bersagli~
+7Â°-9Â° livello: 2d8+2 punti di danno per round, rallentato per 12 secondi, tiro-salvezza con penalitÃ  pari a -2
+10Â°-12Â° livello: 3d8+3 punti di danno per round, rallentato per 12 secondi, tiro-salvezza con penalitÃ  pari a -2
+13Â°-14Â° livello: 4d8+4 punti di danno per round, rallentato per 12 secondi, tiro-salvezza con penalitÃ  pari a -2
+15Â°-16Â° livello: 6d8+5 punti di danno per round, rallentato per 24 secondi, tiro-salvezza con penalitÃ  pari a -2
+17Â°-21Â° livello: 8d8+6 punti di danno per round, rallentato per 24 secondi, tiro-salvezza con penalitÃ  pari a -4
+25Â° livello: 8d8+6 punti di danno per round, rallentato per 36 secondi, tiro-salvezza con penalitÃ  pari a -4, colpisce un gruppo di bersagli~
 @2004 = ~Poteri della progenie di Bhaal
 
-<CHARNAME> ha acquisito una protezione permanente al Piano Negativo (non possono più essere risucchiati i livelli a <CHARNAME>) e una Resistenza alla Magia pari al 5%.~
+<CHARNAME> ha acquisito una protezione permanente al Piano Negativo (non possono piÃ¹ essere risucchiati i livelli a <CHARNAME>) e una Resistenza alla Magia pari al 5%.~
 @2005 = ~Poteri della progenie di Bhaal
 
-<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno:
+<CHARNAME> ha acquisito l'abilitÃ , utilizzabile una volta al giorno:
 
 Mano dell'Omicidio
 (Necromanzia)
@@ -126,14 +126,14 @@ Tiro-salvezza: Nessuno
 Quando una progenie di Bhaal invoca questo potere, infligge immediatamente danno addizionale ad ogni colpo messo a segno con una qualsiasi arma da mischia (un pugno o una spada). Le sue oscure energie viaggiano attraverso l'arma, arrivano alla sua vittima... e assorbono il danno inflitto per curare la progenie.
 Gli effetti variano in base al livello come segue:
 
-10° livello: 2 round, 4 punti di danno addizionale, 4 Punti Ferita curati
-15° livello: 3 round, 6 punti di danno addizionale, 6 Punti Ferita curati
-20° livello: 4 round, 8 punti di danno addizionale, 8 Punti Ferita curati
-25° livello: 5 round, 10 punti di danno addizionale, 10 Punti Ferita curati
-30° livello: 6 round, 12 punti di danno addizionale, 12 Punti Ferita curati~
+10Â° livello: 2 round, 4 punti di danno addizionale, 4 Punti Ferita curati
+15Â° livello: 3 round, 6 punti di danno addizionale, 6 Punti Ferita curati
+20Â° livello: 4 round, 8 punti di danno addizionale, 8 Punti Ferita curati
+25Â° livello: 5 round, 10 punti di danno addizionale, 10 Punti Ferita curati
+30Â° livello: 6 round, 12 punti di danno addizionale, 12 Punti Ferita curati~
 @2006 = ~Poteri della progenie di Bhaal
 
-<CHARNAME> ha acquisito l'abilità, utilizzabile una volta al giorno:
+<CHARNAME> ha acquisito l'abilitÃ , utilizzabile una volta al giorno:
 
 Resurrezione
 (Necromanzia)
@@ -143,25 +143,25 @@ Tempo di lancio: 1
 Area d'effetto: 1 creatura
 Tiro-salvezza: Nessuno
 
-Come l'incantesimo di 5° livello Rianimare Morti, Resurrezione riporta in vita un personaggio. Tuttavia, Resurrezione guarisce anche il personaggio in modo che sia subito pronto per nuove avventure.~
+Come l'incantesimo di 5Â° livello Rianimare Morti, Resurrezione riporta in vita un personaggio. Tuttavia, Resurrezione guarisce anche il personaggio in modo che sia subito pronto per nuove avventure.~
 @2007 = ~Poteri della progenie di Bhaal
 
 <CHARNAME> ha acquisito una resistenza pari al 25% ai danni fisici (tagliente, perforante, contundente e da proiettile).~
 @2008 = ~Trasformazione dell'Uccisore migliorata~
 @3000 = ~Spada del Caos di Sarevok~
-@3001 = ~La spada di Sarevok, il fratello di <CHARNAME>, usata nella battaglia combattuta nella lontana Baldur's Gate. <CHARNAME> prevalse, distruggendo i piani di Sarevok e salvando la Costa della Spada dal baratro della guerra. Ora Sarevok si è unito alla causa di <CHARNAME> e la sua lama gli è stata riconsegnata. Sarevok la descrive come l'arma di un Latore di Morte e ha ripristinato alcuni dei precedenti poteri della spada. Tuttavia, senza la sua essenza di progenie di Bhaal che scorre nella lama, non può raggiungere il potere che un tempo aveva. Resta comunque un'arma formidabile... una che secondo Sarevok sarebbe difficile da brandire da chi non è mai stato un Latore di Morte, se non del tutto impossibile.
+@3001 = ~La spada di Sarevok, il fratello di <CHARNAME>, usata nella battaglia combattuta nella lontana Baldur's Gate. <CHARNAME> prevalse, distruggendo i piani di Sarevok e salvando la Costa della Spada dal baratro della guerra. Ora Sarevok si Ã¨ unito alla causa di <CHARNAME> e la sua lama gli Ã¨ stata riconsegnata. Sarevok la descrive come l'arma di un Latore di Morte e ha ripristinato alcuni dei precedenti poteri della spada. Tuttavia, senza la sua essenza di progenie di Bhaal che scorre nella lama, non puÃ² raggiungere il potere che un tempo aveva. Resta comunque un'arma formidabile... una che secondo Sarevok sarebbe difficile da brandire da chi non Ã¨ mai stato un Latore di Morte, se non del tutto impossibile.
 
 STATISTICHE:
 
-Abilità in combattimento:
-- Ogni colpo messo a segno risucchia 1-5 Punti Ferita dal bersaglio e li trasferisce in chi brandisce l'arma. Non è possibile superare i Punti Ferita Massimi del personaggio.
+AbilitÃ  in combattimento:
+- Ogni colpo messo a segno risucchia 1-5 Punti Ferita dal bersaglio e li trasferisce in chi brandisce l'arma. Non Ã¨ possibile superare i Punti Ferita Massimi del personaggio.
 
-Abilità durante l'uso:
+AbilitÃ  durante l'uso:
 - Resistenza alla Magia: +10%
 
 THAC0: +4
 Danno: 1d10+4 (tagliente)
-Fattore-velocità: 8
+Fattore-velocitÃ : 8
 Tipo di Competenza: Spade a Due Mani
 Tipo: A due mani
 
@@ -179,4 +179,4 @@ Ranger
 Druido
 Allineamenti Non Caotici~
 @3002 = ~Pozione di Sendai~
-@3003 = ~Forse un infuso realizzato da Sendai in persona, questa è una pozione di guarigione incredibilmente potente capace di ripristinare i Punti Ferita di chi la usa.~
+@3003 = ~Forse un infuso realizzato da Sendai in persona, questa Ã¨ una pozione di guarigione incredibilmente potente capace di ripristinare i Punti Ferita di chi la usa.~
