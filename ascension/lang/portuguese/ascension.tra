@@ -1,171 +1,171 @@
 @500 = ~Babau~
 @1003 = ~Transformar em Morcego~
 @1006 = ~Onda de Choque~
-@1007 = ~Aura do Relâmpago~
+@1007 = ~Aura do RelÃ¢mpago~
 @1009 = ~Telecinesia~
-@1012 = ~Inverter Resistências~
-@1013 = ~Controle de Demônio~
+@1012 = ~Inverter ResistÃªncias~
+@1013 = ~Controle de DemÃ´nio~
 @1014 = ~Foco~
 @1016 = ~Manto Divino~
 @1017 = ~Obter Poder~
-@1018 = ~Escudo de Feitiços Divinos~
-@1019 = ~Comandar Demônio~
+@1018 = ~Escudo de FeitiÃ§os Divinos~
+@1019 = ~Comandar DemÃ´nio~
 @1020 = ~Banir~
 @1022 = ~Soltar~
-@1024 = ~Regeneração~
-@1025 = ~Restauração Divina~
+@1024 = ~RegeneraÃ§Ã£o~
+@1025 = ~RestauraÃ§Ã£o Divina~
 @1026 = ~Limpeza Divina~
 @1027 = ~Aura de Paralisia~
 @1029 = ~Bomba de Lava~
-@1031 = ~Símbolo, Lento~
+@1031 = ~SÃ­mbolo, Lento~
 @1037 = ~Devastador~
 @1038 = ~Melissan: Comande os Agentes do Abismo~
-@1039 = ~Poderes da Descendência de Bhaal recebido: Imunidade à Drenagem de Níveis~
-@1040 = ~Poderes da Descendência de Bhaal recebido: 25% de resistência a danos físicos~
+@1039 = ~Poderes da DescendÃªncia de Bhaal recebido: Imunidade Ã  Drenagem de NÃ­veis~
+@1040 = ~Poderes da DescendÃªncia de Bhaal recebido: 25% de resistÃªncia a danos fÃ­sicos~
 @1041 = ~Parado~
 @1042 = ~Armas enfraquecidas pelo lodo do Babau~
 @1043 = ~Agarrado~
 @1044 = ~Recupera os poderes de Bhaal~
-@1045 = ~Você recuperou o controle por enquanto.~
-@1046 = ~Resistência Mágica reduzida em 5%~
-@1047 = ~Resistência Mágica reduzida em 5%~
+@1045 = ~VocÃª recuperou o controle por enquanto.~
+@1046 = ~ResistÃªncia MÃ¡gica reduzida em 5%~
+@1047 = ~ResistÃªncia MÃ¡gica reduzida em 5%~
 @1048 = ~Forma do Matador aprimorada~
-@1049 = ~O demônio se curva à sua vontade~
-@1050 = ~O demônio desafia sua vontade~
-@1051 = ~Esse poder afeta apenas demônios~
-@1052 = ~O demônio se curva à vontade de Melissan~
-@1053 = ~O demônio desafia a vontade de Melissan~
-@1054 = ~Poderes da Descendência de Bhaal recebido: Libertar~
-@1055 = ~Poderes da Descendência de Bhaal recebido: Imunidade à magia da morte~
-@1056 = ~Poderes da Descendência de Bhaal recebido: Imunidade aos efeitos vorpais~
-@1057 = ~Poderes da Descendência de Bhaal recebido: Porta Dimensional~
-@1058 = ~Poderes da Descendência de Bhaal recebido: Controle de Demônio~
-@1059 = ~Poderes da Descendência de Bhaal recebido: Imunidade a Labirinto e Aprisionamento~
-@1060 = ~Poderes da Descendência de Bhaal recebido: Foco~
-@1061 = ~Poderes da Descendência de Bhaal recebido: imunidade a Mancha do Matador~
+@1049 = ~O demÃ´nio se curva Ã  sua vontade~
+@1050 = ~O demÃ´nio desafia sua vontade~
+@1051 = ~Esse poder afeta apenas demÃ´nios~
+@1052 = ~O demÃ´nio se curva Ã  vontade de Melissan~
+@1053 = ~O demÃ´nio desafia a vontade de Melissan~
+@1054 = ~Poderes da DescendÃªncia de Bhaal recebido: Libertar~
+@1055 = ~Poderes da DescendÃªncia de Bhaal recebido: Imunidade Ã  magia da morte~
+@1056 = ~Poderes da DescendÃªncia de Bhaal recebido: Imunidade aos efeitos vorpais~
+@1057 = ~Poderes da DescendÃªncia de Bhaal recebido: Porta Dimensional~
+@1058 = ~Poderes da DescendÃªncia de Bhaal recebido: Controle de DemÃ´nio~
+@1059 = ~Poderes da DescendÃªncia de Bhaal recebido: Imunidade a Labirinto e Aprisionamento~
+@1060 = ~Poderes da DescendÃªncia de Bhaal recebido: Foco~
+@1061 = ~Poderes da DescendÃªncia de Bhaal recebido: imunidade a Mancha do Matador~
 @1062 = ~Presente Divino~
-@1063 = ~Resistência à Magia Restaurada~
-@1064 = ~Proteções Antimagicas Removidas~
-@1065 = ~Proteções de Combate Removidas~
+@1063 = ~ResistÃªncia Ã  Magia Restaurada~
+@1064 = ~ProteÃ§Ãµes Antimagicas Removidas~
+@1065 = ~ProteÃ§Ãµes de Combate Removidas~
 @1066 = ~IA desativada~
 @1067 = ~IA ativada~
-@1068 = ~Maldição Lunar~
-@2000 = ~Poderes da Descendência de Bhaal
+@1068 = ~MaldiÃ§Ã£o Lunar~
+@2000 = ~Poderes da DescendÃªncia de Bhaal
 
-<CHARNAME> ganhou a habilidade, utilizável uma vez por dia:
+<CHARNAME> ganhou a habilidade, utilizÃ¡vel uma vez por dia:
 
 Cura em Massa (Necromancia)
-Alcance: Visão do lançador
-Duração: Permanente
-Tempo de Lançamento: 1
-Área de Efeito: Raio de 9 metros
+Alcance: VisÃ£o do lanÃ§ador
+DuraÃ§Ã£o: Permanente
+Tempo de LanÃ§amento: 1
+Ãrea de Efeito: Raio de 9 metros
 Salvaguarda: Nenhuma
 
-Quando lança este feitiço, o filho de Bhaal precisa pensar claramente nas faces de seus colegas de grupo e enfocar a unidade da equipe. Quando terminado, todos os membros do grupo num raio de 9 metros do lançador recebem 2d8 + 2/nível pontos de vida. Outras aflições que a equipe esteja sofrendo também serão curadas: fadiga, veneno, doença, cegueira e surdez.~
-@2001 = ~Poderes da Descendência de Bhaal
+Quando lanÃ§a este feitiÃ§o, o filho de Bhaal precisa pensar claramente nas faces de seus colegas de grupo e enfocar a unidade da equipe. Quando terminado, todos os membros do grupo num raio de 9 metros do lanÃ§ador recebem 2d8 + 2/nÃ­vel pontos de vida. Outras afliÃ§Ãµes que a equipe esteja sofrendo tambÃ©m serÃ£o curadas: fadiga, veneno, doenÃ§a, cegueira e surdez.~
+@2001 = ~Poderes da DescendÃªncia de Bhaal
 
-<CHARNAME> ganhou a habilidade, utilizável uma vez por dia:
+<CHARNAME> ganhou a habilidade, utilizÃ¡vel uma vez por dia:
 
-Regeneração (Necromancia)
+RegeneraÃ§Ã£o (Necromancia)
 Alcance: Toque
-Duração: 1 rodada/2 níveis
-Tempo de Lançamento: 7
-Área de Efeito: Criatura tocada
+DuraÃ§Ã£o: 1 rodada/2 nÃ­veis
+Tempo de LanÃ§amento: 7
+Ãrea de Efeito: Criatura tocada
 Salvaguarda: Nenhuma
 
-Este poderoso feitiço permite que o filho de Bhaal dê a uma criatura a habilidade de regenerar. Esta regeneração curará qualquer ferimento e até regenerará membros perdidos. A criatura afetada recuperará 3 pontos de vida por segundo. O efeito dura 1 rodada por cada 2 níveis do lançador ou até que seja dissipado. Por exemplo, um sacerdote de nível 14 regeneraria 18 pontos de vida por rodada durante 7 rodadas.~
-@2002 = ~Poderes da Descendência de Bhaal
+Este poderoso feitiÃ§o permite que o filho de Bhaal dÃª a uma criatura a habilidade de regenerar. Esta regeneraÃ§Ã£o curarÃ¡ qualquer ferimento e atÃ© regenerarÃ¡ membros perdidos. A criatura afetada recuperarÃ¡ 3 pontos de vida por segundo. O efeito dura 1 rodada por cada 2 nÃ­veis do lanÃ§ador ou atÃ© que seja dissipado. Por exemplo, um sacerdote de nÃ­vel 14 regeneraria 18 pontos de vida por rodada durante 7 rodadas.~
+@2002 = ~Poderes da DescendÃªncia de Bhaal
 
-<CHARNAME> ganhou a habilidade, utilizável uma vez por dia:
+<CHARNAME> ganhou a habilidade, utilizÃ¡vel uma vez por dia:
 
-Utilizar Poder Sagrado (Invocação)
-Alcance: Lançador
-Duração: 1 turno
-Tempo de Lançamento: 1
-Área de Efeito: Lançador
+Utilizar Poder Sagrado (InvocaÃ§Ã£o)
+Alcance: LanÃ§ador
+DuraÃ§Ã£o: 1 turno
+Tempo de LanÃ§amento: 1
+Ãrea de Efeito: LanÃ§ador
 Salvaguarda: Nenhuma
 
-O filho de Bhaal convoca o poder de seu sangue para receber poder por um curto periodo. Quando ele o faz, sua força, constituição e destreza aumentam 1 ponto para cada 3 níveis do lançador. Um lançador de nível 3 receberia 1 ponto a mais para suas habilidades, enquanto um de nível 12 receberia 4 pontos a mais.~
-@2003 = ~Poderes da Descendência de Bhaal
+O filho de Bhaal convoca o poder de seu sangue para receber poder por um curto periodo. Quando ele o faz, sua forÃ§a, constituiÃ§Ã£o e destreza aumentam 1 ponto para cada 3 nÃ­veis do lanÃ§ador. Um lanÃ§ador de nÃ­vel 3 receberia 1 ponto a mais para suas habilidades, enquanto um de nÃ­vel 12 receberia 4 pontos a mais.~
+@2003 = ~Poderes da DescendÃªncia de Bhaal
 
-<CHARNAME> ganhou a habilidade, utilizável uma vez por dia:
+<CHARNAME> ganhou a habilidade, utilizÃ¡vel uma vez por dia:
 
 Mancha Negra (Necromancia)
 Alcance: 7m
-Duração: 1 turno
-Tempo de Lançamento: 1
-Área de Efeito: 1 criatura
+DuraÃ§Ã£o: 1 turno
+Tempo de LanÃ§amento: 1
+Ãrea de Efeito: 1 criatura
 Salvaguarda: Anula
 
-Através deste feitiço, o filho de Bhaal pode expelir a mancha de seu pai maligno numa vítima, envenenando aqueles que fracassarem em uma salvaguarda contra a morte. Os efeitos dependem do nível do lançador e estão detalhados abaixo:
-Níveis 7-9: dano 2d8+2/rodada, diminuir velocidade por 12 segundos, salvaguarda -2
-Níveis 10-12: dano 3d8+3/rodada, diminuir velocidade por 12 segundos, salvaguarda -2
-Níveis 13-14: dano 4d8+4/rodada, diminuir velocidade por 12 segundos, salvaguarda -2
-Níveis 15-16: dano 6d8+5/rodada, diminuir velocidade por 24 segundos, salvaguarda -2
-Níveis 17-21: dano 8d8+6/rodada, diminuir velocidade por 24 segundos, salvaguarda -4
-Níveis 25: dano 8d8+6/rodada, diminuir velocidade por 36 segundos, salvaguarda -4, afeta grupo de alvos~
-@2004 = ~Poderes da Descendência de Bhaal
+AtravÃ©s deste feitiÃ§o, o filho de Bhaal pode expelir a mancha de seu pai maligno numa vÃ­tima, envenenando aqueles que fracassarem em uma salvaguarda contra a morte. Os efeitos dependem do nÃ­vel do lanÃ§ador e estÃ£o detalhados abaixo:
+NÃ­veis 7-9: dano 2d8+2/rodada, diminuir velocidade por 12 segundos, salvaguarda -2
+NÃ­veis 10-12: dano 3d8+3/rodada, diminuir velocidade por 12 segundos, salvaguarda -2
+NÃ­veis 13-14: dano 4d8+4/rodada, diminuir velocidade por 12 segundos, salvaguarda -2
+NÃ­veis 15-16: dano 6d8+5/rodada, diminuir velocidade por 24 segundos, salvaguarda -2
+NÃ­veis 17-21: dano 8d8+6/rodada, diminuir velocidade por 24 segundos, salvaguarda -4
+NÃ­veis 25: dano 8d8+6/rodada, diminuir velocidade por 36 segundos, salvaguarda -4, afeta grupo de alvos~
+@2004 = ~Poderes da DescendÃªncia de Bhaal
 
-<CHARNAME> ganhou proteção contra o plano negativo permanente (ou seja, <CHARNAME> não pode ter su nível drenado) e 5% de resistência mágica.~
-@2005 = ~Poderes da Descendência de Bhaal
+<CHARNAME> ganhou proteÃ§Ã£o contra o plano negativo permanente (ou seja, <CHARNAME> nÃ£o pode ter su nÃ­vel drenado) e 5% de resistÃªncia mÃ¡gica.~
+@2005 = ~Poderes da DescendÃªncia de Bhaal
 
-<CHARNAME> ganhou a habilidade, utilizável uma vez por dia:
+<CHARNAME> ganhou a habilidade, utilizÃ¡vel uma vez por dia:
 
-Mão do Assassinato (Necromancia)
-Alcance: Lançador
-Duração: 1 rodada/5 níveis
-Tempo de Lançamento: 1
+MÃ£o do Assassinato (Necromancia)
+Alcance: LanÃ§ador
+DuraÃ§Ã£o: 1 rodada/5 nÃ­veis
+Tempo de LanÃ§amento: 1
 Salvaguarda: Nenhuma
 
-Quando o filho de Bhaal invoca este poder, ele imediatamente causa mais danos a seus adversários com qualquer arma de combate corpo-a-corpo que ele deseje, canalizando sua energia negra por sua arma... e absorvendo o dano para se curar.
-Os efeitos variam pelo nível:
+Quando o filho de Bhaal invoca este poder, ele imediatamente causa mais danos a seus adversÃ¡rios com qualquer arma de combate corpo-a-corpo que ele deseje, canalizando sua energia negra por sua arma... e absorvendo o dano para se curar.
+Os efeitos variam pelo nÃ­vel:
 10: 2 rodadas, dano extra de 4PV, cura 4PV
 15: 3 rodadas, dano extra de 6PV, cura 6PV
 20: 4 rodadas, dano extra de 8PV, cura 8PV
 25: 5 rodadas, dano extra de 10PV, cura 10PV
 30: 6 rodadas, dano extra de 12PV, cura 12PV~
-@2006 = ~Poderes da Descendência de Bhaal
+@2006 = ~Poderes da DescendÃªncia de Bhaal
 
-<CHARNAME> ganhou a habilidade, utilizável uma vez por dia:
+<CHARNAME> ganhou a habilidade, utilizÃ¡vel uma vez por dia:
 
-Ressurreição (Necromancia)
+RessurreiÃ§Ã£o (Necromancia)
 Alcance: Toque
-Duração: Permanente
-Tempo de Lançamento: 1 turno
-Área de Efeito: Criatura tocada
+DuraÃ§Ã£o: Permanente
+Tempo de LanÃ§amento: 1 turno
+Ãrea de Efeito: Criatura tocada
 Salvaguarda: Nenhuma
 
-Como o feitiço de nível 5 Levantar os Mortos, o feitiço Ressurreição traz um personagem de volta a vida. Além disso, ele também cura o personagem, para que ele esteja pronto para voltar à vida de aventureiro.~
-@2007 = ~Poderes da Descendência de Bhaal
+Como o feitiÃ§o de nÃ­vel 5 Levantar os Mortos, o feitiÃ§o RessurreiÃ§Ã£o traz um personagem de volta a vida. AlÃ©m disso, ele tambÃ©m cura o personagem, para que ele esteja pronto para voltar Ã  vida de aventureiro.~
+@2007 = ~Poderes da DescendÃªncia de Bhaal
 
-<CHARNAME> ganhou 25% de resistência a dano físico (corte, perfuração, esmagamento e projéteis).~
+<CHARNAME> ganhou 25% de resistÃªncia a dano fÃ­sico (corte, perfuraÃ§Ã£o, esmagamento e projÃ©teis).~
 @2008 = ~Habilidade Melhoradas da Forma do Matador~
 @3000 = ~A Espada do Caos de Sarevok + 4~
-@3001 = ~A espada de Sarevok, irmão de <CHARNAME>, usada na batalha entre os dois na distante Portão de Baldur. <CHARNAME> venceu, destruindo os planos de Sarevok e salvando a Costa das Espadas da guerra iminente. Agora Sarevok se juntou à causa de <CHARNAME> e sua espada foi restaurada para ele. Sarevok chama a arma de Arauto da Morte e restaurou um pouco do antigo poder da arma. Sem a sua essência de Filho de Bhall para canalizar através da espada, ela não pode alcançar o poder que já teve. Ainda assim, no entanto, é uma arma formidável... e uma que Sarevok avisa se tornaria cada vez mais difícil de usar nas mãos de alguém que não era um Arauto da Morte, se pudesse usá-la.
+@3001 = ~A espada de Sarevok, irmÃ£o de <CHARNAME>, usada na batalha entre os dois na distante PortÃ£o de Baldur. <CHARNAME> venceu, destruindo os planos de Sarevok e salvando a Costa das Espadas da guerra iminente. Agora Sarevok se juntou Ã  causa de <CHARNAME> e sua espada foi restaurada para ele. Sarevok chama a arma de Arauto da Morte e restaurou um pouco do antigo poder da arma. Sem a sua essÃªncia de Filho de Bhall para canalizar atravÃ©s da espada, ela nÃ£o pode alcanÃ§ar o poder que jÃ¡ teve. Ainda assim, no entanto, Ã© uma arma formidÃ¡vel... e uma que Sarevok avisa se tornaria cada vez mais difÃ­cil de usar nas mÃ£os de alguÃ©m que nÃ£o era um Arauto da Morte, se pudesse usÃ¡-la.
 
-ESTATÍSTICAS:
+ESTATÃSTICAS:
 
 Habilidades de combate:
-- Cada golpe drena de um a cinco pontos de vida do alvo e o transfere para o usuário. Isto não dará pontos de vida além do máximo do portador.
+- Cada golpe drena de um a cinco pontos de vida do alvo e o transfere para o usuÃ¡rio. Isto nÃ£o darÃ¡ pontos de vida alÃ©m do mÃ¡ximo do portador.
 
 Habilidades equipadas:
-- Resistência à Magia: + 10%
+- ResistÃªncia Ã  Magia: + 10%
 
 Dano: 1D10 +4
-PACA0: bônus de +4
+PACA0: bÃ´nus de +4
 Tipo de Dano: Corte
 Fator de Velocidade: 8
-Tipo de Proficiência: Montante
-Tipo: Duas mãos
-Requer: 14 Força 14, 18 Constituição
+Tipo de ProficiÃªncia: Montante
+Tipo: Duas mÃ£os
+Requer: 14 ForÃ§a 14, 18 ConstituiÃ§Ã£o
 Peso: 10
-Não utilizável por:
-Clérigo
+NÃ£o utilizÃ¡vel por:
+ClÃ©rigo
 Mago
 Paladino
-Guardião
+GuardiÃ£o
 Druida
-Alinhamento não caótico~
-@3002 = ~Poção de Sendai~
-@3003 = ~Poção de Sendai
-Possivelmente uma mistura da própria Sendai, esta é uma poção de cura incrivelmente potente capaz de restaurar totalmente os pontos de vida de qualquer um que a use.~
+Alinhamento nÃ£o caÃ³tico~
+@3002 = ~PoÃ§Ã£o de Sendai~
+@3003 = ~PoÃ§Ã£o de Sendai
+Possivelmente uma mistura da prÃ³pria Sendai, esta Ã© uma poÃ§Ã£o de cura incrivelmente potente capaz de restaurar totalmente os pontos de vida de qualquer um que a use.~
