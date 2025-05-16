@@ -81,58 +81,41 @@ DEFINE_ACTION_FUNCTION handle_charsets_immutably
        RET     scs_tra_loc
     BEGIN
         ACTION_IF enhanced_edition BEGIN
+            // on EE, just set the tra loc
+            OUTER_SPRINT scs_tra_loc "%scsroot%/%tra_base%"
+        END ELSE BEGIN
             // do conversions (classic only)
             OUTER_INNER_PATCH_SAVE versionstring "%MOD_VERSION%"
             BEGIN
                 REPLACE_TEXTUALLY " " ""
             END
-            OUTER_SPRINT scs_tra_loc "%ext_lang_loc%"
-            OUTER_SPRINT marker_name "%marker_loc%/dw#%scsroot%_%versionstring%_languages_installed.mrk"
-            ACTION_IF (!FILE_EXISTS "%marker_name%" || force_tra_rebuild) BEGIN
-                COPY ".../stratagems-inline/blank" "%marker_name%"
-                MKDIR "%scs_tra_loc%/%LANGUAGE%"
-                ACTION_BASH_FOR "%scsroot%/%tra_base%/%LANGUAGE%" ".*\.tra" BEGIN
-                    COPY "%BASH_FOR_FILESPEC%" "%scs_tra_loc%/%LANGUAGE%"
-                END
-                ACTION_MATCH "%LANGUAGE%" WITH
-                "%base_language%" BEGIN END
-                DEFAULT
-                MKDIR "%scs_tra_loc%/%base_language%"
-                ACTION_BASH_FOR "%scsroot%/%tra_base%/%base_language%" ".*\.tra" BEGIN
-                    COPY "%BASH_FOR_FILESPEC%" "%scs_tra_loc%/%base_language%"
-                END
+        OUTER_SPRINT scs_tra_loc "%ext_lang_loc%"
+        OUTER_SPRINT marker_name "%marker_loc%/dw#%scsroot%_%versionstring%_languages_installed.mrk"
+        ACTION_IF (!FILE_EXISTS "%marker_name%" || force_tra_rebuild) BEGIN
+            COPY ".../stratagems-inline/blank" "%marker_name%"
+            MKDIR "%scs_tra_loc%/%LANGUAGE%"
+            ACTION_BASH_FOR "%scsroot%/%tra_base%/%LANGUAGE%" ".*\.tra" BEGIN
+                COPY "%BASH_FOR_FILESPEC%" "%scs_tra_loc%/%LANGUAGE%"
             END
-            // guess iconv path if not given
-            ACTION_IF "%iconv_path%" STRING_EQUAL_CASE "" BEGIN
-                OUTER_SPRINT iconv_path "%scsroot%/%tra_base%/iconv"
+            ACTION_MATCH "%LANGUAGE%" WITH
+            "%base_language%" BEGIN END
+            DEFAULT
+            MKDIR "%scs_tra_loc%/%base_language%"
+            ACTION_BASH_FOR "%scsroot%/%tra_base%/%base_language%" ".*\.tra" BEGIN
+                COPY "%BASH_FOR_FILESPEC%" "%scs_tra_loc%/%base_language%"
             END
-
-            ACTION_DEFINE_ASSOCIATIVE_ARRAY charset_table  BEGIN
-                czech      => cp1250
-                english    => cp1252
-                french     => cp1252
-                german     => cp1252
-                italian    => cp1252
-                japanese   => cp932
-                polish     => cp1250
-                portuguese => cp1252
-                russian    => cp1251
-                schinese   => cp936
-                spanish    => cp1252
-                swedish    => cp1252
-                tchinese   => cp950
+          END
+          // guess iconv path if not given
+          ACTION_IF "%iconv_path%" STRING_EQUAL_CASE "" BEGIN
+             OUTER_SPRINT iconv_path "%scsroot%/%tra_base%/iconv"
+          END
+          LAF HANDLE_CHARSETS
+            INT_VAR
+                from_utf8 = 1
+                infer_charsets = 1
+            STR_VAR
+                iconv_path tra_path = ~%scs_tra_loc%~
             END
-            LAF HANDLE_CHARSETS
-                INT_VAR
-                    from_utf8 = 0 // when changing to 1, uncomment required lines .bgforge.yml
-                    infer_charsets = 0
-                STR_VAR
-                    iconv_path tra_path = ~%scs_tra_loc%~
-                    charset_table = charset_table
-            END
-        END ELSE BEGIN
-            // on EE, just set the tra loc
-            OUTER_SPRINT scs_tra_loc "%scsroot%/%tra_base%"
         END
     END
 END
