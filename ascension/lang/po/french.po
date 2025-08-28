@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-05-12:34+0000\n"
-"PO-Revision-Date: 2025-06-10 06:22+0000\n"
+"PO-Revision-Date: 2025-08-28 21:48+0000\n"
 "Last-Translator: RiwsPy <t.debruyne@protonmail.com>\n"
 "Language-Team: French <https://tra.bgforge.net/projects/infinity-engine/"
 "ascension/fr/>\n"
@@ -925,7 +925,6 @@ msgstr ""
 "son jeu."
 
 #: balth.tra:1110
-#, fuzzy
 msgid "I don't know, Balthazar. But I don't want to fight you."
 msgstr "Je ne sais pas, Balthazar. Mais je ne veux pas vous combattre."
 
@@ -2756,7 +2755,6 @@ msgid "Another challenge. Alright, alright... let's just get this over with."
 msgstr "Un autre défi. Bien, bien... finissons-en avec ça."
 
 #: dream_solar.tra:246
-#, fuzzy
 msgid "You do not yet understand. But all shall become clear."
 msgstr "Tu ne comprends pas encore tout. Mais tout finira par devenir clair."
 
@@ -3552,7 +3550,6 @@ msgstr ""
 "Accommode-t'en, fillette. Je ne t'ai jamais demandé de venir, je me trompe ?"
 
 #: imoen_after.tra:481
-#, fuzzy
 msgid ""
 "We don't have time for this chat, Imoen! This is the middle of a fight!"
 msgstr ""
@@ -3676,7 +3673,6 @@ msgstr ""
 "jusqu'au bout, tout comme toi."
 
 #: imoen_after.tra:494
-#, fuzzy
 msgid ""
 "Stop distracting me in the middle of combat, already! Get back in the party!"
 msgstr ""
@@ -6182,7 +6178,6 @@ msgstr ""
 "Je ne peux pas affirmer que ce soit une bonne chose ou non... mais ma capacité à contrôler ma transformation a progressé jusqu'au point où je peux désormais devenir le Ravageur... facultativement. Bien qu'incroyablement puissant, le Ravageur reçoit la moitié des dégâts de la plupart des attaques, est immunisé à toute sorte d'immobilisation ou de dévorement tel que celui des dragons. Le Ravageur m'est difficile à contrôler et peut être un danger pour les gens à proximité."
 
 #: slayer_dialog.tra:317
-#, fuzzy
 msgid "I choose to turn into the Ravager."
 msgstr "Je choisis de devenir le Ravageur."
 
