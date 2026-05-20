@@ -53,9 +53,8 @@
 @2000 = ~Pouvoirs de l'enfant de Bhaal
 
 <CHARNAME> a acquis la capacité, utilisable une fois par jour :
-Soin de masse
-(Nécromancie)
 
+Soin de masse (Nécromancie)
 Portée : champ visuel du lanceur
 Durée : permanente 
 Temps d'incantation : 1
@@ -66,9 +65,8 @@ Lorsqu'il utilise cette capacité, l'enfant de Bhaal doit se concentrer sur les 
 @2001 = ~Pouvoirs de l'enfant de Bhaal
 
 <CHARNAME> a acquis la capacité, utilisable une fois par jour :
-Régénération
-(Nécromancie)
 
+Régénération (Nécromancie)
 Portée : contact
 Durée : 1 round par tranche de 2 niveaux
 Temps d'incantation : 7
@@ -79,9 +77,8 @@ Cette puissante capacité permet à l'enfant de Bhaal de prodiguer à une créat
 @2002 = ~Pouvoirs de l'enfant de Bhaal
 
 <CHARNAME> a acquis la capacité, utilisable une fois par jour :
-Puiser dans la puissance divine
-(Invocation)
 
+Puiser dans la puissance divine (Invocation)
 Portée : 0 
 Durée : 1 tour
 Temps d'incantation : 1
@@ -92,9 +89,8 @@ L'enfant de Bhaal puise dans le pouvoir de son essence divine pour augmenter ses
 @2003 = ~Pouvoirs de l'enfant de Bhaal
 
 <CHARNAME> a acquis la capacité, utilisable une fois par jour :
-Souffle de Bhaal
-(Nécromancie)
 
+Souffle de Bhaal (Nécromancie)
 Portée : 6 mètres
 Durée : 1 tour
 Temps d'incantation : 1
@@ -115,15 +111,15 @@ Niveau 25 et plus : 8d8 +6 / round, lenteur pendant 36 secondes, -4 au jet de sa
 @2005 = ~Pouvoirs de l'enfant de Bhaal
 
 <CHARNAME> a acquis la capacité, utilisable une fois par jour : 
-Main de Bhaal
-(Nécromancie)
 
+Main de Bhaal (Nécromancie)
 Portée : le lanceur
 Durée : 1 round par tranche de 5 niveaux
 Temps d'incantation : 1
 Jet de sauvegarde : aucun 
 
-Cette capacité permet à l'enfant de Bhaal d'infliger des dégâts supplémentaires en mêlée avec l'arme de son choix (mains nues, épée, etc.) et d'absorber une partie de l'énergie vitale volée à la cible. L'effet varie en fonction du niveau du lanceur :
+Cette capacité permet à l'enfant de Bhaal d'infliger des dégâts supplémentaires en mêlée avec l'arme de son choix (mains nues, épée, etc.) et d'absorber une partie de l'énergie vitale volée à la cible.
+L'effet varie en fonction du niveau du lanceur :
 Niveau 10 : 2 rounds, 4 points de dégâts supplémentaires, 4 points de vie guéris
 Niveau 15 : 3 rounds, 6 points de dégâts supplémentaires, 6 points de vie guéris
 Niveau 20 : 4 rounds, 8 points de dégâts supplémentaires, 8 points de vie guéris
@@ -132,9 +128,8 @@ Niveau 30 : 6 rounds, 12 points de dégâts supplémentaires, 12 points de vie g
 @2006 = ~Pouvoirs de l'enfant de Bhaal
 
 <CHARNAME> a acquis la capacité, utilisable une fois par jour :
-Résurrection
-(Nécromancie)
 
+Résurrection (Nécromancie)
 Portée : contact
 Durée : permanente
 Temps d'incantation : 1
@@ -165,6 +160,7 @@ Facteur de vitesse : 8
 Type de compétence : épée à deux mains
 Type : armes à 2 mains
 Nécessite : 14 en Force, 18 en Constitution
+
 Inutilisable par :
  Clerc
  Mage
