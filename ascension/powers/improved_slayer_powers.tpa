@@ -38,7 +38,7 @@ DEFINE_ACTION_FUNCTION slayer_powers_main BEGIN
      ACTION_IF cd_eefp_installed BEGIN 
      
        COPY_EXISTING "%SLAYER_CHANGE_TWO%.spl" "override/slayer%number%.spl"
-         LPF ALTER_EFFECT STR_VAR match_resource = EVAL ~%SLAYER_CHANGE_TWO%a~ resource="finslay%number%" END
+         LPF ALTER_EFFECT STR_VAR match_resource = EVAL ~%SLAYER_CHANGE_TWO%a~ resource="slayer%number%a" END
          
        COPY_EXISTING "%SLAYER_CHANGE_TWO%a.spl" "override/slayer%number%a.spl"
          LPF ALTER_EFFECT INT_VAR match_opcode=111 STR_VAR resource="finslay%number%" END
