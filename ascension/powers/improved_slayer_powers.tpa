@@ -38,7 +38,7 @@ DEFINE_ACTION_FUNCTION slayer_powers_main BEGIN
      ACTION_IF cd_eefp_installed BEGIN 
      
        COPY_EXISTING "%SLAYER_CHANGE_TWO%.spl" "override/slayer%number%.spl"
-         LPF ALTER_EFFECT STR_VAR match_resource = EVAL ~%SLAYER_CHANGE_TWO%a~ resource="finslay%number%" END
+         LPF ALTER_EFFECT STR_VAR match_resource = EVAL ~%SLAYER_CHANGE_TWO%a~ resource="slayer%number%a" END
          
        COPY_EXISTING "%SLAYER_CHANGE_TWO%a.spl" "override/slayer%number%a.spl"
          LPF ALTER_EFFECT INT_VAR match_opcode=111 STR_VAR resource="finslay%number%" END
@@ -60,6 +60,21 @@ DEFINE_ACTION_FUNCTION slayer_powers_main BEGIN
           LPF CLONE_EFFECT INT_VAR match_opcode=321 STR_VAR match_resource="%SLAYER_CHANGE_TWO%" resource=slayer3 END
           LPF CLONE_EFFECT INT_VAR match_opcode=321 STR_VAR match_resource="%SLAYER_CHANGE_TWO%" resource=slayer4 END
      BUT_ONLY
+
+     ACTION_IF cd_eefp_installed BEGIN
+       // EEFP's universal Natural Form spell removes Slayer effects through SPINHUMS.EFF.
+       // Clone that protected removal for each of Ascension's derived transformation spells.
+       ACTION_FOR_EACH number IN 2 3 4 BEGIN
+         COPY_EXISTING "spinhums.eff" "override/finslr%number%.eff"
+           WRITE_ASCIIE 0x30 ~slayer%number%~ #8
+         BUT_ONLY
+       END
+       COPY_EXISTING "spinhumr.spl" override
+         LPF ADD_SPELL_EFFECT INT_VAR opcode=177 target=2 parameter2=2 timing=1 STR_VAR resource=finslr2 END
+         LPF ADD_SPELL_EFFECT INT_VAR opcode=177 target=2 parameter2=2 timing=1 STR_VAR resource=finslr3 END
+         LPF ADD_SPELL_EFFECT INT_VAR opcode=177 target=2 parameter2=2 timing=1 STR_VAR resource=finslr4 END
+       BUT_ONLY
+     END
    END
 
    /////////////////////////////////////////////////////////////
@@ -556,20 +571,23 @@ DEFINE_ACTION_FUNCTION slayer_upgrade_documentation BEGIN
    // make the individual granting powers
    LAF create_basic_spell STR_VAR spell=finslg1 END
    COPY_EXISTING finslg1.spl override
+       // Normalize the innate to one copy before granting it. This also repairs duplicate uses
+       // introduced by hardcoded/game-script grants without changing the intended cooldown.
+       LPF ADD_SPELL_EFFECT INT_VAR opcode=172 target=2 timing=1 insert_point=0 STR_VAR resource="%SLAYER_START%" END
        LPF ADD_SPELL_EFFECT INT_VAR opcode=171 target=2 timing=1 STR_VAR resource="%SLAYER_START%" END
        LPF ADD_SPELL_EFFECT INT_VAR opcode=265 target=2 timing=1 parameter1=1 STR_VAR resource=FINGRANT END
    BUT_ONLY
    COPY_EXISTING finslg1.spl "override/finslg2.spl"
        LPF ALTER_EFFECT INT_VAR match_opcode=171 STR_VAR resource=finsls2 END
-       LPF ADD_SPELL_EFFECT INT_VAR opcode=172 target=2 timing=1 STR_VAR resource="%SLAYER_START%" END // remove power 1
+       LPF ADD_SPELL_EFFECT INT_VAR opcode=172 target=2 timing=1 insert_point=0 STR_VAR resource=finsls2 END
    BUT_ONLY
    COPY_EXISTING finslg2.spl "override/finslg3.spl"
        LPF ALTER_EFFECT INT_VAR match_opcode=171 STR_VAR resource=finsls3 END
-       LPF ADD_SPELL_EFFECT INT_VAR opcode=172 target=2 timing=1 STR_VAR resource="finsls2" END // remove power 2
+       LPF ADD_SPELL_EFFECT INT_VAR opcode=172 target=2 timing=1 insert_point=0 STR_VAR resource=finsls3 END
    BUT_ONLY
    COPY_EXISTING finslg3.spl "override/finslg4.spl"
        LPF ALTER_EFFECT INT_VAR match_opcode=171 STR_VAR resource=finsls4 END
-       LPF ADD_SPELL_EFFECT INT_VAR opcode=172 target=2 timing=1 STR_VAR resource="finsls3" END // remove power 3
+       LPF ADD_SPELL_EFFECT INT_VAR opcode=172 target=2 timing=1 insert_point=0 STR_VAR resource=finsls4 END
    BUT_ONLY
    // get an 'XP <' splprot entry
    LAF resolve_splprot_entry INT_VAR stat=44 value="-1" STR_VAR relation=greater_than RET splprot_num=value END

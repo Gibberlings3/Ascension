@@ -4,7 +4,7 @@ IF
   HaveSpellParty(SLAYER_START)
 THEN
     RESPONSE #100
-        ActionOverride(Player1,RemoveSpell(SLAYER_START)
+        ActionOverride(Player1,RemoveSpell(SLAYER_START))
         Continue()
 END
 
